@@ -1,0 +1,52 @@
+name: Release
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'database/**'
+
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'database/**'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Create release file
+        run: |
+          rm -rf release/
+          mkdir release
+          zip -r release/timetable.zip database
+
+      - name: Generate hash
+        run: |
+          hash_value = hash_file(releaes/timetable.zip)
+          echo $hash_value > release/hash.txt
+
+      - name: Set up Git
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'github@github.com'
+
+      - name: Commit and push if changes detected
+        if: github.ref == 'refs/heads/main'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git add .
+          git commit -m "Automated commit message"
+          git push origin main
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: timetable-database
+          path: timetable.zip
