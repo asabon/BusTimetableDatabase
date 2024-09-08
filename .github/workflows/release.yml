@@ -33,7 +33,8 @@ jobs:
       - name: Generate hash
         run: |
           HASH=$(hash_file(release/timetable.zip))
-          echo $HASH > release/hash.txt
+          echo "HASH=$HASH" >> $GITHUB_ENV
+          echo "${{ env.HASH }}" > release/hash.txt
           ls -al .
           ls -al release
 
