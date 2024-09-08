@@ -1,0 +1,16 @@
+{
+  "date": "2020/09/05",
+  "name": "町田バスセンター",
+  "position": "13番のりば",
+  "system": "町63",
+  "destinations": [
+    "上宿"
+  ],
+  "weekday": [
+    "23:26"
+  ],
+  "saturday": [
+  ],
+  "holiday": [
+  ]
+}
