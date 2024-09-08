@@ -27,11 +27,15 @@ jobs:
           rm -rf release/
           mkdir release
           zip -r release/timetable.zip database
+          ls -al .
+          ls -al release
 
       - name: Generate hash
         run: |
-          hash_value = hash_file(release/timetable.zip)
-          echo $hash_value > release/hash.txt
+          HASH=$(hash_file(release/timetable.zip))
+          echo $HASH > release/hash.txt
+          ls -al .
+          ls -al release
 
       - name: Set up Git
         run: |
