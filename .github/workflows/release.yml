@@ -6,12 +6,14 @@ on:
       - main
     paths:
       - 'database/**'
+      - '.github/workflows/*.yml'
 
   pull_request:
     branches:
       - main
     paths:
       - 'database/**'
+      - '.github/workflows/*.yml'
 
 jobs:
   release:
@@ -28,7 +30,7 @@ jobs:
 
       - name: Generate hash
         run: |
-          hash_value = hash_file(releaes/timetable.zip)
+          hash_value = hash_file(release/timetable.zip)
           echo $hash_value > release/hash.txt
 
       - name: Set up Git
