@@ -20,18 +20,26 @@ jobs:
         with:
           python-version: '3.10'
 
+      - name: Get old hash
+        run: |
+          OLD_HASH=$(cat release/hash.txt)
+          echo "OLD_HASH=$OLD_HASH" >> $GITHUB_ENV
+
+      - name: Generate new hash
+        run: |
+          HASH=$(python -c "from script.hash import hash_directory; print(hash_directory('database'))")
+          echo "NEW_HASH=$HASH" >> $GITHUB_ENV
+
       - name: Create release file
+        if: env.OLD_HASH != env.NEW_HASH
         run: |
           rm -rf release/
           mkdir release
           zip -r release/timetable.zip database
-
-      - name: Generate hash
-        run: |
-          HASH=$(python -c "from script.hash import hash_file; print(hash_file('release/timetable.zip'))")
-          echo "$HASH" > release/hash.txt
+          echo "${{ env.NEW_HASH }}" > release/hash.txt
 
       - name: Create pull request
+        if: env.OLD_HASH != env.NEW_HASH
         uses: peter-evans/create-pull-request@v7
         with:
           commit-message: "Automated changes"
@@ -41,6 +49,7 @@ jobs:
           add-paths: "release"
 
       - name: Upload artifact
+        if: env.OLD_HASH != env.NEW_HASH
         uses: actions/upload-artifact@v4
         with:
           name: timetable-database
