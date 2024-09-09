@@ -24,11 +24,13 @@ jobs:
         run: |
           OLD_HASH=$(cat release/hash.txt)
           echo "OLD_HASH=$OLD_HASH" >> $GITHUB_ENV
+          echo "OLD_HASH=<$OLD_HASH>"
 
       - name: Generate new hash
         run: |
           HASH=$(python -c "from script.hash import hash_directory; print(hash_directory('database'))")
           echo "NEW_HASH=$HASH" >> $GITHUB_ENV
+          echo "NEW_HASH=<$NEW_HASH>"
 
       - name: Create release file
         if: env.OLD_HASH != env.NEW_HASH
