@@ -37,7 +37,7 @@ jobs:
 
       - name: Generate hash
         run: |
-          HASH=$(python -c "from script.hash import hash_file; print(hash_file(release/timetable.zip))")
+          HASH=$(python -c "from script.hash import hash_file; print(hash_file('release/timetable.zip'))")
           echo "$HASH" > release/hash.txt
           ls -al .
           ls -al release
