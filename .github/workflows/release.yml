@@ -38,6 +38,7 @@ jobs:
           title: "Release"
           body: "Release"
           branch: "release"
+          add-paths: "release"
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
