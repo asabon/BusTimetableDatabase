@@ -32,15 +32,11 @@ jobs:
           rm -rf release/
           mkdir release
           zip -r release/timetable.zip database
-          ls -al .
-          ls -al release
 
       - name: Generate hash
         run: |
           HASH=$(python -c "from script.hash import hash_file; print(hash_file('release/timetable.zip'))")
           echo "$HASH" > release/hash.txt
-          ls -al .
-          ls -al release
 
       - name: Set up Git
         run: |
@@ -60,4 +56,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: timetable-database
-          path: timetable.zip
+          path: release/
