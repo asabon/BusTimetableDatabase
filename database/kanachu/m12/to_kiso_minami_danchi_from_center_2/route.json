@@ -3,12 +3,8 @@
     "destination": "木曽南団地",
     "stations": [
         {
-            "name": "町田ターミナル",
-            "file": ""
-        },
-        {
             "name": "町田バスセンター",
-            "file": "02_machida_bus_center_2.json"
+            "file": "01_machida_bus_center_2.json"
         },
         {
             "name": "町田市役所市民ホール前",

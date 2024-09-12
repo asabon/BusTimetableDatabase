@@ -3,6 +3,10 @@
         {
             "name": "町12",
             "directory": "m12"
+        },
+        {
+            "name": "町15",
+            "directory": "m15"
         }
     ]
 }

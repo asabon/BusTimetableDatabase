@@ -1,0 +1,16 @@
+{
+  "date": "2024/07/08",
+  "name": "町田バスセンター",
+  "position": "5番のりば",
+  "system": "町15",
+  "destinations": [
+    "境川団地"
+  ],
+  "weekday": [
+    "8:12", "8:44"
+  ],
+  "saturday": [
+  ],
+  "holiday": [
+  ]
+}
