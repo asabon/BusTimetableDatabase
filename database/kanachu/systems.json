@@ -11,6 +11,10 @@
         {
             "name": "町17",
             "directory": "m17"
+        },
+        {
+            "name": "町78",
+            "directory": "m78"
         }
     ]
 }
