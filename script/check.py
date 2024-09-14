@@ -10,4 +10,4 @@ def check_systems(dirName):
     return 0
 
 def check_all(rootdir):
-    return 0
+    return -1
