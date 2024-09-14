@@ -1,14 +1,10 @@
 {
-    "system": "町30",
+    "system": "町60",
     "destination": "橋本駅北口",
     "stations": [
         {
-            "name": "町田ターミナル",
-            "file": ""
-        },
-        {
             "name": "町田バスセンター",
-            "file": "02_machida_bus_center_13.json"
+            "file": "01_machida_bus_center_13.json"
         },
         {
             "name": "町田市役所東",
@@ -75,6 +71,10 @@
             "file": ""
         },
         {
+            "name": "中常盤",
+            "file": ""
+        },
+        {
             "name": "常盤(町田市)",
             "file": ""
         },
@@ -112,6 +112,10 @@
         },
         {
             "name": "坂本橋(町田市)",
+            "file": ""
+        },
+        {
+            "name": "多摩境駅",
             "file": ""
         },
         {
