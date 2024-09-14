@@ -34,6 +34,6 @@ jobs:
           echo "CHECK_RESULT=$CHECK_RESULT"
 
       - name: Error handling
-        if: env.CHECK_RESULT != "0"
+        if: env.CHECK_RESULT != 0
         run: |
           exit 1
