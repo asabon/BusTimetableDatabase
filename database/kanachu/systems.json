@@ -11,6 +11,22 @@
         {
             "name": "町17",
             "directory": "m17"
+        },
+        {
+            "name": "町32",
+            "directory": "m32"
+        },
+        {
+            "name": "町33",
+            "directory": "m33"
+        },
+        {
+            "name": "町61",
+            "directory": "m61"
+        },
+        {
+            "name": "町78",
+            "directory": "m78"
         }
     ]
 }
