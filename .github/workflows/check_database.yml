@@ -1,0 +1,39 @@
+name: Check database
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'database/**'
+      - '.github/workflows/*.yml'
+
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'database/**'
+      - '.github/workflows/*.yml'
+
+jobs:
+  check_database:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Check database
+        run: |
+          CHECK_RESULT=$(python -c "from script.check import check_all; print(check_all('database'))")
+          echo "CHECK_RESULT=$CHECK_RESULT" >> $GITHUB_ENV
+          echo "CHECK_RESULT=$CHECK_RESULT"
+
+      - name: Error handling
+        if: env.CHECK_RESULT != "0"
+        run: |
+          exit 1
