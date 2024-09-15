@@ -2,10 +2,10 @@ import json
 
 def check_companies(dirName):
     print("check_companies start.")
-    companies_json_open = open(dirName + '/companies.json', 'r')
-    companies_json_load = json.load(companies_json_open)
-    for v in companies_json_load.values():
-        print(v)
+    text_data = open(dirName + '/companies.json', 'r', encoding='utf-8')
+    json_data = json.load(text_data)
+    for company in json_data['companies']:
+        print(company)
     print("check_companies end.")
     return 0
 
