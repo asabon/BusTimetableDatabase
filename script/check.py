@@ -1,10 +1,12 @@
 import json
 
 def check_companies(dirName):
+    print("check_companies start.")
     companies_json_open = open(dirName + '/companies.json', 'r')
     companies_json_load = json.load(companies_json_open)
     for v in companies_json_load.values():
         print(v)
+    print("check_companies end.")
     return 0
 
 def check_systems(dirName):
