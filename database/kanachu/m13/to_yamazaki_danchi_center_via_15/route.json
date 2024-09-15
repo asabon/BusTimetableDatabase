@@ -1,0 +1,30 @@
+{
+    "system": "町13",
+    "destination": "山崎団地センター",
+    "stations": [
+        {
+            "name": "町田バスセンター",
+            "file": "01_machida_bus_center_4.json"
+        },
+        {
+            "name": "町田バスセンター15番線",
+            "file": ""
+        },
+        {
+            "name": "境川団地",
+            "file": ""
+        },
+        {
+            "name": "木曽入口",
+            "file": ""
+        },
+        {
+            "name": "山崎団地入口",
+            "file": ""
+        },
+        {
+            "name": "山崎団地センター",
+            "file": ""
+        }
+    ]
+}
