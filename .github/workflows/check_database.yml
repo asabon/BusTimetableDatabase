@@ -5,15 +5,17 @@ on:
     branches:
       - main
     paths:
+      - '.github/workflows/check_database.yml'
       - 'database/**'
-      - '.github/workflows/*.yml'
+      - 'script/check.py'
 
   pull_request:
     branches:
       - main
     paths:
+      - '.github/workflows/check_database.yml'
       - 'database/**'
-      - '.github/workflows/*.yml'
+      - 'script/check.py'
 
 jobs:
   check_database:

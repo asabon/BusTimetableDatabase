@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - 'database/**'
-      - '.github/workflows/*.yml'
+      - '.github/workflows/release.yml'
 
 jobs:
   release:
