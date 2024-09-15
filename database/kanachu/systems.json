@@ -54,7 +54,11 @@
         },
         {
             "name": "町39",
-            "directory": "m38"
+            "directory": "m39"
+        },
+        {
+            "name": "町45",
+            "directory": "m45"
         },
         {
             "name": "町60",
