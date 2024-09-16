@@ -1,12 +1,12 @@
 import json
 
 def check_companies(dirName):
-    print("check_companies start.")
+    print("[check_companies]")
     text_data = open(dirName + '/companies.json', 'r', encoding='utf-8')
     json_data = json.load(text_data)
     for company in json_data['companies']:
-        print(company)
-    print("check_companies end.")
+        print("  " + company['officialName'])
+        print("  " + company['directory'])
     return 0
 
 def check_systems(dirName):
