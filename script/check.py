@@ -1,3 +1,4 @@
+import os
 import json
 
 def check_companies(dirName):
@@ -7,6 +8,8 @@ def check_companies(dirName):
     for company in json_data['companies']:
         print("  " + company['officialName'])
         print("  " + company['directory'])
+        #if(os.path.isdrir(company['directory']) != True):
+        #    return -1
     return 0
 
 def check_systems(dirName):
