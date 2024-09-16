@@ -1,0 +1,21 @@
+{
+    "routes": [
+        {
+            "id": 1,
+            "directory": "to_yamazaki_danchi_center",
+            "to": "山崎団地センター",
+            "from": "町田バスセンター",
+            "via": [
+            ]
+        },
+        {
+            "id": 2,
+            "directory": "to_yamazaki_danchi_center_via_15",
+            "to": "木曽南団地",
+            "from": "町田バスセンター",
+            "via": [
+                "町田バスセンター15番線"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "routes": [
+        {
+            "id": 1,
+            "directory": "to_kiso_minami_danchi_from_center_2",
+            "to": "木曽南団地",
+            "from": "町田バスセンター",
+            "via": [
+            ]
+        },
+        {
+            "id": 2,
+            "directory": "to_kiso_minami_danchi_from_terminal",
+            "to": "木曽南団地",
+            "from": "町田ターミナル",
+            "via": [
+            ]
+        },
+        {
+            "id": 3,
+            "directory": "to_machida_bus_center",
+            "to": "町田バスセンター",
+            "from": "木曽南団地",
+            "via": [
+            ]
+        },
+        {
+            "id": 4,
+            "directory": "to_machida_terminal",
+            "to": "町田ターミナル",
+            "from": "木曽南団地",
+            "via": [
+            ]
+        }
+    ]
+}
