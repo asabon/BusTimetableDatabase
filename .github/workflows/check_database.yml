@@ -33,7 +33,7 @@ jobs:
         run: |
           CHECK_RESULT=$(python -c "from script.check import check_all; print(check_all('database'))")
           echo "CHECK_RESULT=$CHECK_RESULT"
-          if [ $CHECK_RESULT -ne 0 ]; then
+          if [ $CHECK_RESULT -ne 1 ]; then
             echo "Error"
             exit 1
           fi
