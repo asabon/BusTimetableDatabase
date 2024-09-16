@@ -6,7 +6,7 @@ def check_companies(dirName):
     text_data = open(dirName + '/companies.json', 'r', encoding='utf-8')
     json_data = json.load(text_data)
     for company in json_data['companies']:
-        print("  " + company['officialName'])
+        print("  " + company['name'])
         print("  " + company['directory'])
         #if(os.path.isdrir(company['directory']) != True):
         #    return -1
