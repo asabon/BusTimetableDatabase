@@ -8,8 +8,8 @@ def check_companies(dirName):
     for company in json_data['companies']:
         print("  " + company['name'])
         print("  " + company['directory'])
-        #if(os.path.isdrir(company['directory']) != True):
-        #    return -1
+        if(os.path.isdrir(company['directory']) != True):
+            return -1
     return 0
 
 def check_systems(dirName):

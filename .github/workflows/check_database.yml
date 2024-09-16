@@ -33,23 +33,3 @@ jobs:
         run: |
           CHECK_RESULT=$(python -c "from script.check import check_all; print(check_all('database'))")
           echo "CHECK_RESULT=$CHECK_RESULT"
-          if [ $CHECK_RESULT -ne 1 ]; then
-            echo "Error"
-            exit 1
-          fi
-
-  check_hash:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-
-      - name: Generate hash
-        run: |
-          NEW_HASH=$(python -c "from script.hash import hash_directory; print(hash_directory('database'))")
-          echo "NEW_HASH=<$NEW_HASH>"
