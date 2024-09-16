@@ -1,25 +1,17 @@
 import os
 import json
 
-def check_companies(dirName):
-    print("[check_companies]")
-    text_data = open(dirName + '/companies.json', 'r', encoding='utf-8')
-    json_data = json.load(text_data)
-    for company in json_data['companies']:
-        print("  " + company['name'])
-        print("  " + company['directory'])
-        if(os.path.isdir(dirName + '/' + company['directory']) != True):
-            return -1
-    return 0
-
-def check_systems(dirName):
-    return 0
-
-def check_timetable():
-    return 0
-
 def check_all(rootdir):
-    result_companies = check_companies(rootdir)
-    if result_companies != 0:
-        return result_companies
+    company_text = open(rootdir + '/companies.json', 'r', encoding='utf-8')
+    company_json = json.load(company_text)
+    for company in company_json['companies']:
+        # Company のディレクトリが存在しなかったらエラー
+        if(os.path.isdir(rootdir + '/' + company['directory']) != True):
+            return -1
+        system_text = open(rootdir + '/' + company['directory'] + 'systems.json', 'r', encoding='utf-8')
+        system_json = json.load(system_text)
+        for system in system_json['systems']:
+            # System のディレクトリが存在しなかったらエラー
+            if(os.path.isdir(rootdir + '/' + company['directory'] + '/' + system['directory']) != True):
+                return -1
     return 0
