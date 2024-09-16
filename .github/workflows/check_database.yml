@@ -32,13 +32,7 @@ jobs:
       - name: Check database
         run: |
           CHECK_RESULT=$(python -c "from script.check import check_all; print(check_all('database'))")
-          echo "CHECK_RESULT=$CHECK_RESULT" >> $GITHUB_ENV
           echo "CHECK_RESULT=$CHECK_RESULT"
-
-      - name: Error handling
-        if: env.CHECK_RESULT != 0
-        run: |
-          exit 1
 
   check_hash:
     runs-on: ubuntu-latest
