@@ -1,0 +1,12 @@
+{
+    "routes": [
+        {
+            "id": 1,
+            "directory": "to_oyamada_from_terminal",
+            "to": "小山田(町田市)",
+            "from": "町田ターミナル",
+            "via": [
+            ]
+        }
+    ]
+}
