@@ -1,0 +1,12 @@
+{
+    "routes": [
+        {
+            "id": 1,
+            "directory": "to_toritsu_noduta_koukou",
+            "to": "都立野津田高校",
+            "from": "町田バスセンター",
+            "via": [
+            ]
+        }
+    ]
+}

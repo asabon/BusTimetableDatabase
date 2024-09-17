@@ -1,0 +1,12 @@
+{
+    "routes": [
+        {
+            "id": 1,
+            "directory": "to_yokodote",
+            "to": "横土手",
+            "from": "町田バスセンター",
+            "via": [
+            ]
+        }
+    ]
+}
