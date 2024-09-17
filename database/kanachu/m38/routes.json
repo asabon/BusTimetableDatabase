@@ -1,0 +1,12 @@
+{
+    "routes": [
+        {
+            "id": 1,
+            "directory": "to_shiritsu_shitsunai_pool",
+            "to": "市立室内プール",
+            "from": "町田バスセンター",
+            "via": [
+            ]
+        }
+    ]
+}

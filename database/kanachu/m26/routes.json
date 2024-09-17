@@ -1,0 +1,12 @@
+{
+    "routes": [
+        {
+            "id": 1,
+            "directory": "to_nozuta_shako",
+            "to": "野津田車庫",
+            "from": "町田バスセンター",
+            "via": [
+            ]
+        }
+    ]
+}

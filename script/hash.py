@@ -14,7 +14,7 @@ def hash_directory(directory_path):
     sha256 = hashlib.sha256()
     for root, _, files in os.walk(directory_path):
         for file in files:
-            if file.endswith('.txt'):
+            if file.endswith('.json'):
                 file_path = os.path.join(root, file)
                 file_hash = hash_file(file_path)
                 sha256.update(file_hash.encode())

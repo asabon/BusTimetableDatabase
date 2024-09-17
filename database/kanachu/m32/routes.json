@@ -1,0 +1,12 @@
+{
+    "routes": [
+        {
+            "id": 1,
+            "directory": "to_oyamada_sakuradai",
+            "to": "小山田桜台",
+            "from": "町田バスセンター",
+            "via": [
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "routes": [
+        {
+            "id": 1,
+            "directory": "to_yamazaki_danchi_from_center_2",
+            "to": "山崎団地",
+            "from": "町田バスセンター",
+            "via": [
+            ]
+        },
+        {
+            "id": 2,
+            "directory": "to_yamazaki_danchi_from_center_5",
+            "to": "山崎団地",
+            "from": "町田バスセンター",
+            "via": [
+            ]
+        },
+        {
+            "id": 3,
+            "directory": "to_yamazaki_danchi_from_center5_via_15",
+            "to": "山崎団地",
+            "from": "町田バスセンター",
+            "via": [
+                "町田バスセンター15番線"
+            ]
+        },
+        {
+            "id": 4,
+            "directory": "to_yamazaki_danchi_from_terminal_via_center_5",
+            "to": "山崎団地",
+            "from": "町田ターミナル",
+            "via": [
+            ]
+        },
+        {
+            "id": 5,
+            "directory": "to_yamazaki_danchi_from_terminal_via_center_5_15",
+            "to": "山崎団地",
+            "from": "町田ターミナル",
+            "via": [
+                "町田バスセンター15番線"
+            ]
+        }
+    ]
+}
