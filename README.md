@@ -1,3 +1,5 @@
+[![Release](https://github.com/asabon/BusTimeTableDatabase/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/asabon/BusTimeTableDatabase/actions/workflows/release.yml)
+
 # BusTimeTableDatabase
 
 ## 目的
