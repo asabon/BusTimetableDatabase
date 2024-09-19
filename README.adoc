@@ -1,6 +1,12 @@
-image::https://github.com/asabon/BusTimeTableDatabase/actions/workflows/release.yml/badge.svg?branch=main[https://github.com/asabon/BusTimeTableDatabase/actions/workflows/release.yml]
+:toc: macro
+:toclevels: 3
+:toc-title: 目次
 
 = BusTimeTableDatabase
+
+image::https://github.com/asabon/BusTimeTableDatabase/actions/workflows/release.yml/badge.svg?branch=main[https://github.com/asabon/BusTimeTableDatabase/actions/workflows/release.yml]
+
+toc::[]
 
 == 概要
 
@@ -13,15 +19,17 @@ image::https://github.com/asabon/BusTimeTableDatabase/actions/workflows/release.
 
 == ディレクトリ構成
 
+=== 第一階層 (ルート)
+
 [source, text]
 ....
 + database/       : 時刻表データ本体
 + release/        : 最新の成果物
-  + hash.txt      : json データの hash 。前回取得時から値が変わっていたら database に変更が入っている。
-  + timetable.zip : database 以下を zip で固めたもの。
+  + hash.txt      : json データの hash
+  + timetable.zip : database 以下を zip で固めたもの
 ....
 
-=== 第一階層 (database/*)
+=== 第二階層 (database/ 以下)
 
 [source, text]
 ....
@@ -29,7 +37,7 @@ image::https://github.com/asabon/BusTimeTableDatabase/actions/workflows/release.
 + companies.json : この階層にある「会社」ディレクトリの説明
 ....
 
-=== 第二階層 (database/*/*)
+=== 第二階層 (database/会社/ 以下)
 
 [source, text]
 ....
@@ -37,6 +45,28 @@ image::https://github.com/asabon/BusTimeTableDatabase/actions/workflows/release.
 + ...
 + systems.json : この階層にある「系統」ディレクトリの説明
 ....
+
+== Json フォーマット
+
+=== companies.json
+
+[source, json]
+....
+{
+    "companies": [
+        {
+            "name": "神奈川中央交通",
+            "directory": "kanachu"
+        }
+    ]
+}
+....
+
+=== systems.json
+
+=== routes.json
+
+=== route.json
 
 == LICENSE
 
