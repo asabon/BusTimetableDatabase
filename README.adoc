@@ -1,5 +1,5 @@
 :toc: macro
-:toclevels: 3
+:toclevels: 6
 :toc-title: 目次
 
 = BusTimeTableDatabase
@@ -19,54 +19,63 @@ toc::[]
 
 == ディレクトリ構成
 
-=== 第一階層 (ルート)
+=== database/
+
+* データベースを json 形式で管理しているルートディレクトリ。
+* この階層では会社を以下のようにディレクトリで管理している。
 
 [source, text]
 ....
-+ database/       : 時刻表データ本体
-+ release/        : 最新の成果物
-  + hash.txt      : json データの hash
-  + timetable.zip : database 以下を zip で固めたもの
-....
-
-=== 第二階層 (database/ 以下)
-
-[source, text]
-....
-+ kanachu/       : 会社「kanachu」のディレクトリ
++ [COMPANY]/     : 会社「COMPANY」のディレクトリ(`kanachu` など)
 + companies.json : この階層にある「会社」ディレクトリの説明
 ....
 
-=== 第二階層 (database/会社/ 以下)
+==== COMPANY/
+
+* バスの「系統」を管理している。
 
 [source, text]
 ....
-+ m12/         : 系統「m12」のディレクトリ
++ [SYSTEM]/    : 系統「SYSTEM」のディレクトリ(`m12` など)
 + ...
 + systems.json : この階層にある「系統」ディレクトリの説明
 ....
 
-== Json フォーマット
+===== SYSTEM/
 
-=== companies.json
+* 同じ「系統」でも行先や経由地点などにより異なるものをディレクトリで管理している。
 
-[source, json]
+[source, text]
 ....
-{
-    "companies": [
-        {
-            "name": "神奈川中央交通",
-            "directory": "kanachu"
-        }
-    ]
-}
++ [SYSTEM-ROUTE-A] : 区別できれば何でもいい (`to_kiso_minami_danchi` など)
++ routes.json      : 各ディレクトリの説明
 ....
 
-=== systems.json
+====== SYSTEM-ROUTE/
 
-=== routes.json
+* バス停ごとの時刻表を json 形式で管理。
+* メンテしやすさを考慮して、経路の順番に 01 → 02 → ... とファイル名を付与している。
 
-=== route.json
+[source, text]
+....
++ 01_[BUS-STOP-01].json : バス停[BUS-STOP-01]の時刻表データ。
++ route.json            : バス停の名称とファイルを紐づける json。
+....
+
+=== release/
+
+* リリース物を管理するディレクトリ。
+* 以下のファイルが格納されている。
+** hash.txt
+*** database 以下の json データから生成した hash
+*** この値が変わっていたら「データベースが更新された」とみなす
+** timetable.zip
+*** database 以下を zip で固めたもの
+* これらのファイルは main ブランチの database が変更されたときに自動的に更新される。
+
+=== script/
+
+* GitHub Actions から実行される script 群。
 
 == LICENSE
 
