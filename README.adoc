@@ -1,0 +1,82 @@
+:toc: macro
+:toclevels: 6
+:toc-title: 目次
+
+= BusTimeTableDatabase
+
+image::https://github.com/asabon/BusTimeTableDatabase/actions/workflows/release.yml/badge.svg?branch=main[https://github.com/asabon/BusTimeTableDatabase/actions/workflows/release.yml]
+
+toc::[]
+
+== 概要
+
+* json 形式で作成した、バスの時刻表データベース。
+* 手作業での入力のため、自分が必要な部分しか入力してない。
+
+== 目的
+
+* バスの時刻表を扱うアプリから参照する。
+
+== ディレクトリ構成
+
+=== database/
+
+* データベースを json 形式で管理しているルートディレクトリ。
+* この階層では会社を以下のようにディレクトリで管理している。
+
+[source, text]
+....
++ [COMPANY]/     : 会社「COMPANY」のディレクトリ(`kanachu` など)
++ companies.json : この階層にある「会社」ディレクトリの説明
+....
+
+==== COMPANY/
+
+* バスの「系統」を管理している。
+
+[source, text]
+....
++ [SYSTEM]/    : 系統「SYSTEM」のディレクトリ(`m12` など)
++ ...
++ systems.json : この階層にある「系統」ディレクトリの説明
+....
+
+===== SYSTEM/
+
+* 同じ「系統」でも行先や経由地点などにより異なるものをディレクトリで管理している。
+
+[source, text]
+....
++ [SYSTEM-ROUTE-A] : 区別できれば何でもいい (`to_kiso_minami_danchi` など)
++ routes.json      : 各ディレクトリの説明
+....
+
+====== SYSTEM-ROUTE/
+
+* バス停ごとの時刻表を json 形式で管理。
+* メンテしやすさを考慮して、経路の順番に 01 → 02 → ... とファイル名を付与している。
+
+[source, text]
+....
++ 01_[BUS-STOP-01].json : バス停[BUS-STOP-01]の時刻表データ。
++ route.json            : バス停の名称とファイルを紐づける json。
+....
+
+=== release/
+
+* リリース物を管理するディレクトリ。
+* 以下のファイルが格納されている。
+** hash.txt
+*** database 以下の json データから生成した hash
+*** この値が変わっていたら「データベースが更新された」とみなす
+** timetable.zip
+*** database 以下を zip で固めたもの
+* これらのファイルは main ブランチの database が変更されたときに自動的に更新される。
+
+=== script/
+
+* GitHub Actions から実行される script 群。
+
+== LICENSE
+
+MIT License.
