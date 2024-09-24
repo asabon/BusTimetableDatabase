@@ -1,10 +1,9 @@
 {
     "routes": [
         {
-            "id": 1,
             "directory": "to_tamakyuryou_rihabiriteshon_byouin",
-            "to": "多摩丘陵リハビリテーション病院",
-            "from": "町田バスセンター",
+            "start": "町田バスセンター",
+            "goal": "多摩丘陵リハビリテーション病院",
             "via": [
             ]
         }
