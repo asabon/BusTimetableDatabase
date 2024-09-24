@@ -1,18 +1,16 @@
 {
     "routes": [
         {
-            "id": 1,
             "directory": "to_machida_bus_center",
-            "to": "町田バスセンター",
-            "from": "下山崎",
+            "start": "下山崎",
+            "goal": "町田バスセンター",
             "via": [
             ]
         },
         {
-            "id": 2,
             "directory": "to_shimoyamazaki",
-            "to": "下山崎",
-            "from": "町田バスセンター",
+            "start": "町田バスセンター",
+            "goal": "下山崎",
             "via": [
             ]
         }

@@ -1,18 +1,16 @@
 {
     "routes": [
         {
-            "id": 1,
             "directory": "to_fuchinobe_eki_kitaguchi",
-            "to": "淵野辺駅北口",
-            "from": "町田バスセンター",
+            "start": "町田バスセンター",
+            "goal": "淵野辺駅北口",
             "via": [
             ]
         },
         {
-            "id": 2,
             "directory": "to_machida_bus_center",
-            "to": "町田バスセンター",
-            "from": "淵野辺駅北口",
+            "start": "淵野辺駅北口",
+            "goal": "町田バスセンター",
             "via": [
             ]
         }

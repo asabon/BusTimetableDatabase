@@ -1,10 +1,9 @@
 {
     "routes": [
         {
-            "id": 1,
             "directory": "to_kanachu_tama_shako",
-            "to": "神奈中多摩車庫",
-            "from": "町田バスセンター",
+            "start": "町田バスセンター",
+            "goal": "神奈中多摩車庫",
             "via": [
             ]
         }

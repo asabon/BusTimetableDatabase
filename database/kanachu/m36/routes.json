@@ -1,10 +1,9 @@
 {
     "routes": [
         {
-            "id": 1,
             "directory": "to_tsurukawa_eki",
-            "to": "鶴川駅",
-            "from": "町田バスセンター",
+            "start": "町田バスセンター",
+            "goal": "鶴川駅",
             "via": [
             ]
         }

@@ -1,10 +1,9 @@
 {
     "routes": [
         {
-            "id": 1,
             "directory": "to_nozuta_shako",
-            "to": "野津田車庫",
-            "from": "町田バスセンター",
+            "start": "町田バスセンター",
+            "goal": "野津田車庫",
             "via": [
             ]
         }

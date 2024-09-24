@@ -1,18 +1,16 @@
 {
     "routes": [
         {
-            "id": 1,
             "directory": "to_hashimoto_eki_kitaguchi_from_center",
-            "to": "橋本駅北口",
-            "from": "町田バスセンター",
+            "start": "町田バスセンター",
+            "goal": "橋本駅北口",
             "via": [
             ]
         },
         {
-            "id": 2,
             "directory": "to_hashimoto_eki_kitaguchi_from_terminal",
-            "to": "橋本駅北口",
-            "from": "町田バスターミナル",
+            "start": "町田バスターミナル",
+            "goal": "橋本駅北口",
             "via": [
             ]
         }
