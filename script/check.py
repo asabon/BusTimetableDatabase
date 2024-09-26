@@ -1,17 +1,20 @@
 import os
 import json
 
-def check_all(rootdir):
-    company_text = open(rootdir + '/companies.json', 'r', encoding='utf-8')
-    company_json = json.load(company_text)
-    for company in company_json['companies']:
-        # Company のディレクトリが存在しなかったらエラー
-        if(os.path.isdir(rootdir + '/' + company['directory']) != True):
+def get_company_list(rootdir):
+    companies_text = open(rootdir + '/companies.json', 'r', encoding='utf-8')
+    companies_json = json.load(companies_text)
+    return companies_json
+
+def check_company(rootdir, companies_json):
+    for company in companies_json['companies']:
+        if (os.path.isdir(rootdir + '/' + company['directory']) != True):
+            # Company のディレクトリが存在しなかったらエラー
             return -1
-        system_text = open(rootdir + '/' + company['directory'] + '/' + 'systems.json', 'r', encoding='utf-8')
-        system_json = json.load(system_text)
-        for system in system_json['systems']:
-            # System のディレクトリが存在しなかったらエラー
-            if(os.path.isdir(rootdir + '/' + company['directory'] + '/' + system['directory']) != True):
-                return -1
+
+def check_all(rootdir):
+    companies_json = get_company_list('database')
+    result = check_company('database', companies_json)
+    if (result != 0):
+        return result
     return 0
