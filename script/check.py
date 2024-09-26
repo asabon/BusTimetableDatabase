@@ -24,21 +24,22 @@ def get_route_files(company_dir):
     route_files = glob.glob(company_dir + '/**/route.json', recursive=True)
     return route_files
 
-def check_route_file(route_file):
-    route_text = open(route_file, 'r', encoding='utf-8')
+def get_route_dir(route_file):
+    return os.path.split(route_file)[0]
+
+def check_route_file(route_dir):
+    route_text = open(route_dir + '/route.json', 'r', encoding='utf-8')
     route_json = json.load(route_text)
     for station in route_json['stations']:
         if station['file'] != "":
-            station_file = os.path.split(route_file)[0] + '/' + station['file']
+            station_file = route_dir + '/' + station['file']
             if (os.path.isfile(station_file) != True):
                 print(' ' + station_file + ' is NOT exist. ERROR')
                 return -1
     return 0
 
 def check_result(result):
-    if (result == 0):
-        print("OK")
-    else:
+    if (result != 0):
         print("NG")
         sys.exit(1)
 
@@ -49,7 +50,7 @@ def check_all(rootdir):
     for company in companies_json['companies']:
         route_files = get_route_files(rootdir + '/' + company['directory'])
         for route_file in route_files:
-            result = check_route_file(route_file)
+            result = check_route_file(get_route_dir(route_file))
             check_result(result)
     sys.exit(0)
 
