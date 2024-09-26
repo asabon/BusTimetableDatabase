@@ -30,12 +30,24 @@ def get_route_dir(route_file):
 def check_route_file(route_dir):
     route_text = open(route_dir + '/route.json', 'r', encoding='utf-8')
     route_json = json.load(route_text)
+    # route.json に記載されている *.json が存在するか確認
     for station in route_json['stations']:
         if station['file'] != "":
             station_file = route_dir + '/' + station['file']
             if (os.path.isfile(station_file) != True):
                 print(' ' + station_file + ' is NOT exist. ERROR')
                 return -1
+    # *.json が、route.json に記載されているか確認
+    station_files = glob.glob(route_dir + '/*.json')
+    for station_file in station_files:
+        if os.path.split(station_file)[1] != 'route.json':
+            isExist = False
+            for station in route_json['stations']:
+                if os.path.split(station_file)[1] == station['file']:
+                    isExist = True
+            if isExist == False:
+                print(station_file + " is NOT written in route.json")
+                return -1    
     return 0
 
 def check_result(result):
