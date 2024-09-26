@@ -20,6 +20,7 @@ def check_company(rootdir, companies_json):
     return 0
 
 def get_route_dirs(company_dir):
+    print("get_route_dirs(" + company_dir + ")")
     print(glob.glob(company_dir + '/**/route.json'))
 
 def check_result(result):
