@@ -5,12 +5,12 @@ def get_company_list(rootdir):
     print("get_company_list")
     companies_text = open(rootdir + '/companies.json', 'r', encoding='utf-8')
     companies_json = json.load(companies_text)
-    print(" " + companies_json)
     return companies_json
 
 def check_company(rootdir, companies_json):
     print("check_company")
     for company in companies_json['companies']:
+        print (" company['directory'] = " + company['directory'])
         if (os.path.isdir(rootdir + '/' + company['directory']) != True):
             print (" Error")
             return -1
