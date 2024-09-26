@@ -1,6 +1,7 @@
 import sys
 import os
 import json
+import glob
 
 def get_company_list(rootdir):
     print("get_company_list")
@@ -18,15 +19,23 @@ def check_company(rootdir, companies_json):
     print (" OK")
     return 0
 
+def get_route_dirs(company_dir):
+    print(glob.glob(company_dir + '/**/route.json'))
+
+def check_result(result):
+    if (result == 0):
+        print("OK")
+    else:
+        print("NG")
+        sys.exit(1)
+
 def check_all(rootdir):
     companies_json = get_company_list(rootdir)
     result = check_company(rootdir, companies_json)
-    if (result != 0):
-        print ("check_all: Error")
-        sys.exit(1) # NG
-    else:
-        print("check_all: OK")
-        sys.exit(0) # OK
+    check_result(result)
+    for company in companies_json['companies']:
+        get_route_dirs(rootdir + '/' + company['directory'])
+    sys.exit(0)
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
