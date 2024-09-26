@@ -1,3 +1,4 @@
+import sys
 import os
 import json
 
@@ -22,6 +23,13 @@ def check_all(rootdir):
     result = check_company(rootdir, companies_json)
     if (result != 0):
         print ("check_all: Error")
-        return result
-    print("check_all: OK")
-    return 0
+        sys.exit(1) # NG
+    else:
+        print("check_all: OK")
+        sys.exit(0) # OK
+
+if __name__ == "__main__":
+    if len(sys.argv) != 2:
+        print("Usage: python check.py <rootdir>")
+        sys.exit(1)
+    check_all(sys.argv[1])
