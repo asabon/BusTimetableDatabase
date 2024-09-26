@@ -22,7 +22,6 @@ def check_company(rootdir, companies_json):
 def get_route_files(company_dir):
     print("get_route_dirs(" + company_dir + ")")
     route_files = glob.glob(company_dir + '/**/route.json', recursive=True)
-    print(" " + route_files)
     return route_files
 
 def check_route_file(route_file):
