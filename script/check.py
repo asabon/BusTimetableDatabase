@@ -40,7 +40,7 @@ def check_route_file(route_dir):
     # *.json が、route.json に記載されているか確認
     station_files = glob.glob(route_dir + '/*.json')
     for station_file in station_files:
-        if station_file != 'route.json':
+        if os.path.split(station_file)[1] != 'route.json':
             isExist = False
             for station in route_json['stations']:
                 if os.path.split(station_file)[1] == station['file']:
