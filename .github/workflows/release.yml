@@ -37,7 +37,7 @@ jobs:
         run: |
           rm -rf release/
           mkdir release
-          zip -r release/timetable.zip database
+          zip -r release/database.zip database
           echo "${{ env.NEW_HASH }}" > release/hash.txt
 
       - name: Create pull request
