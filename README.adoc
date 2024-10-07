@@ -54,36 +54,13 @@ companies.json の書式は以下。
 
 ==== COMPANY/
 
-* バスの「系統」を管理している。
+* バスの「系統」をディレクトリで管理している。
 
 [source, text]
 ....
 + [SYSTEM]/    : 系統「SYSTEM」のディレクトリ(`m12` など)
 + ...
-+ systems.json : この階層にある「系統」ディレクトリの説明
 ....
-
-systems.json の書式は以下。
-
-[source, json]
-....
-{
-    "systems": [
-        {
-            "name": "町12",
-            "directory": "m12"
-        },
-        // 以下、続く ...
-    ]
-}
-....
-
-* systems
-** 以下の要素を「系統」ごとに配列で持つ。
-* name
-** 系統名
-* directory
-** ディレクトリ名をこの階層からの相対パスで設定する。
 
 ===== SYSTEM/
 
@@ -92,43 +69,8 @@ systems.json の書式は以下。
 [source, text]
 ....
 + [SYSTEM-ROUTE-A] : 区別できれば何でもいい (`to_kiso_minami_danchi` など)
-+ routes.json      : 系統内のルートの情報とディレクトリ名を紐づける json ファイル。
++ ...
 ....
-
-routes.json の書式は以下。
-
-[source, json]
-....
-{
-    "routes": [
-        {
-            "id": 1,
-            "directory": "to_xxx",
-            "to": "行先",
-            "from": "出発地点",
-            "via": [
-                "経由地A",
-                "経由地B"
-            ]
-        },
-        // 以下、続く ...
-    ]
-}
-....
-
-* routes
-** 「ルート」ごとに以下の要素を配列に持つ。
-* id
-** このファイル内でユニークに持つ ID
-* directory
-** ディレクトリ名をこの階層からの相対パスで設定する。
-* to
-** このルートでのゴール地点。
-* from
-** このルートの出発地点。
-* via
-** ルート内で経由地が異なる場合、それを識別するための情報。
-** 必須ではない。
 
 ====== SYSTEM-ROUTE/
 
@@ -138,10 +80,10 @@ routes.json の書式は以下。
 [source, text]
 ....
 + 01_[BUS-STOP-01].json : バス停[BUS-STOP-01]の時刻表データ。
-+ stations.json         : バス停の名称とファイルを紐づける json。
++ route.json            : バス停の名称とファイルを紐づける json。
 ....
 
-stations.json の書式は以下。
+route.json の書式は以下。
 
 [source, json]
 ....
