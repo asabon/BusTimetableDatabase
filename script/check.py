@@ -2,6 +2,8 @@ import sys
 import os
 import json
 import glob
+from check_timetable import check_timetable
+from check_route import check_route
 
 def get_company_list(rootdir):
     print("get_company_list")
