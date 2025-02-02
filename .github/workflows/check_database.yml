@@ -1,21 +1,23 @@
 name: Check database
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - '.github/workflows/check_database.yml'
-      - 'database/**'
-      - 'script/check.py'
+  workflow_dispatch:
 
-  pull_request:
-    branches:
-      - main
-    paths:
-      - '.github/workflows/check_database.yml'
-      - 'database/**'
-      - 'script/check.py'
+  #push:
+  #  branches:
+  #    - main
+  #  paths:
+  #    - '.github/workflows/check_database.yml'
+  #    - 'database/**'
+  #    - 'script/check.py'
+
+  #pull_request:
+  #  branches:
+  #    - main
+  #  paths:
+  #    - '.github/workflows/check_database.yml'
+  #    - 'database/**'
+  #    - 'script/check.py'
 
 jobs:
   check_database:
