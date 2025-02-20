@@ -34,6 +34,8 @@ if __name__ == '__main__':
     else:
         file_path = sys.argv[1]
         result = check_timetable(file_path)
-        if result != 0:
+        if result == 0:
+            print(f"OK: {file_path}")
+        else:
             print(f"Error: {result}, File: {file_path}")
         sys.exit(result)
