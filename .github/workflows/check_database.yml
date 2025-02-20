@@ -28,4 +28,4 @@ jobs:
           python-version: '3.10'
 
       - name: Check database
-        run: python script/check.py "database/神奈川中央交通"
+        run: python script/check_all.py "database/神奈川中央交通"
