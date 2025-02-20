@@ -9,11 +9,15 @@ def check_timetable(file_path):
         # Check "date" field
         result = check_date(data)
         if result != 0:
+            print(f"Error: {result}, File: {file_path}")
             return result
     except FileNotFoundError:
+        print(f"Error: 10000001, File: {file_path}")
         return 10000001
     except json.JSONDecodeError:
+        print(f"Error: 10000002, File: {file_path}")
         return 10000002
+    print(f"OK: {file_path}")
     return 0
 
 def check_date(data):
@@ -34,8 +38,4 @@ if __name__ == '__main__':
     else:
         file_path = sys.argv[1]
         result = check_timetable(file_path)
-        if result == 0:
-            print(f"OK: {file_path}")
-        else:
-            print(f"Error: {result}, File: {file_path}")
         sys.exit(result)
