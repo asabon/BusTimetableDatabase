@@ -62,7 +62,17 @@ def check_destinations(data):
     if "destinations" not in data:
         # "destinations" フィールドが存在しなかった
         return 13000001
-    destinations_list = data["destinations"]
+    if not isinstance(data["destinations"], list):
+        # "destinations" フィールドが list 形式でない
+        return 13000002
+    if not data["destinations"]:
+        # "destinations" フィールドが空っぽ
+        return 13000003
+    name_string = data["name"]
+    for destination in data["destinations"]:
+        if name_string == destination:
+            # 自バス停が destinations に含まれている
+            return 13000004
     return 0
 
 
