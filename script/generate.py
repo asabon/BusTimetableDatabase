@@ -12,4 +12,4 @@ def generate(filepath):
         print(f"Status code: {response.status_code}")
 
 if __name__ == '__main__':
-    generate()
+    generate("")
