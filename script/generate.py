@@ -95,6 +95,12 @@ def generate(file_path):
         sys.exit(2)
 
     data_list = data_string.split()
+    print("data_list[0]  : <" + data_list[0] + ">")
+    print("data_list[1]  : <" + data_list[1] + ">")
+    print("data_list[2]  : <" + data_list[2] + ">")
+    print("data_list[14] : <" + data_list[14] + ">")
+    print("data_list[15] : <" + data_list[15] + ">")
+    print("data_list[16] : <" + data_list[16] + ">")
     update_date_web = data_list[1]
 
     # Judge to update
@@ -106,7 +112,7 @@ def generate(file_path):
         timetable_holiday = []
         print("update: " + update_date_web)
         for i in range(num):
-            timetable_item = str(data_list[17 + (i * 15)]) + ":" + str(data_list[17 + ((i * 15) + 5)])
+            timetable_item = str(data_list[17 + (i * 15)]) + ":" + str(data_list[17 + ((i * 15) + 1)])
             day_type = data_list[17 + ((i * 15) + 2)]
             print("type: " + day_type + ", item : " + timetable_item)
             if day_type == '0':
