@@ -23,7 +23,7 @@ def generate(filepath):
     data_string = get_dummy_data()
     data_list = data_string.split()
     update_date = data_list[1]
-    num =  data_list[15]
+    num =  int(data_list[15])
     timetable_weekday = []
     timetable_saturday = []
     timetable_holiday = []
