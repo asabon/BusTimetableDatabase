@@ -78,9 +78,9 @@ def generate(file_path):
                 timetable_holiday.append(timetable_item)
             else:
                 print("error")
-        set_value_in_json(json_data, timetable_weekday)
-        set_value_in_json(json_data, timetable_saturday)
-        set_value_in_json(json_data, timetable_holiday)
+        set_value_in_json(json_data, "weekday", timetable_weekday)
+        set_value_in_json(json_data, "saturday", timetable_saturday)
+        set_value_in_json(json_data, "holiday", timetable_holiday)
         write_json_file(file_path)
     else:
         print("No need to update")
