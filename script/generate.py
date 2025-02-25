@@ -98,7 +98,7 @@ def generate(file_path):
 
     # for Debug
     for j in range(16, 30):
-        print("data_list[" + j + "] : " + data_list[j])
+        print("data_list[" + str(j) + "] : " + data_list[j])
 
     # Judge to update
     update_date_web = data_list[2]
