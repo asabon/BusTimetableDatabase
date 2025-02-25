@@ -94,7 +94,7 @@ def generate(file_path):
         print("[Error] The data can't get from internet")
         sys.exit(2)
 
-    data_list = data_string.split()
+    data_list = data_string.split("\n")
 
     # for Debug
     for j in range(16, 30):
