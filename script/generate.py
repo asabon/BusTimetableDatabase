@@ -95,9 +95,13 @@ def generate(file_path):
         sys.exit(2)
 
     data_list = data_string.split()
-    update_date_web = data_list[2]
+
+    # for Debug
+    for j in range(16, 30):
+        print("data_list[" + j + "] : " + data_list[j])
 
     # Judge to update
+    update_date_web = data_list[2]
     if (update_date_json != update_date_web):
         print("Need to update")
         num =  int(data_list[16])
