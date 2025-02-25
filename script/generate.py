@@ -1,8 +1,9 @@
 import requests
+import certifi
 
 def generate(filepath):
     url = 'https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803215-11/node:00129495/kt:0/lname:/dts:1740420000'
-    response = requests.get(url, verify=False)
+    response = requests.get(url, verify=certifi.where())
 
     if response.status_code == 200:
         print("Success!")
