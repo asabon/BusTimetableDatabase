@@ -4,6 +4,7 @@ import sys
 import ssl
 import urllib.request
 import urllib.error
+import re
 
 
 def get_dummy_data():
@@ -16,8 +17,8 @@ def get_data3(url):
     try:
         with urllib.request.urlopen(req, context=context) as f:
             result = f.read().decode()
-            print("data is ...")
-            print(result)
+            # print("data is ...")
+            # print(result)
         return result
     except urllib.error.URLError as e:
         print(f'Error: {e.reason}')
@@ -100,8 +101,15 @@ def generate(file_path):
     for j in range(0, 30):
         print("data_list[" + str(j) + "] : " + data_list[j])
 
-    # Judge to update
-    update_date_web = data_list[2]
+    pattern = r'\d{4}/\d{2}/\d{2}'
+    match = re.search(pattern, data_list[0])
+    if match:
+        update_date_web = match.group()
+    else:
+        update_date_web = ""
+        print("Can't get update date")
+        sys.exit(3)
+
     if (update_date_json != update_date_web):
         print("Need to update")
         num =  int(data_list[14])
