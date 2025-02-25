@@ -29,8 +29,8 @@ def generate(filepath):
     timetable_holiday = []
     print("update: " + update_date)
     for i in range(num):
-        timetable_item = str(data_list[19 + (i * 15)]) + ":" + str(data_list[19 + ((i * 15) + 5)])
-        day_type = data_list[19 + ((i * 15) + 2)]
+        timetable_item = str(data_list[17 + (i * 15)]) + ":" + str(data_list[17 + ((i * 15) + 5)])
+        day_type = data_list[17 + ((i * 15) + 2)]
         print("type: " + day_type + ", item : " + timetable_item)
         if day_type == '0':
             timetable_weekday.append(timetable_item)
@@ -41,6 +41,12 @@ def generate(filepath):
         else:
             # error
             print("error")
+    print("weekday")
+    print(timetable_weekday)
+    print("saturday")
+    print(timetable_saturday)
+    print("holiday")
+    print(timetable_holiday)
 
 
 if __name__ == '__main__':
