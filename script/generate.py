@@ -6,6 +6,7 @@ import urllib.error
 import re
 import os
 
+
 def get_data(url):
     context = ssl.create_default_context()
     context.set_ciphers('DEFAULT:@SECLEVEL=1')
@@ -59,6 +60,7 @@ def generate(file_path):
     url = get_value_from_json(json_data, "url")
     if url == "":
         print("No URL")
+        return 1
 
     # Get data from internet
     data_string = get_data(url)
@@ -107,21 +109,21 @@ def generate(file_path):
         write_json_file(file_path, json_data)
     else:
         print("No need to update")
+    return 0
 
 
 def generate_in_directory(subdirectory_path):
     for entry in os.listdir(subdirectory_path):
         file_path = os.path.join(subdirectory_path, entry)
         if os.path.isfile(file_path) and file_path.endswith('.json'):
-            generate(file_path)
+            result = generate(file_path)
 
 
 def generate_all(directory_path):
     for entry in os.listdir(directory_path):
         subdirectory_path = os.path.join(directory_path, entry)
         if os.path.isdir(subdirectory_path):
-            generate_in_directory(subdirectory_path)
-
+            result = generate_in_directory(subdirectory_path)
 
 if __name__ == '__main__':
     directory_path = sys.argv[1]
