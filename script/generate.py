@@ -11,7 +11,7 @@ def get_dummy_data():
 
 def get_data3(url):
     context = ssl.create_default_context()
-    context.options |= ssl.OP_NO_TLSv1 | ssl.OP_NO_TLSv1_1
+    context.set_ciphers('DEFAULT:@SECLEVEL=1')
     req = urllib.request.Request(url=url)
     try:
         with urllib.request.urlopen(req, context=context) as f:
