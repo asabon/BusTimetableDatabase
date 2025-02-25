@@ -16,6 +16,8 @@ def get_data3(url):
     try:
         with urllib.request.urlopen(req, context=context) as f:
             result = f.read().decode()
+            print("data is ...")
+            print(result)
         return result
     except urllib.error.URLError as e:
         print(f'Error: {e.reason}')
