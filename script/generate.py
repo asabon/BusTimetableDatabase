@@ -1,8 +1,20 @@
 import requests
+import ssl
+from requests.adapters import HTTPAdapter
+from requests.packages.urllib3.poolmanager import PoolManager
 import certifi
 import json
 import sys
 
+
+class TLSAdapter(HTTPAdapter):
+    def init_poolmanager(self, connections, maxsize, block=False, **pool_kwargs):
+        self.poolmanager = PoolManager(
+            num_pools=connections,
+            maxsize=maxsize,
+            block=block,
+            ssl_version=ssl.PROTOCOL_TLSv1_2
+        )
 
 def get_dummy_data():
     return "head 2024/07/07 0 0 0 0 0 0 0 0 0 0 0 0 - 42 0 6 39 0 0 0 01 0 0 0 0 0 0 0 0 heso 6 49 1 0 0 49 0 0 0 0 0 0 0 0 heso 6 49 2 0 0 49 0 0 0 0 0 0 0 0 heso 7 34 0 0 0 34 0 0 0 0 0 0 0 0 heso 7 54 2 0 0 54 0 0 0 0 0 0 0 0 heso 8 44 0 0 0 44 0 0 0 0 0 0 0 0 heso 8 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 9 58 0 0 0 58 0 0 0 0 0 0 0 0 heso 9 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 9 3 2 0 0 03 0 0 0 0 0 0 0 0 heso 10 58 0 0 0 58 0 0 0 0 0 0 0 0 heso 10 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 10 3 2 0 0 03 0 0 0 0 0 0 0 0 heso 11 39 0 0 0 39 0 0 0 0 0 0 0 0 heso 11 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 11 3 2 0 0 03 0 0 0 0 0 0 0 0 heso 12 44 0 0 0 44 0 0 0 0 0 0 0 0 heso 12 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 12 3 2 0 0 03 0 0 0 0 0 0 0 0 heso 13 44 0 0 0 44 0 0 0 0 0 0 0 0 heso 13 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 13 3 2 0 0 03 0 0 0 0 0 0 0 0 heso 14 44 0 0 0 44 0 0 0 0 0 0 0 0 heso 14 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 14 3 2 0 0 03 0 0 0 0 0 0 0 0 heso 15 44 0 0 0 44 0 0 0 0 0 0 0 0 heso 15 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 15 3 2 0 0 03 0 0 0 0 0 0 0 0 heso 16 58 0 0 0 58 0 0 0 0 0 0 0 0 heso 16 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 16 3 2 0 0 03 0 0 0 0 0 0 0 0 heso 17 54 0 0 0 54 0 0 0 0 0 0 0 0 heso 17 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 17 3 2 0 0 03 0 0 0 0 0 0 0 0 heso 18 58 0 0 0 58 0 0 0 0 0 0 0 0 heso 18 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 18 6 2 0 0 06 0 0 0 0 0 0 0 0 heso 19 18 0 0 0 18 0 0 0 0 0 0 0 0 heso 19 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 19 3 2 0 0 03 0 0 0 0 0 0 0 0 heso 20 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 20 3 2 0 0 03 0 0 0 0 0 0 0 0 heso end"
@@ -10,7 +22,9 @@ def get_dummy_data():
 
 def get_data(url):
     # url_dummy = 'https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803215-11/node:00129495/kt:0/lname:/dts:1740420000'
-    response = requests.get(url, verify=certifi.where())
+    session = requests.Session()
+    session.mount('https://', TLSAdapter())
+    response = session.get(url)
     if response.status_code == 200:
         print("Success!")
         print(response.content)
