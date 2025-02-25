@@ -21,4 +21,10 @@ jobs:
           pip install requests
 
       - name: Generate
-        run: python script/generate.py "database/神奈川中央交通"
+        run: python script/generate.py "database/神奈川中央交通/町17_町田バスセンター行_木曽南団地経由_淵野辺駅北口発/11_町田総合高校前.json"
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+            name: new-timetable
+            path: database/神奈川中央交通/町17_町田バスセンター行_木曽南団地経由_淵野辺駅北口発/11_町田総合高校前.json

@@ -1,5 +1,7 @@
 import requests
 import certifi
+import json
+import sys
 
 
 def get_dummy_data():
@@ -19,35 +21,71 @@ def get_data(url):
         return None
 
 
-def generate(filepath):
-    data_string = get_dummy_data()
+def read_json_file(file_path):
+    try:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            data = json.load(file)
+            return data
+    except Exception as e:
+        print(f"error {e}")
+        return None
+
+
+def write_json_file(file_path, json_data):
+    try:
+        with open(file_path, 'w', encoding='utf-8') as file:
+            json.dump(json_data, file, ensure_ascii=False, indent=4)
+    except Exception as e:
+        print(f"error {e}")
+
+
+def get_value_from_json(json_data, key):
+    return json_data.get(key)
+
+
+def set_value_in_json(json_data, key, value):
+    json_data[key] = value
+    return json_data
+
+
+def generate(file_path):
+    # Get data from json
+    json_data = read_json_file(file_path)
+    update_date_json = get_value_from_json(json_data, "date")
+
+    # Get data from internet
+    data_string = get_dummy_data() # Dummy data (TODO: Change to official function.)
     data_list = data_string.split()
-    update_date = data_list[1]
-    num =  int(data_list[15])
-    timetable_weekday = []
-    timetable_saturday = []
-    timetable_holiday = []
-    print("update: " + update_date)
-    for i in range(num):
-        timetable_item = str(data_list[17 + (i * 15)]) + ":" + str(data_list[17 + ((i * 15) + 5)])
-        day_type = data_list[17 + ((i * 15) + 2)]
-        print("type: " + day_type + ", item : " + timetable_item)
-        if day_type == '0':
-            timetable_weekday.append(timetable_item)
-        elif day_type == '1':
-            timetable_saturday.append(timetable_item)
-        elif day_type == '2':
-            timetable_holiday.append(timetable_item)
-        else:
-            # error
-            print("error")
-    print("weekday")
-    print(timetable_weekday)
-    print("saturday")
-    print(timetable_saturday)
-    print("holiday")
-    print(timetable_holiday)
+    update_date_web = data_list[1]
+
+    # Judge to update
+    if (update_date_json != update_date_web):
+        print("Need to update")
+        num =  int(data_list[15])
+        timetable_weekday = []
+        timetable_saturday = []
+        timetable_holiday = []
+        print("update: " + update_date_web)
+        for i in range(num):
+            timetable_item = str(data_list[17 + (i * 15)]) + ":" + str(data_list[17 + ((i * 15) + 5)])
+            day_type = data_list[17 + ((i * 15) + 2)]
+            print("type: " + day_type + ", item : " + timetable_item)
+            if day_type == '0':
+                timetable_weekday.append(timetable_item)
+            elif day_type == '1':
+                timetable_saturday.append(timetable_item)
+            elif day_type == '2':
+                timetable_holiday.append(timetable_item)
+            else:
+                print("error")
+        set_value_in_json(json_data, timetable_weekday)
+        set_value_in_json(json_data, timetable_saturday)
+        set_value_in_json(json_data, timetable_holiday)
+        write_json_file(file_path)
+    else:
+        print("No need to update")
 
 
 if __name__ == '__main__':
-    generate("")
+    file_path = sys.argv[1]
+    generate(file_path)
