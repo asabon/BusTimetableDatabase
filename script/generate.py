@@ -72,13 +72,14 @@ def generate(file_path):
     url = get_value_from_json(json_data, "url")
     if url == "":
         print("No URL")
-        return
+        sys.exit(1)
 
     # Get data from internet
     data_string = get_data2(url)
     if data_string == None:
         print("[Error] The data can't get from internet")
-        return
+        sys.exit(2)
+
     data_list = data_string.split()
     update_date_web = data_list[1]
 
@@ -101,7 +102,7 @@ def generate(file_path):
             elif day_type == '2':
                 timetable_holiday.append(timetable_item)
             else:
-                print("error")
+                sys.exit(3)
         set_value_in_json(json_data, "date", update_date_web)
         set_value_in_json(json_data, "weekday", timetable_weekday)
         set_value_in_json(json_data, "saturday", timetable_saturday)
