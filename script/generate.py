@@ -97,8 +97,8 @@ def generate(file_path):
     data_list = data_string.split("\n")
 
     # for Debug
-    # for j in range(16, 30):
-    #    print("data_list[" + str(j) + "] : " + data_list[j])
+    for j in range(0, 30):
+        print("data_list[" + str(j) + "] : " + data_list[j])
 
     # Judge to update
     update_date_web = data_list[2]
