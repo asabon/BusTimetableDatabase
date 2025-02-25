@@ -9,8 +9,8 @@ def get_dummy_data():
 
 
 def get_data(url):
-    url_dummy = 'https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803215-11/node:00129495/kt:0/lname:/dts:1740420000'
-    response = requests.get(url_dummy, verify=certifi.where())
+    # url_dummy = 'https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803215-11/node:00129495/kt:0/lname:/dts:1740420000'
+    response = requests.get(url, verify=certifi.where())
     if response.status_code == 200:
         print("Success!")
         print(response.content)
@@ -40,7 +40,7 @@ def write_json_file(file_path, json_data):
 
 
 def get_value_from_json(json_data, key):
-    return json_data.get(key)
+    return json_data.get(key, "")
 
 
 def set_value_in_json(json_data, key, value):
@@ -49,12 +49,21 @@ def set_value_in_json(json_data, key, value):
 
 
 def generate(file_path):
-    # Get data from json
+    # Get data from json file
     json_data = read_json_file(file_path)
     update_date_json = get_value_from_json(json_data, "date")
 
+    # Get URL from json data
+    url = get_value_from_json(json_data, "url")
+    if url == "":
+        print("No URL")
+        return
+
     # Get data from internet
-    data_string = get_dummy_data() # Dummy data (TODO: Change to official function.)
+    data_string = get_data(url)
+    if data_string == None:
+        print("[Error] The data can't get from internet")
+        return
     data_list = data_string.split()
     update_date_web = data_list[1]
 
