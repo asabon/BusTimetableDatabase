@@ -1,4 +1,3 @@
-import requests
 import json
 import sys
 import ssl
@@ -7,10 +6,7 @@ import urllib.error
 import re
 
 
-def get_dummy_data():
-    return "head 2024/07/07 0 0 0 0 0 0 0 0 0 0 0 0 - 42 0 6 39 0 0 0 01 0 0 0 0 0 0 0 0 heso 6 49 1 0 0 49 0 0 0 0 0 0 0 0 heso 6 49 2 0 0 49 0 0 0 0 0 0 0 0 heso 7 34 0 0 0 34 0 0 0 0 0 0 0 0 heso 7 54 2 0 0 54 0 0 0 0 0 0 0 0 heso 8 44 0 0 0 44 0 0 0 0 0 0 0 0 heso 8 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 9 58 0 0 0 58 0 0 0 0 0 0 0 0 heso 9 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 9 3 2 0 0 03 0 0 0 0 0 0 0 0 heso 10 58 0 0 0 58 0 0 0 0 0 0 0 0 heso 10 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 10 3 2 0 0 03 0 0 0 0 0 0 0 0 heso 11 39 0 0 0 39 0 0 0 0 0 0 0 0 heso 11 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 11 3 2 0 0 03 0 0 0 0 0 0 0 0 heso 12 44 0 0 0 44 0 0 0 0 0 0 0 0 heso 12 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 12 3 2 0 0 03 0 0 0 0 0 0 0 0 heso 13 44 0 0 0 44 0 0 0 0 0 0 0 0 heso 13 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 13 3 2 0 0 03 0 0 0 0 0 0 0 0 heso 14 44 0 0 0 44 0 0 0 0 0 0 0 0 heso 14 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 14 3 2 0 0 03 0 0 0 0 0 0 0 0 heso 15 44 0 0 0 44 0 0 0 0 0 0 0 0 heso 15 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 15 3 2 0 0 03 0 0 0 0 0 0 0 0 heso 16 58 0 0 0 58 0 0 0 0 0 0 0 0 heso 16 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 16 3 2 0 0 03 0 0 0 0 0 0 0 0 heso 17 54 0 0 0 54 0 0 0 0 0 0 0 0 heso 17 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 17 3 2 0 0 03 0 0 0 0 0 0 0 0 heso 18 58 0 0 0 58 0 0 0 0 0 0 0 0 heso 18 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 18 6 2 0 0 06 0 0 0 0 0 0 0 0 heso 19 18 0 0 0 18 0 0 0 0 0 0 0 0 heso 19 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 19 3 2 0 0 03 0 0 0 0 0 0 0 0 heso 20 3 1 0 0 03 0 0 0 0 0 0 0 0 heso 20 3 2 0 0 03 0 0 0 0 0 0 0 0 heso end"
-
-def get_data3(url):
+def get_data(url):
     context = ssl.create_default_context()
     context.set_ciphers('DEFAULT:@SECLEVEL=1')
     req = urllib.request.Request(url=url)
@@ -22,32 +18,6 @@ def get_data3(url):
         return result
     except urllib.error.URLError as e:
         print(f'Error: {e.reason}')
-        return None
-
-def get_data2(url):
-    context = ssl.create_default_context()
-    req = urllib.request.Request(url=url)
-    try:
-        with urllib.request.urlopen(req, context=context) as f:
-            result = f.read().decode()
-        return result
-    except urllib.error.URLError as e:
-        print(f'Error: {e.reason}')
-        return None
-
-def get_data(url):
-    # url_dummy = 'https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803215-11/node:00129495/kt:0/lname:/dts:1740420000'
-    response = requests.get(url)
-    if response.status_code == 200:
-        print("Success!")
-        print("response.text")
-        print(response.text)
-        print("response.content")
-        print(response.content)
-        return response.content
-    else:
-        print("Failed to retrieve the page")
-        print(f"Status code: {response.status_code}")
         return None
 
 
@@ -90,7 +60,7 @@ def generate(file_path):
         sys.exit(1)
 
     # Get data from internet
-    data_string = get_data3(url)
+    data_string = get_data(url)
     if data_string == None:
         print("[Error] The data can't get from internet")
         sys.exit(2)
@@ -118,7 +88,7 @@ def generate(file_path):
         timetable_holiday = []
         print("update: " + update_date_web)
         for i in range(num):
-            timetable_item = str(data_list[16 + (i * 15)]) + ":" + str(data_list[16 + ((i * 15) + 1)])
+            timetable_item = str(data_list[16 + (i * 15)]) + ":" + str(data_list[16 + ((i * 15) + 1)]).zfill(2)
             day_type = data_list[16 + ((i * 15) + 2)]
             print("type: " + day_type + ", item : " + timetable_item)
             if day_type == '0':
