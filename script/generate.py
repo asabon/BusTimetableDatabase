@@ -95,12 +95,6 @@ def generate(file_path):
         sys.exit(2)
 
     data_list = data_string.split()
-    #print("data_list[0]  : <" + data_list[0] + ">")
-    #print("data_list[1]  : <" + data_list[1] + ">")
-    #print("data_list[2]  : <" + data_list[2] + ">")
-    #print("data_list[14] : <" + data_list[14] + ">")
-    #print("data_list[15] : <" + data_list[15] + ">")
-    #print("data_list[16] : <" + data_list[16] + ">")
     update_date_web = data_list[2]
 
     # Judge to update
