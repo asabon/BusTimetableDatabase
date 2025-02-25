@@ -82,7 +82,7 @@ def generate(file_path):
         set_value_in_json(json_data, "weekday", timetable_weekday)
         set_value_in_json(json_data, "saturday", timetable_saturday)
         set_value_in_json(json_data, "holiday", timetable_holiday)
-        write_json_file(json_data, file_path)
+        write_json_file(file_path, json_data)
     else:
         print("No need to update")
 
