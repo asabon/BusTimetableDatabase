@@ -35,7 +35,7 @@ def read_json_file(file_path):
 def write_json_file(file_path, json_data):
     try:
         with open(file_path, 'w', encoding='utf-8') as file:
-            json.dump(json_data, file, ensure_ascii=False, indent=4)
+            json.dump(json_data, file, ensure_ascii=False, indent=2)
     except Exception as e:
         print(f"error {e}")
 
