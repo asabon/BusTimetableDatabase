@@ -91,14 +91,16 @@ def generate(file_path):
         timetable_saturday = []
         timetable_holiday = []
         for i in range(num):
-            if (data_list[16 + (i * 15)] < 0) or (data_list[16 + (i * 15)] > 24):
-                print("[Error] data_list[" + str(16 + (i * 15)) + "] = " + str(data_list[16 + (i * 15)]))
-                sys.exit(4)
-            if (data_list[16 + (i * 15) + 1] < 0) or (data_list[16 + (i * 15) + 1] > 24):
-                print("[Error] data_list[" + str(16 + (i * 15) + 1) + "] = " + str(data_list[16 + (i * 15) + 1]))
-                sys.exit(5)
-            timetable_item = str(data_list[16 + (i * 15)]) + ":" + str(data_list[16 + ((i * 15) + 1)]).zfill(2)
+            hour = int(data_list[16 + (i * 15)])
+            minute = int(data_list[16 + (i * 15) + 1])
             day_type = data_list[16 + ((i * 15) + 2)]
+            if (hour < 0) or (hour > 24):
+                print("[Error] data[" + str(i) + "] = " + str(hour))
+                sys.exit(4)
+            if (minute < 0) or (minute > 24):
+                print("[Error] data[" + str(i) + "] = " + str(minute))
+                sys.exit(5)
+            timetable_item = str(hour) + ":" + str(minute).zfill(2)
             print("type: " + day_type + ", item : " + timetable_item)
             if day_type == '0':
                 timetable_weekday.append(timetable_item)
