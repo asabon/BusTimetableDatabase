@@ -125,6 +125,7 @@ def generate_all(directory_path):
         if os.path.isdir(subdirectory_path):
             result = generate_in_directory(subdirectory_path)
 
+
 if __name__ == '__main__':
     directory_path = sys.argv[1]
     generate_all(directory_path)
