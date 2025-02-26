@@ -95,10 +95,12 @@ def generate(file_path):
             minute = int(data_list[16 + (i * 15) + 1])
             day_type = data_list[16 + ((i * 15) + 2)]
             if (hour < 0) or (hour > 24):
-                print("[Error] data[" + str(i) + "] = " + str(hour))
+                print("[Error] num = " + str(num) + ", i = " + str(i) + ", hour = " + str(hour))
+                print(data_list)
                 sys.exit(4)
             if (minute < 0) or (minute > 24):
-                print("[Error] data[" + str(i) + "] = " + str(minute))
+                print("[Error] num = " + str(num) + ", i = " + str(i) + ", minute = " + str(minute))
+                print(data_list)
                 sys.exit(5)
             timetable_item = str(hour) + ":" + str(minute).zfill(2)
             print("type: " + day_type + ", item : " + timetable_item)
