@@ -59,7 +59,7 @@ def generate(file_path):
     # Get URL from json data
     url = get_value_from_json(json_data, "url")
     if url == "":
-        print("No URL")
+        print("=> No URL")
         return 1
 
     # Get data from internet
@@ -71,8 +71,8 @@ def generate(file_path):
     data_list = data_string.split("\n")
 
     # for Debug
-    for j in range(0, 30):
-        print("data_list[" + str(j) + "] : " + data_list[j])
+    #for j in range(0, 30):
+    #    print("data_list[" + str(j) + "] : " + data_list[j])
 
     pattern = r'\d{4}/\d{2}/\d{2}'
     match = re.search(pattern, data_list[0])
@@ -80,17 +80,23 @@ def generate(file_path):
         update_date_web = match.group()
     else:
         update_date_web = ""
-        print("Can't get update date")
+        print("[Error] Can't get update date")
         sys.exit(3)
 
+    print("local: " + update_date_json + ", web: " + update_date_web)
     if (update_date_json != update_date_web):
-        print("Need to update")
+        print("=> Need to update")
         num =  int(data_list[14])
         timetable_weekday = []
         timetable_saturday = []
         timetable_holiday = []
-        print("update: " + update_date_web)
         for i in range(num):
+            if (data_list[16 + (i * 15)] < 0) or (data_list[16 + (i * 15)] > 24):
+                print("[Error] data_list[" + str(16 + (i * 15)) + "] = " + str(data_list[16 + (i * 15)]))
+                sys.exit(4)
+            if (data_list[16 + (i * 15) + 1] < 0) or (data_list[16 + (i * 15) + 1] > 24):
+                print("[Error] data_list[" + str(16 + (i * 15) + 1) + "] = " + str(data_list[16 + (i * 15) + 1]))
+                sys.exit(5)
             timetable_item = str(data_list[16 + (i * 15)]) + ":" + str(data_list[16 + ((i * 15) + 1)]).zfill(2)
             day_type = data_list[16 + ((i * 15) + 2)]
             print("type: " + day_type + ", item : " + timetable_item)
@@ -108,7 +114,7 @@ def generate(file_path):
         set_value_in_json(json_data, "holiday", timetable_holiday)
         write_json_file(file_path, json_data)
     else:
-        print("No need to update")
+        print("=> No need to update")
     return 0
 
 
