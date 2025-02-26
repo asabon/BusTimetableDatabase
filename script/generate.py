@@ -98,7 +98,7 @@ def generate(file_path):
                 print("[Error] num = " + str(num) + ", i = " + str(i) + ", hour = " + str(hour))
                 print(data_list)
                 sys.exit(4)
-            if (minute < 0) or (minute > 24):
+            if (minute < 0) or (minute > 59):
                 print("[Error] num = " + str(num) + ", i = " + str(i) + ", minute = " + str(minute))
                 print(data_list)
                 sys.exit(5)
