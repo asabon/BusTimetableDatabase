@@ -23,6 +23,14 @@ jobs:
       - name: Generate timetable
         run: python script/generate.py "database/神奈川中央交通"
 
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "Update timetable"
+          title: "Update timetable"
+          body: "Update timetable"
+          branch: "feature/update-timetable"
+
 #      - name: Upload artifact
 #        uses: actions/upload-artifact@v4
 #        with:
