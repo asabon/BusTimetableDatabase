@@ -1,5 +1,5 @@
 {
-  "date": "2024/03/16",
+  "date": "2022/10/16",
   "name": "町田バスセンター",
   "position": "13番のりば",
   "system": "町60",
@@ -49,7 +49,6 @@
     "7:46",
     "8:46"
   ],
-  "holiday": [
-  ],
+  "holiday": [],
   "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802031-1/node:00025625/kt:3/lname:/dts:1740679200"
 }

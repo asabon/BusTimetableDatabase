@@ -1,5 +1,5 @@
 {
-  "date": "2024/03/06",
+  "date": "2024/03/16",
   "name": "木曽南団地",
   "position": "-",
   "system": "町12",
@@ -18,13 +18,14 @@
     "町田ターミナル"
   ],
   "weekday": [
-    "9:06", "9:20", "9:30",
+    "9:06",
+    "9:20",
+    "9:30",
     "10:32"
   ],
   "saturday": [
     "10:19"
   ],
-  "holiday": [
-  ],
+  "holiday": [],
   "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803170-1/node:00129384/kt:1/lname:/dts:1740679200"
 }
