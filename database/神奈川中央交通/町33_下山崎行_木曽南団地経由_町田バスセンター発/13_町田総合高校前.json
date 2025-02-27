@@ -1,0 +1,21 @@
+{
+    "date": "2001/01/01",
+    "name": "町田総合高校前",
+    "position": "郵便局前",
+    "system": "町33",
+    "destinations": [
+      "秋葉神社入口",
+      "忠生公園前",
+      "山崎小学校前(東京都)",
+      "上山崎",
+      "山崎高校入口",
+      "下山崎(町田市)"
+    ],
+    "weekday": [
+    ],
+    "saturday": [
+    ],
+    "holiday": [
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802682-13/node:00129495/kt:0/lname:/dts:1740679200"
+}
