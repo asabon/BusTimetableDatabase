@@ -10,6 +10,11 @@ on:
         required: true
         type: boolean
         default: false
+      createPullRequest:
+        description: 'Create pull request'
+        required: true
+        type: boolean
+        default: true
 
 jobs:
   execute:
@@ -30,16 +35,21 @@ jobs:
 
       - name: Set arguments for schedule
         if: github.event_name == 'schedule'
-        run: echo "FORCE_UPDATE=false" >> $GITHUB_ENV
+        run: |
+          echo "FORCE_UPDATE=false" >> $GITHUB_ENV
+          echo "CREATE_PULL_REQUEST=true" >> $GITHUB_ENV
 
       - name: Set arguments for manual dispatch
         if: github.event_name == 'workflow_dispatch'
-        run: echo "FORCE_UPDATE=${{ github.event.inputs.forceUpdate }}" >> $GITHUB_ENV
+        run: |
+          echo "FORCE_UPDATE=${{ github.event.inputs.forceUpdate }}" >> $GITHUB_ENV
+          echo "CREATE_PULL_REQUEST=${{ github.event.inputs.createPullRequest }}" >> $GITHUB_ENV
 
       - name: Generate timetable
-        run: python script/generate.py "database/神奈川中央交通" $FORCE_UPDATE
+        run: python script/generate.py "database/神奈川中央交通" ${{ env.FORCE_UPDATE }}
 
       - name: Create pull request
+        if: env.CREATE_PULL_REQUEST == 'true'
         uses: peter-evans/create-pull-request@v7
         with:
           commit-message: "Update timetable"
