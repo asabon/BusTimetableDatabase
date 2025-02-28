@@ -49,7 +49,7 @@ def set_value_in_json(json_data, key, value):
     return json_data
 
 
-def generate(file_path):
+def generate(file_path, force_update):
     print("file: " + file_path)
 
     # Get data from json file
@@ -84,6 +84,8 @@ def generate(file_path):
         sys.exit(3)
 
     print("local: " + update_date_json + ", web: " + update_date_web)
+    if force_update == True:
+        update_date_json = "-"
     if (update_date_json != update_date_web):
         print("=> Need to update")
         num =  int(data_list[14])
@@ -122,20 +124,25 @@ def generate(file_path):
     return 0
 
 
-def generate_in_directory(subdirectory_path):
+def generate_in_directory(subdirectory_path, force_update):
     for entry in os.listdir(subdirectory_path):
         file_path = os.path.join(subdirectory_path, entry)
         if os.path.isfile(file_path) and file_path.endswith('.json'):
-            result = generate(file_path)
+            result = generate(file_path, force_update)
 
 
-def generate_all(directory_path):
+def generate_all(directory_path, force_update):
     for entry in os.listdir(directory_path):
         subdirectory_path = os.path.join(directory_path, entry)
         if os.path.isdir(subdirectory_path):
-            result = generate_in_directory(subdirectory_path)
+            result = generate_in_directory(subdirectory_path, force_update)
+
+
+def str_to_bool(value):
+    return value.lower() in ("true", "1", "t", "y", "yes")
 
 
 if __name__ == '__main__':
     directory_path = sys.argv[1]
-    generate_all(directory_path)
+    force_update = str_to_bool(sys.argv[2])
+    generate_all(directory_path, force_update)

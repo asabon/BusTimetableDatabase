@@ -1,7 +1,20 @@
 name: Generate Timetable
 
 on:
-    workflow_dispatch:
+  schedule:
+    - cron: '0 0 1 * *' # 毎月1日の00:00に実行
+  workflow_dispatch:
+    inputs:
+      forceUpdate:
+        description: 'Force update'
+        required: true
+        type: boolean
+        default: false
+      createPullRequest:
+        description: 'Create pull request'
+        required: true
+        type: boolean
+        default: true
 
 jobs:
   execute:
@@ -20,19 +33,26 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
+      - name: Set arguments for schedule
+        if: github.event_name == 'schedule'
+        run: |
+          echo "FORCE_UPDATE=false" >> $GITHUB_ENV
+          echo "CREATE_PULL_REQUEST=true" >> $GITHUB_ENV
+
+      - name: Set arguments for manual dispatch
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          echo "FORCE_UPDATE=${{ github.event.inputs.forceUpdate }}" >> $GITHUB_ENV
+          echo "CREATE_PULL_REQUEST=${{ github.event.inputs.createPullRequest }}" >> $GITHUB_ENV
+
       - name: Generate timetable
-        run: python script/generate.py "database/神奈川中央交通"
+        run: python script/generate.py "database/神奈川中央交通" ${{ env.FORCE_UPDATE }}
 
       - name: Create pull request
+        if: env.CREATE_PULL_REQUEST == 'true'
         uses: peter-evans/create-pull-request@v7
         with:
           commit-message: "Update timetable"
           title: "Update timetable"
           body: "Update timetable"
           branch: "feature/update-timetable"
-
-#      - name: Upload artifact
-#        uses: actions/upload-artifact@v4
-#        with:
-#            name: new-timetable
-#            path: database/神奈川中央交通/町17_町田バスセンター行_木曽南団地経由_淵野辺駅北口発/11_町田総合高校前.json
