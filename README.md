@@ -1,18 +1,16 @@
 [![Release](https://github.com/asabon/BusTimeTableDatabase/actions/workflows/release.yml/badge.svg?branch=main&event=push)](https://github.com/asabon/BusTimeTableDatabase/actions/workflows/release.yml)
 [![Check database](https://github.com/asabon/BusTimeTableDatabase/actions/workflows/check_database.yml/badge.svg?branch=main&event=push)](https://github.com/asabon/BusTimeTableDatabase/actions/workflows/check_database.yml)
 
-# ButTimeTableDatabase
+# BusTimetableDatabase
 
 ## 概要
 
 * json 形式で作成した、神奈中バスの時刻表データベース。
-* 手作業での入力のため、自分が必要な部分しか入力してない。
+* データは神奈中のウェブサイトから取得。
 
 ## 目的
 
-* 自作のバスの時刻表を扱うアプリから参照できるデータの構築。
-* データを public リポジトリで公開することで自分以外の人にもデータ編集できるようにする。
-* 最終的には自動的に最新の時刻表を取り込めるようにしたい・・・
+* 自作のバスの時刻表を扱うアプリから利用する。
 
 ## ディレクトリ構成
 
@@ -27,6 +25,32 @@
   + hash.txt
 + script/
 ```
+
+## ファイル構造
+
+```json
+{
+  "date": "2001/01/01",
+  "name": "町田バスセンター",
+  "position": "2番のりば",
+  "system": "町12",
+  "destinations": [
+    "町田市役所市民ホール前",
+    ...(省略)
+  ],
+  "weekday": [
+    "17:48",
+    ...(省略)
+  ],
+  "saturday": [],
+  "holiday": [],
+  "url": "https://...(省略)"
+}
+```
+
+## 注意点
+
+* 自分が必要な部分しか作成していない。
 
 ## LICENSE
 
