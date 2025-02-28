@@ -26,11 +26,11 @@
     "都立野津田高校"
   ],
   "weekday": [
-    "7:17", "7:40", "7:50"
+    "7:17",
+    "7:40",
+    "7:50"
   ],
-  "saturday": [
-  ],
-  "holiday": [
-  ],
+  "saturday": [],
+  "holiday": [],
   "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802472-1/node:00025625/kt:2/lname:/dts:1740679200"
 }
