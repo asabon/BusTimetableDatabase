@@ -19,14 +19,14 @@
   "weekday": [
     "17:48",
     "19:30",
-    "20:20", "20:59"
+    "20:20",
+    "20:59"
   ],
   "saturday": [
     "9:55",
     "10:55",
     "20:44"
   ],
-  "holiday": [
-  ],
+  "holiday": [],
   "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800088-2/node:00025625/kt:0/lname:/dts:1740506400"
 }

@@ -17,13 +17,16 @@
     "町田バスセンター"
   ],
   "weekday": [
-    "7:05", "7:12", "7:20", "7:30",
-    "8:05", "8:30"
+    "7:05",
+    "7:12",
+    "7:20",
+    "7:30",
+    "8:05",
+    "8:30"
   ],
   "saturday": [
     "8:24"
   ],
-  "holiday": [
-  ],
+  "holiday": [],
   "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803162-1/node:00129384/kt:0/lname:/dts:1740679200"
 }
