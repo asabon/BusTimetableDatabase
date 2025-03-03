@@ -16,10 +16,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5.4.0
         with:
-          python-version: '3.10'
+          python-version: '3.13'
 
       - name: Get old hash
         run: |
@@ -40,6 +40,7 @@ jobs:
           mkdir release
           zip -r release/database.zip database
           echo "${{ env.NEW_HASH }}" > release/hash.txt
+          python script/generate_info.py release/info.json "${{ env.NEW_HASH }}"
 
       - name: Create pull request
         if: env.OLD_HASH != env.NEW_HASH
