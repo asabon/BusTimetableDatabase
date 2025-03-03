@@ -7,6 +7,8 @@ from edit_json import set_value_in_json
 
 def generate_info(file_path, hash):
     json_data = read_json_file(file_path)
+    if json_data is None:
+        json_data = {} # ファイルが存在しなかったら新規作成
     set_value_in_json(json_data, "hash", hash)
     write_json_file(file_path, json_data)
     return
