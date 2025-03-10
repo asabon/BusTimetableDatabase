@@ -7,6 +7,7 @@ on:
     paths:
       - 'database/**'
       - '.github/workflows/release.yml'
+
   workflow_dispatch:
 
 jobs:
@@ -40,7 +41,7 @@ jobs:
           mkdir release
           zip -r release/database.zip database
           echo "${{ env.NEW_HASH }}" > release/hash.txt
-          python script/generate_info.py release/info.json "${{ env.NEW_HASH }}"
+          python script/edit_json.py release/info.json "hash", "${{ env.NEW_HASH }}"
 
       - name: Create pull request
         if: env.OLD_HASH != env.NEW_HASH
