@@ -37,7 +37,7 @@ def update_json_file(file_path, key, value):
 
 
 if __name__ == '__main__':
-    if len(sys.argv > 1):
+    if len(sys.argv) > 1:
         command = sys.argv[1]
     else:
         print("Usage: python edit_json.py <parameters>")
@@ -45,7 +45,7 @@ if __name__ == '__main__':
         print("    - update <file_path> <key> <value>")
         sys.exit(1)
     if command == "update":
-        if len(sys.argv == 5):
+        if len(sys.argv) == 5:
             file_path = sys.argv[2]
             key = sys.argv[3]
             value = sys.argv[4]
