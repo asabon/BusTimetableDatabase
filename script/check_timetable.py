@@ -23,7 +23,15 @@ def check_timetable(file_path):
             print(f"Error: {result}, File: {file_path}")
             return result
         # Check "weekday, saturday, holiday" field
-        result = check_time(data)
+        result = check_time(data, "weekday")
+        if result != 0:
+            print(f"Error: {result}, File: {file_path}")
+            return result
+        result = check_time(data, "saturday")
+        if result != 0:
+            print(f"Error: {result}, File: {file_path}")
+            return result
+        result = check_time(data, "holiday")
         if result != 0:
             print(f"Error: {result}, File: {file_path}")
             return result
@@ -95,6 +103,7 @@ def check_time(data, field):
         previousTime = convert_time_to_int(previousItem)
         currentTime = convert_time_to_int(currentItem)
         if previousTime > currentTime:
+            print(f"[Error] %field [%count] : %previousItem -> %currentItem")
             return 14000003
         count = count + 1
     return 0
