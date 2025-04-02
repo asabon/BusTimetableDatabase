@@ -110,7 +110,11 @@ def check_time(data, field):
 
 
 def convert_time_to_int(time: str) -> int:
+    if not re.match(r"^\d{2}:\d{2}$", time):
+        raise ValueError(f"%time is unexpected format.")
     hh, mm = map(int, time.split(":"))
+    if not (0 <= hh <= 24 and 0 <= mm <= 59):
+        raise ValueError(f"%time is unexpected range.")
     return hh * 100 + mm
 
 
