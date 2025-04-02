@@ -103,7 +103,7 @@ def check_time(data, field):
         previousTime = convert_time_to_int(previousItem)
         currentTime = convert_time_to_int(currentItem)
         if previousTime > currentTime:
-            print(f"[Error] %field [%count] : %previousItem -> %currentItem")
+            print(f"[Error] {field} [{count}] : {previousItem} -> {currentItem}")
             return 14000003
         count = count + 1
     return 0
@@ -111,10 +111,10 @@ def check_time(data, field):
 
 def convert_time_to_int(time: str) -> int:
     if not re.match(r"^\d{2}:\d{2}$", time):
-        raise ValueError(f"%time is unexpected format.")
+        raise ValueError(f"{time} is unexpected format.")
     hh, mm = map(int, time.split(":"))
     if not (0 <= hh <= 24 and 0 <= mm <= 59):
-        raise ValueError(f"%time is unexpected range.")
+        raise ValueError(f"{time} is unexpected range.")
     return hh * 100 + mm
 
 
