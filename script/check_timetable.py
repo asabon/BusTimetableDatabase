@@ -22,6 +22,11 @@ def check_timetable(file_path):
         if result != 0:
             print(f"Error: {result}, File: {file_path}")
             return result
+        # Check "weekday, saturday, holiday" field
+        result = check_time(data)
+        if result != 0:
+            print(f"Error: {result}, File: {file_path}")
+            return result
     except FileNotFoundError:
         print(f"Error: 10000001, File: {file_path}")
         return 10000001
@@ -74,6 +79,30 @@ def check_destinations(data):
             # 自バス停が destinations に含まれている
             return 13000004
     return 0
+
+
+# "weekday, saturday, holiday" フィールドのチェック
+def check_time(data, field):
+    if field not in data:
+        # フィールドが存在しなかった
+        return 14000001
+    if not isinstance(data[field], list):
+        # フィールドが list 形式でない
+        return 14000002
+    count = 0
+    previousItem = ""
+    for currentItem in data[field]:
+        previousTime = convert_time_to_int(previousItem)
+        currentTime = convert_time_to_int(currentItem)
+        if previousTime > currentTime:
+            return 14000003
+        count = count + 1
+    return 0
+
+
+def convert_time_to_int(time: str) -> int:
+    hh, mm = map(int, time.split(":"))
+    return hh * 100 + mm
 
 
 if __name__ == '__main__':

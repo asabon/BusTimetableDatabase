@@ -1,17 +1,11 @@
 name: Check database
 
 on:
-  push:
-    branches:
-      - main
-    paths-ignore:
-      - 'release/**'
-
   pull_request:
     branches:
       - main
-    paths-ignore:
-      - 'release/**'
+    paths:
+      - 'database/神奈川中央交通/**/*.json'
   
   workflow_dispatch:
 
