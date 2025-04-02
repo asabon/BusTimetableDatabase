@@ -100,11 +100,14 @@ def check_time(data, field):
     count = 0
     previousItem = ""
     for currentItem in data[field]:
-        previousTime = convert_time_to_int(previousItem)
-        currentTime = convert_time_to_int(currentItem)
-        if previousTime > currentTime:
-            print(f"[Error] {field} [{count}] : {previousItem} -> {currentItem}")
-            return 14000003
+        if count >= 1:
+            previousTime = convert_time_to_int(previousItem)
+            currentTime = convert_time_to_int(currentItem)
+            if previousTime > currentTime:
+                print(f"[Error] {field} [{count}] : {previousItem} -> {currentItem}")
+                return 14000003
+        # Prepare to next loop
+        previousItem = currentItem
         count = count + 1
     return 0
 
