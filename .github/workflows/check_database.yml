@@ -1,6 +1,15 @@
 name: Check database
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/check_database.yml'
+      - 'script/check_all.py'
+      - 'script/check_timetable.py'
+      - 'database/神奈川中央交通/**/*.json'
+
   pull_request:
     branches:
       - main
