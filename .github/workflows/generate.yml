@@ -56,3 +56,4 @@ jobs:
           title: "Update timetable"
           body: "Update timetable"
           branch: "feature/update-timetable"
+          delete-branch: true
