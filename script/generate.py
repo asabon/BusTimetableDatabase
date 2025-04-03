@@ -90,14 +90,21 @@ def generate(file_path, force_update):
                 timetable_holiday.append(timetable_item)
             else:
                 sys.exit(3)
+        sorted_timetable_weekday = sort_time_list(timetable_weekday)
+        sorted_timetable_saturday = sort_time_list(timetable_saturday)
+        sorted_timetable_holiday = sort_time_list(timetable_holiday)
         set_value_in_json(json_data, "date", update_date_web)
-        set_value_in_json(json_data, "weekday", timetable_weekday)
-        set_value_in_json(json_data, "saturday", timetable_saturday)
-        set_value_in_json(json_data, "holiday", timetable_holiday)
+        set_value_in_json(json_data, "weekday", sorted_timetable_weekday)
+        set_value_in_json(json_data, "saturday", sorted_timetable_saturday)
+        set_value_in_json(json_data, "holiday", sorted_timetable_holiday)
         write_json_file(file_path, json_data)
     else:
         print("=> No need to update")
     return 0
+
+
+def sort_time_list(time_list):
+    return sorted(time_list, key=lambda time: int(time.split(":")[0]) * 60 + int(time.split(":")[1]))
 
 
 def generate_in_directory(subdirectory_path, force_update):
