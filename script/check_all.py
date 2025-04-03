@@ -1,7 +1,5 @@
 import sys
 import os
-import json
-import re
 from check_timetable import check_timetable
 
 def check_all(rootdir):
