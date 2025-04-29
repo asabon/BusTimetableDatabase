@@ -24,7 +24,7 @@ jobs:
 
       - name: Get old hash
         run: |
-          OLD_HASH=$(cat release/hash.txt)
+          OLD_HASH=$(python script/get_hash_from_json.py release/info.json)
           echo "OLD_HASH=$OLD_HASH" >> $GITHUB_ENV
           echo "OLD_HASH=<$OLD_HASH>"
 
@@ -40,7 +40,6 @@ jobs:
           rm -rf release/
           mkdir release
           zip -r release/database.zip database
-          echo "${{ env.NEW_HASH }}" > release/hash.txt
           python script/edit_json.py update release/info.json "hash" "${{ env.NEW_HASH }}"
 
       - name: Create pull request
