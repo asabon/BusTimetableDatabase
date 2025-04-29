@@ -9,6 +9,5 @@ def get_hash_from_json(filepath):
 
 if __name__ == "__main__":
     filepath = sys.argv[1]
-    key = sys.argv[2]
     hash_value = get_hash_from_json(filepath)
-    print(f"{key}={hash_value}")
+    print(hash_value)
