@@ -24,6 +24,7 @@ jobs:
 
       - name: Get old hash
         run: |
+          python script/get_hash_from_json.py release/info.json OLD_HASH
           python script/get_hash_from_json.py release/info.json OLD_HASH >> $GITHUB_ENV
           echo "OLD_HASH=<${{ env.OLD_HASH }}>"
 
@@ -32,6 +33,7 @@ jobs:
           NEW_HASH=$(python -c "from script.hash import hash_directory; print(hash_directory('database'))")
           echo "NEW_HASH=$NEW_HASH" >> $GITHUB_ENV
           echo "NEW_HASH=<$NEW_HASH>"
+          echo "NEW_HASH=<<${{ env.NEW_HASH }}>>"
 
       - name: Create release file
         if: env.OLD_HASH != env.NEW_HASH
