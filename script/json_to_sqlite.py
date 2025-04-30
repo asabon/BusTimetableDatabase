@@ -3,8 +3,9 @@ import sqlite3
 import os
 import sys
 
-def create_database(filename):
-    conn = sqlite3.connect(filename)
+def json_to_sqlite(root_directory, output_file):
+    # データベース作成
+    conn = sqlite3.connect(output_file)
     cursor = conn.cursor()
     cursor.execute("""
     CREATE TABLE IF NOT EXISTS timetable (
@@ -18,26 +19,24 @@ def create_database(filename):
         holiday TEXT
     )
     """)
-    return cursor
-
-def json_to_sqlite(root_directory, output_file):
-
-    print("root_directory = " + root_directory)
-    print("output_file    = " + output_file)
-
-    # データベース作成
-    # cursor = create_database(output_file)
-
     sub_directories = os.listdir(root_directory)
     for sub_directory in sub_directories:
-        print("sub_directory: " + sub_directory)
-        files = os.listdir(root_directory + "/" + sub_directory)
+        sub_directory_with_path = os.path.join(root_directory, sub_directory)
+        files = os.listdir(sub_directory_with_path)
         for file in files:
-            file_with_path = root_directory + "/" + sub_directory + "/" + file
-            print("file: " + file_with_path)
+            file_with_path = os.path.join(root_directory, sub_directory, file)
             if (file != "route.json"):
-                with open(file_with_path, "r", encoding="utf-8") as file_json:
-                    data = json.load(file_json)
+                try:
+                    with open(file_with_path, "r", encoding="utf-8") as file_json:
+                        data = json.load(file_json)
+                        cursor.execute("INSERT INTO timetable (name, position, system, destinations, weekday, saturday, holiday) VALUES (?, ?, ?, ?, ?, ?, ?)",
+                        (data["name"], data["position"], data["system"], json.dumps(data["destinations"]),
+                        json.dumps(data["weekday"]), json.dumps(data["saturday"]), json.dumps(data["holiday"])))
+                except json.JSONDecodeError:
+                    print(f"JSON read error: {file_with_path}")
+                    continue
+    conn.commit()
+    conn.close()
 
 if __name__ == '__main__':
     root_directory = sys.argv[1]

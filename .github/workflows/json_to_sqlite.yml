@@ -18,3 +18,9 @@ jobs:
       - name: Create database
         run: |
           python script/json_to_sqlite.py 'database/神奈川中央交通' timetable.db
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: timetable-database-sqlite
+          path: timetable.db
