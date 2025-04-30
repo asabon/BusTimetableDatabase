@@ -31,9 +31,9 @@ def json_to_sqlite(root_directory, output_file):
     sub_directories = os.listdir(root_directory)
     for sub_directory in sub_directories:
         print("sub_directory: " + sub_directory)
-        files = os.listdir(sub_directory)
+        files = os.listdir(root_directory + "/" + sub_directory)
         for file in files:
-            print("file: " + file)
+            print("file: " + root_directory + "/" + sub_directory + "/" + file)
             #with open("a.json", "r", encoding="utf-8") as file:
             #    data = json.load(file)
 
