@@ -33,9 +33,11 @@ def json_to_sqlite(root_directory, output_file):
         print("sub_directory: " + sub_directory)
         files = os.listdir(root_directory + "/" + sub_directory)
         for file in files:
-            print("file: " + root_directory + "/" + sub_directory + "/" + file)
-            #with open("a.json", "r", encoding="utf-8") as file:
-            #    data = json.load(file)
+            file_with_path = root_directory + "/" + sub_directory + "/" + file
+            print("file: " + file_with_path)
+            if (file != "route.json"):
+                with open(file_with_path, "r", encoding="utf-8") as file_json:
+                    data = json.load(file_json)
 
 if __name__ == '__main__':
     root_directory = sys.argv[1]
