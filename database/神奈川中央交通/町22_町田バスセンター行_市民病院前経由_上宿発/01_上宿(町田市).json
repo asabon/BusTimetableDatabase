@@ -1,5 +1,5 @@
 {
-  "date": "2023/03/17",
+  "date": "2023/03/18",
   "name": "上宿(町田市)",
   "position": "-",
   "system": "町22",
@@ -17,10 +17,9 @@
     "町田バスセンター"
   ],
   "weekday": [
+    "6:50"
   ],
-  "saturday": [
-  ],
-  "holiday": [
-  ],
+  "saturday": [],
+  "holiday": [],
   "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803177-1/node:00129365/kt:0/lname:/dts:1745949600"
 }
