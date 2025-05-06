@@ -100,7 +100,7 @@ def update_nodes(file_path, busstops_path):
 def do_process(dir_path):
     print(f"Process to {dir_path}")
     route_json_path = os.path.join(dir_path, "route.json")
-    busstops_json_path = os.path.join(dir_path, "..", "busstops.json")
+    busstops_json_path = os.path.join(dir_path, "..", "..", "..", "work", "busstops.json")
     if os.path.exists(route_json_path):
         # ディレクトリ内の route.json を更新する
         update_route(route_json_path)
