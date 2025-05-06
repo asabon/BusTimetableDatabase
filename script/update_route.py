@@ -19,13 +19,13 @@ def update_route(file_path):
         route_data = json.load(route_json)
         url = route_data.get("url")
         if url != None:
-            print(url)
+            #print(url)
             data_string = get_data(url)
             data_list = data_string.split("\n")
             for data in data_list:
                 if re.match(r"^\s*<li id=\"\d+-\d+\">.*</li>\s*$", data) != None:
                     route = get_busstop(data)
-                    print(f"{route}")
+                    #print(f"{route}")
                     route_data["route"] = route
         else:
             print("URL is NOT exist.")
@@ -34,7 +34,7 @@ def update_route(file_path):
     
 
 def do_process(dir_path):
-    #print(f"Process to {dir_path}")
+    print(f"Process to {dir_path}")
     route_json_path = os.path.join(dir_path, "route.json")
     if os.path.exists(route_json_path):
         #print(f"Check route.json")
