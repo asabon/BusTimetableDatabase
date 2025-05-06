@@ -1,10 +1,9 @@
 {
   "date": "2024/07/08",
   "name": "町田バスセンター",
-  "position": "2番のりば",
+  "position": "5番のりば",
   "system": "町15",
   "destinations": [
-    "町田バスセンター15番線",
     "町田市役所市民ホール前",
     "妙延寺(町田市)",
     "森野五丁目",
@@ -51,5 +50,5 @@
     "22:20",
     "23:11"
   ],
-  "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801107-1/node:00025625/kt:0/lname:/dts:1746468000"
+  "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801075-1/node:00025625/kt:2/lname:/dts:1746468000"
 }
