@@ -14,6 +14,7 @@ def get_busstop(data_string):
     return converted_data
 
 
+# 各ディレクトリの route.json を更新する
 def update_route(file_path):
     with open(file_path, "r", encoding="utf-8") as route_json:
         route_data = json.load(route_json)
@@ -31,19 +32,48 @@ def update_route(file_path):
             print("URL is NOT exist.")
     with open(file_path, "w", encoding="utf-8") as route_json:
         json.dump(route_data, route_json, indent=2, ensure_ascii=False)
-    
+
+def update_destinations(file_path, route_json_path):
+    print(f"file_path:       {file_path}")
+    print(f"route_json_path: {route_json_path}")
+    with open(route_json_path, "r", encoding="utf-8") as route_json:
+        route_data = json.load(route_json)
+        route_list = route_data.get("route")
+    if route_list == None:
+        print("route.json is empty.")
+        return
+    with open(file_path, "r", encoding="utf-8") as busstop_json:
+        busstop_data = json.load(busstop_json)
+        name = busstop_data.get("name")
+        isMatched = False
+        new_dest_list = []
+        for route in route_list:
+            if isMatched:
+                new_dest_list.append(route)
+            if name == route:
+                isMatched = True
+        busstop_data["destinations"] = new_dest_list
+    with open(file_path, "w", encoding="utf-8") as busstop_json:
+        json.dump(busstop_data, busstop_json, indent=2, ensure_ascii=False)
+
 
 def do_process(dir_path):
     print(f"Process to {dir_path}")
     route_json_path = os.path.join(dir_path, "route.json")
     if os.path.exists(route_json_path):
-        #print(f"Check route.json")
+        # ディレクトリ内の route.json を更新する
         update_route(route_json_path)
+        # ディレクトリ内の各バス停の destinations を更新する
+        for root, dirs, files in os.walk(dir_path):
+            for file_name in files:
+                if file_name != "route.json":
+                    file_path = os.path.join(root, file_name)
+                    update_destinations(file_path, route_json_path)
     else:
         print(f"route_json_path is NOT exist.")
 
 if __name__ == "__main__":
-    rootdir = os.path.join("..", "database", "神奈川中央交通")
+    rootdir = os.path.join("database", "神奈川中央交通")
     for root, dirs, files in os.walk(rootdir):
         for dir_name in dirs:
             sub_dir_path = os.path.join(root, dir_name)
