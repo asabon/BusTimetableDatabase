@@ -1,28 +1,11 @@
-import json
 import sys
-import ssl
-import urllib.request
-import urllib.error
 import re
 import os
 from edit_json import read_json_file
 from edit_json import write_json_file
 from edit_json import get_value_from_json
 from edit_json import set_value_in_json
-
-def get_data(url):
-    context = ssl.create_default_context()
-    context.set_ciphers('DEFAULT:@SECLEVEL=1')
-    req = urllib.request.Request(url=url)
-    try:
-        with urllib.request.urlopen(req, context=context) as f:
-            result = f.read().decode()
-            # print("data is ...")
-            # print(result)
-        return result
-    except urllib.error.URLError as e:
-        print(f'Error: {e.reason}')
-        return None
+from web_access import get_data
 
 
 def generate(file_path, force_update):
