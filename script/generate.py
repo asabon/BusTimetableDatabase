@@ -93,7 +93,7 @@ def sort_time_list(time_list):
 def generate_in_directory(subdirectory_path, force_update):
     for entry in os.listdir(subdirectory_path):
         file_path = os.path.join(subdirectory_path, entry)
-        if os.path.isfile(file_path) and file_path.endswith('.json'):
+        if entry != "route.json" and os.path.isfile(file_path) and file_path.endswith('.json'):
             result = generate(file_path, force_update)
 
 
