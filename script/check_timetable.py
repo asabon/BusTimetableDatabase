@@ -52,7 +52,7 @@ def check_date(data):
         return 11000001
     date_string = data["date"]
     date_pattern = re.compile(r"^\d{4}/\d{2}/\d{2}$")
-    if (date_string != "-") or (date_pattern.match(date_string) == None):
+    if (date_string != "-") and (date_pattern.match(date_string) == None):
         # "date" フィールドの値が日付形式もしくは "-" ではなかった
         return 11000002
     return 0
