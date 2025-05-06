@@ -6,7 +6,7 @@ def check_all(rootdir):
     error_flag = 0
     for subdir, _, files in os.walk(rootdir):
         for file in files:
-            if file != "route.json" and file.endswith('.json'):
+            if file != "busstops.json" and file != "route.json" and file.endswith('.json'):
                 file_path = os.path.join(subdir, file)
                 result = check_timetable(file_path)
                 if result != 0:
