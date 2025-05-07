@@ -7,13 +7,25 @@ import re
 import unicodedata
 from web_access import get_data
 
+
+# カタカナ以外の全角文字（アルファベット、数字、記号）を半角文字に変換する。
+# 引数は配列で受け取る想定。
+def to_halfwidth_except_katakana_list(strings):
+    katakana_pattern = re.compile(r'[\u30A0-\u30FF]+')
+    return [
+        ''.join(
+            c if katakana_pattern.match(c) else unicodedata.normalize('NFKC', c)
+            for c in string
+        ) for string in strings
+    ]
+
 def to_halfwidth_list(strings):
     return [unicodedata.normalize('NFKC', c) for c in strings]
 
 
 def get_busstop(data_string):
     matches = re.findall(r"<span class=\"busStopPoint\">(.*?)</span>", data_string)
-    converted_data = to_halfwidth_list(matches)
+    converted_data = to_halfwidth_except_katakana_list(matches)
     return converted_data
 
 def get_node_id(data_string):
