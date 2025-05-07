@@ -1,6 +1,7 @@
 import os
 import hashlib
 
+# ファイルからハッシュ値を取得する
 def hash_file(file_path):
     """Calculate the SHA-256 hash of a file."""
     sha256 = hashlib.sha256()
@@ -9,6 +10,7 @@ def hash_file(file_path):
             sha256.update(block)
     return sha256.hexdigest()
 
+# ディレクトリからハッシュ値を取得する
 def hash_directory(directory_path):
     """Calculate a combined hash for all text files in a directory."""
     sha256 = hashlib.sha256()
