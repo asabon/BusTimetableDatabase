@@ -1,5 +1,5 @@
 {
-  "date": "-",
+  "date": "2020/09/05",
   "name": "上宿(町田市)",
   "position": "-",
   "system": "町63",
@@ -18,7 +18,9 @@
     "小山小学校前(町田市)",
     "横土手"
   ],
-  "weekday": [],
+  "weekday": [
+    "23:37"
+  ],
   "saturday": [],
   "holiday": [],
   "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802952-13/node:00129365/kt:0/lname:/"

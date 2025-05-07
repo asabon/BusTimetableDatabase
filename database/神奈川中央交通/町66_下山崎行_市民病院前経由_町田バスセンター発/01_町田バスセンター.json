@@ -1,5 +1,5 @@
 {
-  "date": "-",
+  "date": "2024/07/08",
   "name": "町田バスセンター",
   "position": "-",
   "system": "町66",
@@ -20,7 +20,18 @@
     "山崎高校入口",
     "下山崎(町田市)"
   ],
-  "weekday": [],
+  "weekday": [
+    "9:15",
+    "9:45",
+    "10:15",
+    "10:50",
+    "11:50",
+    "12:50",
+    "13:50",
+    "14:50",
+    "15:45",
+    "17:02"
+  ],
   "saturday": [],
   "holiday": [],
   "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802683-2/node:00025625/kt:0/lname:/"
