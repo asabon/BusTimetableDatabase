@@ -1,11 +1,24 @@
 # 使い方
-# ルートディレクトリにて、以下のコマンドで実行
-# > python script/update_route.py
+# リポジトリのルートディレクトリにて、以下のコマンドで実行
+# > python script/update_route.py database/神奈川中央交通 work/busstops.json
+import sys
 import os
 import json
 import re
 import unicodedata
 from web_access import get_data
+
+
+# カタカナ以外の全角文字（アルファベット、数字、記号）を半角文字に変換する。
+# 引数は配列で受け取る想定。
+def to_halfwidth_except_katakana_list(strings):
+    katakana_pattern = re.compile(r'[\u30A0-\u30FF]+')
+    return [
+        ''.join(
+            c if katakana_pattern.match(c) else unicodedata.normalize('NFKC', c)
+            for c in string
+        ) for string in strings
+    ]
 
 def to_halfwidth_list(strings):
     return [unicodedata.normalize('NFKC', c) for c in strings]
@@ -13,7 +26,7 @@ def to_halfwidth_list(strings):
 
 def get_busstop(data_string):
     matches = re.findall(r"<span class=\"busStopPoint\">(.*?)</span>", data_string)
-    converted_data = to_halfwidth_list(matches)
+    converted_data = to_halfwidth_except_katakana_list(matches)
     return converted_data
 
 def get_node_id(data_string):
@@ -76,8 +89,6 @@ def update_nodes(file_path, busstops_path):
         for it in busstops:
             it_name = it.get("name")
             it_node = it.get("node_id")
-            #print(f"name: {it_name}")
-            #print(f"node_id: {it_node}")
             if (db_name == it_name):
                 if (db_node == it_node):
                     isMatched = True
@@ -97,10 +108,10 @@ def update_nodes(file_path, busstops_path):
         json.dump(busstops_data, busstops_json, indent=2, ensure_ascii=False)
 
 
-def do_process(dir_path):
+# 一つのディレクトリに対して処理を行う
+def do_process(dir_path, busstops_json_path):
     print(f"Process to {dir_path}")
     route_json_path = os.path.join(dir_path, "route.json")
-    busstops_json_path = os.path.join(dir_path, "..", "..", "..", "work", "busstops.json")
     if os.path.exists(route_json_path):
         # ディレクトリ内の route.json を更新する
         update_route(route_json_path)
@@ -109,14 +120,22 @@ def do_process(dir_path):
             for file_name in files:
                 if file_name != "route.json":
                     file_path = os.path.join(root, file_name)
+                    # 各時刻表情報の destinations を更新する
                     update_destinations(file_path, route_json_path)
+                    # 各時刻表情報の URL から、バス停の node_id を取得し、busstops.json に取り込む
                     update_nodes(file_path, busstops_json_path)
     else:
         print(f"route_json_path is NOT exist.")
 
+
+# 各ディレクトリにある route.json を更新する
+# - route.json に書かれている "url" からデータを取得し、結果を "route" に取り込む
 if __name__ == "__main__":
-    rootdir = os.path.join("database", "神奈川中央交通")
+    rootdir = sys.argv[1]
+    busstops_json_path = sys.argv[2]
     for root, dirs, files in os.walk(rootdir):
         for dir_name in dirs:
+            # 引数で渡されたルートディレクトリの直下にある、
+            # すべてのサブディレクトリに対して処理を実行する
             sub_dir_path = os.path.join(root, dir_name)
-            do_process(sub_dir_path)
+            do_process(sub_dir_path, busstops_json_path)
