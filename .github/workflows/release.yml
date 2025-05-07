@@ -1,13 +1,6 @@
 name: Release
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'database/**'
-      - '.github/workflows/release.yml'
-
   workflow_dispatch:
 
 jobs:
