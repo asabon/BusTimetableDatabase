@@ -1,13 +1,28 @@
 {
-  "date": "-",
+  "date": "2025/04/01",
   "name": "町田市役所市民ホール前",
   "position": "-",
   "system": "町36",
   "destinations": [
     "町田バスセンター"
   ],
-  "weekday": [],
-  "saturday": [],
-  "holiday": [],
+  "weekday": [
+    "8:45",
+    "9:54",
+    "16:21",
+    "16:48",
+    "18:36",
+    "19:24"
+  ],
+  "saturday": [
+    "9:44",
+    "12:05",
+    "14:25"
+  ],
+  "holiday": [
+    "9:43",
+    "12:04",
+    "14:24"
+  ],
   "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803460-33/node:00129356/kt:0/lname:/"
 }
