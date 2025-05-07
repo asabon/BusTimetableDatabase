@@ -81,11 +81,12 @@ def check_destinations(data):
     if not data["destinations"]:
         # "destinations" フィールドが空っぽ
         return 13000003
-    name_string = data["name"]
-    for destination in data["destinations"]:
-        if name_string == destination:
-            # 自バス停が destinations に含まれている
-            return 13000004
+    # 巡回バスの場合は自バス停が含まれる場合があるので除外しておく
+    #name_string = data["name"]
+    #for destination in data["destinations"]:
+    #    if name_string == destination:
+    #        # 自バス停が destinations に含まれている
+    #        return 13000004
     return 0
 
 
