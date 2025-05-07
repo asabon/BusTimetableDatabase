@@ -1,5 +1,5 @@
 {
-  "date": "-",
+  "date": "2022/10/16",
   "name": "上宿(町田市)",
   "position": "-",
   "system": "町60",
@@ -30,8 +30,14 @@
     "旭農協前",
     "橋本駅北口"
   ],
-  "weekday": [],
-  "saturday": [],
+  "weekday": [
+    "7:52",
+    "9:12"
+  ],
+  "saturday": [
+    "7:57",
+    "8:57"
+  ],
   "holiday": [],
   "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802031-13/node:00129365/kt:0/lname:/"
 }
