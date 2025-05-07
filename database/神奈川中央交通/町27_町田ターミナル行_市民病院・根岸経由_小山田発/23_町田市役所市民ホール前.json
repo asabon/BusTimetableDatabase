@@ -3,7 +3,10 @@
   "name": "町田市役所市民ホール前",
   "position": "-",
   "system": "町27",
-  "destinations": [],
+  "destinations": [
+    "町田バスセンター",
+    "町田ターミナル"
+  ],
   "weekday": [],
   "saturday": [],
   "holiday": [],

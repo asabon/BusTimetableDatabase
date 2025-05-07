@@ -3,7 +3,9 @@
   "name": "町田市役所市民ホール前",
   "position": "-",
   "system": "町26",
-  "destinations": [],
+  "destinations": [
+    "町田バスセンター"
+  ],
   "weekday": [],
   "saturday": [],
   "holiday": [],
