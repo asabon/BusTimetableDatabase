@@ -1,6 +1,13 @@
 import json
 import sys
 
+# json ファイルからデータを読み込む
+# 引数
+# - file_path: 読み込みたい json ファイルのパス
+# 戻り値
+# - json_data: 読み込まれた json データ
+# エラー
+# - 想定外のエラーが発生した際、 None を返す
 def read_json_file(file_path):
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
@@ -10,6 +17,7 @@ def read_json_file(file_path):
         return None
 
 
+# json ファイルにデータを書き出す
 def write_json_file(file_path, json_data):
     try:
         with open(file_path, 'w', encoding='utf-8') as file:
