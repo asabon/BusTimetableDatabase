@@ -1,0 +1,24 @@
+{
+  "date": "-",
+  "name": "上宿(町田市)",
+  "position": "-",
+  "system": "町27",
+  "destinations": [
+    "下根岸(町田市)",
+    "根岸(根岸町/町田市)",
+    "馬駈",
+    "図師大橋",
+    "日影橋",
+    "日大三高入口",
+    "桜橋(町田市)",
+    "大泉寺",
+    "山の端",
+    "小山田小学校前",
+    "押越",
+    "小山田(町田市)"
+  ],
+  "weekday": [],
+  "saturday": [],
+  "holiday": [],
+  "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802475-13/node:00129365/kt:0/lname:/"
+}
