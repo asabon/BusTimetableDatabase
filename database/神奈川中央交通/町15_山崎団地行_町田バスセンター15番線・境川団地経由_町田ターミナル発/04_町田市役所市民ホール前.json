@@ -1,5 +1,5 @@
 {
-  "date": "-",
+  "date": "2025/04/01",
   "name": "町田市役所市民ホール前",
   "position": "-",
   "system": "町15",
@@ -21,7 +21,12 @@
     "北二号(町田市)",
     "山崎団地"
   ],
-  "weekday": [],
+  "weekday": [
+    "9:22",
+    "10:22",
+    "11:22",
+    "12:16"
+  ],
   "saturday": [],
   "holiday": [],
   "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802965-4/node:00129356/kt:0/lname:/"

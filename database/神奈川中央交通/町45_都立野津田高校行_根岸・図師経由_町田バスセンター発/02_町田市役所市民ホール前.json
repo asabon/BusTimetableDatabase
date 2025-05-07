@@ -1,5 +1,5 @@
 {
-  "date": "-",
+  "date": "2025/04/01",
   "name": "町田市役所市民ホール前",
   "position": "-",
   "system": "町45",
@@ -24,7 +24,11 @@
     "南多摩整形外科",
     "都立野津田高校"
   ],
-  "weekday": [],
+  "weekday": [
+    "7:19",
+    "7:42",
+    "7:52"
+  ],
   "saturday": [],
   "holiday": [],
   "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802472-2/node:00129356/kt:0/lname:/"
