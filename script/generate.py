@@ -39,8 +39,8 @@ def generate(file_path, force_update):
         update_date_web = match.group()
     else:
         update_date_web = ""
-        print("[Error] Can't get update date")
-        sys.exit(3)
+        print("Can't get update date")
+        return 2
 
     print("local: " + update_date_json + ", web: " + update_date_web)
     if force_update == True:

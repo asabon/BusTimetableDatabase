@@ -33,10 +33,10 @@ def generate_template(dir_path, busstops_path):
     with open(busstops_path, "r", encoding="utf-8") as busstops_json:
         busstops_data = json.load(busstops_json)
         busstops_list = busstops_data.get("busstops")
-    id = 1
+    id = 0
     for route in route_list:
-        filename = f"{id:02}_{route}.json"
         id = id + 1
+        filename = f"{id:02}_{route}.json"
         matchedId = 0
         for busstops in busstops_list:
             if route == busstops["name"]:
