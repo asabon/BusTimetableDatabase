@@ -1,5 +1,6 @@
 @echo off
+chcp 65001 > nul
 
-python .\script\create_template.py .\database\_“Şì’†‰›Œğ’Ê .\work\busstops.json
-python .\script\update_route.py .\database\_“Şì’†‰›Œğ’Ê .\work\busstops.json
-python script/generate.py "database/_“Şì’†‰›Œğ’Ê" False
+python .\script\create_template.py .\database\ç¥å¥ˆå·ä¸­å¤®äº¤é€š .\work\busstops.json
+python .\script\update_route.py .\database\ç¥å¥ˆå·ä¸­å¤®äº¤é€š .\work\busstops.json
+python script/generate.py "database/ç¥å¥ˆå·ä¸­å¤®äº¤é€š" False
