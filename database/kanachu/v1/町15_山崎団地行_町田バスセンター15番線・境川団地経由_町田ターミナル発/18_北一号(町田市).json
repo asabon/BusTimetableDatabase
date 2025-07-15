@@ -1,0 +1,19 @@
+{
+  "date": "2025/04/01",
+  "name": "北一号(町田市)",
+  "position": "-",
+  "system": "町15",
+  "destinations": [
+    "北二号(町田市)",
+    "山崎団地"
+  ],
+  "weekday": [
+    "9:38",
+    "10:38",
+    "11:38",
+    "12:32"
+  ],
+  "saturday": [],
+  "holiday": [],
+  "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802965-18/node:00129390/kt:0/lname:/"
+}

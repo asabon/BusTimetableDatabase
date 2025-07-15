@@ -3,10 +3,12 @@ import urllib.request
 import ssl
 import hashlib
 import os
+import datetime
 
 # このスクリプトと同じディレクトリに "cache" ディレクトリを作成しキャッシュデータを格納する
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 CACHE_DIR = os.path.join(SCRIPT_DIR, "cache")
+CACHE_EXPIRATION_DAYS = 7
 
 # URLからキャッシュ用のファイル名を生成する
 def get_cached_filename(url):
@@ -23,8 +25,17 @@ def get_data(url, force_update=False):
     os.makedirs(CACHE_DIR, exist_ok=True)
     cache_file = get_cached_filename(url)
 
+    cache_valid = False
+
+    if os.path.exists(cache_file):
+        mtime = os.path.getmtime(cache_file)
+        last_modified = datetime.datetime.fromtimestamp(mtime)
+        now = datetime.datetime.now()
+        age = (now - last_modified).days
+        cache_valid = age < CACHE_EXPIRATION_DAYS
+
     # キャッシュが存在したらそれを読み込む
-    if os.path.exists(cache_file) and not force_update:
+    if os.path.exists(cache_file) and cache_valid and not force_update:
         with open(cache_file, "r", encoding="utf-8") as f:
             return f.read()
 
