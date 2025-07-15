@@ -52,8 +52,8 @@ jobs:
 
       - name: Generate timetable(v1)
         run: |
-          python script/v1/update_route.py database/kanachu/v1 ./work/busstops.json
-          python script/v1/generate.py database/kanachu/v1 ${{ env.FORCE_UPDATE }}
+          python script/v1/update_route.py database/kanachu/v1/database ./work/busstops.json
+          python script/v1/generate.py database/kanachu/v1/database ${{ env.FORCE_UPDATE }}
 
       - name: Create pull request
         if: env.CREATE_PULL_REQUEST == 'true'
