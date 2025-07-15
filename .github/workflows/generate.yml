@@ -47,7 +47,7 @@ jobs:
 
       - name: Generate timetable
         run: |
-          python script/update_route.py "database/神奈川中央交通"
+          python script/update_route.py "database/神奈川中央交通" ./work/busstops.json
           python script/generate.py "database/神奈川中央交通" ${{ env.FORCE_UPDATE }}
 
       - name: Create pull request
