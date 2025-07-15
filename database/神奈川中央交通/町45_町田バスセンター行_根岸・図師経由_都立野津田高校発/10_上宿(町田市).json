@@ -16,7 +16,12 @@
     "町田市役所市民ホール前",
     "町田バスセンター"
   ],
-  "weekday": [],
+  "weekday": [
+    "8:14",
+    "15:59",
+    "16:24",
+    "18:14"
+  ],
   "saturday": [],
   "holiday": [],
   "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803195-10/node:00129365/kt:7/lname:/dts:1745949600"
