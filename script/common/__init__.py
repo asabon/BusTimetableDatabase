@@ -7,3 +7,5 @@ from .edit_json import get_value_from_json
 from .edit_json import set_value_in_json
 from .edit_json import update_json_file
 from .web_access import get_data
+from .hash import hash_file
+from .hash import hash_directory
