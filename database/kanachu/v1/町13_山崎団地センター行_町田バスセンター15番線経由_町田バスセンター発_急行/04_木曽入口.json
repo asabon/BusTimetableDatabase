@@ -1,0 +1,26 @@
+{
+  "date": "2024/07/08",
+  "name": "木曽入口",
+  "position": "-",
+  "system": "町13",
+  "destinations": [
+    "山崎団地入口",
+    "山崎団地センター"
+  ],
+  "weekday": [
+    "8:11",
+    "8:19",
+    "8:29",
+    "9:26",
+    "9:57",
+    "10:26",
+    "10:57",
+    "11:57",
+    "12:39",
+    "12:47",
+    "12:57"
+  ],
+  "saturday": [],
+  "holiday": [],
+  "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802960-4/node:00129386/kt:0/lname:/"
+}

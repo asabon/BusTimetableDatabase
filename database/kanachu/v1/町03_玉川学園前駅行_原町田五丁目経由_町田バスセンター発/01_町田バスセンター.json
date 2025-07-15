@@ -1,0 +1,22 @@
+{
+  "date": "2025/04/01",
+  "name": "町田バスセンター",
+  "position": "-",
+  "system": "町03",
+  "destinations": [
+    "原町田五丁目",
+    "町田第一小学校入口",
+    "中町三丁目(町田市)",
+    "協同住宅",
+    "南大谷都営前",
+    "小田急住宅前(町田市)",
+    "玉川学園前駅"
+  ],
+  "weekday": [
+    "8:36",
+    "9:55"
+  ],
+  "saturday": [],
+  "holiday": [],
+  "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803702-2/node:00025625/kt:0/lname:/"
+}

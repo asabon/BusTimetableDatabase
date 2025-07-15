@@ -1,0 +1,13 @@
+{
+  "date": "2025/04/01",
+  "name": "町田バスセンター",
+  "position": "-",
+  "system": "町27",
+  "destinations": [
+    "町田ターミナル"
+  ],
+  "weekday": [],
+  "saturday": [],
+  "holiday": [],
+  "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803208-24/node:00025625/kt:0/lname:/"
+}
