@@ -37,8 +37,14 @@ jobs:
           python script/json_to_sqlite.py 'database/神奈川中央交通' timetable.db
           zip -r release/database-sql.zip timetable.db
 
+      - name: Release for v1
+        run: |
+          mkdir release/kanachu/v1
+          HASH_V1=$(python -c "from script.hash import hash_directory; print(hash_directory('database/kanachu/v1'))")
+          python script/edit_json.py update release/kanachu/v1/info.json "hash" $HASH_V1"
+          zip -r release/kanachu/v1/database.zip database/kanachu/v1
+
       - name: Create pull request
-        if: env.OLD_HASH != env.NEW_HASH
         uses: peter-evans/create-pull-request@v7
         with:
           commit-message: "Automated changes"
@@ -48,7 +54,6 @@ jobs:
           add-paths: "release"
 
       - name: Upload artifact
-        if: env.OLD_HASH != env.NEW_HASH
         uses: actions/upload-artifact@v4
         with:
           name: timetable-database
