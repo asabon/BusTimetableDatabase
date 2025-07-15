@@ -42,7 +42,9 @@ jobs:
           mkdir -p release/kanachu/v1
           HASH_V1=$(python -c "from script.common.hash import hash_directory; print(hash_directory('database/kanachu/v1'))")
           python script/common/edit_json.py update release/kanachu/v1/info.json "hash" $HASH_V1
-          zip -r release/kanachu/v1/database.zip database/kanachu/v1
+          pushd database/kanachu/v1
+          zip -r release/kanachu/v1/database.zip .
+          popd
 
       - name: Create pull request
         uses: peter-evans/create-pull-request@v7
