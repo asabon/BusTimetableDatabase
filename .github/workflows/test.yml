@@ -27,7 +27,7 @@ jobs:
 
       - name: Run pytest
         run: |
-          pytest --cov=script --cov-report=html:htmlcov --cov-report=term > coverage.txt
+          pytest --cov=script --cov-config=coverage.ini --cov-report=html:htmlcov --cov-report=term > coverage.txt
 
       - name: Upload coverage report
         uses: actions/upload-artifact@v4
