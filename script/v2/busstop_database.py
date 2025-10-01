@@ -1,7 +1,7 @@
-from common.edit_json import read_json_file
-from common.edit_json import write_json_file
-from common.edit_json import set_value_in_json
-from common.edit_json import get_value_from_json
+from script.common.edit_json import read_json_file
+from script.common.edit_json import write_json_file
+from script.common.edit_json import set_value_in_json
+from script.common.edit_json import get_value_from_json
 
 class BusStopDatabase:
     # 初期化
@@ -20,6 +20,10 @@ class BusStopDatabase:
     # self.json_data を画面に出力する
     def dump(self):
         print(self.json_data)
+
+    def clear(self):
+        self.json_data = {}
+        set_value_in_json(self.json_data, "busstops", [])
 
     # item 数を返す
     def get_num(self):
@@ -56,7 +60,7 @@ class BusStopDatabase:
 
     # データを登録する
     # - すでに同じ id が登録されている場合、名前を変更する
-    def set(self, name, id):
+    def set(self, id, name):
         busstops = get_value_from_json(self.json_data, "busstops")
         index = next((i for i, item in enumerate(busstops) if int(item["node_id"]) == id), None)
         if index != None:

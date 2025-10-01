@@ -18,23 +18,30 @@ class JsonEditor():
         try:
             with open(self.file_path, 'w', encoding='utf-8') as f:
                 json.dump(self.json_data, f, ensure_ascii=False, indent=4)
+                # ファイルの最後に改行を追加
+                f.write('\n')
         except Exception as e:
             print(f"Error saving JSON: {e}")
 
     # 階層キーで値を取得する
+    # "." で階層を指定できる（例: "parent.child.name"）
+    # 数値で配列のインデックスも指定できる（例: "items.2.name"）
     def get_value(self, key):
         keys = key.split(".")
         d = self.json_data
         for k in keys:
             if isinstance(d, dict) and k in d:
+                # Keyが辞書に存在する場合
                 d = d[k]
             elif isinstance(d, list) and k.isdigit():
                 idx = int(k)
                 if 0 <= idx < len(d):
                     d = d[idx]
                 else:
+                    # インデックスが範囲外の場合は空文字を返す
                     return ""
             else:
+                # Keyが存在しない場合は空文字を返す
                 return ""
         return d
 
