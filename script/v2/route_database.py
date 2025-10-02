@@ -14,6 +14,7 @@ class RouteDatabase:
         self.busstops = []
         self.json_path = json_path
         self.json_editor = script.v2.json_editor.JsonEditor(json_path)
+        self.system = self.json_editor.get_value("system")
         self.busstops = self.json_editor.get_value("busstops")
         if not isinstance(self.busstops, list):
             self.busstops = []
@@ -23,6 +24,10 @@ class RouteDatabase:
 
     def update(self):
         route_html = get_data(self.route_url)
+
+        # デバッグ用に生のHTMLを表示
+        print(f"{route_html}")
+
         busstops = self._parse_route_html(route_html)
         self.clear()
         for busstop in busstops:
@@ -38,9 +43,8 @@ class RouteDatabase:
         dir_path = os.path.dirname(self.json_path)
         if dir_path and not os.path.exists(dir_path):
             os.makedirs(dir_path, exist_ok=True)
-        # busstopsを保存
+        self.json_editor.set_value("system", self.system)
         self.json_editor.set_value("busstops", self.busstops)
-        # route_urlも保存
         self.json_editor.set_value("route_url", self.route_url)
         self.json_editor.save()
 
@@ -55,6 +59,9 @@ class RouteDatabase:
             "id": busstop_id,
             "name": busstop_name
         })
+
+    def get_system(self):
+        return self.system
 
     # バス停リストを取得
     def get_list(self):
@@ -71,6 +78,7 @@ class RouteDatabase:
     # HTMLデータを解析してバス停情報のリストを生成する
     def _parse_route_html(self, html_string):
         soup = BeautifulSoup(html_string, "html.parser")
+        self._get_system(html_string)
         busstops = []
         for li in soup.find_all("li", id=re.compile(r"\d+-\d+")):
             li_id = li.get("id")
@@ -94,3 +102,18 @@ class RouteDatabase:
                 "lng": lng
             })
         return busstops
+
+    def _get_system(self, html_string):
+        soup = BeautifulSoup(html_string, "html.parser")
+
+        # h2 タグのテキストを取得
+        target_h2 = soup.find("div", class_="hGroup201").find("h2")
+        text = target_h2.get_text(strip=True) if target_h2 else ""
+
+        # 正規表現で「漢字1文字＋数字1〜2桁」を抽出
+        match = re.search(r"[一-龯]{1}\d{1,2}", text)
+        if match:
+            print(f"見つかった系統 : {match.group()}")
+            self.system = match.group()
+        else:
+            print("該当する系統名が見つかりませんでした。")

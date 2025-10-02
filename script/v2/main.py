@@ -6,6 +6,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../'
 from script.common.web_access import get_data
 from script.v2.busstop_database import BusStopDatabase
 from script.v2.route_database import RouteDatabase
+from script.v2.timetable import Timetable
 
 route_id_list = [
     "0000800088"
@@ -21,11 +22,19 @@ def main():
         route_url = f"https://www.kanachu.co.jp/dia/route/index/cid:{route_id}/"
         route_db = RouteDatabase(route_json_path, route_url)
         route_db.update()
+        system = route_db.get_system()
         print(f"=== Route ID: {route_id}, Bus Stops: {route_db.get_num()} ===")
         for busstop in route_db.get_list():
             busstop_db.set(busstop["id"], busstop["name"])
-            timetable_url = f"https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:{route_id}-{busstop["index"]}/node:{busstop["id"]}/kt:0/lname:/"
-            timetable_html = get_data(timetable_url)
+            timetable = Timetable(
+                file_path = f"database/kanachu/v2/database/{route_id}/{busstop['index'].zfill(2)}.json", 
+                system = system,
+                route_id = route_id, 
+                busstop_index = busstop["index"],
+                busstop_id = busstop["id"], 
+                busstop_name = busstop["name"])
+            timetable.update()
+            timetable.save()
         route_db.save()
     busstop_db.save()
 
