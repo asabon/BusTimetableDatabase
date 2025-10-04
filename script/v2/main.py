@@ -9,7 +9,9 @@ from script.v2.route_database import RouteDatabase
 from script.v2.timetable import Timetable
 
 route_id_list = [
-    "0000800088"
+    "0000800088",
+    "0000803196",
+    "0000801123"
 ]
 
 
@@ -23,16 +25,23 @@ def main():
         route_db = RouteDatabase(route_json_path, route_url)
         route_db.update()
         system = route_db.get_system()
-        print(f"=== Route ID: {route_id}, Bus Stops: {route_db.get_num()} ===")
-        for busstop in route_db.get_list():
-            busstop_db.set(busstop["id"], busstop["name"])
+        # print(f"=== Route ID: {route_id}, Bus Stops: {route_db.get_num()} ===")
+        busstops = route_db.get_list()
+        for i, busstop in enumerate(busstops):
+            # ID の登録は全部行う
+            busstop_db.set(busstop["id"], busstop["name"], busstop["lat"], busstop["lng"])
+
+            if i == len(busstops) - 1:
+                # 最後の要素は到着するだけで時刻表を持たないのでスキップ
+                break
             timetable = Timetable(
                 file_path = f"database/kanachu/v2/database/{route_id}/{busstop['index'].zfill(2)}.json", 
                 system = system,
                 route_id = route_id, 
                 busstop_index = busstop["index"],
                 busstop_id = busstop["id"], 
-                busstop_name = busstop["name"])
+                busstop_name = busstop["name"],
+                busstop_names = route_db.get_list())
             timetable.update()
             timetable.save()
         route_db.save()

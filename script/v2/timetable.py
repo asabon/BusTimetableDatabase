@@ -4,13 +4,15 @@ import sys
 import re
 
 class Timetable:
-    def __init__(self, file_path, system, route_id, busstop_index, busstop_id, busstop_name):
+    def __init__(self, file_path, system, route_id, busstop_index, busstop_id, busstop_name, busstop_names):
         self.file_path = file_path
         self.route_id = route_id
         self.date = ""
         self.busstop_index = busstop_index
         self.busstop_id = busstop_id
         self.busstop_name = busstop_name
+        # self.destinations = busstop_names[int(busstop_index):]
+        self.destinations = [stop["name"] for stop in busstop_names[int(busstop_index):]]
         self.system = system
         self.timetable = {}
         self.url = f"https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:{self.route_id}-{self.busstop_index}/node:{self.busstop_id}/kt:0/lname:/"
@@ -49,6 +51,7 @@ class Timetable:
         self.json_editor.set_value("date", self.date)
         self.json_editor.set_value("name", self.busstop_name)
         self.json_editor.set_value("system", self.system)
+        self.json_editor.set_value("destinations", self.destinations)
         self.json_editor.set_value("weekday", self.timetable[0])
         self.json_editor.set_value("saturday", self.timetable[1])
         self.json_editor.set_value("holiday", self.timetable[2])

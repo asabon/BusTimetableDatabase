@@ -26,15 +26,18 @@ class RouteDatabase:
         route_html = get_data(self.route_url)
 
         # デバッグ用に生のHTMLを表示
-        print(f"{route_html}")
+        # print(f"{route_html}")
 
         busstops = self._parse_route_html(route_html)
         self.clear()
         for busstop in busstops:
-            busstop_id = busstop["id"]
-            busstop_name = to_half_width(busstop["name"])
-            busstop_index = busstop["index"]
-            self.add(busstop_index, busstop_id, busstop_name)
+            self.add(
+                busstop["index"], 
+                busstop["id"], 
+                to_half_width(busstop["name"]), 
+                busstop["lat"], 
+                busstop["lng"]
+            )
 
     # jsonファイルのセーブ
     def save(self):
@@ -53,11 +56,13 @@ class RouteDatabase:
         self.busstops = []
 
     # バス停リストにバス停を追加
-    def add(self, busstop_index, busstop_id, busstop_name):
+    def add(self, busstop_index, busstop_id, busstop_name, lat="", lng=""):
         self.busstops.append({
             "index": busstop_index,
             "id": busstop_id,
-            "name": busstop_name
+            "name": busstop_name,
+            "lat": lat,
+            "lng": lng
         })
 
     def get_system(self):
@@ -84,16 +89,24 @@ class RouteDatabase:
             li_id = li.get("id")
             if not li_id or "-" not in li_id:
                 continue
+
             busstop_id, busstop_index = li_id.split("-")
+
+            # バス停名の取得
             span = li.find("span", class_="busStopPoint")
             busstop_name = span.get_text() if span else ""
-            a_tag = li.find("a", onClick=re.compile(r"move_center"))
+
+            # onClick属性を持つaタグを明示的に探す
+            #a_tag = li.find("a", onClick=re.compile(r"move_center"))
+            a_tag = li.find("a", attrs={"onclick": re.compile(r"move_center")} )
             lat, lng = None, None
             if a_tag:
-                on_click = a_tag.get("onClick", "")
-                m = re.search(r"move_center\(([\d\.]+),\s*([\d\.]+),", on_click)
+                on_click = a_tag.get("onclick", "")
+                m = re.search(r"move_center\(([\d.]+),\s*([\d.]+),", on_click)
                 if m:
                     lat, lng = m.group(1), m.group(2)
+            else:
+                print("[Error] tag is NOT found.")
             busstops.append({
                 "id": busstop_id,
                 "index": busstop_index,
@@ -101,6 +114,7 @@ class RouteDatabase:
                 "lat": lat,
                 "lng": lng
             })
+            print(f"{busstop_id}, {lat}, {lng}")
         return busstops
 
     def _get_system(self, html_string):
@@ -113,7 +127,7 @@ class RouteDatabase:
         # 正規表現で「漢字1文字＋数字1〜2桁」を抽出
         match = re.search(r"[一-龯]{1}\d{1,2}", text)
         if match:
-            print(f"見つかった系統 : {match.group()}")
+            # print(f"見つかった系統 : {match.group()}")
             self.system = match.group()
         else:
-            print("該当する系統名が見つかりませんでした。")
+            print("[Error] 該当する系統名が見つかりませんでした。")

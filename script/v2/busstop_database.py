@@ -60,7 +60,7 @@ class BusStopDatabase:
 
     # データを登録する
     # - すでに同じ id が登録されている場合、名前を変更する
-    def set(self, id, name):
+    def set(self, id, name, lat="", lng=""):
         busstops = get_value_from_json(self.json_data, "busstops")
         index = next((i for i, item in enumerate(busstops) if int(item["node_id"]) == id), None)
         if index != None:
@@ -69,37 +69,11 @@ class BusStopDatabase:
             busstops.append(
                 {
                     "name": name,
-                    "node_id": id
+                    "node_id": id,
+                    "lat": lat,
+                    "lng": lng
                 }
             )
         set_value_in_json(self.json_data, "busstops", busstops)
         # id の昇順にソートする
         self.sort()
-
-if __name__ == '__main__':
-    #test_name = "町田総合高校前"
-    #test_id = busstop_database_get("./temp/busstops.json", test_name)
-    #print(f"{test_name}: {test_id}")
-
-    db = BusStopDatabase("./temp/busstops.json")
-    db.load()
-    num = db.get_num()
-    print(f"{num}")
-    #db.dump()
-    machiso_name = "町田総合高校前"
-    machiso_id = db.get_id_by_name(machiso_name)
-    print(f"{machiso_name}:{machiso_id}")
-
-    for i in range(32):
-        name = db.get_name_by_index(i)
-        node_id = db.get_id_by_index(i)
-        print(f"{name}:{node_id}")
-
-    print("\n=== Sort test ===")
-    db2 = BusStopDatabase("./temp/busstops_sort_test.json")
-    db2.load()
-    db2.dump()
-    db2.sort()
-    db2.dump()
-    db2.set("aaa", "123")
-    db2.dump()
