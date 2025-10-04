@@ -2,78 +2,78 @@ from script.common.edit_json import read_json_file
 from script.common.edit_json import write_json_file
 from script.common.edit_json import set_value_in_json
 from script.common.edit_json import get_value_from_json
+from script.v2.json_editor import JsonEditor
 
 class BusStopDatabase:
-    # 初期化
     def __init__(self, file_path):
-        self.file_path = file_path
+        self.editor = JsonEditor(file_path)
 
-    # ファイルからデータを読み出して self.json_data に格納
     def load(self):
-        self.json_data = read_json_file(self.file_path)
-        print(f"load completed: {self.file_path}")
+        self.editor.json_data = self.editor.load()
+        if self.editor.get_value("busstops") == "":
+            self.editor.set_value("busstops", [])
     
-    # self.json_data をファイルに保存
     def save(self):
-        write_json_file(self.file_path, self.json_data)
+        self.editor.save()
 
-    # self.json_data を画面に出力する
     def dump(self):
         print(self.json_data)
 
     def clear(self):
-        self.json_data = {}
-        set_value_in_json(self.json_data, "busstops", [])
+        self.editor.json_data = {}
+        self.editor.set_value("busstops", [])
 
-    # item 数を返す
     def get_num(self):
-        busstops = get_value_from_json(self.json_data, "busstops")
+        busstops = self.editor.get_value("busstops")
         return len(busstops)
 
-    # index を指定して id を取得する
     def get_id_by_index(self, index):
-        busstops = get_value_from_json(self.json_data, "busstops")
-        busstop_id = get_value_from_json(busstops[index], "node_id")
-        return busstop_id
+        return self.editor.get_value(f"busstops.{index}.node_id")
 
-    # 名前を指定して id を取得する
+    def get_name_by_index(self, index):
+        return self.editor.get_value(f"busstops.{index}.name")
+
     def get_id_by_name(self, name):
-        busstops = get_value_from_json(self.json_data, "busstops")
+        busstops = self.editor.get_value("busstops")
         for busstop in busstops:
-            busstop_name = get_value_from_json(busstop, "name")
-            busstop_id = get_value_from_json(busstop, "node_id")
-            if busstop_name == name:
-                return busstop_id
+            if busstop in busstops:
+                if busstop.get("name") == name:
+                    return busstop.get("node_id")
         return None
 
-    # index を指定して名前を取得する    
-    def get_name_by_index(self, index):
-        busstops = get_value_from_json(self.json_data, "busstops")
-        busstop_name = get_value_from_json(busstops[index], "name")
-        return busstop_name
-
-    # self.json_data の "busstops" 内のアイテムをソートする
     def sort(self):
-        busstops = get_value_from_json(self.json_data, "busstops")
+        busstops = self.editor.get_value("busstops")
         sorted_data = sorted(busstops, key=lambda x:int(x["node_id"]))
-        set_value_in_json(self.json_data, "busstops", sorted_data)
+        self.editor.set_value("busstops", sorted_data)
 
-    # データを登録する
-    # - すでに同じ id が登録されている場合、名前を変更する
     def set(self, id, name, lat="", lng=""):
-        busstops = get_value_from_json(self.json_data, "busstops")
-        index = next((i for i, item in enumerate(busstops) if int(item["node_id"]) == id), None)
-        if index != None:
-            busstops[index]["name"] = name
+        busstops = self.editor.get_value("busstops")
+        if busstops == "":
+            busstops = []
+
+        index = next(
+            (
+                i for i, item in enumerate(busstops)
+                if str(item["node_id"]) == str(id) and str(item["lat"]) == str(lat) and str(item["lng"]) == str(lng)
+            ), 
+            None
+        )
+
+        if index is not None:
+            # 一致した場合、名前が変わっていたら更新
+            if busstops[index]["name"] != name:
+                busstops[index]["name"] = name
+                busstops[index]["position"] = ""
         else:
+            # 一致しなかった場合は新規追加
             busstops.append(
                 {
-                    "name": name,
                     "node_id": id,
                     "lat": lat,
-                    "lng": lng
+                    "lng": lng,
+                    "name": name,
+                    "position": ""
                 }
             )
-        set_value_in_json(self.json_data, "busstops", busstops)
-        # id の昇順にソートする
+        self.editor.set_value("busstops", busstops)
         self.sort()

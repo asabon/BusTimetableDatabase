@@ -18,7 +18,8 @@ route_id_list = [
 def main():
     busstop_db = BusStopDatabase(f"database/kanachu/v2/database/busstops.json")
     busstop_db.load()
-    busstop_db.clear()
+    # 手修正しているデータ ("position") があるため、すでに存在するデータは毎回クリアしない
+    # busstop_db.clear()
     for route_id in route_id_list:
         route_json_path = f"database/kanachu/v2/database/{route_id}/route.json"
         route_url = f"https://www.kanachu.co.jp/dia/route/index/cid:{route_id}/"
@@ -29,7 +30,12 @@ def main():
         busstops = route_db.get_list()
         for i, busstop in enumerate(busstops):
             # ID の登録は全部行う
-            busstop_db.set(busstop["id"], busstop["name"], busstop["lat"], busstop["lng"])
+            busstop_db.set(
+                id = busstop["id"], 
+                lat = busstop["lat"], 
+                lng = busstop["lng"],
+                name = busstop["name"]
+            )
 
             if i == len(busstops) - 1:
                 # 最後の要素は到着するだけで時刻表を持たないのでスキップ
