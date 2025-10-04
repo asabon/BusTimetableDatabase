@@ -1,0 +1,23 @@
+{
+    "date": "2024/03/16",
+    "name": "横土手",
+    "position": "",
+    "system": "町62",
+    "destinations": [
+        "沼入口(町田市)",
+        "多摩境通り北",
+        "神奈中多摩車庫"
+    ],
+    "weekday": [
+        "23:05"
+    ],
+    "saturday": [
+        "22:15",
+        "22:55"
+    ],
+    "holiday": [
+        "22:15",
+        "22:55"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802021-25/node:00020167/kt:0/lname:/"
+}

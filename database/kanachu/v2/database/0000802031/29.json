@@ -1,0 +1,26 @@
+{
+    "date": "2022/10/16",
+    "name": "多摩境駅",
+    "position": "",
+    "system": "町60",
+    "destinations": [
+        "田端(町田市)",
+        "堂の前(町田市)",
+        "三ツ目(町田市)",
+        "久保ヶ谷戸",
+        "寿橋",
+        "寿町(相模原市緑区)",
+        "旭農協前",
+        "橋本駅北口"
+    ],
+    "weekday": [
+        "8:17",
+        "9:37"
+    ],
+    "saturday": [
+        "8:20",
+        "9:21"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802031-29/node:00021669/kt:0/lname:/"
+}

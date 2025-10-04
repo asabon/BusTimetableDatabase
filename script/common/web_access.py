@@ -11,9 +11,9 @@ CACHE_DIR = os.path.join(SCRIPT_DIR, "cache")
 CACHE_EXPIRATION_DAYS = 7
 
 # URLからキャッシュ用のファイル名を生成する
-def get_cached_filename(url):
+def get_cached_filename(url, cache_dir=CACHE_DIR):
     hashed_url = hashlib.md5(url.encode()).hexdigest()
-    return os.path.join(CACHE_DIR, f"{hashed_url}.txt")
+    return os.path.join(cache_dir, f"{hashed_url}.txt")
 
 # URLにアクセスしてHTMLを取得する
 # キャッシュにそのURLのデータがあったらそれを返す
@@ -21,9 +21,9 @@ def get_cached_filename(url):
 # - force_update: キャッシュを使わずに強制的に読み込みなおすかどうか
 #   - True:  キャッシュを使わない
 #   - False: キャッシュを使う
-def get_data(url, force_update=False):
-    os.makedirs(CACHE_DIR, exist_ok=True)
-    cache_file = get_cached_filename(url)
+def get_data(url, force_update=False, cache_dir=CACHE_DIR, cache_expiration_days=CACHE_EXPIRATION_DAYS):
+    os.makedirs(cache_dir, exist_ok=True)
+    cache_file = get_cached_filename(url, cache_dir=cache_dir)
 
     cache_valid = False
 
@@ -32,11 +32,12 @@ def get_data(url, force_update=False):
         last_modified = datetime.datetime.fromtimestamp(mtime)
         now = datetime.datetime.now()
         age = (now - last_modified).days
-        cache_valid = age < CACHE_EXPIRATION_DAYS
+        cache_valid = age < cache_expiration_days
 
     # キャッシュが存在したらそれを読み込む
     if os.path.exists(cache_file) and cache_valid and not force_update:
         with open(cache_file, "r", encoding="utf-8") as f:
+            # print(f"Cache file found: {cache_file}")
             return f.read()
 
     # ウェブアクセスしてデータを取得する
@@ -51,6 +52,7 @@ def get_data(url, force_update=False):
         with open(cache_file, "w", encoding="utf-8") as f:
             f.write(result)
 
+        # print(f"Cache file created: {cache_file}")
         return result
     except urllib.error.HTTPError as e:
         print(f'HTTP Error: {e.code} {e.reason}')

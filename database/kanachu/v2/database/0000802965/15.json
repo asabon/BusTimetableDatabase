@@ -1,0 +1,22 @@
+{
+    "date": "2025/04/01",
+    "name": "山崎団地入口",
+    "position": "",
+    "system": "町15",
+    "destinations": [
+        "山崎団地センター",
+        "給水塔前(山崎団地/町田市)",
+        "北一号(町田市)",
+        "北二号(町田市)",
+        "山崎団地"
+    ],
+    "weekday": [
+        "9:33",
+        "10:33",
+        "11:33",
+        "12:27"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802965-15/node:00129387/kt:0/lname:/"
+}

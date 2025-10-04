@@ -1,0 +1,16 @@
+{
+    "date": "2020/09/05",
+    "name": "小山郵便局前",
+    "position": "",
+    "system": "町63",
+    "destinations": [
+        "小山小学校前(町田市)",
+        "横土手"
+    ],
+    "weekday": [
+        "23:47"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802952-23/node:00130094/kt:0/lname:/"
+}

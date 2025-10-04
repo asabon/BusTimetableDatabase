@@ -1,0 +1,64 @@
+name: test
+
+on:
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  execute:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5.4.0
+        with:
+          python-version: '3.13'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+
+      - name: Run pytest
+        run: |
+          pytest --cov=script --cov-config=coverage.ini --cov-report=html:htmlcov --cov-report=term > coverage.txt
+
+      - name: Upload coverage report
+        uses: actions/upload-artifact@v4
+        with:
+          name: coverage-html
+          path: htmlcov
+
+      - name: Setup Ruby, JRuby and TruffleRuby
+        if: github.event_name == 'pull_request'
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      - name: Cache Ruby gems
+        uses: actions/cache@v4
+        if: github.event_name == 'pull_request'
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('ci/test/Gemfile') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-${{ hashFiles('ci/test/Gemfile.lock') }}
+            ${{ runner.os }}-gems-${{ hashFiles('ci/test/Gemfile') }}
+            ${{ runner.os }}-gems-
+
+      - name: Run Danger
+        uses: MeilCli/danger-action@v6
+        if: github.event_name == 'pull_request'
+        with:
+          plugins_file: 'ci/test/Gemfile'
+          install_path: 'vendor/bundle'
+          danger_file: 'ci/test/Dangerfile'
+          danger_id: 'danger-pr-test'
+        env:
+          DANGER_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,5 @@
+.venv
+.coverage
+htmlcov
+__pycache__
+coverage.txt

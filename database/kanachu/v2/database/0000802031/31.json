@@ -1,0 +1,24 @@
+{
+    "date": "2022/10/16",
+    "name": "堂の前(町田市)",
+    "position": "",
+    "system": "町60",
+    "destinations": [
+        "三ツ目(町田市)",
+        "久保ヶ谷戸",
+        "寿橋",
+        "寿町(相模原市緑区)",
+        "旭農協前",
+        "橋本駅北口"
+    ],
+    "weekday": [
+        "8:24",
+        "9:44"
+    ],
+    "saturday": [
+        "8:26",
+        "9:27"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802031-31/node:00130088/kt:0/lname:/"
+}
