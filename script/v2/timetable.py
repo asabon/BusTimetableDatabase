@@ -4,13 +4,14 @@ import sys
 import re
 
 class Timetable:
-    def __init__(self, file_path, system, route_id, busstop_index, busstop_id, busstop_name, busstop_names):
+    def __init__(self, file_path, system, route_id, busstop_index, busstop_id, busstop_name, busstop_names, busstop_position):
         self.file_path = file_path
         self.route_id = route_id
         self.date = ""
         self.busstop_index = busstop_index
         self.busstop_id = busstop_id
         self.busstop_name = busstop_name
+        self.busstop_position = busstop_position
         # self.destinations = busstop_names[int(busstop_index):]
         self.destinations = [stop["name"] for stop in busstop_names[int(busstop_index):]]
         self.system = system
@@ -50,6 +51,7 @@ class Timetable:
             self.json_editor.set_value("url", "")
         self.json_editor.set_value("date", self.date)
         self.json_editor.set_value("name", self.busstop_name)
+        self.json_editor.set_value("position", self.busstop_position)
         self.json_editor.set_value("system", self.system)
         self.json_editor.set_value("destinations", self.destinations)
         self.json_editor.set_value("weekday", self.timetable[0])

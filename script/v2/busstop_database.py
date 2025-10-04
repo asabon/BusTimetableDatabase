@@ -40,6 +40,23 @@ class BusStopDatabase:
                 if busstop.get("name") == name:
                     return busstop.get("node_id")
         return None
+    
+    def get_position(self, id, name, lat="", lng=""):
+        busstops = self.editor.get_value("busstops")
+        if busstops == "":
+            busstops = []
+
+        index = next(
+            (
+                i for i, item in enumerate(busstops)
+                if str(item["node_id"]) == str(id) and str(item["name"]) == str(name) and str(item["lat"]) == str(lat) and str(item["lng"]) == str(lng)
+            ), 
+            None
+        )
+        if index is not None:
+            return busstops[index]["position"]
+        else:
+            return ""
 
     def sort(self):
         busstops = self.editor.get_value("busstops")

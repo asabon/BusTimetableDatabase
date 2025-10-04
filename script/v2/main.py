@@ -36,6 +36,12 @@ def main():
                 lng = busstop["lng"],
                 name = busstop["name"]
             )
+            position = busstop_db.get_position(
+                id = busstop["id"],
+                lat = busstop["lat"],
+                lng = busstop["lng"],
+                name = busstop["name"]
+            )
 
             if i == len(busstops) - 1:
                 # 最後の要素は到着するだけで時刻表を持たないのでスキップ
@@ -47,7 +53,9 @@ def main():
                 busstop_index = busstop["index"],
                 busstop_id = busstop["id"], 
                 busstop_name = busstop["name"],
-                busstop_names = route_db.get_list())
+                busstop_names = route_db.get_list(),
+                busstop_position = position)
+
             timetable.update()
             timetable.save()
         route_db.save()
