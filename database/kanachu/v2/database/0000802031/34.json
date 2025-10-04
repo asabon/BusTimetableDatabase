@@ -1,0 +1,21 @@
+{
+    "date": "2022/10/16",
+    "name": "寿橋",
+    "position": "",
+    "system": "町60",
+    "destinations": [
+        "寿町(相模原市緑区)",
+        "旭農協前",
+        "橋本駅北口"
+    ],
+    "weekday": [
+        "8:27",
+        "9:47"
+    ],
+    "saturday": [
+        "8:29",
+        "9:30"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802031-34/node:00130222/kt:0/lname:/"
+}

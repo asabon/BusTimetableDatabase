@@ -1,0 +1,23 @@
+{
+    "date": "2022/10/16",
+    "name": "三ツ目(町田市)",
+    "position": "",
+    "system": "町60",
+    "destinations": [
+        "久保ヶ谷戸",
+        "寿橋",
+        "寿町(相模原市緑区)",
+        "旭農協前",
+        "橋本駅北口"
+    ],
+    "weekday": [
+        "8:25",
+        "9:45"
+    ],
+    "saturday": [
+        "8:27",
+        "9:28"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802031-32/node:00130087/kt:0/lname:/"
+}
