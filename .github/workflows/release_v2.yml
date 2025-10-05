@@ -1,4 +1,4 @@
-name: Release v2
+name: Release-v2
 
 on:
   pull_request:
@@ -27,7 +27,7 @@ jobs:
           HASH_V2=$(python -c "from script.common.hash import hash_directory; print(hash_directory('database/kanachu/v2/database'))")
           python script/common/edit_json.py update release/kanachu/v1/info.json "hash" $HASH_V2
           pushd database/kanachu/v2
-          zip -r release/kanachu/v2/database.zip database
+          zip -r ../../../release/kanachu/v2/database.zip database
           popd
 
       - name: Create pull request

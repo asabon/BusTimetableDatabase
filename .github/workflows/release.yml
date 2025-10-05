@@ -21,25 +21,15 @@ jobs:
         with:
           python-version: '3.13'
 
-      - name: Get old hash
-        run: |
-          OLD_HASH=$(python script/get_hash_from_json.py release/info.json)
-          echo "OLD_HASH=$OLD_HASH" >> $GITHUB_ENV
-          echo "OLD_HASH=<$OLD_HASH>"
-
-      - name: Generate new hash
-        run: |
-          NEW_HASH=$(python -c "from script.common.hash import hash_directory; print(hash_directory('database'))")
-          echo "NEW_HASH=$NEW_HASH" >> $GITHUB_ENV
-          echo "NEW_HASH=<$NEW_HASH>"
-
       - name: Create release file
-        if: env.OLD_HASH != env.NEW_HASH
         run: |
-          rm -rf release/
-          mkdir release
+          HASH_LEGACY=$(python -c "from script.common.hash import hash_directory; print(hash_directory('database/神奈川中央交通'))")
+          mkdir -p release
+          rm release/info.json
+          rm release/database.zip
+          rm database-sql.zip
           zip -r release/database.zip database
-          python script/common/edit_json.py update release/info.json "hash" "${{ env.NEW_HASH }}"
+          python script/common/edit_json.py update release/info.json "hash" HASH_LEGACY
           python script/json_to_sqlite.py 'database/神奈川中央交通' timetable.db
           zip -r release/database-sql.zip timetable.db
 
