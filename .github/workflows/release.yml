@@ -43,22 +43,13 @@ jobs:
           python script/json_to_sqlite.py 'database/神奈川中央交通' timetable.db
           zip -r release/database-sql.zip timetable.db
 
-      - name: Release for v1
-        run: |
-          mkdir -p release/kanachu/v1
-          HASH_V1=$(python -c "from script.common.hash import hash_directory; print(hash_directory('database/kanachu/v1/database'))")
-          python script/common/edit_json.py update release/kanachu/v1/info.json "hash" $HASH_V1
-          pushd database/kanachu/v1
-          zip -r release/kanachu/v1/database.zip database
-          popd
-
       - name: Create pull request
         uses: peter-evans/create-pull-request@v7
         with:
           commit-message: "Automated changes"
           title: "Release"
           body: "Release"
-          branch: "release"
+          branch: "release/legacy"
           add-paths: "release"
 
       - name: Upload artifact
