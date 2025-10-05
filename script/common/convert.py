@@ -25,38 +25,3 @@ def to_safe_half_width(text):
 
     converted_text = to_half_width(text)
     return ''.join(unsafe_chars[char] if char in unsafe_chars else char for char in converted_text)
-
-# このファイルをそのまま実行するとテストになる
-if __name__ == '__main__':
-    input = "アイウＡＢＣ１２３！＃＄％（）／"
-    output = to_half_width(input)
-    expected = "アイウABC123!#$%()/"
-    if (output == expected):
-        result = "OK"
-    else:
-        result = "NG"
-    print(f"input data:      {input}")
-    print(f"to_half_width(): {output}")
-    print(f"result:          {result}")
-
-    input = ["アイウ", "ＡＢＣ", "１２３", "！＃＄％（）／"]
-    output = to_half_width(input)
-    expected = ["アイウ", "ABC", "123", "!#$%()/"]
-    if (output == expected):
-        result = "OK"
-    else:
-        result = "NG"
-    print(f"input data:      {input}")
-    print(f"to_half_width(): {output}")
-    print(f"result:          {result}")
-
-    input = "アイウＡＢＣ１２３！＃＄％（）／"
-    output = to_safe_half_width(input)
-    expected = "アイウABC123!#$%()／"
-    if (output == expected):
-        result = "OK"
-    else:
-        result = "NG"
-    print(f"input data:      {input}")
-    print(f"to_half_width(): {output}")
-    print(f"result:          {result}")

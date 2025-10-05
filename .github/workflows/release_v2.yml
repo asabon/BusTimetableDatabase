@@ -1,0 +1,46 @@
+name: Release v2
+
+on:
+  pull_request:
+    types:
+      - closed
+  workflow_dispatch:
+
+jobs:
+  release:
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'pull_request' && github.event.pull_request.merged == true)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5.4.0
+        with:
+          python-version: '3.13'
+
+      - name: Release for v2
+        run: |
+          mkdir -p release/kanachu/v2
+          HASH_V2=$(python -c "from script.common.hash import hash_directory; print(hash_directory('database/kanachu/v2/database'))")
+          python script/common/edit_json.py update release/kanachu/v1/info.json "hash" $HASH_V2
+          pushd database/kanachu/v2
+          zip -r release/kanachu/v2/database.zip database
+          popd
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "Automated changes"
+          title: "Release v2"
+          body: "Release v2"
+          branch: "release/v2"
+          add-paths: "release"
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: timetable-database-v2
+          path: release/kanachu/v2
