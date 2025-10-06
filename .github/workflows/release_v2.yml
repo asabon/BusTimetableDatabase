@@ -25,7 +25,7 @@ jobs:
         run: |
           mkdir -p release/kanachu/v2
           HASH_V2=$(python -c "from script.common.hash import hash_directory; print(hash_directory('database/kanachu/v2/database'))")
-          python script/common/edit_json.py update release/kanachu/v1/info.json "hash" $HASH_V2
+          python script/common/edit_json.py update release/kanachu/v2/info.json "hash" $HASH_V2
           pushd database/kanachu/v2
           zip -r ../../../release/kanachu/v2/database.zip database
           popd
