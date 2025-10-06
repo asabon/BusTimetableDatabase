@@ -30,6 +30,9 @@ jobs:
           zip -r ../../../release/kanachu/v1/database.zip database
           popd
 
+      - name: Inspect ZIP contents
+        run: unzip -l release/kanachu/v1/database.zip
+
       - name: Create pull request
         uses: peter-evans/create-pull-request@v7
         with:
