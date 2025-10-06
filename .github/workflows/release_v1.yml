@@ -1,9 +1,10 @@
 name: Release-v1
 
 on:
-  pull_request:
-    types:
-      - closed
+  # リスク回避のため、自動更新を止める
+  # pull_request:
+  #  types:
+  #    - closed
   workflow_dispatch:
 
 jobs:
