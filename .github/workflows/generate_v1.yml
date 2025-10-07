@@ -1,4 +1,4 @@
-name: Generate Timetable
+name: Generate-v1
 
 on:
   schedule:
