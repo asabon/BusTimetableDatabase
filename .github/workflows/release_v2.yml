@@ -1,16 +1,15 @@
 name: Release-v2
 
 on:
-  pull_request:
-    types:
-      - closed
+  push:
+    branches:
+      - main
+    paths:
+      - 'database/**'
   workflow_dispatch:
 
 jobs:
   release:
-    if: |
-      github.event_name == 'workflow_dispatch' ||
-      (github.event_name == 'pull_request' && github.event.pull_request.merged == true)
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
