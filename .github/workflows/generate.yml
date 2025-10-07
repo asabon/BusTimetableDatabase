@@ -45,11 +45,6 @@ jobs:
           echo "FORCE_UPDATE=${{ github.event.inputs.forceUpdate }}" >> $GITHUB_ENV
           echo "CREATE_PULL_REQUEST=${{ github.event.inputs.createPullRequest }}" >> $GITHUB_ENV
 
-      - name: Generate timetable(org)
-        run: |
-          python script/v1/update_route.py "database/神奈川中央交通" ./work/busstops.json
-          python script/v1/generate.py "database/神奈川中央交通" ${{ env.FORCE_UPDATE }}
-
       - name: Generate timetable(v1)
         run: |
           python script/v1/update_route.py database/kanachu/v1/database ./work/busstops.json
