@@ -26,6 +26,10 @@ jobs:
         run: |
           python script/v2/main.py
 
+      - name: Check timetable(v2)
+        run: |
+          python script/v2/check_timetable.py --mode directory --path ./database/kanachu/v2/database --ignore busstops.json,route.json
+
       - name: Create pull request
         uses: peter-evans/create-pull-request@v7
         with:
