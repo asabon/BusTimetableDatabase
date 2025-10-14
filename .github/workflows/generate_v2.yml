@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: '0 0 1 * *' # 毎月1日の00:00に実行
   workflow_dispatch:
+    inputs:
+      generate:
+        description: 'Run timetable generation'
+        required: false
+        default: 'true'
+      create_pr:
+        description: 'Create pull request'
+        required: false
+        default: 'true'
 
 jobs:
   execute:
@@ -23,10 +32,16 @@ jobs:
           pip install -r requirements.txt
 
       - name: Generate timetable(v2)
+        if: ${{ github.event_name == 'schedule' || inputs.generate == 'true' }}
         run: |
           python script/v2/main.py
 
+      - name: Check timetable(v2)
+        run: |
+          python script/v2/check_timetable.py --mode directory --path ./database/kanachu/v2/database --ignore busstops.json,route.json
+
       - name: Create pull request
+        if: ${{ github.event_name == 'schedule' || inputs.create_pr == 'true' }}
         uses: peter-evans/create-pull-request@v7
         with:
           commit-message: "Update timetable v2"
