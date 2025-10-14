@@ -14,7 +14,7 @@ def check_timetable_by_directory(directory_path: str, ignore_list: List[str]) ->
     error_count = 0
     for root, _, files in os.walk(directory_path):
         for file in files:
-            if file.endwidth(".json") and file not in ignore_list:
+            if file.endswith(".json") and file not in ignore_list:
                 file_path = os.path.join(root, file)
                 error_count += check_timetable_by_file(file_path)
     return error_count
