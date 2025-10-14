@@ -70,7 +70,7 @@ def validate_timetable(data: dict) -> List[str]:
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Timetable JSON フォーマットチェック")
-    parser.add_argument("--mode", choice=["file", "directory"], required=True, help="チェックモード: file または directory")
+    parser.add_argument("--mode", choices=["file", "directory"], required=True, help="チェックモード: file または directory")
     parser.add_argument("--path", required=True, help="対象のファイルまたはディレクトリのパス")
     parser.add_argument("--ignore", default="", help="除外する JSON ファイル名（カンマ区切り）")
 
