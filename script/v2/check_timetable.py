@@ -59,10 +59,10 @@ def validate_timetable(data: dict) -> List[str]:
     if not isinstance(system, str) or system.strip() == "":
         errors.append("system が空です。")
 
-    # ④ destinations が2つ以上の文字列で構成された配列か
+    # ④ destinations が1つ以上の文字列で構成された配列か
     destinations = data.get("destinations", [])
-    if not isinstance(destinations, list) or len(destinations) < 2:
-        errors.append("destinations が2つ以上の要素を持つ配列ではありません。")
+    if not isinstance(destinations, list) or len(destinations) < 1:
+        errors.append("destinations が1つ以上の要素を持つ配列ではありません。")
     elif not all(isinstance(d, str) and d.strip() != "" for d in destinations):
         errors.append("destinations に空の文字列または非文字列の要素があります。")
 
