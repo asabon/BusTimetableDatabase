@@ -57,8 +57,9 @@ def main():
             if i == len(busstops) - 1:
                 # 最後の要素は到着するだけで時刻表を持たないのでスキップ
                 break
+            index_str = str(busstop["index"]).zfill(2)
             timetable = Timetable(
-                file_path = f"database/kanachu/v2/database/{route_id}/{busstop['index'].zfill(2)}.json", 
+                file_path = f"database/kanachu/v2/database/{route_id}/{index_str}.json", 
                 system = system,
                 route_id = route_id, 
                 busstop_index = busstop["index"],
@@ -67,8 +68,7 @@ def main():
                 busstop_names = busstops,
                 busstop_position = position)
 
-            result = timetable.update()
-            if result == False:
+            if not timetable.update():
                 # 更新されていなかった場合はその路線の他の時刻表も更新する必要がないとみなしてループ終了
                 break
             timetable.save()
