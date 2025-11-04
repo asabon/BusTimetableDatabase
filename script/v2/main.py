@@ -1,7 +1,14 @@
 import sys
 import os
 import json
+import logging
 from bs4 import BeautifulSoup
+
+logging.basicConfig(
+    level=logging.INFO,
+    format='[%(levelname)s] %(message)s'
+)
+logger = logging.getLogger(__name__)
 
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../'))
 sys.path.insert(0, PROJECT_ROOT)
@@ -15,15 +22,18 @@ from script.v2.timetable import Timetable
 # This file is required: if it's missing or invalid, raise an error to fail fast.
 route_ids_path = os.path.join(os.path.dirname(__file__), "route_ids.json")
 if not os.path.exists(route_ids_path):
+    logger.error(f"Required file not found: {route_ids_path}")
     raise FileNotFoundError(f"Required file not found: {route_ids_path}")
 
 try:
     with open(route_ids_path, 'r', encoding='utf-8') as f:
         route_id_list = json.load(f)
 except Exception as e:
+    logger.error(f"Error loading route IDs from {route_ids_path}: {e}")
     raise RuntimeError(f"Failed to load route IDs from {route_ids_path}: {e}")
 
 if not (isinstance(route_id_list, list) and all(isinstance(x, str) for x in route_id_list)):
+    logger.error(f"Invalid format in {route_ids_path}: must be a JSON array of strings")
     raise ValueError(f"{route_ids_path} must contain a JSON array of strings")
 
 
