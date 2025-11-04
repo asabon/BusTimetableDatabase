@@ -18,26 +18,8 @@ from script.v2.busstop_database import BusStopDatabase
 from script.v2.route_database import RouteDatabase
 from script.v2.timetable import Timetable
 
-# Load route ID list from external JSON so other scripts can modify it.
-# This file is required: if it's missing or invalid, raise an error to fail fast.
-route_ids_path = os.path.join(os.path.dirname(__file__), "route_ids.json")
-if not os.path.exists(route_ids_path):
-    logger.error(f"Required file not found: {route_ids_path}")
-    raise FileNotFoundError(f"Required file not found: {route_ids_path}")
-
-try:
-    with open(route_ids_path, 'r', encoding='utf-8') as f:
-        route_id_list = json.load(f)
-except (FileNotFoundError, json.JSONDecodeError, OSError) as e:
-    logger.error(f"Error loading route IDs from {route_ids_path}: {e}")
-    raise RuntimeError(f"Failed to load route IDs from {route_ids_path}: {e}")
-
-if not (isinstance(route_id_list, list) and all(isinstance(x, str) for x in route_id_list)):
-    logger.error(f"Invalid format in {route_ids_path}: must be a JSON array of strings")
-    raise ValueError(f"{route_ids_path} must contain a JSON array of strings")
-
-
 def main():
+    route_id_list = load_route_ids()
     busstop_db = load_busstop_db()
     # 手修正しているデータ ("position") があるため、すでに存在するデータは毎回クリアしない
     # busstop_db.clear()
@@ -95,6 +77,25 @@ def process_route(route_id: str, busstop_db: BusStopDatabase):
             break
         timetable.save()
     route_db.save()
+
+def load_route_ids() -> list[str]:
+    route_ids_path = os.path.join(os.path.dirname(__file__), "route_ids.json")
+    if not os.path.exists(route_ids_path):
+        logger.error(f"Required file not found: {route_ids_path}")
+        raise FileNotFoundError(f"Required file not found: {route_ids_path}")
+
+    try:
+        with open(route_ids_path, 'r', encoding='utf-8') as f:
+            route_id_list = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError, OSError) as e:
+        logger.error(f"Error loading route IDs from {route_ids_path}: {e}")
+        raise RuntimeError(f"Failed to load route IDs from {route_ids_path}: {e}")
+
+    if not (isinstance(route_id_list, list) and all(isinstance(x, str) for x in route_id_list)):
+        logger.error(f"Invalid format in {route_ids_path}: must be a JSON array of strings")
+        raise ValueError(f"{route_ids_path} must contain a JSON array of strings")
+    
+    return route_id_list
 
 def update_route_ids_list():
     # route_ids.json を自動生成する関数
