@@ -7,60 +7,22 @@ from script.common.web_access import get_data
 from script.v2.busstop_database import BusStopDatabase
 from script.v2.route_database import RouteDatabase
 from script.v2.timetable import Timetable
+import json
 
-route_id_list = [
-    "0000803702",
-    "0000800088",
-    "0000800780",
-    "0000803170",
-    "0000803162",
-    "0000802960",
-    "0000803602",
-    "0000800294",
-    "0000801075",
-    "0000801107",
-    "0000802965",
-    "0000802964",
-    "0000801123",
-    "0000803215",
-    "0000803493",
-    "0000803177",
-    "0000801242",
-    "0000801320",
-    "0000802962",
-    "0000802961",
-    "0000803182",
-    "0000802481",
-    "0000802478",
-    "0000802475",
-    "0000803208",
-    "0000803178",
-    "0000802014",
-    "0000802018",
-    "0000802971",
-    "0000803323",
-    "0000803324",
-    "0000803111",
-    "0000802682",
-    "0000803196",
-    "0000802951",
-    "0000803460",
-    "0000803441",
-    "0000802676",
-    "0000802477",
-    "0000803209",
-    "0000802468",
-    "0000803195",
-    "0000802472",
-    "0000802015",
-    "0000802031",
-    "0000800236",
-    "0000802021",
-    "0000802952",
-    "0000802683",
-    "0000803163",
-    "0000800826"
-]
+# Load route ID list from external JSON so other scripts can modify it.
+# This file is required: if it's missing or invalid, raise an error to fail fast.
+route_ids_path = os.path.join(os.path.dirname(__file__), "route_ids.json")
+if not os.path.exists(route_ids_path):
+    raise FileNotFoundError(f"Required file not found: {route_ids_path}")
+
+try:
+    with open(route_ids_path, 'r', encoding='utf-8') as f:
+        route_id_list = json.load(f)
+except Exception as e:
+    raise RuntimeError(f"Failed to load route IDs from {route_ids_path}: {e}")
+
+if not (isinstance(route_id_list, list) and all(isinstance(x, str) for x in route_id_list)):
+    raise ValueError(f"{route_ids_path} must contain a JSON array of strings")
 
 
 def main():
