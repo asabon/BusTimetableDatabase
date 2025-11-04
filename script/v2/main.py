@@ -28,56 +28,63 @@ if not (isinstance(route_id_list, list) and all(isinstance(x, str) for x in rout
 
 
 def main():
-    busstop_db = BusStopDatabase(f"database/kanachu/v2/database/busstops.json")
-    busstop_db.load()
+    busstop_db = load_busstop_db()
     # 手修正しているデータ ("position") があるため、すでに存在するデータは毎回クリアしない
     # busstop_db.clear()
     for route_id in route_id_list:
-        route_json_path = f"database/kanachu/v2/database/{route_id}/route.json"
-        route_url = f"https://www.kanachu.co.jp/dia/route/index/cid:{route_id}/"
-        route_db = RouteDatabase(route_json_path, route_url)
-        route_db.update()
-        system = route_db.get_system()
-        # print(f"=== Route ID: {route_id}, Bus Stops: {route_db.get_num()} ===")
-        busstops = route_db.get_list()
-        for i, busstop in enumerate(busstops):
-            # ID の登録は全部行う
-            busstop_db.set(
-                id = busstop["id"], 
-                lat = busstop["lat"], 
-                lng = busstop["lng"],
-                name = busstop["name"]
-            )
-            position = busstop_db.get_position(
-                id = busstop["id"],
-                lat = busstop["lat"],
-                lng = busstop["lng"],
-                name = busstop["name"]
-            )
-
-            if i == len(busstops) - 1:
-                # 最後の要素は到着するだけで時刻表を持たないのでスキップ
-                break
-            index_str = str(busstop["index"]).zfill(2)
-            timetable = Timetable(
-                file_path = f"database/kanachu/v2/database/{route_id}/{index_str}.json", 
-                system = system,
-                route_id = route_id, 
-                busstop_index = busstop["index"],
-                busstop_id = busstop["id"], 
-                busstop_name = busstop["name"],
-                busstop_names = busstops,
-                busstop_position = position)
-
-            if not timetable.update():
-                # 更新されていなかった場合はその路線の他の時刻表も更新する必要がないとみなしてループ終了
-                break
-            timetable.save()
-        route_db.save()
+        process_route(route_id, busstop_db)
     busstop_db.save()
 
     # https://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800088-2/nid:00025625/dts:1758996000
     # https://www.kanachu.co.jp/dia/diagram/timetable01/cs:0000800088-2/rt:0/nid:00025625/dts:1758996000
+
+def load_busstop_db() -> BusStopDatabase:
+    db = BusStopDatabase(f"database/kanachu/v2/database/busstops.json")
+    db.load()
+    return db
+
+def process_route(route_id: str, busstop_db: BusStopDatabase):
+    route_json_path = f"database/kanachu/v2/database/{route_id}/route.json"
+    route_url = f"https://www.kanachu.co.jp/dia/route/index/cid:{route_id}/"
+    route_db = RouteDatabase(route_json_path, route_url)
+    route_db.update()
+    system = route_db.get_system()
+    # print(f"=== Route ID: {route_id}, Bus Stops: {route_db.get_num()} ===")
+    busstops = route_db.get_list()
+    for i, busstop in enumerate(busstops):
+        # ID の登録は全部行う
+        busstop_db.set(
+            id = busstop["id"], 
+            lat = busstop["lat"], 
+            lng = busstop["lng"],
+            name = busstop["name"]
+        )
+        position = busstop_db.get_position(
+            id = busstop["id"],
+            lat = busstop["lat"],
+            lng = busstop["lng"],
+            name = busstop["name"]
+        )
+
+        if i == len(busstops) - 1:
+            # 最後の要素は到着するだけで時刻表を持たないのでスキップ
+            break
+        index_str = str(busstop["index"]).zfill(2)
+        timetable = Timetable(
+            file_path = f"database/kanachu/v2/database/{route_id}/{index_str}.json", 
+            system = system,
+            route_id = route_id, 
+            busstop_index = busstop["index"],
+            busstop_id = busstop["id"], 
+            busstop_name = busstop["name"],
+            busstop_names = busstops,
+            busstop_position = position)
+
+        if not timetable.update():
+            # 更新されていなかった場合はその路線の他の時刻表も更新する必要がないとみなしてループ終了
+            break
+        timetable.save()
+    route_db.save()
 
 def update_route_ids_list():
     # route_ids.json を自動生成する関数
