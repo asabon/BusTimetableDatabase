@@ -28,7 +28,7 @@ if not os.path.exists(route_ids_path):
 try:
     with open(route_ids_path, 'r', encoding='utf-8') as f:
         route_id_list = json.load(f)
-except Exception as e:
+except (FileNotFoundError, json.JSONDecodeError, OSError) as e:
     logger.error(f"Error loading route IDs from {route_ids_path}: {e}")
     raise RuntimeError(f"Failed to load route IDs from {route_ids_path}: {e}")
 
