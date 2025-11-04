@@ -1,5 +1,7 @@
 import sys
 import os
+import json
+from bs4 import BeautifulSoup
 
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../'))
 sys.path.insert(0, PROJECT_ROOT)
@@ -8,7 +10,6 @@ from script.common.web_access import get_data
 from script.v2.busstop_database import BusStopDatabase
 from script.v2.route_database import RouteDatabase
 from script.v2.timetable import Timetable
-import json
 
 # Load route ID list from external JSON so other scripts can modify it.
 # This file is required: if it's missing or invalid, raise an error to fail fast.
@@ -89,8 +90,13 @@ def update_route_ids_list():
 
     for base_url in base_url_list:
         html = get_data(base_url)
-        pattern = r'/dia/route/index/cid:(\d{10})/'
-        route_ids = set(re.findall(pattern, html))
+        soup = BeautifulSoup(html, 'html.parser')
+        route_ids = set()
+
+        for a_tag in soup.find_all('a', href=True):
+            match = re.search(r'/dia/route/index/cid:(\d{10})/', a_tag['href'])
+            if match:
+                route_ids.add(match.group(1))
 
         route_ids_list = sorted(route_ids)
 
