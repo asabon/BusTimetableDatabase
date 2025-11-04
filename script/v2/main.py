@@ -1,7 +1,8 @@
 import sys
 import os
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../'))
+sys.path.insert(0, PROJECT_ROOT)
 
 from script.common.web_access import get_data
 from script.v2.busstop_database import BusStopDatabase
@@ -63,7 +64,7 @@ def main():
                 busstop_index = busstop["index"],
                 busstop_id = busstop["id"], 
                 busstop_name = busstop["name"],
-                busstop_names = route_db.get_list(),
+                busstop_names = busstops,
                 busstop_position = position)
 
             result = timetable.update()
@@ -77,5 +78,26 @@ def main():
     # https://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800088-2/nid:00025625/dts:1758996000
     # https://www.kanachu.co.jp/dia/diagram/timetable01/cs:0000800088-2/rt:0/nid:00025625/dts:1758996000
 
+def update_route_ids_list():
+    # route_ids.json を自動生成する関数
+    # 既存の route_ids.json を上書きする
+    import re
+
+    base_url_list = [
+        'https://www.kanachu.co.jp/dia/diagram/search?k=%E7%94%BA%E7%94%B0%E3%83%90%E3%82%B9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&rt=0&t=0&sdid=00025625',
+    ]
+
+    for base_url in base_url_list:
+        html = get_data(base_url)
+        pattern = r'/dia/route/index/cid:(\d{10})/'
+        route_ids = set(re.findall(pattern, html))
+
+        route_ids_list = sorted(route_ids)
+
+        route_ids_path = os.path.join(os.path.dirname(__file__), "route_ids.json")
+        with open(route_ids_path, 'w', encoding='utf-8') as f:
+            json.dump(route_ids_list, f, indent=4, ensure_ascii=False)
+
 if __name__ == "__main__":
+    update_route_ids_list()
     main()

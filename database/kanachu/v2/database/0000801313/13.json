@@ -1,0 +1,17 @@
+{
+    "date": "2021/01/16",
+    "name": "ポプラヶ丘前",
+    "position": "",
+    "system": "町74",
+    "destinations": [
+        "成瀬台二丁目",
+        "野村住宅中央",
+        "成瀬台"
+    ],
+    "weekday": [
+        "8:25"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801313-13/node:00129600/kt:0/lname:/"
+}

@@ -1,0 +1,18 @@
+{
+    "date": "2023/03/18",
+    "name": "旭町(町田市)",
+    "position": "",
+    "system": "町21",
+    "destinations": [
+        "市民病院正門"
+    ],
+    "weekday": [
+        "6:34",
+        "7:02",
+        "7:18",
+        "7:53"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802847-5/node:00130506/kt:0/lname:/"
+}

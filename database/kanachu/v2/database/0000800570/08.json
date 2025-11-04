@@ -1,0 +1,22 @@
+{
+    "date": "2025/10/20",
+    "name": "成瀬消防出張所前",
+    "position": "",
+    "system": "町75",
+    "destinations": [
+        "成瀬コミュニティセンター前",
+        "成瀬高校入口",
+        "南成瀬",
+        "成瀬駅"
+    ],
+    "weekday": [
+        "7:39"
+    ],
+    "saturday": [
+        "8:24"
+    ],
+    "holiday": [
+        "8:44"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800570-8/node:00129584/kt:0/lname:/"
+}

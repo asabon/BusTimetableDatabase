@@ -1,0 +1,19 @@
+{
+    "date": "2023/03/18",
+    "name": "中町二丁目",
+    "position": "",
+    "system": "町21",
+    "destinations": [
+        "旭町(町田市)",
+        "市民病院正門"
+    ],
+    "weekday": [
+        "6:34",
+        "7:02",
+        "7:18",
+        "7:53"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802847-4/node:00130353/kt:0/lname:/"
+}
