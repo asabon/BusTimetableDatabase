@@ -1,0 +1,18 @@
+{
+    "date": "2021/01/16",
+    "name": "小田急団地前",
+    "position": "",
+    "system": "町84",
+    "destinations": [
+        "小川かえで公園前",
+        "小川高校入口",
+        "成瀬駅ガード南",
+        "成瀬駅"
+    ],
+    "weekday": [
+        "8:22"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800932-11/node:00129548/kt:0/lname:/"
+}

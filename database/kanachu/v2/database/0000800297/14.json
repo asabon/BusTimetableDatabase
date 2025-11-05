@@ -1,0 +1,30 @@
+{
+    "date": "2025/10/20",
+    "name": "小川(町田市)",
+    "position": "",
+    "system": "町85",
+    "destinations": [
+        "やなぎ公園前",
+        "すずかけ台駅"
+    ],
+    "weekday": [
+        "6:18",
+        "6:48",
+        "7:19",
+        "7:39",
+        "8:17",
+        "8:34"
+    ],
+    "saturday": [
+        "7:19",
+        "7:47",
+        "8:22",
+        "8:46"
+    ],
+    "holiday": [
+        "6:59",
+        "7:54",
+        "8:49"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800297-14/node:00129565/kt:0/lname:/"
+}

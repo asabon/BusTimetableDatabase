@@ -1,0 +1,29 @@
+{
+    "date": "2025/10/20",
+    "name": "町谷(町田市)",
+    "position": "",
+    "system": "町89",
+    "destinations": [
+        "南町田四丁目",
+        "南町田北",
+        "南町田グランベリーパーク駅"
+    ],
+    "weekday": [
+        "7:13",
+        "7:39",
+        "8:01",
+        "8:32",
+        "8:51"
+    ],
+    "saturday": [
+        "7:37",
+        "8:16",
+        "8:51"
+    ],
+    "holiday": [
+        "7:37",
+        "8:16",
+        "8:51"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802504-13/node:00129608/kt:0/lname:/"
+}

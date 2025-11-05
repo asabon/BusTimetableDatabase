@@ -1,0 +1,27 @@
+{
+    "date": "2025/10/20",
+    "name": "団地入口(町田市)",
+    "position": "",
+    "system": "町92",
+    "destinations": [
+        "高ヶ坂団地"
+    ],
+    "weekday": [
+        "6:53",
+        "7:26",
+        "7:49",
+        "8:09",
+        "8:54"
+    ],
+    "saturday": [
+        "7:36",
+        "8:06",
+        "8:46"
+    ],
+    "holiday": [
+        "7:48",
+        "8:25",
+        "8:55"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801243-8/node:00129579/kt:0/lname:/"
+}

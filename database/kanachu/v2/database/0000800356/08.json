@@ -1,0 +1,24 @@
+{
+    "date": "2025/04/19",
+    "name": "鵜野森団地入口",
+    "position": "",
+    "system": "町08",
+    "destinations": [
+        "町田市役所市民ホール前",
+        "町田バスセンター"
+    ],
+    "weekday": [
+        "6:13",
+        "6:33",
+        "7:15"
+    ],
+    "saturday": [
+        "6:33",
+        "7:53"
+    ],
+    "holiday": [
+        "6:33",
+        "7:53"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800356-8/node:00129374/kt:0/lname:/"
+}
