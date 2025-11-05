@@ -1,0 +1,27 @@
+{
+    "date": "2025/04/19",
+    "name": "柏木公園前",
+    "position": "",
+    "system": "町08",
+    "destinations": [
+        "鵜野森一丁目",
+        "リリエンハイム前",
+        "鵜野森団地入口",
+        "町田市役所市民ホール前",
+        "町田バスセンター"
+    ],
+    "weekday": [
+        "6:10",
+        "6:30",
+        "7:12"
+    ],
+    "saturday": [
+        "6:30",
+        "7:50"
+    ],
+    "holiday": [
+        "6:30",
+        "7:50"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800356-5/node:00129339/kt:0/lname:/"
+}

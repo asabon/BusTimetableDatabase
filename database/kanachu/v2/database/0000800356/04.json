@@ -1,0 +1,28 @@
+{
+    "date": "2025/04/19",
+    "name": "グリーンハイツF4前",
+    "position": "",
+    "system": "町08",
+    "destinations": [
+        "柏木公園前",
+        "鵜野森一丁目",
+        "リリエンハイム前",
+        "鵜野森団地入口",
+        "町田市役所市民ホール前",
+        "町田バスセンター"
+    ],
+    "weekday": [
+        "6:08",
+        "6:28",
+        "7:10"
+    ],
+    "saturday": [
+        "6:28",
+        "7:48"
+    ],
+    "holiday": [
+        "6:28",
+        "7:48"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800356-4/node:00129338/kt:0/lname:/"
+}

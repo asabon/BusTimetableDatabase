@@ -1,0 +1,18 @@
+{
+    "date": "2021/09/27",
+    "name": "妙延寺(町田市)",
+    "position": "",
+    "system": "町20",
+    "destinations": [
+        "町田市役所市民ホール前",
+        "町田バスセンター"
+    ],
+    "weekday": [
+        "5:21",
+        "5:31",
+        "5:41"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803185-12/node:00129375/kt:0/lname:/"
+}

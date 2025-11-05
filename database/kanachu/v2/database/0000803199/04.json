@@ -1,0 +1,20 @@
+{
+    "date": "2023/03/18",
+    "name": "森野三丁目",
+    "position": "",
+    "system": "町21",
+    "destinations": [
+        "第四小学校前(町田市)",
+        "町田市役所市民ホール前",
+        "町田バスセンター"
+    ],
+    "weekday": [
+        "6:48",
+        "7:13",
+        "7:29",
+        "8:13"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803199-4/node:00129358/kt:0/lname:/"
+}

@@ -1,0 +1,26 @@
+{
+    "date": "2021/09/27",
+    "name": "上横町",
+    "position": "",
+    "system": "町20",
+    "destinations": [
+        "境川団地",
+        "境川団地中央",
+        "境川団地入口",
+        "木曽都営入口",
+        "桧台入口",
+        "森野六丁目",
+        "森野五丁目",
+        "妙延寺(町田市)",
+        "町田市役所市民ホール前",
+        "町田バスセンター"
+    ],
+    "weekday": [
+        "5:15",
+        "5:25",
+        "5:35"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803185-4/node:00129385/kt:0/lname:/"
+}

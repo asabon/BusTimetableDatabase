@@ -104,24 +104,46 @@ def update_route_ids_list():
 
     base_url_list = [
         'https://www.kanachu.co.jp/dia/diagram/search?k=%E7%94%BA%E7%94%B0%E3%83%90%E3%82%B9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&rt=0&t=0&sdid=00025625',
+        'https://www.kanachu.co.jp/dia/diagram/search?k=%E7%94%BA%E7%94%B0%E5%B8%82%E5%BD%B9%E6%89%80%E5%B8%82%E6%B0%91%E3%83%9B%E3%83%BC%E3%83%AB%E5%89%8D&rt=0&t=0&sdid=00129356',
     ]
+
+    route_ids = set()
 
     for base_url in base_url_list:
         html = get_data(base_url)
         soup = BeautifulSoup(html, 'html.parser')
-        route_ids = set()
 
         for a_tag in soup.find_all('a', href=True):
             match = re.search(r'/dia/route/index/cid:(\d{10})/', a_tag['href'])
             if match:
                 route_ids.add(match.group(1))
 
-        route_ids_list = sorted(route_ids)
+    route_ids_list = sorted(route_ids)
 
-        route_ids_path = os.path.join(os.path.dirname(__file__), "route_ids.json")
-        with open(route_ids_path, 'w', encoding='utf-8') as f:
-            json.dump(route_ids_list, f, indent=4, ensure_ascii=False)
+    route_ids_path = os.path.join(os.path.dirname(__file__), "route_ids.json")
+    with open(route_ids_path, 'w', encoding='utf-8') as f:
+        json.dump(route_ids_list, f, indent=4, ensure_ascii=False)
+
+def cleanup_obsolete_route_dirs():
+    route_ids = load_route_ids()
+    base_dir = os.path.join("database/kanachu/v2/database")
+    existing_dirs = [
+        name for name in os.listdir(base_dir)
+        if os.path.isdir(os.path.join(base_dir, name)) and name.isdigit() and len(name) == 10
+    ]
+
+    obsolete_dirs = [d for d in existing_dirs if d not in route_ids]
+    for d in obsolete_dirs:
+        dir_path = os.path.join(base_dir, d)
+        try:
+            # ディレクトリごと削除（中身も含めて）
+            import shutil
+            shutil.rmtree(dir_path)
+            logger.info(f"Removed obsolete route directory: {dir_path}")
+        except Exception as e:
+            logger.warning(f"Failed to remove {dir_path}: {e}")
 
 if __name__ == "__main__":
     update_route_ids_list()
+    cleanup_obsolete_route_dirs()
     main()
