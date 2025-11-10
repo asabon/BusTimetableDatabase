@@ -56,7 +56,7 @@ class BusStopDatabase:
         if index is not None:
             return busstops[index]["position"]
         else:
-            return ""
+            return "-" # DBに存在しない場合は "-" を返す
 
     def sort(self):
         busstops = self.editor.get_value("busstops")
@@ -80,7 +80,7 @@ class BusStopDatabase:
             # 一致した場合、名前が変わっていたら更新
             if busstops[index]["name"] != name:
                 busstops[index]["name"] = name
-                busstops[index]["position"] = ""
+                busstops[index]["position"] = "-" # 新規追加時は position は "-" を設定する
         else:
             # 一致しなかった場合は新規追加
             busstops.append(
@@ -89,7 +89,7 @@ class BusStopDatabase:
                     "lat": lat,
                     "lng": lng,
                     "name": name,
-                    "position": ""
+                    "position": "-" # 新規追加時は position は "-" を設定する
                 }
             )
         self.editor.set_value("busstops", busstops)
