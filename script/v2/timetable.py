@@ -20,7 +20,7 @@ class Timetable:
         print(f"filename = {file_path}")
         self.json_editor = script.v2.json_editor.JsonEditor(file_path)
 
-    def update(self):
+    def is_updated(self):
         before_date = self.json_editor.get_value("date")
         timetable_html = get_data(self.url)
         self._parse_timetable_html(timetable_html)
