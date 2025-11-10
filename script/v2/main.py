@@ -3,6 +3,7 @@ import os
 import json
 import logging
 from bs4 import BeautifulSoup
+from urllib.parse import quote
 
 logging.basicConfig(
     level=logging.INFO,
@@ -21,14 +22,9 @@ from script.v2.timetable import Timetable
 def main():
     route_id_list = load_route_ids()
     busstop_db = load_busstop_db()
-    # 手修正しているデータ ("position") があるため、すでに存在するデータは毎回クリアしない
-    # busstop_db.clear()
     for route_id in route_id_list:
         process_route(route_id, busstop_db)
     busstop_db.save()
-
-    # https://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800088-2/nid:00025625/dts:1758996000
-    # https://www.kanachu.co.jp/dia/diagram/timetable01/cs:0000800088-2/rt:0/nid:00025625/dts:1758996000
 
 def load_busstop_db() -> BusStopDatabase:
     db = BusStopDatabase(f"database/kanachu/v2/database/busstops.json")
@@ -41,16 +37,19 @@ def process_route(route_id: str, busstop_db: BusStopDatabase):
     route_db = RouteDatabase(route_json_path, route_url)
     route_db.update()
     system = route_db.get_system()
-    # print(f"=== Route ID: {route_id}, Bus Stops: {route_db.get_num()} ===")
     busstops = route_db.get_list()
+    # 各バス停ごとに時刻表を更新
     for i, busstop in enumerate(busstops):
-        # ID の登録は全部行う
+        # バス停情報をDBに登録・更新
         busstop_db.set(
             id = busstop["id"], 
             lat = busstop["lat"], 
             lng = busstop["lng"],
             name = busstop["name"]
+            # position はここでは設定しない(デフォルトの "-" が設定される)
         )
+        # position は、別途、人が調査して設定している。
+        # それをここで読み出している。
         position = busstop_db.get_position(
             id = busstop["id"],
             lat = busstop["lat"],
@@ -75,6 +74,7 @@ def process_route(route_id: str, busstop_db: BusStopDatabase):
         if not timetable.update():
             # 更新されていなかった場合はその路線の他の時刻表も更新する必要がないとみなしてループ終了
             break
+
         timetable.save()
     route_db.save()
 
@@ -102,9 +102,14 @@ def update_route_ids_list():
     # 既存の route_ids.json を上書きする
     import re
 
+    locations = [
+        {"sdid": "00025625", "name": '町田バスセンター'},
+        {"sdid": "00129356", "name": '町田市役所市民ホール前'},
+    ]
+
     base_url_list = [
-        'https://www.kanachu.co.jp/dia/diagram/search?k=%E7%94%BA%E7%94%B0%E3%83%90%E3%82%B9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&rt=0&t=0&sdid=00025625',
-        'https://www.kanachu.co.jp/dia/diagram/search?k=%E7%94%BA%E7%94%B0%E5%B8%82%E5%BD%B9%E6%89%80%E5%B8%82%E6%B0%91%E3%83%9B%E3%83%BC%E3%83%AB%E5%89%8D&rt=0&t=0&sdid=00129356',
+        f'https://www.kanachu.co.jp/dia/diagram/search?k={quote(loc["name"])}&rt=0&t=0&sdid={loc["sdid"]}'
+        for loc in locations
     ]
 
     route_ids = set()
@@ -144,6 +149,9 @@ def cleanup_obsolete_route_dirs():
             logger.warning(f"Failed to remove {dir_path}: {e}")
 
 if __name__ == "__main__":
+    # 路線IDリストを更新
     update_route_ids_list()
+    # 使われなくなった路線ディレクトリを削除
     cleanup_obsolete_route_dirs()
+    # 路線ごとにメイン処理を実施
     main()
