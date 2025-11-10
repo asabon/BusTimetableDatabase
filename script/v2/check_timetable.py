@@ -44,22 +44,22 @@ def check_timetable_by_file(file_path):
 def validate_timetable(data: dict) -> List[str]:
     errors = []
 
-    # ① date の形式チェック（YYYY/MM/DD）
+    # 1. date の形式チェック（YYYY/MM/DD）
     date_pattern = r'^\d{4}/\d{2}/\d{2}$'
     if not re.match(date_pattern, data.get("date", "")):
         errors.append("date が 'YYYY/MM/DD' 形式ではありません。")
 
-    # ② name が空文字列でないか
+    # 2. name が空文字列でないか
     name = data.get("name", "")
     if not isinstance(name, str) or name.strip() == "":
         errors.append("name が空です。")
 
-    # ③ system が空文字列でないか
+    # 3. system が空文字列でないか
     system = data.get("system", "")
     if not isinstance(system, str) or system.strip() == "":
         errors.append("system が空です。")
 
-    # ④ destinations が1つ以上の文字列で構成された配列か
+    # 4. destinations が1つ以上の文字列で構成された配列か
     destinations = data.get("destinations", [])
     if not isinstance(destinations, list) or len(destinations) < 1:
         errors.append("destinations が1つ以上の要素を持つ配列ではありません。")
