@@ -1,0 +1,24 @@
+{
+    "date": "2024/10/01",
+    "name": "淵野辺駅北口",
+    "position": "-",
+    "system": "淵40",
+    "destinations": [
+        "渕野辺総合病院入口",
+        "南門商店街",
+        "矢部駅・相模野病院前"
+    ],
+    "weekday": [
+        "9:45",
+        "10:45",
+        "11:45",
+        "12:45",
+        "13:45",
+        "14:45",
+        "15:55",
+        "16:55"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803628-33/node:00129246/kt:0/lname:/"
+}

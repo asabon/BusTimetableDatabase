@@ -1,0 +1,25 @@
+{
+    "date": "2024/10/01",
+    "name": "並木通り(相模原市中央区)",
+    "position": "-",
+    "system": "淵40",
+    "destinations": [
+        "淵野辺駅北口",
+        "渕野辺総合病院入口",
+        "南門商店街",
+        "矢部駅・相模野病院前"
+    ],
+    "weekday": [
+        "9:43",
+        "10:43",
+        "11:43",
+        "12:43",
+        "13:43",
+        "14:43",
+        "15:53",
+        "16:53"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803628-32/node:00130101/kt:0/lname:/"
+}

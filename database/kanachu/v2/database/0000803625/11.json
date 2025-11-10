@@ -1,0 +1,20 @@
+{
+    "date": "2024/10/01",
+    "name": "フェアロージュ淵野辺前",
+    "position": "-",
+    "system": "淵40",
+    "destinations": [
+        "淵野辺駅北口",
+        "渕野辺総合病院入口",
+        "南門商店街",
+        "矢部駅・相模野病院前"
+    ],
+    "weekday": [
+        "7:09",
+        "7:54",
+        "8:39"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803625-11/node:00130328/kt:0/lname:/"
+}

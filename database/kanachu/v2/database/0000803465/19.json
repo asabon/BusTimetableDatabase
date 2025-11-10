@@ -1,0 +1,20 @@
+{
+    "date": "2025/04/01",
+    "name": "大蔵(鶴川郵便局前/町田市)",
+    "position": "-",
+    "system": "鶴37",
+    "destinations": [
+        "鶴川市民センター入口",
+        "下大蔵",
+        "金井入口",
+        "上能ヶ谷",
+        "鶴川駅西口",
+        "鶴川駅"
+    ],
+    "weekday": [
+        "7:42"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803465-19/node:00129435/kt:0/lname:/"
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2024/10/01",
+    "name": "上矢部二丁目",
+    "position": "-",
+    "system": "淵40",
+    "destinations": [
+        "上矢部一丁目",
+        "高橋南",
+        "馬場十字路",
+        "馬場橋南"
+    ],
+    "weekday": [
+        "17:32",
+        "18:22",
+        "19:07",
+        "19:57"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803630-11/node:00130334/kt:0/lname:/"
+}
