@@ -106,6 +106,7 @@ def update_route_ids_list():
         {"sdid": "00025625", "name": '町田バスセンター'},
         {"sdid": "00129356", "name": '町田市役所市民ホール前'},
         {"sdid": "00129246", "name": '淵野辺駅北口'},
+        {"sdid": "00129373", "name": "野津田車庫"},
     ]
 
     base_url_list = [
