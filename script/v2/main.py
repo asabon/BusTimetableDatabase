@@ -71,7 +71,7 @@ def process_route(route_id: str, busstop_db: BusStopDatabase):
             busstop_names = busstops,
             busstop_position = position)
 
-        if not timetable.update():
+        if not timetable.is_updated():
             # 更新されていなかった場合はその路線の他の時刻表も更新する必要がないとみなしてループ終了
             break
 
