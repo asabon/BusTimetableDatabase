@@ -1,0 +1,24 @@
+{
+    "date": "2025/04/01",
+    "name": "田中入口",
+    "position": "-",
+    "system": "鶴37",
+    "destinations": [
+        "袋橋",
+        "綾部入口",
+        "川島入口(町田市)",
+        "大蔵(鶴川郵便局前/町田市)",
+        "鶴川市民センター入口",
+        "下大蔵",
+        "金井入口",
+        "上能ヶ谷",
+        "鶴川駅西口",
+        "鶴川駅"
+    ],
+    "weekday": [
+        "7:36"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803465-15/node:00129431/kt:0/lname:/"
+}
