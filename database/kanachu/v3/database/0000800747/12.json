@@ -1,0 +1,26 @@
+{
+    "date": "2021/02/22",
+    "name": "豊田本郷駅",
+    "position": "-",
+    "system": "平94",
+    "destinations": [
+        "西町(平塚市)",
+        "大住中学校前",
+        "新道城所入口",
+        "矢羽根",
+        "馬渡(伊勢原市)",
+        "下大竹",
+        "伊勢原中学校前",
+        "伊勢原駅南口"
+    ],
+    "weekday": [
+        "7:25",
+        "8:16",
+        "8:54",
+        "17:41",
+        "19:01"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800747-12/node:00128065/kt:0/lname:/"
+}

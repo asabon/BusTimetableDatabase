@@ -1,0 +1,26 @@
+{
+    "date": "2023/02/27",
+    "name": "鳶尾山前",
+    "position": "-",
+    "system": "厚13",
+    "destinations": [
+        "鳶尾四丁目",
+        "鳶尾団地",
+        "荻野中学校入口",
+        "東谷戸入口",
+        "みはる野",
+        "みはる野一丁目",
+        "みはる野中央",
+        "みはる野二丁目",
+        "まつかげ台"
+    ],
+    "weekday": [
+        "18:39",
+        "19:09",
+        "19:30",
+        "20:22"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800269-10/node:00128273/kt:0/lname:/"
+}

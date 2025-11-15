@@ -1,0 +1,27 @@
+{
+    "date": "2021/04/01",
+    "name": "小原(相模原市緑区)",
+    "position": "-",
+    "system": "八07",
+    "destinations": [
+        "平野(相模原市緑区)",
+        "北相中学校前",
+        "桂北小学校前",
+        "相模湖駅"
+    ],
+    "weekday": [
+        "10:47",
+        "13:50"
+    ],
+    "saturday": [
+        "10:47",
+        "13:50",
+        "18:15"
+    ],
+    "holiday": [
+        "10:47",
+        "13:50",
+        "18:15"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800353-35/node:00128922/kt:0/lname:/"
+}

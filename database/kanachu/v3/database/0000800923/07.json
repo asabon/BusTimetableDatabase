@@ -1,0 +1,24 @@
+{
+    "date": "2020/07/13",
+    "name": "東名秦野",
+    "position": "-",
+    "system": "秦96",
+    "destinations": [
+        "グリーンテク東",
+        "砂口入口",
+        "グリーンテク中央",
+        "グリーンテク西",
+        "才戸",
+        "藤沢",
+        "中井中学校前",
+        "中井町役場入口"
+    ],
+    "weekday": [
+        "6:31",
+        "7:41",
+        "8:27"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800923-7/node:00026081/kt:0/lname:/"
+}

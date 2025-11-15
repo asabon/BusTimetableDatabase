@@ -1,0 +1,23 @@
+{
+    "date": "2024/05/20",
+    "name": "ひかり幼稚園前",
+    "position": "-",
+    "system": "伊01",
+    "destinations": [
+        "千津",
+        "伊勢原駅南口"
+    ],
+    "weekday": [
+        "10:18",
+        "11:18",
+        "12:18",
+        "14:18",
+        "15:18",
+        "16:18",
+        "17:13",
+        "18:13"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801217-14/node:00128072/kt:0/lname:/"
+}

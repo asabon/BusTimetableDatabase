@@ -1,0 +1,25 @@
+{
+    "date": "2024/01/15",
+    "name": "諏訪久保",
+    "position": "-",
+    "system": "戸97",
+    "destinations": [
+        "第二工業団地",
+        "第二工業団地中央",
+        "ラムーナ横浜戸塚"
+    ],
+    "weekday": [
+        "16:54",
+        "17:21",
+        "17:44",
+        "18:06",
+        "18:22",
+        "18:42",
+        "19:22",
+        "20:14",
+        "21:35"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800054-12/node:00126903/kt:0/lname:/"
+}

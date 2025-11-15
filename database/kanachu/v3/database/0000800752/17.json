@@ -1,0 +1,24 @@
+{
+    "date": "2025/04/19",
+    "name": "相模原五丁目",
+    "position": "-",
+    "system": "相28",
+    "destinations": [
+        "相模原駅南口"
+    ],
+    "weekday": [
+        "5:53",
+        "6:13",
+        "6:23",
+        "6:36"
+    ],
+    "saturday": [
+        "5:58",
+        "6:19",
+        "6:39"
+    ],
+    "holiday": [
+        "7:10"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800752-17/node:00128540/kt:0/lname:/"
+}

@@ -1,0 +1,22 @@
+{
+    "date": "2024/03/16",
+    "name": "島(横浜市青葉区)",
+    "position": "-",
+    "system": "成04",
+    "destinations": [
+        "こどもの国駅"
+    ],
+    "weekday": [
+        "12:45",
+        "14:45"
+    ],
+    "saturday": [
+        "12:45",
+        "14:45"
+    ],
+    "holiday": [
+        "12:45",
+        "14:45"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800226-12/node:00129744/kt:0/lname:/"
+}

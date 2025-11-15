@@ -1,0 +1,23 @@
+{
+    "date": "2016/03/26",
+    "name": "千頭",
+    "position": "-",
+    "system": "厚22",
+    "destinations": [
+        "及川",
+        "穴口橋",
+        "林(厚木市)",
+        "戸室",
+        "戸室神社下",
+        "戸室住宅前",
+        "合同庁舎前(厚木市)",
+        "市役所入口(厚木市)",
+        "本厚木駅"
+    ],
+    "weekday": [
+        "6:31"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800843-34/node:00128402/kt:0/lname:/"
+}

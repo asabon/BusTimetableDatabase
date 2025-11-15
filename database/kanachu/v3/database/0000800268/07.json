@@ -1,0 +1,28 @@
+{
+    "date": "2025/03/15",
+    "name": "並塚",
+    "position": "-",
+    "system": "長37",
+    "destinations": [
+        "上谷台",
+        "長後駅西口"
+    ],
+    "weekday": [
+        "5:36",
+        "6:33",
+        "6:44",
+        "6:47",
+        "7:02",
+        "7:15",
+        "7:26",
+        "7:40",
+        "7:56"
+    ],
+    "saturday": [
+        "5:42"
+    ],
+    "holiday": [
+        "6:12"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800268-7/node:00129847/kt:0/lname:/"
+}

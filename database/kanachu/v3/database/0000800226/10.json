@@ -1,0 +1,24 @@
+{
+    "date": "2024/03/16",
+    "name": "成瀬台",
+    "position": "-",
+    "system": "成04",
+    "destinations": [
+        "駒狩公園前",
+        "島(横浜市青葉区)",
+        "こどもの国駅"
+    ],
+    "weekday": [
+        "12:43",
+        "14:43"
+    ],
+    "saturday": [
+        "12:43",
+        "14:43"
+    ],
+    "holiday": [
+        "12:43",
+        "14:43"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800226-10/node:00129603/kt:0/lname:/"
+}

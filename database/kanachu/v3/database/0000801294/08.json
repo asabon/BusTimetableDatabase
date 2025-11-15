@@ -1,0 +1,17 @@
+{
+    "date": "2025/07/12",
+    "name": "湘南台",
+    "position": "-",
+    "system": "辻31",
+    "destinations": [
+        "引地橋",
+        "観音坂下",
+        "老人センター(藤沢市)"
+    ],
+    "weekday": [
+        "9:06"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801294-8/node:00127087/kt:0/lname:/"
+}

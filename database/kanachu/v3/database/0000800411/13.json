@@ -1,0 +1,24 @@
+{
+    "date": "2025/05/11",
+    "name": "日野公園墓地入口",
+    "position": "-",
+    "system": "上06",
+    "destinations": [
+        "新吉原橋",
+        "吉原(横浜市港南区)",
+        "港南区総合庁舎前",
+        "笹下港南中央通り",
+        "関の下",
+        "上大岡駅"
+    ],
+    "weekday": [
+        "5:50"
+    ],
+    "saturday": [
+        "6:10"
+    ],
+    "holiday": [
+        "6:10"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800411-13/node:00102958/kt:0/lname:/"
+}

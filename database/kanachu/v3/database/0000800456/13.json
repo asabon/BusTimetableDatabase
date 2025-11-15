@@ -1,0 +1,17 @@
+{
+    "date": "2025/08/04",
+    "name": "森下(相模原市緑区)",
+    "position": "-",
+    "system": "橋24",
+    "destinations": [
+        "真米",
+        "東京家政学院前",
+        "東京家政学院"
+    ],
+    "weekday": [],
+    "saturday": [
+        "7:37"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800456-13/node:00128901/kt:0/lname:/"
+}

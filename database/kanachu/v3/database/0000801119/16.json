@@ -1,0 +1,29 @@
+{
+    "date": "2023/02/18",
+    "name": "城所入口",
+    "position": "-",
+    "system": "平91",
+    "destinations": [
+        "矢羽根",
+        "馬渡(伊勢原市)",
+        "下大竹",
+        "伊勢原中学校前",
+        "伊勢原駅南口"
+    ],
+    "weekday": [
+        "6:28",
+        "6:40",
+        "8:01",
+        "8:45",
+        "9:19",
+        "20:06",
+        "22:57"
+    ],
+    "saturday": [
+        "6:45"
+    ],
+    "holiday": [
+        "6:45"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801119-16/node:00128061/kt:0/lname:/"
+}

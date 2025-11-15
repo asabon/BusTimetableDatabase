@@ -1,0 +1,16 @@
+{
+    "date": "2020/09/18",
+    "name": "県営住宅前(高座郡寒川町)",
+    "position": "-",
+    "system": "茅41",
+    "destinations": [
+        "大蔵(高座郡寒川町)",
+        "小谷(高座郡寒川町)"
+    ],
+    "weekday": [
+        "6:32"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800231-20/node:00127175/kt:0/lname:/"
+}

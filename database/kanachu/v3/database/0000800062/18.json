@@ -1,0 +1,25 @@
+{
+    "date": "2024/09/02",
+    "name": "飯田農協前",
+    "position": "-",
+    "system": "長55",
+    "destinations": [
+        "上高倉",
+        "藤沢湘南台病院前",
+        "住宅前(藤沢市高倉)",
+        "長後駅"
+    ],
+    "weekday": [
+        "7:01",
+        "8:11"
+    ],
+    "saturday": [
+        "7:17",
+        "8:42"
+    ],
+    "holiday": [
+        "7:17",
+        "8:42"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800062-18/node:00126793/kt:0/lname:/"
+}

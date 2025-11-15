@@ -1,0 +1,21 @@
+{
+    "date": "2018/03/17",
+    "name": "室田",
+    "position": "-",
+    "system": "辻08",
+    "destinations": [
+        "高田三丁目",
+        "ニュータウン中央(茅ケ崎市)",
+        "ニュータウン入口(茅ケ崎市)",
+        "市立病院(茅ケ崎市)"
+    ],
+    "weekday": [
+        "19:58",
+        "20:39",
+        "21:49",
+        "22:47"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801046-17/node:00127262/kt:0/lname:/"
+}

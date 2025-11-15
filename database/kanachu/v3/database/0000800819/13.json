@@ -1,0 +1,25 @@
+{
+    "date": "2025/07/03",
+    "name": "団地中央(茅ケ崎市)",
+    "position": "-",
+    "system": "茅37",
+    "destinations": [
+        "浜見平団地"
+    ],
+    "weekday": [
+        "6:45",
+        "7:30",
+        "8:00",
+        "20:06",
+        "21:03"
+    ],
+    "saturday": [
+        "7:10",
+        "19:52"
+    ],
+    "holiday": [
+        "7:10",
+        "19:52"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800819-13/node:00127256/kt:0/lname:/"
+}

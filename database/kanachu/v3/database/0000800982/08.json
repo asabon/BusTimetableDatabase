@@ -1,0 +1,20 @@
+{
+    "date": "2025/07/12",
+    "name": "湘南高校前",
+    "position": "-",
+    "system": "藤38",
+    "destinations": [
+        "一中入口(藤沢市)",
+        "引地橋",
+        "観音坂下",
+        "老人センター(藤沢市)"
+    ],
+    "weekday": [
+        "9:10",
+        "9:40",
+        "12:16"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800982-8/node:00127050/kt:0/lname:/"
+}

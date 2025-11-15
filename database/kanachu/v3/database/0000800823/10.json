@@ -1,0 +1,22 @@
+{
+    "date": "2024/03/16",
+    "name": "矢沢(横浜市栄区)",
+    "position": "-",
+    "system": "港84",
+    "destinations": [
+        "桂山公園",
+        "桂台中央",
+        "北桂台"
+    ],
+    "weekday": [
+        "11:28",
+        "13:03",
+        "13:58",
+        "15:56",
+        "20:23",
+        "20:48"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800823-10/node:00126535/kt:0/lname:/"
+}

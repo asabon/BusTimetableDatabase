@@ -1,0 +1,22 @@
+{
+    "date": "2022/09/08",
+    "name": "堂山",
+    "position": "-",
+    "system": "愛19",
+    "destinations": [
+        "宮前(厚木市)",
+        "愛甲石田駅"
+    ],
+    "weekday": [
+        "18:07",
+        "18:32",
+        "18:42",
+        "19:14",
+        "20:03",
+        "20:32",
+        "20:44"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800093-14/node:00128529/kt:0/lname:/"
+}

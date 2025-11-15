@@ -1,0 +1,26 @@
+{
+    "date": "2025/07/12",
+    "name": "南大山",
+    "position": "-",
+    "system": "藤39",
+    "destinations": [
+        "工業団地入口(藤沢市)",
+        "北警察署前(藤沢市)",
+        "湘南台駅西口"
+    ],
+    "weekday": [
+        "6:31",
+        "6:56",
+        "7:50",
+        "8:25",
+        "9:10",
+        "11:10",
+        "13:10",
+        "15:10",
+        "17:11",
+        "19:08"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801209-34/node:00129918/kt:0/lname:/"
+}

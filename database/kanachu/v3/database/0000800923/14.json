@@ -1,0 +1,17 @@
+{
+    "date": "2020/07/13",
+    "name": "中井中学校前",
+    "position": "-",
+    "system": "秦96",
+    "destinations": [
+        "中井町役場入口"
+    ],
+    "weekday": [
+        "6:41",
+        "7:51",
+        "8:37"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800923-14/node:00127949/kt:0/lname:/"
+}

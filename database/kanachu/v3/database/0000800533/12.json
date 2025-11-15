@@ -1,0 +1,26 @@
+{
+    "date": "2024/04/01",
+    "name": "天の杜",
+    "position": "-",
+    "system": "二05",
+    "destinations": [
+        "国府新宿",
+        "槇の木",
+        "変電所前(中郡大磯町)",
+        "下町(中郡二宮町)",
+        "塩海橋",
+        "秦野道",
+        "二宮駅南口"
+    ],
+    "weekday": [
+        "6:26"
+    ],
+    "saturday": [
+        "6:26",
+        "7:29"
+    ],
+    "holiday": [
+        "7:29"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800533-12/node:00127505/kt:0/lname:/"
+}

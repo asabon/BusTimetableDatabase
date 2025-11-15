@@ -1,0 +1,20 @@
+{
+    "date": "2017/01/16",
+    "name": "昭和橋(相模原市南区)",
+    "position": "-",
+    "system": "厚81",
+    "destinations": [
+        "下当麻",
+        "当麻市場",
+        "夢の丘小学校入口",
+        "原当麻駅"
+    ],
+    "weekday": [
+        "12:27",
+        "13:57",
+        "15:27"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800596-20/node:00128359/kt:0/lname:/"
+}

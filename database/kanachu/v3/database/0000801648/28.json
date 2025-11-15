@@ -1,0 +1,17 @@
+{
+    "date": "2025/01/14",
+    "name": "上分",
+    "position": "-",
+    "system": "厚32",
+    "destinations": [
+        "旗谷下"
+    ],
+    "weekday": [
+        "13:51",
+        "17:52",
+        "19:22"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801648-28/node:00128488/kt:0/lname:/"
+}

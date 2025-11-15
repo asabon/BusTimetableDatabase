@@ -1,0 +1,24 @@
+{
+    "date": "2025/03/15",
+    "name": "綾南会館",
+    "position": "-",
+    "system": "長45",
+    "destinations": [
+        "さがみ農協前",
+        "蓮光寺(綾瀬市)",
+        "熊野神社(綾瀬市)",
+        "奥田",
+        "長後市民センター前",
+        "長後駅西口"
+    ],
+    "weekday": [
+        "6:24",
+        "7:10",
+        "7:33",
+        "7:56",
+        "8:19"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800075-4/node:00130013/kt:0/lname:/"
+}

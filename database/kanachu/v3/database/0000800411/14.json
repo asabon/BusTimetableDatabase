@@ -1,0 +1,23 @@
+{
+    "date": "2025/05/11",
+    "name": "新吉原橋",
+    "position": "-",
+    "system": "上06",
+    "destinations": [
+        "吉原(横浜市港南区)",
+        "港南区総合庁舎前",
+        "笹下港南中央通り",
+        "関の下",
+        "上大岡駅"
+    ],
+    "weekday": [
+        "5:51"
+    ],
+    "saturday": [
+        "6:11"
+    ],
+    "holiday": [
+        "6:11"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800411-14/node:00102633/kt:0/lname:/"
+}

@@ -1,0 +1,25 @@
+{
+    "date": "2020/08/24",
+    "name": "稲荷森",
+    "position": "-",
+    "system": "港31",
+    "destinations": [
+        "中野町",
+        "元大橋",
+        "若竹町(横浜市栄区)",
+        "元大橋公園前",
+        "港南台西公園",
+        "横浜女子短期大学前",
+        "港南台駅"
+    ],
+    "weekday": [
+        "6:42",
+        "7:01",
+        "7:16",
+        "7:36",
+        "8:30"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801196-6/node:00126512/kt:0/lname:/"
+}

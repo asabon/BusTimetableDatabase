@@ -1,0 +1,28 @@
+{
+    "date": "2020/05/11",
+    "name": "渋谷ノ里",
+    "position": "-",
+    "system": "長41",
+    "destinations": [
+        "こぶし荘",
+        "住宅前(藤沢市下土棚)",
+        "長後市民センター前",
+        "長後駅西口"
+    ],
+    "weekday": [
+        "9:04",
+        "12:44",
+        "16:14"
+    ],
+    "saturday": [
+        "9:04",
+        "12:44",
+        "16:14"
+    ],
+    "holiday": [
+        "9:04",
+        "12:44",
+        "16:14"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801555-5/node:00130015/kt:0/lname:/"
+}

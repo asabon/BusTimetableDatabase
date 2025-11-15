@@ -1,0 +1,27 @@
+{
+    "date": "2025/05/11",
+    "name": "天神橋(横浜市栄区)",
+    "position": "-",
+    "system": "本21",
+    "destinations": [
+        "団地入口(横浜市栄区)",
+        "団地下(横浜市栄区)",
+        "公田団地"
+    ],
+    "weekday": [
+        "11:43",
+        "13:43",
+        "15:43"
+    ],
+    "saturday": [
+        "10:13",
+        "12:13",
+        "14:13"
+    ],
+    "holiday": [
+        "10:13",
+        "12:13",
+        "14:13"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801372-4/node:00126507/kt:0/lname:/"
+}

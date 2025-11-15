@@ -1,0 +1,22 @@
+{
+    "date": "2020/08/24",
+    "name": "若竹町(横浜市栄区)",
+    "position": "-",
+    "system": "港31",
+    "destinations": [
+        "元大橋公園前",
+        "港南台西公園",
+        "横浜女子短期大学前",
+        "港南台駅"
+    ],
+    "weekday": [
+        "6:45",
+        "7:04",
+        "7:19",
+        "7:39",
+        "8:33"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801196-9/node:00126547/kt:0/lname:/"
+}

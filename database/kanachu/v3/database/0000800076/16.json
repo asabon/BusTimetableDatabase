@@ -1,0 +1,28 @@
+{
+    "date": "2024/09/02",
+    "name": "三ツ俣",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "立場駅",
+        "立場ターミナル"
+    ],
+    "weekday": [
+        "6:03",
+        "6:27",
+        "6:52",
+        "7:05",
+        "7:30",
+        "7:53",
+        "8:18"
+    ],
+    "saturday": [
+        "6:17",
+        "6:59"
+    ],
+    "holiday": [
+        "6:17",
+        "6:59"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800076-16/node:00126933/kt:0/lname:/"
+}

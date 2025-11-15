@@ -1,0 +1,24 @@
+{
+    "date": "2021/02/22",
+    "name": "矢崎(平塚市)",
+    "position": "-",
+    "system": "平91",
+    "destinations": [
+        "大句",
+        "城所入口",
+        "矢羽根",
+        "馬渡(伊勢原市)",
+        "下大竹",
+        "伊勢原中学校前",
+        "伊勢原駅南口"
+    ],
+    "weekday": [
+        "5:53",
+        "6:13",
+        "6:45",
+        "7:20"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800122-3/node:00128063/kt:0/lname:/"
+}

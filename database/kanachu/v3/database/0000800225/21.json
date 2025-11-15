@@ -1,0 +1,25 @@
+{
+    "date": "2024/05/20",
+    "name": "四ツ角(平塚市)",
+    "position": "-",
+    "system": "平91",
+    "destinations": [
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "5:52",
+        "6:36",
+        "17:09",
+        "19:57",
+        "22:47"
+    ],
+    "saturday": [
+        "6:10",
+        "6:25"
+    ],
+    "holiday": [
+        "6:10",
+        "6:30"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800225-21/node:00127190/kt:0/lname:/"
+}

@@ -1,0 +1,28 @@
+{
+    "date": "2025/01/14",
+    "name": "猿ヶ島入口",
+    "position": "-",
+    "system": "厚76",
+    "destinations": [
+        "猿ヶ島"
+    ],
+    "weekday": [
+        "6:57",
+        "8:53",
+        "17:27",
+        "19:17"
+    ],
+    "saturday": [
+        "9:15",
+        "12:16",
+        "15:16",
+        "18:16"
+    ],
+    "holiday": [
+        "8:46",
+        "11:51",
+        "14:51",
+        "17:51"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800283-20/node:00128393/kt:0/lname:/"
+}

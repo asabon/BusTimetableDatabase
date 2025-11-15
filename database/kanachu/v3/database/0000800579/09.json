@@ -1,0 +1,23 @@
+{
+    "date": "2024/12/16",
+    "name": "諏訪南公園",
+    "position": "-",
+    "system": "桜22",
+    "destinations": [
+        "諏訪四丁目(多摩市)",
+        "諏訪三丁目(多摩市)"
+    ],
+    "weekday": [
+        "20:57",
+        "22:27"
+    ],
+    "saturday": [
+        "20:57",
+        "22:27"
+    ],
+    "holiday": [
+        "20:57",
+        "21:27"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800579-9/node:00020623/kt:0/lname:/"
+}

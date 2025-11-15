@@ -1,0 +1,29 @@
+{
+    "date": "2024/09/02",
+    "name": "横浜泉郵便局前",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "三ツ俣",
+        "立場駅",
+        "立場ターミナル"
+    ],
+    "weekday": [
+        "6:01",
+        "6:25",
+        "6:50",
+        "7:03",
+        "7:28",
+        "7:51",
+        "8:16"
+    ],
+    "saturday": [
+        "6:16",
+        "6:57"
+    ],
+    "holiday": [
+        "6:16",
+        "6:57"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800076-15/node:00126934/kt:0/lname:/"
+}

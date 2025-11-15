@@ -1,0 +1,24 @@
+{
+    "date": "2024/12/16",
+    "name": "諏訪下橋(多摩市)",
+    "position": "-",
+    "system": "桜22",
+    "destinations": [
+        "車橋",
+        "新大栗橋",
+        "聖蹟桜ヶ丘駅"
+    ],
+    "weekday": [
+        "5:59",
+        "6:23"
+    ],
+    "saturday": [
+        "6:10",
+        "6:40"
+    ],
+    "holiday": [
+        "6:10",
+        "6:40"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801153-8/node:00020619/kt:0/lname:/"
+}

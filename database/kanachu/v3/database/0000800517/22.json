@@ -1,0 +1,23 @@
+{
+    "date": "2025/01/14",
+    "name": "七沢温泉入口",
+    "position": "-",
+    "system": "厚34",
+    "destinations": [
+        "七沢病院入口",
+        "広沢寺温泉入口",
+        "七沢"
+    ],
+    "weekday": [
+        "21:20",
+        "22:30"
+    ],
+    "saturday": [
+        "20:20",
+        "21:40"
+    ],
+    "holiday": [
+        "20:20"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800517-22/node:00128457/kt:0/lname:/"
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2022/10/16",
+    "name": "元大橋公園前",
+    "position": "-",
+    "system": "港35",
+    "destinations": [
+        "港南台西公園",
+        "横浜女子短期大学前",
+        "港南台駅"
+    ],
+    "weekday": [],
+    "saturday": [
+        "6:48",
+        "8:10"
+    ],
+    "holiday": [
+        "6:48",
+        "8:10"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800203-10/node:00126548/kt:0/lname:/"
+}

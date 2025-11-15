@@ -1,0 +1,27 @@
+{
+    "date": "2020/08/24",
+    "name": "尾月",
+    "position": "-",
+    "system": "港31",
+    "destinations": [
+        "山手学院入口",
+        "稲荷森",
+        "中野町",
+        "元大橋",
+        "若竹町(横浜市栄区)",
+        "元大橋公園前",
+        "港南台西公園",
+        "横浜女子短期大学前",
+        "港南台駅"
+    ],
+    "weekday": [
+        "6:39",
+        "6:58",
+        "7:13",
+        "7:33",
+        "8:27"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801196-4/node:00130226/kt:0/lname:/"
+}

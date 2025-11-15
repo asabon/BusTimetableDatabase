@@ -1,0 +1,20 @@
+{
+    "date": "2025/08/04",
+    "name": "相原台",
+    "position": "-",
+    "system": "橋26",
+    "destinations": [
+        "大西(相模原市緑区)",
+        "上町(相模原市緑区)",
+        "香福寺前",
+        "旭小学校前(相模原市緑区)",
+        "旭農協前",
+        "橋本駅北口"
+    ],
+    "weekday": [],
+    "saturday": [],
+    "holiday": [
+        "10:30"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800300-22/node:00128966/kt:0/lname:/"
+}

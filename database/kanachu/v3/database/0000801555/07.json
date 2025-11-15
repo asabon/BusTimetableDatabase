@@ -1,0 +1,26 @@
+{
+    "date": "2020/05/11",
+    "name": "住宅前(藤沢市下土棚)",
+    "position": "-",
+    "system": "長41",
+    "destinations": [
+        "長後市民センター前",
+        "長後駅西口"
+    ],
+    "weekday": [
+        "9:06",
+        "12:46",
+        "16:16"
+    ],
+    "saturday": [
+        "9:06",
+        "12:46",
+        "16:16"
+    ],
+    "holiday": [
+        "9:06",
+        "12:46",
+        "16:16"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801555-7/node:00130196/kt:0/lname:/"
+}

@@ -1,0 +1,30 @@
+{
+    "date": "2012/09/01",
+    "name": "荻野新宿",
+    "position": "-",
+    "system": "愛24",
+    "destinations": [
+        "宿原入口",
+        "糀屋前(厚木市)",
+        "松蓮寺"
+    ],
+    "weekday": [
+        "6:44",
+        "8:10",
+        "17:35",
+        "19:10"
+    ],
+    "saturday": [
+        "6:44",
+        "8:10",
+        "17:35",
+        "19:10"
+    ],
+    "holiday": [
+        "6:44",
+        "8:09",
+        "17:35",
+        "19:10"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800811-24/node:00128268/kt:0/lname:/"
+}

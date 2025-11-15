@@ -1,0 +1,24 @@
+{
+    "date": "2021/02/22",
+    "name": "大住中学校前",
+    "position": "-",
+    "system": "平94",
+    "destinations": [
+        "新道城所入口",
+        "矢羽根",
+        "馬渡(伊勢原市)",
+        "下大竹",
+        "伊勢原中学校前",
+        "伊勢原駅南口"
+    ],
+    "weekday": [
+        "7:29",
+        "8:20",
+        "8:58",
+        "17:45",
+        "19:05"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800747-14/node:00128091/kt:0/lname:/"
+}

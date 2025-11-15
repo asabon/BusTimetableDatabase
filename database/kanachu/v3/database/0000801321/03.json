@@ -1,0 +1,20 @@
+{
+    "date": "2025/07/12",
+    "name": "茅山(藤沢市)",
+    "position": "-",
+    "system": "善02",
+    "destinations": [
+        "石原谷",
+        "関東航空前",
+        "中郷(藤沢市)",
+        "卸売市場前(藤沢市)",
+        "老人センター(藤沢市)"
+    ],
+    "weekday": [
+        "9:37",
+        "15:02"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801321-3/node:00127101/kt:0/lname:/"
+}

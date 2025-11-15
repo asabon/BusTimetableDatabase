@@ -1,0 +1,18 @@
+{
+    "date": "2018/03/17",
+    "name": "ニュータウン中央(茅ケ崎市)",
+    "position": "-",
+    "system": "茅16",
+    "destinations": [
+        "ニュータウン入口(茅ケ崎市)",
+        "本村五丁目",
+        "本村(茅ケ崎市)",
+        "茅ヶ崎駅"
+    ],
+    "weekday": [
+        "5:59"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800219-6/node:00127266/kt:0/lname:/"
+}

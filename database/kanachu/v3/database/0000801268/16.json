@@ -1,0 +1,22 @@
+{
+    "date": "2025/03/15",
+    "name": "尾崎戸",
+    "position": "-",
+    "system": "茅52",
+    "destinations": [
+        "一之宮小学校前",
+        "西一之宮"
+    ],
+    "weekday": [
+        "21:57",
+        "22:52"
+    ],
+    "saturday": [
+        "21:47"
+    ],
+    "holiday": [
+        "20:37",
+        "21:07"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801268-16/node:00127209/kt:0/lname:/"
+}

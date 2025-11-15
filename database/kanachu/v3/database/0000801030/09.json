@@ -1,0 +1,15 @@
+{
+    "date": "2024/03/16",
+    "name": "山手学院入口",
+    "position": "-",
+    "system": "港39",
+    "destinations": [
+        "本郷車庫前(横浜市栄区)"
+    ],
+    "weekday": [
+        "10:03"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801030-9/node:00126513/kt:0/lname:/"
+}

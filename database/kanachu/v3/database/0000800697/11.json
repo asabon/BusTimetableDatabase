@@ -1,0 +1,26 @@
+{
+    "date": "2025/07/03",
+    "name": "東海岸",
+    "position": "-",
+    "system": "茅37",
+    "destinations": [
+        "会館前(茅ケ崎市)",
+        "幸町(茅ケ崎市)",
+        "茅ヶ崎駅南口"
+    ],
+    "weekday": [
+        "6:20",
+        "7:04",
+        "7:57",
+        "8:18"
+    ],
+    "saturday": [
+        "6:38",
+        "7:38"
+    ],
+    "holiday": [
+        "6:38",
+        "7:38"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800697-11/node:00127243/kt:0/lname:/"
+}

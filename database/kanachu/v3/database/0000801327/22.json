@@ -1,0 +1,29 @@
+{
+    "date": "2025/07/27",
+    "name": "表丹沢林道入口",
+    "position": "-",
+    "system": "秦21",
+    "destinations": [
+        "ヤビツ峠"
+    ],
+    "weekday": [
+        "8:54"
+    ],
+    "saturday": [
+        "7:49",
+        "8:13",
+        "8:53",
+        "9:33",
+        "14:59",
+        "16:04"
+    ],
+    "holiday": [
+        "7:49",
+        "8:13",
+        "8:53",
+        "9:33",
+        "14:59",
+        "16:04"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801327-22/node:00128009/kt:0/lname:/"
+}

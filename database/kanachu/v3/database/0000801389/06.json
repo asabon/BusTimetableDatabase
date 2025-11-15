@@ -1,0 +1,26 @@
+{
+    "date": "2025/03/15",
+    "name": "落合(綾瀬市)",
+    "position": "-",
+    "system": "長22",
+    "destinations": [
+        "上落合(綾瀬市)",
+        "大法寺(綾瀬市)",
+        "大邸",
+        "綾瀬農協前",
+        "綾瀬小学校前",
+        "中郷(綾瀬市)",
+        "綾瀬タウンヒルズ前",
+        "綾瀬市役所"
+    ],
+    "weekday": [
+        "6:57",
+        "7:27",
+        "8:05",
+        "8:52",
+        "9:17"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801389-6/node:00129850/kt:0/lname:/"
+}

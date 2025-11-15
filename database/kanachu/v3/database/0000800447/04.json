@@ -1,0 +1,24 @@
+{
+    "date": "2025/03/15",
+    "name": "六地蔵(藤沢市)",
+    "position": "-",
+    "system": "湘24",
+    "destinations": [
+        "遠藤(藤沢市)",
+        "南大山",
+        "工業団地入口(藤沢市)",
+        "北警察署前(藤沢市)",
+        "湘南台駅西口"
+    ],
+    "weekday": [
+        "7:06",
+        "8:06",
+        "9:04",
+        "10:11",
+        "11:04",
+        "12:09"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800447-4/node:00129913/kt:0/lname:/"
+}

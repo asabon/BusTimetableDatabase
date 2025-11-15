@@ -1,0 +1,19 @@
+{
+    "date": "2025/07/12",
+    "name": "一中入口(藤沢市)",
+    "position": "-",
+    "system": "藤38",
+    "destinations": [
+        "引地橋",
+        "観音坂下",
+        "老人センター(藤沢市)"
+    ],
+    "weekday": [
+        "9:11",
+        "9:41",
+        "12:17"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800982-9/node:00127051/kt:0/lname:/"
+}

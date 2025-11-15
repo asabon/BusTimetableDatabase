@@ -1,0 +1,22 @@
+{
+    "date": "2018/06/25",
+    "name": "小和田(茅ケ崎市)",
+    "position": "-",
+    "system": "藤08",
+    "destinations": [
+        "西小和田",
+        "菱沼",
+        "松林中学校前",
+        "茅ヶ崎高校前",
+        "本村(茅ケ崎市)",
+        "茅ヶ崎駅"
+    ],
+    "weekday": [
+        "9:56",
+        "11:24",
+        "13:24"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801235-21/node:00127132/kt:0/lname:/"
+}

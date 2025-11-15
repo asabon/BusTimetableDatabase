@@ -1,0 +1,25 @@
+{
+    "date": "2017/03/26",
+    "name": "平戸(横浜市港南区)",
+    "position": "-",
+    "system": "港95",
+    "destinations": [
+        "芹が谷団地前",
+        "せりぎんタウン",
+        "芹が谷",
+        "芹が谷山谷",
+        "水道橋下",
+        "普門院前",
+        "別所宮下",
+        "南が丘中学校前",
+        "最戸町",
+        "最戸橋",
+        "上大岡駅"
+    ],
+    "weekday": [
+        "8:27"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800835-21/node:00102977/kt:0/lname:/"
+}

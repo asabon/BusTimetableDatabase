@@ -1,0 +1,21 @@
+{
+    "date": "2024/03/16",
+    "name": "愛光病院前",
+    "position": "-",
+    "system": "厚13",
+    "destinations": [
+        "本厚木駅",
+        "厚木バスセンター"
+    ],
+    "weekday": [
+        "6:44",
+        "7:04",
+        "7:34",
+        "8:17",
+        "8:39",
+        "9:04"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800892-17/node:00128397/kt:0/lname:/"
+}

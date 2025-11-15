@@ -1,0 +1,19 @@
+{
+    "date": "2024/04/01",
+    "name": "公所(平塚市)",
+    "position": "-",
+    "system": "平31",
+    "destinations": [
+        "長久保(平塚市)",
+        "中沢橋",
+        "松岩寺"
+    ],
+    "weekday": [],
+    "saturday": [
+        "21:06"
+    ],
+    "holiday": [
+        "21:06"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800613-17/node:00127567/kt:0/lname:/"
+}

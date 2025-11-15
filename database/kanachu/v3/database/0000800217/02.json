@@ -1,0 +1,21 @@
+{
+    "date": "2025/07/12",
+    "name": "卸売市場前(藤沢市)",
+    "position": "-",
+    "system": "善02",
+    "destinations": [
+        "中郷(藤沢市)",
+        "関東航空前",
+        "石原谷",
+        "茅山(藤沢市)",
+        "善行二丁目",
+        "善行駅"
+    ],
+    "weekday": [
+        "9:46",
+        "15:11"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800217-2/node:00127104/kt:0/lname:/"
+}

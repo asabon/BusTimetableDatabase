@@ -1,0 +1,25 @@
+{
+    "date": "2024/05/20",
+    "name": "関台",
+    "position": "-",
+    "system": "伊43",
+    "destinations": [
+        "中央公民館前(伊勢原市)",
+        "本町(伊勢原市)",
+        "伊勢原駅北口"
+    ],
+    "weekday": [
+        "5:38",
+        "6:16",
+        "6:46",
+        "7:46"
+    ],
+    "saturday": [
+        "17:42",
+        "19:12"
+    ],
+    "holiday": [
+        "19:12"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801524-5/node:00128094/kt:0/lname:/"
+}

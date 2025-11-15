@@ -1,0 +1,23 @@
+{
+    "date": "2025/08/21",
+    "name": "図師大橋",
+    "position": "-",
+    "system": "町16",
+    "destinations": [
+        "日大三高"
+    ],
+    "weekday": [
+        "7:51",
+        "8:07",
+        "8:11"
+    ],
+    "saturday": [
+        "7:50",
+        "8:06",
+        "8:10"
+    ],
+    "holiday": [
+        "8:15"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801655-3/node:00129369/kt:0/lname:/"
+}

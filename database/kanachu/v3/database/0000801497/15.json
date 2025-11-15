@@ -1,0 +1,28 @@
+{
+    "date": "2024/04/01",
+    "name": "湘南平富士見",
+    "position": "-",
+    "system": "平35",
+    "destinations": [
+        "湘南平"
+    ],
+    "weekday": [
+        "9:14",
+        "11:27",
+        "13:27",
+        "16:21"
+    ],
+    "saturday": [
+        "9:14",
+        "11:27",
+        "13:27",
+        "16:16"
+    ],
+    "holiday": [
+        "9:14",
+        "11:27",
+        "13:27",
+        "16:16"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801497-15/node:00127536/kt:0/lname:/"
+}

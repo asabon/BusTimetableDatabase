@@ -1,0 +1,27 @@
+{
+    "date": "2024/12/16",
+    "name": "消防署前(多摩市)",
+    "position": "-",
+    "system": "桜22",
+    "destinations": [
+        "永山駅",
+        "諏訪二丁目(多摩市)",
+        "諏訪幼稚園前",
+        "諏訪南公園",
+        "諏訪四丁目(多摩市)",
+        "諏訪三丁目(多摩市)"
+    ],
+    "weekday": [
+        "20:48",
+        "22:18"
+    ],
+    "saturday": [
+        "20:48",
+        "22:18"
+    ],
+    "holiday": [
+        "20:48",
+        "21:18"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800579-5/node:00021488/kt:0/lname:/"
+}

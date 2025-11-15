@@ -1,0 +1,22 @@
+{
+    "date": "2024/12/16",
+    "name": "鶴牧西公園入口",
+    "position": "-",
+    "system": "多61",
+    "destinations": [
+        "多摩郵便局",
+        "多摩センター駅"
+    ],
+    "weekday": [
+        "5:20",
+        "6:22",
+        "6:50"
+    ],
+    "saturday": [
+        "6:27"
+    ],
+    "holiday": [
+        "6:27"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800344-9/node:00021530/kt:0/lname:/"
+}

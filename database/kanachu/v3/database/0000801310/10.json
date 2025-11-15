@@ -1,0 +1,23 @@
+{
+    "date": "2025/10/20",
+    "name": "柏ヶ谷(海老名市)",
+    "position": "-",
+    "system": "海08",
+    "destinations": [
+        "天野原",
+        "パブコ前",
+        "赤坂(海老名市)",
+        "県営団地入口(海老名市)",
+        "望地(海老名市)",
+        "東国分",
+        "国分(海老名市)",
+        "中央一丁目(海老名市)",
+        "海老名駅東口"
+    ],
+    "weekday": [
+        "7:00"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801310-10/node:00129674/kt:0/lname:/"
+}

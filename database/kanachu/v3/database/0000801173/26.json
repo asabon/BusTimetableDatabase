@@ -1,0 +1,28 @@
+{
+    "date": "2012/09/13",
+    "name": "宮前(厚木市)",
+    "position": "-",
+    "system": "愛24",
+    "destinations": [
+        "愛甲石田駅"
+    ],
+    "weekday": [
+        "6:04",
+        "7:24",
+        "16:51",
+        "18:26"
+    ],
+    "saturday": [
+        "6:04",
+        "7:24",
+        "16:51",
+        "18:26"
+    ],
+    "holiday": [
+        "6:04",
+        "7:24",
+        "16:51",
+        "18:26"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801173-26/node:00128495/kt:0/lname:/"
+}

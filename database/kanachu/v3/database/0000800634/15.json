@@ -1,0 +1,22 @@
+{
+    "date": "2024/05/20",
+    "name": "日向川",
+    "position": "-",
+    "system": "伊31",
+    "destinations": [
+        "馬場リハビリ入口",
+        "神奈川リハビリ",
+        "馬場リハビリ入口",
+        "七沢温泉入口",
+        "七沢病院入口",
+        "広沢寺温泉入口",
+        "七沢"
+    ],
+    "weekday": [
+        "7:14",
+        "7:50"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800634-15/node:00128454/kt:0/lname:/"
+}

@@ -1,0 +1,26 @@
+{
+    "date": "2021/02/22",
+    "name": "すみだ公園",
+    "position": "-",
+    "system": "愛02",
+    "destinations": [
+        "大久保(伊勢原市)",
+        "一之崎",
+        "道了尊入口",
+        "愛甲石田駅"
+    ],
+    "weekday": [
+        "6:03",
+        "6:43",
+        "7:36"
+    ],
+    "saturday": [
+        "7:03",
+        "7:53"
+    ],
+    "holiday": [
+        "7:03",
+        "7:53"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801291-9/node:00128240/kt:0/lname:/"
+}

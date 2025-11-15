@@ -1,0 +1,22 @@
+{
+    "date": "2025/03/15",
+    "name": "蓮光寺(綾瀬市)",
+    "position": "-",
+    "system": "長45",
+    "destinations": [
+        "熊野神社(綾瀬市)",
+        "奥田",
+        "長後市民センター前",
+        "長後駅西口"
+    ],
+    "weekday": [
+        "6:25",
+        "7:11",
+        "7:34",
+        "7:57",
+        "8:20"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800075-6/node:00130008/kt:0/lname:/"
+}

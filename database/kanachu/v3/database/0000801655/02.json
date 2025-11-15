@@ -1,0 +1,24 @@
+{
+    "date": "2025/08/21",
+    "name": "横町(町田市)",
+    "position": "-",
+    "system": "町16",
+    "destinations": [
+        "図師大橋",
+        "日大三高"
+    ],
+    "weekday": [
+        "7:43",
+        "7:59",
+        "8:03"
+    ],
+    "saturday": [
+        "7:43",
+        "7:59",
+        "8:03"
+    ],
+    "holiday": [
+        "8:08"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801655-2/node:00129383/kt:0/lname:/"
+}

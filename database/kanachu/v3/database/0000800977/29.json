@@ -1,0 +1,15 @@
+{
+    "date": "2025/08/30",
+    "name": "本町四丁目(横浜市中区)",
+    "position": "-",
+    "system": "東06",
+    "destinations": [
+        "県庁入口"
+    ],
+    "weekday": [
+        "6:45"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800977-29/node:00103058/kt:0/lname:/"
+}

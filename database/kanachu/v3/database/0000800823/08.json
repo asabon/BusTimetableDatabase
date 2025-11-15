@@ -1,0 +1,24 @@
+{
+    "date": "2024/03/16",
+    "name": "犬山南",
+    "position": "-",
+    "system": "港84",
+    "destinations": [
+        "犬山",
+        "矢沢(横浜市栄区)",
+        "桂山公園",
+        "桂台中央",
+        "北桂台"
+    ],
+    "weekday": [
+        "11:26",
+        "13:01",
+        "13:56",
+        "15:54",
+        "20:21",
+        "20:46"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800823-8/node:00126533/kt:0/lname:/"
+}

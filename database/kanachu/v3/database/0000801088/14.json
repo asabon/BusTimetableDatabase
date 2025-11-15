@@ -1,0 +1,27 @@
+{
+    "date": "2021/02/22",
+    "name": "愛甲橋",
+    "position": "-",
+    "system": "愛21",
+    "destinations": [
+        "堂山",
+        "宮前(厚木市)",
+        "愛甲石田駅"
+    ],
+    "weekday": [
+        "8:30",
+        "9:31",
+        "9:39",
+        "10:14",
+        "13:06",
+        "14:26",
+        "15:06",
+        "15:26",
+        "19:01",
+        "19:38",
+        "20:12"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801088-14/node:00128528/kt:0/lname:/"
+}

@@ -1,0 +1,19 @@
+{
+    "date": "2023/04/25",
+    "name": "相模神田",
+    "position": "-",
+    "system": "平58",
+    "destinations": [
+        "農協神田支所前",
+        "柳の内",
+        "大神工業団地入口",
+        "大神工業団地"
+    ],
+    "weekday": [
+        "7:28",
+        "20:39"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800578-19/node:00127663/kt:0/lname:/"
+}

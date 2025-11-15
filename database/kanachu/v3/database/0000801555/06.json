@@ -1,0 +1,27 @@
+{
+    "date": "2020/05/11",
+    "name": "こぶし荘",
+    "position": "-",
+    "system": "長41",
+    "destinations": [
+        "住宅前(藤沢市下土棚)",
+        "長後市民センター前",
+        "長後駅西口"
+    ],
+    "weekday": [
+        "9:05",
+        "12:45",
+        "16:15"
+    ],
+    "saturday": [
+        "9:05",
+        "12:45",
+        "16:15"
+    ],
+    "holiday": [
+        "9:05",
+        "12:45",
+        "16:15"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801555-6/node:00130014/kt:0/lname:/"
+}

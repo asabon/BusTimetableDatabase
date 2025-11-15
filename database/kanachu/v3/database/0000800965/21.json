@@ -1,0 +1,17 @@
+{
+    "date": "2021/04/01",
+    "name": "大戸橋",
+    "position": "-",
+    "system": "橋16",
+    "destinations": [
+        "上大戸",
+        "ネイチャーファクトリー東京町田",
+        "大戸(相模原市緑区)"
+    ],
+    "weekday": [
+        "7:51"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800965-21/node:00128895/kt:0/lname:/"
+}

@@ -1,0 +1,24 @@
+{
+    "date": "2025/05/11",
+    "name": "神奈川病院",
+    "position": "-",
+    "system": "秦22",
+    "destinations": [
+        "落合(秦野市)",
+        "末広小学校前",
+        "下宿(秦野市)",
+        "仲宿(秦野市)",
+        "上宿通り",
+        "大川橋(秦野市)",
+        "まほろば大橋",
+        "秦野駅"
+    ],
+    "weekday": [
+        "8:35",
+        "9:00",
+        "15:28"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800770-1/node:00127875/kt:0/lname:/"
+}

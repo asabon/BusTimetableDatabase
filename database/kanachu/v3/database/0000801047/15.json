@@ -1,0 +1,25 @@
+{
+    "date": "2023/02/18",
+    "name": "菊屋前",
+    "position": "-",
+    "system": "伊12",
+    "destinations": [
+        "子易",
+        "鳥居前(伊勢原市)",
+        "大山小学校前(伊勢原市)",
+        "大山駅"
+    ],
+    "weekday": [
+        "21:19",
+        "22:19"
+    ],
+    "saturday": [
+        "20:39",
+        "21:09"
+    ],
+    "holiday": [
+        "20:39",
+        "21:09"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801047-15/node:00128154/kt:0/lname:/"
+}

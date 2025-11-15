@@ -1,0 +1,18 @@
+{
+    "date": "2025/02/24",
+    "name": "横浜医療センター前",
+    "position": "-",
+    "system": "戸56",
+    "destinations": [
+        "横浜医療センター"
+    ],
+    "weekday": [
+        "7:18",
+        "18:33",
+        "19:14",
+        "20:20"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801357-11/node:00126819/kt:0/lname:/"
+}

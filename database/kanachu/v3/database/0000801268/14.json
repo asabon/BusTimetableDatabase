@@ -1,0 +1,24 @@
+{
+    "date": "2025/03/15",
+    "name": "神の倉",
+    "position": "-",
+    "system": "茅52",
+    "destinations": [
+        "山伏塚",
+        "尾崎戸",
+        "一之宮小学校前",
+        "西一之宮"
+    ],
+    "weekday": [
+        "21:55",
+        "22:50"
+    ],
+    "saturday": [
+        "21:45"
+    ],
+    "holiday": [
+        "20:35",
+        "21:05"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801268-14/node:00127207/kt:0/lname:/"
+}

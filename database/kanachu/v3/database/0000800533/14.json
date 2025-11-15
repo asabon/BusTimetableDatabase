@@ -1,0 +1,24 @@
+{
+    "date": "2024/04/01",
+    "name": "槇の木",
+    "position": "-",
+    "system": "二05",
+    "destinations": [
+        "変電所前(中郡大磯町)",
+        "下町(中郡二宮町)",
+        "塩海橋",
+        "秦野道",
+        "二宮駅南口"
+    ],
+    "weekday": [
+        "6:28"
+    ],
+    "saturday": [
+        "6:28",
+        "7:31"
+    ],
+    "holiday": [
+        "7:31"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800533-14/node:00127484/kt:0/lname:/"
+}

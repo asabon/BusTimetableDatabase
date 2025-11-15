@@ -1,0 +1,24 @@
+{
+    "date": "2024/12/16",
+    "name": "富士見通下",
+    "position": "-",
+    "system": "多61",
+    "destinations": [
+        "鶴牧三丁目",
+        "鶴牧西公園入口",
+        "多摩郵便局",
+        "多摩センター駅"
+    ],
+    "weekday": [
+        "5:19",
+        "6:21",
+        "6:49"
+    ],
+    "saturday": [
+        "6:26"
+    ],
+    "holiday": [
+        "6:26"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800344-7/node:00021197/kt:0/lname:/"
+}

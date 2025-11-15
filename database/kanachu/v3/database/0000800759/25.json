@@ -1,0 +1,20 @@
+{
+    "date": "2021/02/01",
+    "name": "香川小学校入口",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "甘沼向原",
+        "鶴が台中学校前",
+        "鶴が台中学校南",
+        "鶴が台入口",
+        "ニュータウン入口(茅ケ崎市)",
+        "市立病院(茅ケ崎市)"
+    ],
+    "weekday": [
+        "7:50"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800759-25/node:00127157/kt:0/lname:/"
+}

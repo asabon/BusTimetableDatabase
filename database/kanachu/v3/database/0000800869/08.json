@@ -1,0 +1,24 @@
+{
+    "date": "2020/11/16",
+    "name": "東台(横浜市瀬谷区)",
+    "position": "-",
+    "system": "境30",
+    "destinations": [
+        "細谷戸第1",
+        "細谷戸第2",
+        "細谷戸第3",
+        "細谷戸第4",
+        "細谷戸第5"
+    ],
+    "weekday": [
+        "11:37",
+        "12:37",
+        "13:42",
+        "14:34",
+        "15:32",
+        "16:17"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800869-8/node:00129786/kt:0/lname:/"
+}

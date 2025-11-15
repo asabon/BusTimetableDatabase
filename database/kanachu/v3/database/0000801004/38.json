@@ -1,0 +1,24 @@
+{
+    "date": "2025/07/27",
+    "name": "営林署前(平塚市)",
+    "position": "-",
+    "system": "平75",
+    "destinations": [
+        "旭通り(平塚市)",
+        "八間通り",
+        "平塚文化芸術ホール前",
+        "銀座通り(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "7:17",
+        "17:23"
+    ],
+    "saturday": [
+        "7:38"
+    ],
+    "holiday": [
+        "7:38"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801004-38/node:00127739/kt:0/lname:/"
+}

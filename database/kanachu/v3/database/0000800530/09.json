@@ -1,0 +1,25 @@
+{
+    "date": "2024/03/16",
+    "name": "観性寺前",
+    "position": "-",
+    "system": "成04",
+    "destinations": [
+        "中村(町田市成瀬)",
+        "成瀬高校入口",
+        "南成瀬",
+        "成瀬駅"
+    ],
+    "weekday": [
+        "13:07",
+        "15:07"
+    ],
+    "saturday": [
+        "13:07",
+        "15:07"
+    ],
+    "holiday": [
+        "13:07",
+        "15:07"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800530-9/node:00129559/kt:0/lname:/"
+}

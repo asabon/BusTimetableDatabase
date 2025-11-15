@@ -1,0 +1,27 @@
+{
+    "date": "2024/09/02",
+    "name": "富士見通り商店街",
+    "position": "-",
+    "system": "境01",
+    "destinations": [
+        "三ツ境駅"
+    ],
+    "weekday": [
+        "6:19",
+        "6:49",
+        "11:09",
+        "12:09",
+        "15:19",
+        "16:19"
+    ],
+    "saturday": [
+        "7:02",
+        "12:09",
+        "13:21",
+        "16:24"
+    ],
+    "holiday": [
+        "12:09"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801484-14/node:00126705/kt:0/lname:/"
+}

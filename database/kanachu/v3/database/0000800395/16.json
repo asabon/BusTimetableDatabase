@@ -1,0 +1,24 @@
+{
+    "date": "2025/10/20",
+    "name": "昭和薬科大学",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "児童公園前(町田市)",
+        "東玉川学園四丁目"
+    ],
+    "weekday": [
+        "10:57",
+        "12:57",
+        "14:57"
+    ],
+    "saturday": [
+        "12:57",
+        "14:57"
+    ],
+    "holiday": [
+        "12:57",
+        "14:57"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800395-16/node:00049419/kt:0/lname:/"
+}

@@ -1,0 +1,27 @@
+{
+    "date": "2024/09/02",
+    "name": "立場駅",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "立場ターミナル"
+    ],
+    "weekday": [
+        "6:05",
+        "6:29",
+        "6:54",
+        "7:07",
+        "7:32",
+        "7:55",
+        "8:20"
+    ],
+    "saturday": [
+        "6:19",
+        "7:01"
+    ],
+    "holiday": [
+        "6:19",
+        "7:01"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800076-17/node:00126908/kt:0/lname:/"
+}

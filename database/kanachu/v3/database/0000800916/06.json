@@ -1,0 +1,26 @@
+{
+    "date": "2025/03/15",
+    "name": "代官二丁目",
+    "position": "-",
+    "system": "丘01",
+    "destinations": [
+        "代官三丁目",
+        "本蓼川",
+        "廻り坂",
+        "深谷原",
+        "鶴ヶ岡",
+        "大法寺(綾瀬市)",
+        "綾瀬車庫(綾瀬市)"
+    ],
+    "weekday": [
+        "19:21",
+        "20:11"
+    ],
+    "saturday": [
+        "18:38"
+    ],
+    "holiday": [
+        "18:38"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800916-6/node:00129994/kt:0/lname:/"
+}

@@ -1,0 +1,17 @@
+{
+    "date": "2024/04/01",
+    "name": "相模女子大前",
+    "position": "-",
+    "system": "大54",
+    "destinations": [
+        "相模大野駅北口"
+    ],
+    "weekday": [
+        "7:02",
+        "7:09",
+        "7:37"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800282-5/node:00129150/kt:0/lname:/"
+}

@@ -1,0 +1,17 @@
+{
+    "date": "2016/03/26",
+    "name": "戸室住宅前",
+    "position": "-",
+    "system": "厚22",
+    "destinations": [
+        "合同庁舎前(厚木市)",
+        "市役所入口(厚木市)",
+        "本厚木駅"
+    ],
+    "weekday": [
+        "6:37"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800843-40/node:00128509/kt:0/lname:/"
+}

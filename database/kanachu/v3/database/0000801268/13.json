@@ -1,0 +1,25 @@
+{
+    "date": "2025/03/15",
+    "name": "上の前(茅ケ崎市)",
+    "position": "-",
+    "system": "茅52",
+    "destinations": [
+        "神の倉",
+        "山伏塚",
+        "尾崎戸",
+        "一之宮小学校前",
+        "西一之宮"
+    ],
+    "weekday": [
+        "21:54",
+        "22:49"
+    ],
+    "saturday": [
+        "21:44"
+    ],
+    "holiday": [
+        "20:34",
+        "21:04"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801268-13/node:00127206/kt:0/lname:/"
+}

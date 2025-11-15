@@ -1,0 +1,24 @@
+{
+    "date": "2025/08/04",
+    "name": "大西(相模原市緑区)",
+    "position": "-",
+    "system": "橋24",
+    "destinations": [
+        "相原台",
+        "相原中央",
+        "二本松(相模原市緑区)",
+        "森の上",
+        "東原宿",
+        "城山相原界",
+        "森下(相模原市緑区)",
+        "真米",
+        "東京家政学院前",
+        "東京家政学院"
+    ],
+    "weekday": [],
+    "saturday": [
+        "7:30"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800456-6/node:00128967/kt:0/lname:/"
+}

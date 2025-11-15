@@ -1,0 +1,20 @@
+{
+    "date": "2024/04/01",
+    "name": "御園二丁目",
+    "position": "-",
+    "system": "大54",
+    "destinations": [
+        "上原団地",
+        "谷口台小学校前",
+        "相模女子大前",
+        "相模大野駅北口"
+    ],
+    "weekday": [
+        "6:59",
+        "7:06",
+        "7:34"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800282-2/node:00129260/kt:0/lname:/"
+}

@@ -1,0 +1,25 @@
+{
+    "date": "2024/04/01",
+    "name": "徳延神社前",
+    "position": "-",
+    "system": "平31",
+    "destinations": [
+        "徳延",
+        "河内(平塚市)",
+        "坂間",
+        "大町(平塚市)",
+        "堀の内(平塚市)",
+        "公所(平塚市)",
+        "長久保(平塚市)",
+        "中沢橋",
+        "松岩寺"
+    ],
+    "weekday": [],
+    "saturday": [
+        "20:58"
+    ],
+    "holiday": [
+        "20:58"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800613-11/node:00127561/kt:0/lname:/"
+}

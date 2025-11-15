@@ -1,0 +1,19 @@
+{
+    "date": "2021/04/01",
+    "name": "底沢",
+    "position": "-",
+    "system": "湖29",
+    "destinations": [
+        "小原(相模原市緑区)",
+        "平野(相模原市緑区)",
+        "北相中学校前",
+        "桂北小学校前",
+        "相模湖駅"
+    ],
+    "weekday": [
+        "17:14"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801187-11/node:00128923/kt:0/lname:/"
+}

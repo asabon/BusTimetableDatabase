@@ -1,0 +1,30 @@
+{
+    "date": "2025/01/14",
+    "name": "撚糸組合前",
+    "position": "-",
+    "system": "厚02",
+    "destinations": [
+        "半原"
+    ],
+    "weekday": [
+        "7:27",
+        "7:52",
+        "8:26",
+        "9:01",
+        "9:42",
+        "10:24"
+    ],
+    "saturday": [
+        "7:27",
+        "8:30",
+        "9:30",
+        "10:30"
+    ],
+    "holiday": [
+        "7:32",
+        "8:29",
+        "9:29",
+        "10:30"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800695-40/node:00128294/kt:0/lname:/"
+}

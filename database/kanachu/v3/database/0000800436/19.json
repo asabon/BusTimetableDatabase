@@ -1,0 +1,17 @@
+{
+    "date": "2025/10/20",
+    "name": "市立病院(大和市)",
+    "position": "-",
+    "system": "間16",
+    "destinations": [
+        "オークシティ前",
+        "鶴間二丁目",
+        "鶴間駅東口"
+    ],
+    "weekday": [
+        "8:14"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800436-19/node:00129741/kt:0/lname:/"
+}

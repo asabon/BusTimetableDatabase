@@ -1,0 +1,17 @@
+{
+    "date": "2023/04/25",
+    "name": "柳の内",
+    "position": "-",
+    "system": "平58",
+    "destinations": [
+        "大神工業団地入口",
+        "大神工業団地"
+    ],
+    "weekday": [
+        "7:31",
+        "20:42"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800578-21/node:00127665/kt:0/lname:/"
+}

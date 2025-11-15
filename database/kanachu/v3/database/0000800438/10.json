@@ -1,0 +1,28 @@
+{
+    "date": "2025/03/15",
+    "name": "松陽高校前",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "三家(横浜市泉区)",
+        "早稲田(横浜市泉区)",
+        "ひなた山第一",
+        "ひなた山バザール前",
+        "ひなた山第二",
+        "下瀬谷坂上",
+        "下瀬谷"
+    ],
+    "weekday": [
+        "21:57",
+        "23:10"
+    ],
+    "saturday": [
+        "21:32",
+        "22:32"
+    ],
+    "holiday": [
+        "21:32",
+        "22:32"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800438-10/node:00126939/kt:0/lname:/"
+}

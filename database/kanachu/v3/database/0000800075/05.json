@@ -1,0 +1,23 @@
+{
+    "date": "2025/03/15",
+    "name": "さがみ農協前",
+    "position": "-",
+    "system": "長45",
+    "destinations": [
+        "蓮光寺(綾瀬市)",
+        "熊野神社(綾瀬市)",
+        "奥田",
+        "長後市民センター前",
+        "長後駅西口"
+    ],
+    "weekday": [
+        "6:24",
+        "7:10",
+        "7:33",
+        "7:56",
+        "8:19"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800075-5/node:00130009/kt:0/lname:/"
+}

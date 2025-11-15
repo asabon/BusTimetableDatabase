@@ -1,0 +1,24 @@
+{
+    "date": "2024/04/01",
+    "name": "平塚文化芸術ホール前",
+    "position": "-",
+    "system": "平48",
+    "destinations": [
+        "八間通り",
+        "豊田道",
+        "柳町(平塚市)",
+        "古花水",
+        "花水",
+        "化粧坂",
+        "長者町(中郡大磯町)",
+        "山王町(中郡大磯町)",
+        "図書館前(中郡大磯町)",
+        "大磯駅"
+    ],
+    "weekday": [
+        "5:49"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801285-3/node:00127466/kt:0/lname:/"
+}

@@ -1,0 +1,20 @@
+{
+    "date": "2023/02/18",
+    "name": "小野宮前",
+    "position": "-",
+    "system": "愛19",
+    "destinations": [
+        "小野橋(厚木市)",
+        "榎田",
+        "若宮橋(厚木市)",
+        "通信研究所前(厚木市)",
+        "日産先進技術開発センター"
+    ],
+    "weekday": [
+        "8:14",
+        "8:28"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800789-10/node:00128449/kt:0/lname:/"
+}

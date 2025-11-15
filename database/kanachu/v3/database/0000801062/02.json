@@ -1,0 +1,26 @@
+{
+    "date": "2024/04/01",
+    "name": "道了尊入口",
+    "position": "-",
+    "system": "愛02",
+    "destinations": [
+        "一之崎",
+        "大久保(伊勢原市)",
+        "すみだ公園",
+        "あかね台入口(伊勢原市)",
+        "高森四丁目",
+        "会館前(伊勢原市)",
+        "高森二丁目",
+        "18号棟前",
+        "22号棟前",
+        "5号棟前",
+        "すみだ公園"
+    ],
+    "weekday": [
+        "20:08",
+        "22:23"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801062-2/node:00128202/kt:0/lname:/"
+}

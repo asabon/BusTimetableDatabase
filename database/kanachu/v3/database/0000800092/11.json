@@ -1,0 +1,25 @@
+{
+    "date": "2012/09/18",
+    "name": "柳作東",
+    "position": "-",
+    "system": "戸96",
+    "destinations": [
+        "蔵坪",
+        "戸塚駅"
+    ],
+    "weekday": [
+        "17:18",
+        "17:49",
+        "18:17",
+        "18:31",
+        "18:51",
+        "19:13",
+        "19:47",
+        "20:39",
+        "21:06",
+        "21:56"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800092-11/node:00126967/kt:0/lname:/"
+}

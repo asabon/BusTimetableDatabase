@@ -1,0 +1,19 @@
+{
+    "date": "2022/01/15",
+    "name": "西久保町",
+    "position": "-",
+    "system": "東21",
+    "destinations": [
+        "久保町(横浜市西区)",
+        "水道道"
+    ],
+    "weekday": [
+        "7:40",
+        "7:55",
+        "8:03",
+        "8:28"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800577-19/node:00102879/kt:0/lname:/"
+}

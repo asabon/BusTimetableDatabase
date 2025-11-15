@@ -1,0 +1,18 @@
+{
+    "date": "2022/01/15",
+    "name": "久保町(横浜市西区)",
+    "position": "-",
+    "system": "東21",
+    "destinations": [
+        "水道道"
+    ],
+    "weekday": [
+        "7:41",
+        "7:56",
+        "8:04",
+        "8:29"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800577-20/node:00102455/kt:0/lname:/"
+}

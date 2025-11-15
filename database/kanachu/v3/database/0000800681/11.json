@@ -1,0 +1,18 @@
+{
+    "date": "2021/10/16",
+    "name": "古河電工入口",
+    "position": "-",
+    "system": "平57",
+    "destinations": [
+        "四ツ角(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "8:26",
+        "8:48",
+        "17:55"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800681-11/node:00127648/kt:0/lname:/"
+}

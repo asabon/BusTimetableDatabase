@@ -1,0 +1,24 @@
+{
+    "date": "2024/05/20",
+    "name": "下宿(伊勢原市)",
+    "position": "-",
+    "system": "伊84",
+    "destinations": [
+        "三福寺前",
+        "藤田電機前(伊勢原市)",
+        "西沼目",
+        "つきみの団地",
+        "沼目",
+        "大田小学校前",
+        "下谷上(伊勢原市)",
+        "下谷中央"
+    ],
+    "weekday": [],
+    "saturday": [
+        "21:11"
+    ],
+    "holiday": [
+        "21:11"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800749-2/node:00128057/kt:0/lname:/"
+}

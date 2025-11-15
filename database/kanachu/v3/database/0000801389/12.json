@@ -1,0 +1,20 @@
+{
+    "date": "2025/03/15",
+    "name": "中郷(綾瀬市)",
+    "position": "-",
+    "system": "長22",
+    "destinations": [
+        "綾瀬タウンヒルズ前",
+        "綾瀬市役所"
+    ],
+    "weekday": [
+        "7:04",
+        "7:34",
+        "8:12",
+        "8:59",
+        "9:24"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801389-12/node:00129859/kt:0/lname:/"
+}

@@ -1,0 +1,26 @@
+{
+    "date": "2025/08/04",
+    "name": "旭小学校前(相模原市緑区)",
+    "position": "-",
+    "system": "橋08",
+    "destinations": [
+        "旭農協前",
+        "橋本駅北口"
+    ],
+    "weekday": [
+        "7:46",
+        "9:47",
+        "20:04",
+        "20:39",
+        "21:04",
+        "21:44"
+    ],
+    "saturday": [
+        "20:31",
+        "21:01"
+    ],
+    "holiday": [
+        "21:01"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801213-16/node:00020095/kt:0/lname:/"
+}

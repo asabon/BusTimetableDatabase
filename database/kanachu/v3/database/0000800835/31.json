@@ -1,0 +1,15 @@
+{
+    "date": "2017/03/26",
+    "name": "最戸橋",
+    "position": "-",
+    "system": "港95",
+    "destinations": [
+        "上大岡駅"
+    ],
+    "weekday": [
+        "8:43"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800835-31/node:00102535/kt:0/lname:/"
+}

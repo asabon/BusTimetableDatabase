@@ -1,0 +1,27 @@
+{
+    "date": "2025/03/15",
+    "name": "三家(横浜市泉区)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "早稲田(横浜市泉区)",
+        "ひなた山第一",
+        "ひなた山バザール前",
+        "ひなた山第二",
+        "下瀬谷坂上",
+        "下瀬谷"
+    ],
+    "weekday": [
+        "21:59",
+        "23:12"
+    ],
+    "saturday": [
+        "21:34",
+        "22:34"
+    ],
+    "holiday": [
+        "21:34",
+        "22:34"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800438-11/node:00126941/kt:0/lname:/"
+}

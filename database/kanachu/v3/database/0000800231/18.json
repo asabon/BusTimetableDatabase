@@ -1,0 +1,18 @@
+{
+    "date": "2020/09/18",
+    "name": "公民館入口(高座郡寒川町)",
+    "position": "-",
+    "system": "茅41",
+    "destinations": [
+        "岡田(高座郡寒川町)",
+        "県営住宅前(高座郡寒川町)",
+        "大蔵(高座郡寒川町)",
+        "小谷(高座郡寒川町)"
+    ],
+    "weekday": [
+        "6:30"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800231-18/node:00127173/kt:0/lname:/"
+}

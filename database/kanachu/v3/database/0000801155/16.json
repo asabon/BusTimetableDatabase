@@ -1,0 +1,20 @@
+{
+    "date": "2025/07/12",
+    "name": "田谷(横浜市栄区)",
+    "position": "-",
+    "system": "船65",
+    "destinations": [
+        "小蓋山",
+        "宮ノ前(横浜市栄区)",
+        "長尾台(横浜市栄区)",
+        "坂本(鎌倉市)",
+        "大船駅西口"
+    ],
+    "weekday": [
+        "17:41",
+        "18:41"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801155-16/node:00126850/kt:0/lname:/"
+}

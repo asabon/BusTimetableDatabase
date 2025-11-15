@@ -1,0 +1,29 @@
+{
+    "date": "2025/08/04",
+    "name": "緑区合同庁舎前(相模原市緑区)",
+    "position": "-",
+    "system": "橋28",
+    "destinations": [
+        "橋本二丁目",
+        "橋本駅南口"
+    ],
+    "weekday": [
+        "6:31",
+        "7:08",
+        "7:32",
+        "8:08",
+        "9:08"
+    ],
+    "saturday": [
+        "7:06",
+        "7:53",
+        "9:03",
+        "9:54"
+    ],
+    "holiday": [
+        "7:53",
+        "9:03",
+        "9:54"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800214-17/node:00129000/kt:0/lname:/"
+}

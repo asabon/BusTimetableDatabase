@@ -1,0 +1,26 @@
+{
+    "date": "2023/02/18",
+    "name": "這子坂",
+    "position": "-",
+    "system": "伊12",
+    "destinations": [
+        "菊屋前",
+        "子易",
+        "鳥居前(伊勢原市)",
+        "大山小学校前(伊勢原市)",
+        "大山駅"
+    ],
+    "weekday": [
+        "21:18",
+        "22:18"
+    ],
+    "saturday": [
+        "20:38",
+        "21:08"
+    ],
+    "holiday": [
+        "20:38",
+        "21:08"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801047-14/node:00128153/kt:0/lname:/"
+}

@@ -1,0 +1,30 @@
+{
+    "date": "2023/02/18",
+    "name": "大句",
+    "position": "-",
+    "system": "平91",
+    "destinations": [
+        "城所入口",
+        "矢羽根",
+        "馬渡(伊勢原市)",
+        "下大竹",
+        "伊勢原中学校前",
+        "伊勢原駅南口"
+    ],
+    "weekday": [
+        "6:27",
+        "6:39",
+        "7:59",
+        "8:43",
+        "9:17",
+        "20:05",
+        "22:56"
+    ],
+    "saturday": [
+        "6:44"
+    ],
+    "holiday": [
+        "6:44"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801119-15/node:00128062/kt:0/lname:/"
+}

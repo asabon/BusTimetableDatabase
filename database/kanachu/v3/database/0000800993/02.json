@@ -1,0 +1,26 @@
+{
+    "date": "2022/03/12",
+    "name": "山手学院入口",
+    "position": "-",
+    "system": "港39",
+    "destinations": [
+        "稲荷森",
+        "中野町",
+        "元大橋",
+        "若竹町(横浜市栄区)",
+        "元大橋公園前",
+        "港南台西公園",
+        "横浜女子短期大学前",
+        "港南台駅"
+    ],
+    "weekday": [
+        "6:04",
+        "6:54",
+        "7:07",
+        "7:45",
+        "8:08"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800993-2/node:00126513/kt:0/lname:/"
+}

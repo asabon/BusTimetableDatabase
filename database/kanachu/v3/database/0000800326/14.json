@@ -1,0 +1,20 @@
+{
+    "date": "2025/08/04",
+    "name": "久保沢",
+    "position": "-",
+    "system": "橋14",
+    "destinations": [
+        "谷ヶ原",
+        "都井沢",
+        "城山高校前",
+        "城山(相模原市緑区)"
+    ],
+    "weekday": [
+        "19:58",
+        "20:48",
+        "23:08"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800326-14/node:00128959/kt:0/lname:/"
+}

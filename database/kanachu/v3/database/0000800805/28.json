@@ -1,0 +1,21 @@
+{
+    "date": "2025/01/14",
+    "name": "金田(厚木市)",
+    "position": "-",
+    "system": "厚96",
+    "destinations": [
+        "金田下宿",
+        "積水ソフランウイズ前",
+        "鮎津橋",
+        "元町(厚木市)",
+        "小田急通り",
+        "厚木バスセンター"
+    ],
+    "weekday": [
+        "18:26",
+        "19:18"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800805-28/node:00128347/kt:0/lname:/"
+}

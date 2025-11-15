@@ -1,0 +1,28 @@
+{
+    "date": "2023/02/18",
+    "name": "石倉(伊勢原市)",
+    "position": "-",
+    "system": "伊12",
+    "destinations": [
+        "明神前(伊勢原市)",
+        "這子坂",
+        "菊屋前",
+        "子易",
+        "鳥居前(伊勢原市)",
+        "大山小学校前(伊勢原市)",
+        "大山駅"
+    ],
+    "weekday": [
+        "21:16",
+        "22:16"
+    ],
+    "saturday": [
+        "20:35",
+        "21:05"
+    ],
+    "holiday": [
+        "20:35",
+        "21:05"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801047-12/node:00128151/kt:0/lname:/"
+}

@@ -1,0 +1,27 @@
+{
+    "date": "2024/12/16",
+    "name": "南野三丁目",
+    "position": "-",
+    "system": "多61",
+    "destinations": [
+        "落合六丁目",
+        "鶴牧センター",
+        "富士見通下",
+        "鶴牧三丁目",
+        "鶴牧西公園入口",
+        "多摩郵便局",
+        "多摩センター駅"
+    ],
+    "weekday": [
+        "5:15",
+        "6:17",
+        "6:45"
+    ],
+    "saturday": [
+        "6:22"
+    ],
+    "holiday": [
+        "6:22"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800344-4/node:00021076/kt:0/lname:/"
+}

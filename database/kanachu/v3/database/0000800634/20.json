@@ -1,0 +1,17 @@
+{
+    "date": "2024/05/20",
+    "name": "七沢病院入口",
+    "position": "-",
+    "system": "伊31",
+    "destinations": [
+        "広沢寺温泉入口",
+        "七沢"
+    ],
+    "weekday": [
+        "7:20",
+        "7:56"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800634-20/node:00128458/kt:0/lname:/"
+}

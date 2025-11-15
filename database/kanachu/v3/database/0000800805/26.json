@@ -1,0 +1,23 @@
+{
+    "date": "2025/01/14",
+    "name": "下依知入口",
+    "position": "-",
+    "system": "厚96",
+    "destinations": [
+        "金田神社前",
+        "金田(厚木市)",
+        "金田下宿",
+        "積水ソフランウイズ前",
+        "鮎津橋",
+        "元町(厚木市)",
+        "小田急通り",
+        "厚木バスセンター"
+    ],
+    "weekday": [
+        "18:23",
+        "19:16"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800805-26/node:00128349/kt:0/lname:/"
+}

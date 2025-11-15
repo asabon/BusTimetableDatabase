@@ -1,0 +1,27 @@
+{
+    "date": "2024/03/16",
+    "name": "稲荷木",
+    "position": "-",
+    "system": "厚13",
+    "destinations": [
+        "新道公所",
+        "山中陣屋跡公園前",
+        "天台上野原",
+        "及川球技場入口",
+        "林中学校入口",
+        "愛光病院前",
+        "本厚木駅",
+        "厚木バスセンター"
+    ],
+    "weekday": [
+        "6:34",
+        "6:54",
+        "7:24",
+        "8:07",
+        "8:29",
+        "8:54"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800892-11/node:00128272/kt:0/lname:/"
+}

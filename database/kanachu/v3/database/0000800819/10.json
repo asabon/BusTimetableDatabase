@@ -1,0 +1,28 @@
+{
+    "date": "2025/07/03",
+    "name": "西浜(茅ケ崎市)",
+    "position": "-",
+    "system": "茅37",
+    "destinations": [
+        "南湖入口",
+        "西浜高校前",
+        "団地中央(茅ケ崎市)",
+        "浜見平団地"
+    ],
+    "weekday": [
+        "6:42",
+        "7:27",
+        "7:57",
+        "20:03",
+        "21:00"
+    ],
+    "saturday": [
+        "7:07",
+        "19:49"
+    ],
+    "holiday": [
+        "7:07",
+        "19:49"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800819-10/node:00127251/kt:0/lname:/"
+}

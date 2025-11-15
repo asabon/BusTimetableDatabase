@@ -1,0 +1,29 @@
+{
+    "date": "2024/05/20",
+    "name": "片平入口",
+    "position": "-",
+    "system": "伊80",
+    "destinations": [
+        "愛甲石田駅"
+    ],
+    "weekday": [
+        "6:47",
+        "8:31",
+        "9:56",
+        "11:18",
+        "15:33",
+        "16:56",
+        "18:11"
+    ],
+    "saturday": [
+        "9:01",
+        "14:01",
+        "17:53"
+    ],
+    "holiday": [
+        "9:01",
+        "14:01",
+        "17:53"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800535-20/node:00128624/kt:0/lname:/"
+}

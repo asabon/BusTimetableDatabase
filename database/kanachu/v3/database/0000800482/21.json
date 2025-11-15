@@ -1,0 +1,19 @@
+{
+    "date": "2025/07/12",
+    "name": "三富士町",
+    "position": "-",
+    "system": "船65",
+    "destinations": [
+        "藤沢駅北口"
+    ],
+    "weekday": [
+        "7:29",
+        "7:56",
+        "8:31",
+        "8:49",
+        "9:11"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800482-21/node:00126971/kt:0/lname:/"
+}

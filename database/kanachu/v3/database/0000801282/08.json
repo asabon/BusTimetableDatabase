@@ -1,0 +1,24 @@
+{
+    "date": "2024/05/20",
+    "name": "神戸(伊勢原市)",
+    "position": "-",
+    "system": "伊58",
+    "destinations": [
+        "串橋入口",
+        "桜坂(伊勢原市)",
+        "谷戸岡",
+        "大住台",
+        "坪ノ内",
+        "笠谷戸",
+        "善波西玉",
+        "善波"
+    ],
+    "weekday": [
+        "7:18",
+        "15:09",
+        "16:00"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801282-8/node:00128134/kt:0/lname:/"
+}

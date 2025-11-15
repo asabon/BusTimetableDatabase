@@ -1,0 +1,27 @@
+{
+    "date": "2024/05/20",
+    "name": "八雲神社前(伊勢原市)",
+    "position": "-",
+    "system": "伊58",
+    "destinations": [
+        "白根",
+        "白根公民館前",
+        "神戸(伊勢原市)",
+        "串橋入口",
+        "桜坂(伊勢原市)",
+        "谷戸岡",
+        "大住台",
+        "坪ノ内",
+        "笠谷戸",
+        "善波西玉",
+        "善波"
+    ],
+    "weekday": [
+        "7:15",
+        "15:05",
+        "15:56"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801282-5/node:00128131/kt:0/lname:/"
+}

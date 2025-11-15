@@ -1,0 +1,29 @@
+{
+    "date": "2020/05/11",
+    "name": "こぶし荘",
+    "position": "-",
+    "system": "長41",
+    "destinations": [
+        "渋谷ノ里",
+        "とどろき公園",
+        "渋谷ヶ原",
+        "東谷(藤沢市)",
+        "湘南台駅西口"
+    ],
+    "weekday": [
+        "8:43",
+        "12:23",
+        "15:53"
+    ],
+    "saturday": [
+        "8:43",
+        "12:23",
+        "15:53"
+    ],
+    "holiday": [
+        "8:43",
+        "12:23",
+        "15:53"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800228-4/node:00130014/kt:0/lname:/"
+}

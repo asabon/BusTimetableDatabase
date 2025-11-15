@@ -1,0 +1,18 @@
+{
+    "date": "2024/03/16",
+    "name": "松蓮寺",
+    "position": "-",
+    "system": "厚08",
+    "destinations": [
+        "中村入口(厚木市)",
+        "本厚木駅",
+        "厚木バスセンター"
+    ],
+    "weekday": [
+        "6:49",
+        "7:24"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800864-1/node:00128265/kt:0/lname:/"
+}

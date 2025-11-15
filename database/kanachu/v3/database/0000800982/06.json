@@ -1,0 +1,22 @@
+{
+    "date": "2025/07/12",
+    "name": "白旗交差点",
+    "position": "-",
+    "system": "藤38",
+    "destinations": [
+        "台町(藤沢市)",
+        "湘南高校前",
+        "一中入口(藤沢市)",
+        "引地橋",
+        "観音坂下",
+        "老人センター(藤沢市)"
+    ],
+    "weekday": [
+        "9:07",
+        "9:37",
+        "12:13"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800982-6/node:00127012/kt:0/lname:/"
+}

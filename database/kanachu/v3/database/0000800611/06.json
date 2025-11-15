@@ -1,0 +1,29 @@
+{
+    "date": "2024/05/20",
+    "name": "板戸",
+    "position": "-",
+    "system": "伊54",
+    "destinations": [
+        "大神宮前",
+        "本町(伊勢原市)",
+        "伊勢原駅北口"
+    ],
+    "weekday": [
+        "5:43",
+        "6:17",
+        "7:11",
+        "9:52",
+        "17:41"
+    ],
+    "saturday": [
+        "5:58",
+        "6:38",
+        "7:48"
+    ],
+    "holiday": [
+        "5:58",
+        "6:38",
+        "7:48"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800611-6/node:00128130/kt:0/lname:/"
+}

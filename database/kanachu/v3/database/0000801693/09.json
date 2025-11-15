@@ -1,0 +1,20 @@
+{
+    "date": "2012/09/01",
+    "name": "王子入口",
+    "position": "-",
+    "system": "厚95",
+    "destinations": [
+        "高校入口(厚木市)",
+        "王子(厚木市)"
+    ],
+    "weekday": [
+        "7:53",
+        "8:03",
+        "8:13",
+        "8:18",
+        "8:24"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801693-9/node:00128674/kt:0/lname:/"
+}

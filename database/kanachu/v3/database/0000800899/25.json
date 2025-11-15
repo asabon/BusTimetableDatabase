@@ -1,0 +1,25 @@
+{
+    "date": "2025/08/04",
+    "name": "相原台",
+    "position": "-",
+    "system": "橋01",
+    "destinations": [
+        "大西(相模原市緑区)",
+        "上町(相模原市緑区)",
+        "緑区合同庁舎前(相模原市緑区)",
+        "橋本二丁目",
+        "橋本駅南口"
+    ],
+    "weekday": [
+        "5:33",
+        "6:13",
+        "6:54",
+        "7:04",
+        "7:34",
+        "7:42",
+        "7:58"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800899-25/node:00128966/kt:0/lname:/"
+}

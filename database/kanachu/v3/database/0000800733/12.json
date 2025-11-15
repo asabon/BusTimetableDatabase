@@ -1,0 +1,25 @@
+{
+    "date": "2025/03/15",
+    "name": "大庭隧道",
+    "position": "-",
+    "system": "辻24",
+    "destinations": [
+        "城南一丁目",
+        "羽鳥一丁目",
+        "神台公園前",
+        "辻堂駅北口"
+    ],
+    "weekday": [
+        "5:34",
+        "5:44",
+        "5:58",
+        "6:11",
+        "6:26",
+        "6:56",
+        "7:06",
+        "7:53"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800733-12/node:00129937/kt:0/lname:/"
+}

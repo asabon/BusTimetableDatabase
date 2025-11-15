@@ -1,0 +1,16 @@
+{
+    "date": "2021/02/01",
+    "name": "鶴が台入口",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "ニュータウン入口(茅ケ崎市)",
+        "市立病院(茅ケ崎市)"
+    ],
+    "weekday": [
+        "7:52"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800759-29/node:00127139/kt:0/lname:/"
+}

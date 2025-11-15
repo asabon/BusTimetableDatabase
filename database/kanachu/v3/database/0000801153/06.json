@@ -1,0 +1,26 @@
+{
+    "date": "2024/12/16",
+    "name": "永山駅",
+    "position": "-",
+    "system": "桜22",
+    "destinations": [
+        "消防署前(多摩市)",
+        "諏訪下橋(多摩市)",
+        "車橋",
+        "新大栗橋",
+        "聖蹟桜ヶ丘駅"
+    ],
+    "weekday": [
+        "5:56",
+        "6:20"
+    ],
+    "saturday": [
+        "6:07",
+        "6:37"
+    ],
+    "holiday": [
+        "6:07",
+        "6:37"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801153-6/node:00020143/kt:0/lname:/"
+}

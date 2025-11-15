@@ -1,0 +1,18 @@
+{
+    "date": "2025/01/14",
+    "name": "鮎津橋",
+    "position": "-",
+    "system": "厚96",
+    "destinations": [
+        "元町(厚木市)",
+        "小田急通り",
+        "厚木バスセンター"
+    ],
+    "weekday": [
+        "18:31",
+        "19:22"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800805-31/node:00128344/kt:0/lname:/"
+}

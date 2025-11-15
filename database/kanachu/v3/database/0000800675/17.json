@@ -1,0 +1,28 @@
+{
+    "date": "2024/03/16",
+    "name": "桂山公園",
+    "position": "-",
+    "system": "港90",
+    "destinations": [
+        "桂台中央",
+        "北桂台"
+    ],
+    "weekday": [
+        "23:17"
+    ],
+    "saturday": [
+        "19:00",
+        "19:58",
+        "21:16",
+        "21:46",
+        "22:16"
+    ],
+    "holiday": [
+        "19:00",
+        "19:58",
+        "21:16",
+        "21:46",
+        "22:16"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800675-17/node:00126536/kt:0/lname:/"
+}

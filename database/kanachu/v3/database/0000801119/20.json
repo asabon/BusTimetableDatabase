@@ -1,0 +1,25 @@
+{
+    "date": "2023/02/18",
+    "name": "伊勢原中学校前",
+    "position": "-",
+    "system": "平91",
+    "destinations": [
+        "伊勢原駅南口"
+    ],
+    "weekday": [
+        "6:31",
+        "6:43",
+        "8:06",
+        "8:50",
+        "9:23",
+        "20:11",
+        "23:02"
+    ],
+    "saturday": [
+        "6:49"
+    ],
+    "holiday": [
+        "6:49"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801119-20/node:00128058/kt:0/lname:/"
+}

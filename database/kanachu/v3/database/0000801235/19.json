@@ -1,0 +1,24 @@
+{
+    "date": "2018/06/25",
+    "name": "二ツ谷",
+    "position": "-",
+    "system": "藤08",
+    "destinations": [
+        "東小和田",
+        "小和田(茅ケ崎市)",
+        "西小和田",
+        "菱沼",
+        "松林中学校前",
+        "茅ヶ崎高校前",
+        "本村(茅ケ崎市)",
+        "茅ヶ崎駅"
+    ],
+    "weekday": [
+        "9:50",
+        "11:18",
+        "13:18"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801235-19/node:00127134/kt:0/lname:/"
+}

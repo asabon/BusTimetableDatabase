@@ -1,0 +1,26 @@
+{
+    "date": "2025/10/20",
+    "name": "大和南",
+    "position": "-",
+    "system": "和03",
+    "destinations": [
+        "天満宮(大和市)",
+        "大和駅"
+    ],
+    "weekday": [
+        "5:54",
+        "6:31",
+        "6:58",
+        "7:23",
+        "17:50",
+        "20:46"
+    ],
+    "saturday": [
+        "7:03",
+        "20:04"
+    ],
+    "holiday": [
+        "20:03"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800559-10/node:00129634/kt:0/lname:/"
+}

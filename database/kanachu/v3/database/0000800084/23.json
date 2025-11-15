@@ -1,0 +1,20 @@
+{
+    "date": "2023/02/18",
+    "name": "伊勢原駅南口",
+    "position": "-",
+    "system": "平89",
+    "destinations": [
+        "下宿(伊勢原市)",
+        "下原公園前",
+        "金山(伊勢原市)",
+        "行政センター前(伊勢原市)",
+        "伊勢原市役所北口",
+        "東海大学病院"
+    ],
+    "weekday": [
+        "9:50"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800084-23/node:00128056/kt:0/lname:/"
+}

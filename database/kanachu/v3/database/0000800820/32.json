@@ -1,0 +1,19 @@
+{
+    "date": "2025/08/30",
+    "name": "元町(横浜市戸塚区)",
+    "position": "-",
+    "system": "戸03",
+    "destinations": [
+        "矢部町",
+        "戸塚駅東口"
+    ],
+    "weekday": [
+        "7:20",
+        "7:45"
+    ],
+    "saturday": [
+        "7:18"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800820-32/node:00126611/kt:0/lname:/"
+}

@@ -1,0 +1,22 @@
+{
+    "date": "2024/12/16",
+    "name": "諏訪四丁目(多摩市)",
+    "position": "-",
+    "system": "桜22",
+    "destinations": [
+        "諏訪三丁目(多摩市)"
+    ],
+    "weekday": [
+        "20:59",
+        "22:28"
+    ],
+    "saturday": [
+        "20:59",
+        "22:28"
+    ],
+    "holiday": [
+        "20:59",
+        "21:28"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800579-10/node:00020621/kt:0/lname:/"
+}

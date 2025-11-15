@@ -1,0 +1,27 @@
+{
+    "date": "2022/10/16",
+    "name": "本郷車庫前(横浜市栄区)",
+    "position": "-",
+    "system": "港35",
+    "destinations": [
+        "山手学院入口",
+        "稲荷森",
+        "中野町",
+        "元大橋",
+        "若竹町(横浜市栄区)",
+        "元大橋公園前",
+        "港南台西公園",
+        "横浜女子短期大学前",
+        "港南台駅"
+    ],
+    "weekday": [],
+    "saturday": [
+        "6:43",
+        "8:04"
+    ],
+    "holiday": [
+        "6:43",
+        "8:04"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800203-4/node:00025683/kt:0/lname:/"
+}

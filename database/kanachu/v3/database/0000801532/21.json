@@ -1,0 +1,22 @@
+{
+    "date": "2025/08/30",
+    "name": "せりぎんタウン",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "芹が谷"
+    ],
+    "weekday": [
+        "18:57",
+        "20:36",
+        "21:56"
+    ],
+    "saturday": [
+        "18:24",
+        "18:57"
+    ],
+    "holiday": [
+        "19:56"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801532-21/node:00126568/kt:0/lname:/"
+}

@@ -1,0 +1,26 @@
+{
+    "date": "2025/04/19",
+    "name": "グリーンプラザ(相模原市中央区)",
+    "position": "-",
+    "system": "相28",
+    "destinations": [
+        "西門前(相模原市中央区)",
+        "相模原五丁目",
+        "相模原駅南口"
+    ],
+    "weekday": [
+        "5:50",
+        "6:10",
+        "6:20",
+        "6:33"
+    ],
+    "saturday": [
+        "5:55",
+        "6:16",
+        "6:36"
+    ],
+    "holiday": [
+        "7:07"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800752-15/node:00128538/kt:0/lname:/"
+}

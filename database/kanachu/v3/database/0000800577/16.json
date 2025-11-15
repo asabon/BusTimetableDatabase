@@ -1,0 +1,22 @@
+{
+    "date": "2022/01/15",
+    "name": "八幡橋(横浜市保土ケ谷区)",
+    "position": "-",
+    "system": "東21",
+    "destinations": [
+        "保土ヶ谷橋",
+        "保土ヶ谷駅東口",
+        "西久保町",
+        "久保町(横浜市西区)",
+        "水道道"
+    ],
+    "weekday": [
+        "7:35",
+        "7:50",
+        "7:58",
+        "8:23"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800577-16/node:00102921/kt:0/lname:/"
+}

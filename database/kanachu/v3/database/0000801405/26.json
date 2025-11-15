@@ -1,0 +1,18 @@
+{
+    "date": "2025/01/14",
+    "name": "市役所入口(厚木市)",
+    "position": "-",
+    "system": "厚04",
+    "destinations": [
+        "本厚木駅"
+    ],
+    "weekday": [],
+    "saturday": [
+        "6:10",
+        "7:29"
+    ],
+    "holiday": [
+        "6:12"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801405-26/node:00128396/kt:0/lname:/"
+}

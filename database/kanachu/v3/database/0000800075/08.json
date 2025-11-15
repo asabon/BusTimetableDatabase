@@ -1,0 +1,20 @@
+{
+    "date": "2025/03/15",
+    "name": "奥田",
+    "position": "-",
+    "system": "長45",
+    "destinations": [
+        "長後市民センター前",
+        "長後駅西口"
+    ],
+    "weekday": [
+        "6:27",
+        "7:13",
+        "7:36",
+        "7:59",
+        "8:22"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800075-8/node:00130017/kt:0/lname:/"
+}

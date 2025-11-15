@@ -1,0 +1,20 @@
+{
+    "date": "2022/02/05",
+    "name": "茅ヶ崎四ツ角",
+    "position": "-",
+    "system": "茅41",
+    "destinations": [
+        "茅ヶ崎駅"
+    ],
+    "weekday": [
+        "6:33",
+        "7:05"
+    ],
+    "saturday": [
+        "6:57"
+    ],
+    "holiday": [
+        "6:57"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801136-21/node:00127159/kt:0/lname:/"
+}

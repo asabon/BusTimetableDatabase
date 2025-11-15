@@ -1,0 +1,20 @@
+{
+    "date": "2021/10/16",
+    "name": "戸田(新道/厚木市)",
+    "position": "-",
+    "system": "平57",
+    "destinations": [
+        "酒井(新道/厚木市)",
+        "岡田電話局前",
+        "岡田一本杉(新道/厚木市)",
+        "本厚木駅南口"
+    ],
+    "weekday": [
+        "7:38",
+        "7:55",
+        "8:45"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800532-8/node:00128609/kt:0/lname:/"
+}

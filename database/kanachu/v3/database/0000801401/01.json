@@ -1,0 +1,23 @@
+{
+    "date": "2025/05/11",
+    "name": "秦野駅",
+    "position": "-",
+    "system": "秦22",
+    "destinations": [
+        "大川橋(秦野市)",
+        "上宿通り",
+        "仲宿(秦野市)",
+        "下宿(秦野市)",
+        "末広小学校前",
+        "落合(秦野市)",
+        "神奈川病院"
+    ],
+    "weekday": [
+        "8:15",
+        "8:32",
+        "8:40"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801401-1/node:00127715/kt:0/lname:/"
+}

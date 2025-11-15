@@ -1,0 +1,19 @@
+{
+    "date": "2021/10/16",
+    "name": "東真土",
+    "position": "-",
+    "system": "平57",
+    "destinations": [
+        "古河電工入口",
+        "四ツ角(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "8:22",
+        "8:44",
+        "17:52"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800681-10/node:00127628/kt:0/lname:/"
+}

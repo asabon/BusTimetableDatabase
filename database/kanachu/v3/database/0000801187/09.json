@@ -1,0 +1,21 @@
+{
+    "date": "2021/04/01",
+    "name": "岡本(相模原市緑区)",
+    "position": "-",
+    "system": "湖29",
+    "destinations": [
+        "千木良",
+        "底沢",
+        "小原(相模原市緑区)",
+        "平野(相模原市緑区)",
+        "北相中学校前",
+        "桂北小学校前",
+        "相模湖駅"
+    ],
+    "weekday": [
+        "17:11"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801187-9/node:00128930/kt:0/lname:/"
+}

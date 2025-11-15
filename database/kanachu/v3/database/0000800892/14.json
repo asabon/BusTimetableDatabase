@@ -1,0 +1,24 @@
+{
+    "date": "2024/03/16",
+    "name": "天台上野原",
+    "position": "-",
+    "system": "厚13",
+    "destinations": [
+        "及川球技場入口",
+        "林中学校入口",
+        "愛光病院前",
+        "本厚木駅",
+        "厚木バスセンター"
+    ],
+    "weekday": [
+        "6:38",
+        "6:58",
+        "7:28",
+        "8:11",
+        "8:33",
+        "8:58"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800892-14/node:00128687/kt:0/lname:/"
+}

@@ -1,0 +1,25 @@
+{
+    "date": "2025/08/30",
+    "name": "下永谷(横浜市港南区)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "平戸(横浜市港南区)",
+        "芹が谷団地前",
+        "せりぎんタウン",
+        "芹が谷"
+    ],
+    "weekday": [
+        "18:51",
+        "20:31",
+        "21:51"
+    ],
+    "saturday": [
+        "18:18",
+        "18:51"
+    ],
+    "holiday": [
+        "19:51"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801532-18/node:00102596/kt:0/lname:/"
+}

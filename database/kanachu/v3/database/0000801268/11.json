@@ -1,0 +1,27 @@
+{
+    "date": "2025/03/15",
+    "name": "走内",
+    "position": "-",
+    "system": "茅52",
+    "destinations": [
+        "西の谷(茅ケ崎市)",
+        "上の前(茅ケ崎市)",
+        "神の倉",
+        "山伏塚",
+        "尾崎戸",
+        "一之宮小学校前",
+        "西一之宮"
+    ],
+    "weekday": [
+        "21:52",
+        "22:47"
+    ],
+    "saturday": [
+        "21:42"
+    ],
+    "holiday": [
+        "20:32",
+        "21:02"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801268-11/node:00127204/kt:0/lname:/"
+}

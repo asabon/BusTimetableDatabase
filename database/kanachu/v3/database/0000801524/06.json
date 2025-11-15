@@ -1,0 +1,24 @@
+{
+    "date": "2024/05/20",
+    "name": "中央公民館前(伊勢原市)",
+    "position": "-",
+    "system": "伊43",
+    "destinations": [
+        "本町(伊勢原市)",
+        "伊勢原駅北口"
+    ],
+    "weekday": [
+        "5:39",
+        "6:17",
+        "6:47",
+        "7:47"
+    ],
+    "saturday": [
+        "17:43",
+        "19:13"
+    ],
+    "holiday": [
+        "19:13"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801524-6/node:00128224/kt:0/lname:/"
+}

@@ -1,0 +1,18 @@
+{
+    "date": "2023/02/27",
+    "name": "みはる野二丁目",
+    "position": "-",
+    "system": "厚13",
+    "destinations": [
+        "まつかげ台"
+    ],
+    "weekday": [
+        "18:48",
+        "19:18",
+        "19:39",
+        "20:31"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800269-18/node:00128694/kt:0/lname:/"
+}

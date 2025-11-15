@@ -1,0 +1,19 @@
+{
+    "date": "2024/03/16",
+    "name": "若竹町(横浜市栄区)",
+    "position": "-",
+    "system": "港39",
+    "destinations": [
+        "元大橋",
+        "中野町",
+        "稲荷森",
+        "山手学院入口",
+        "本郷車庫前(横浜市栄区)"
+    ],
+    "weekday": [
+        "9:59"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801030-5/node:00126547/kt:0/lname:/"
+}

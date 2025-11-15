@@ -1,0 +1,24 @@
+{
+    "date": "2025/07/12",
+    "name": "辻堂駅北口",
+    "position": "-",
+    "system": "辻31",
+    "destinations": [
+        "神台公園前",
+        "羽鳥郵便局前",
+        "明治中学校前",
+        "汲田",
+        "住宅前(藤沢市明治)",
+        "梅ヶ枝通り",
+        "湘南台",
+        "引地橋",
+        "観音坂下",
+        "老人センター(藤沢市)"
+    ],
+    "weekday": [
+        "9:00"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801294-1/node:00129934/kt:0/lname:/"
+}

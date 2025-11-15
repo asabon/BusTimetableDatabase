@@ -1,0 +1,25 @@
+{
+    "date": "2024/03/16",
+    "name": "野村住宅中央",
+    "position": "-",
+    "system": "成04",
+    "destinations": [
+        "成瀬台",
+        "駒狩公園前",
+        "島(横浜市青葉区)",
+        "こどもの国駅"
+    ],
+    "weekday": [
+        "12:39",
+        "14:39"
+    ],
+    "saturday": [
+        "12:39",
+        "14:39"
+    ],
+    "holiday": [
+        "12:39",
+        "14:39"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800226-9/node:00129602/kt:0/lname:/"
+}

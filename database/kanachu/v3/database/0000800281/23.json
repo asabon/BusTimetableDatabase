@@ -1,0 +1,17 @@
+{
+    "date": "2020/11/24",
+    "name": "萩丸",
+    "position": "-",
+    "system": "船21",
+    "destinations": [
+        "西原(横浜市泉区)",
+        "立場ターミナル"
+    ],
+    "weekday": [
+        "9:03",
+        "9:47"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800281-23/node:00126834/kt:0/lname:/"
+}

@@ -1,0 +1,19 @@
+{
+    "date": "2024/03/16",
+    "name": "横浜栄高校前",
+    "position": "-",
+    "system": "港85",
+    "destinations": [
+        "紅葉橋(横浜市栄区)",
+        "光明寺(横浜市栄区)",
+        "庄戸(横浜市栄区)"
+    ],
+    "weekday": [
+        "6:19",
+        "7:09",
+        "7:36"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800235-4/node:00126608/kt:0/lname:/"
+}

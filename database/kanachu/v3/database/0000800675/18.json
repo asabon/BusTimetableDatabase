@@ -1,0 +1,27 @@
+{
+    "date": "2024/03/16",
+    "name": "桂台中央",
+    "position": "-",
+    "system": "港90",
+    "destinations": [
+        "北桂台"
+    ],
+    "weekday": [
+        "23:18"
+    ],
+    "saturday": [
+        "19:01",
+        "19:59",
+        "21:17",
+        "21:47",
+        "22:17"
+    ],
+    "holiday": [
+        "19:01",
+        "19:59",
+        "21:17",
+        "21:47",
+        "22:17"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800675-18/node:00126537/kt:0/lname:/"
+}

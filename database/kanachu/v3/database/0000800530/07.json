@@ -1,0 +1,27 @@
+{
+    "date": "2024/03/16",
+    "name": "ポプラヶ丘前",
+    "position": "-",
+    "system": "成04",
+    "destinations": [
+        "成瀬台入口",
+        "観性寺前",
+        "中村(町田市成瀬)",
+        "成瀬高校入口",
+        "南成瀬",
+        "成瀬駅"
+    ],
+    "weekday": [
+        "13:04",
+        "15:04"
+    ],
+    "saturday": [
+        "13:04",
+        "15:04"
+    ],
+    "holiday": [
+        "13:04",
+        "15:04"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800530-7/node:00129600/kt:0/lname:/"
+}

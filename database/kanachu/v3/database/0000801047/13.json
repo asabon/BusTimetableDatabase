@@ -1,0 +1,27 @@
+{
+    "date": "2023/02/18",
+    "name": "明神前(伊勢原市)",
+    "position": "-",
+    "system": "伊12",
+    "destinations": [
+        "這子坂",
+        "菊屋前",
+        "子易",
+        "鳥居前(伊勢原市)",
+        "大山小学校前(伊勢原市)",
+        "大山駅"
+    ],
+    "weekday": [
+        "21:17",
+        "22:17"
+    ],
+    "saturday": [
+        "20:36",
+        "21:06"
+    ],
+    "holiday": [
+        "20:36",
+        "21:06"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801047-13/node:00128152/kt:0/lname:/"
+}

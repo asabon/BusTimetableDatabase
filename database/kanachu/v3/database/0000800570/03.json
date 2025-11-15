@@ -1,0 +1,27 @@
+{
+    "date": "2025/10/20",
+    "name": "原町田三丁目",
+    "position": "-",
+    "system": "町75",
+    "destinations": [
+        "三塚",
+        "熊野神社前(成瀬街道側/町田市)",
+        "高瀬橋(町田市)",
+        "鞍掛",
+        "成瀬消防出張所前",
+        "成瀬コミュニティセンター前",
+        "成瀬高校入口",
+        "南成瀬",
+        "成瀬駅"
+    ],
+    "weekday": [
+        "7:33"
+    ],
+    "saturday": [
+        "8:18"
+    ],
+    "holiday": [
+        "8:38"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800570-3/node:00129546/kt:0/lname:/"
+}

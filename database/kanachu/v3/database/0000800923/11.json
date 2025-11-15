@@ -1,0 +1,20 @@
+{
+    "date": "2020/07/13",
+    "name": "グリーンテク西",
+    "position": "-",
+    "system": "秦96",
+    "destinations": [
+        "才戸",
+        "藤沢",
+        "中井中学校前",
+        "中井町役場入口"
+    ],
+    "weekday": [
+        "6:36",
+        "7:46",
+        "8:32"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800923-11/node:00128037/kt:0/lname:/"
+}

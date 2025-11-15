@@ -1,0 +1,19 @@
+{
+    "date": "2025/01/14",
+    "name": "税務署入口(厚木市)",
+    "position": "-",
+    "system": "厚04",
+    "destinations": [
+        "市役所入口(厚木市)",
+        "本厚木駅"
+    ],
+    "weekday": [],
+    "saturday": [
+        "6:08",
+        "7:27"
+    ],
+    "holiday": [
+        "6:10"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801405-25/node:00128258/kt:0/lname:/"
+}

@@ -1,0 +1,22 @@
+{
+    "date": "2025/03/15",
+    "name": "深谷原",
+    "position": "-",
+    "system": "丘01",
+    "destinations": [
+        "鶴ヶ岡",
+        "大法寺(綾瀬市)",
+        "綾瀬車庫(綾瀬市)"
+    ],
+    "weekday": [
+        "19:27",
+        "20:17"
+    ],
+    "saturday": [
+        "18:44"
+    ],
+    "holiday": [
+        "18:44"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800916-10/node:00129853/kt:0/lname:/"
+}

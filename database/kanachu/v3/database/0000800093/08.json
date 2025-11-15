@@ -1,0 +1,28 @@
+{
+    "date": "2022/09/08",
+    "name": "広町橋",
+    "position": "-",
+    "system": "愛19",
+    "destinations": [
+        "籠堰橋",
+        "聖木",
+        "愛甲郵便局前",
+        "上愛甲",
+        "愛甲橋",
+        "堂山",
+        "宮前(厚木市)",
+        "愛甲石田駅"
+    ],
+    "weekday": [
+        "18:00",
+        "18:25",
+        "18:35",
+        "19:08",
+        "19:57",
+        "20:26",
+        "20:38"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800093-8/node:00128498/kt:0/lname:/"
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2012/10/15",
+    "name": "八軒谷戸",
+    "position": "-",
+    "system": "港85",
+    "destinations": [
+        "中島(横浜市栄区)",
+        "光明寺(横浜市栄区)",
+        "紅葉橋(横浜市栄区)",
+        "横浜栄高校前",
+        "榎戸(横浜市港南区)",
+        "横浜女子短期大学前",
+        "港南台駅"
+    ],
+    "weekday": [
+        "5:58"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801025-3/node:00126517/kt:0/lname:/"
+}

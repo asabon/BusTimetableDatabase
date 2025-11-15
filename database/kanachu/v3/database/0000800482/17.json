@@ -1,0 +1,23 @@
+{
+    "date": "2025/07/12",
+    "name": "藤沢橋",
+    "position": "-",
+    "system": "船65",
+    "destinations": [
+        "藤沢小学校前",
+        "南仲通り",
+        "相生町(藤沢市)",
+        "三富士町",
+        "藤沢駅北口"
+    ],
+    "weekday": [
+        "7:25",
+        "7:52",
+        "8:27",
+        "8:45",
+        "9:07"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800482-17/node:00126975/kt:0/lname:/"
+}

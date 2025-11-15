@@ -1,0 +1,24 @@
+{
+    "date": "2024/04/01",
+    "name": "大久保(伊勢原市)",
+    "position": "-",
+    "system": "愛02",
+    "destinations": [
+        "すみだ公園",
+        "あかね台入口(伊勢原市)",
+        "高森四丁目",
+        "会館前(伊勢原市)",
+        "高森二丁目",
+        "18号棟前",
+        "22号棟前",
+        "5号棟前",
+        "すみだ公園"
+    ],
+    "weekday": [
+        "20:10",
+        "22:25"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801062-4/node:00128203/kt:0/lname:/"
+}

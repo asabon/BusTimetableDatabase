@@ -1,0 +1,24 @@
+{
+    "date": "2025/10/20",
+    "name": "高瀬橋(町田市)",
+    "position": "-",
+    "system": "町75",
+    "destinations": [
+        "鞍掛",
+        "成瀬消防出張所前",
+        "成瀬コミュニティセンター前",
+        "成瀬高校入口",
+        "南成瀬",
+        "成瀬駅"
+    ],
+    "weekday": [
+        "7:37"
+    ],
+    "saturday": [
+        "8:22"
+    ],
+    "holiday": [
+        "8:42"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800570-6/node:00129582/kt:0/lname:/"
+}

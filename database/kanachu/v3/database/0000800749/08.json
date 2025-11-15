@@ -1,0 +1,18 @@
+{
+    "date": "2024/05/20",
+    "name": "大田小学校前",
+    "position": "-",
+    "system": "伊84",
+    "destinations": [
+        "下谷上(伊勢原市)",
+        "下谷中央"
+    ],
+    "weekday": [],
+    "saturday": [
+        "21:17"
+    ],
+    "holiday": [
+        "21:17"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800749-8/node:00128100/kt:0/lname:/"
+}

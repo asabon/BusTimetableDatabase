@@ -1,0 +1,30 @@
+{
+    "date": "2025/03/15",
+    "name": "神奈中営業所前",
+    "position": "-",
+    "system": "茅17",
+    "destinations": [
+        "前の田",
+        "中央公園前(茅ケ崎市)",
+        "茅ヶ崎駅"
+    ],
+    "weekday": [
+        "6:16",
+        "6:47",
+        "7:13",
+        "7:24",
+        "7:54"
+    ],
+    "saturday": [
+        "6:06",
+        "6:46",
+        "8:12",
+        "9:12"
+    ],
+    "holiday": [
+        "6:06",
+        "6:46",
+        "8:02"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800742-6/node:00127137/kt:0/lname:/"
+}

@@ -1,0 +1,22 @@
+{
+    "date": "2024/05/20",
+    "name": "藤田電機前(伊勢原市)",
+    "position": "-",
+    "system": "伊84",
+    "destinations": [
+        "西沼目",
+        "つきみの団地",
+        "沼目",
+        "大田小学校前",
+        "下谷上(伊勢原市)",
+        "下谷中央"
+    ],
+    "weekday": [],
+    "saturday": [
+        "21:13"
+    ],
+    "holiday": [
+        "21:13"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800749-4/node:00128096/kt:0/lname:/"
+}

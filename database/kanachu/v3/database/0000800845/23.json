@@ -1,0 +1,29 @@
+{
+    "date": "2025/01/14",
+    "name": "森の里五丁目",
+    "position": "-",
+    "system": "厚44",
+    "destinations": [
+        "森の里"
+    ],
+    "weekday": [
+        "7:01",
+        "7:37",
+        "7:59",
+        "8:23",
+        "8:43",
+        "9:12",
+        "9:41"
+    ],
+    "saturday": [
+        "7:36",
+        "8:37",
+        "9:37"
+    ],
+    "holiday": [
+        "7:36",
+        "8:37",
+        "9:37"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800845-23/node:00128666/kt:0/lname:/"
+}

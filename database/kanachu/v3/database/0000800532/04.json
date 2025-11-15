@@ -1,0 +1,24 @@
+{
+    "date": "2021/10/16",
+    "name": "東真土",
+    "position": "-",
+    "system": "平57",
+    "destinations": [
+        "田村団地入口",
+        "神田小学校前(平塚市)",
+        "大神(新道/平塚市)",
+        "戸田(新道/厚木市)",
+        "酒井(新道/厚木市)",
+        "岡田電話局前",
+        "岡田一本杉(新道/厚木市)",
+        "本厚木駅南口"
+    ],
+    "weekday": [
+        "7:22",
+        "7:39",
+        "8:29"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800532-4/node:00127628/kt:0/lname:/"
+}

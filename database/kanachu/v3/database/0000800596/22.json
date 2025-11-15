@@ -1,0 +1,18 @@
+{
+    "date": "2017/01/16",
+    "name": "当麻市場",
+    "position": "-",
+    "system": "厚81",
+    "destinations": [
+        "夢の丘小学校入口",
+        "原当麻駅"
+    ],
+    "weekday": [
+        "12:28",
+        "13:58",
+        "15:28"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800596-22/node:00128361/kt:0/lname:/"
+}

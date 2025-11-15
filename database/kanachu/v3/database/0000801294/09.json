@@ -1,0 +1,16 @@
+{
+    "date": "2025/07/12",
+    "name": "引地橋",
+    "position": "-",
+    "system": "辻31",
+    "destinations": [
+        "観音坂下",
+        "老人センター(藤沢市)"
+    ],
+    "weekday": [
+        "9:08"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801294-9/node:00127052/kt:0/lname:/"
+}

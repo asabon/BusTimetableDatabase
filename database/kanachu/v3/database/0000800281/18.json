@@ -1,0 +1,22 @@
+{
+    "date": "2020/11/24",
+    "name": "汲沢入口",
+    "position": "-",
+    "system": "船21",
+    "destinations": [
+        "深谷小入口",
+        "住宅前(横浜市泉区)",
+        "通信隊前",
+        "高砂苑前",
+        "萩丸",
+        "西原(横浜市泉区)",
+        "立場ターミナル"
+    ],
+    "weekday": [
+        "8:57",
+        "9:41"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800281-18/node:00126837/kt:0/lname:/"
+}

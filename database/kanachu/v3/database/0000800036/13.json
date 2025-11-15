@@ -1,0 +1,23 @@
+{
+    "date": "2023/02/18",
+    "name": "大磯小学校前",
+    "position": "-",
+    "system": "磯13",
+    "destinations": [
+        "大磯駅"
+    ],
+    "weekday": [
+        "6:04",
+        "6:24",
+        "7:12"
+    ],
+    "saturday": [
+        "6:28",
+        "7:08"
+    ],
+    "holiday": [
+        "6:28",
+        "7:08"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800036-13/node:00127456/kt:0/lname:/"
+}

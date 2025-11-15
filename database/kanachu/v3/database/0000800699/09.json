@@ -1,0 +1,20 @@
+{
+    "date": "2024/03/16",
+    "name": "横浜女子短期大学前",
+    "position": "-",
+    "system": "港86",
+    "destinations": [
+        "港南台駅"
+    ],
+    "weekday": [
+        "5:55",
+        "6:20",
+        "6:48",
+        "7:13",
+        "7:38",
+        "7:58"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800699-9/node:00103234/kt:0/lname:/"
+}

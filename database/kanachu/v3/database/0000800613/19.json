@@ -1,0 +1,17 @@
+{
+    "date": "2024/04/01",
+    "name": "中沢橋",
+    "position": "-",
+    "system": "平31",
+    "destinations": [
+        "松岩寺"
+    ],
+    "weekday": [],
+    "saturday": [
+        "21:10"
+    ],
+    "holiday": [
+        "21:10"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800613-19/node:00127569/kt:0/lname:/"
+}

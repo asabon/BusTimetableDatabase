@@ -1,0 +1,25 @@
+{
+    "date": "2021/02/22",
+    "name": "西町(平塚市)",
+    "position": "-",
+    "system": "平94",
+    "destinations": [
+        "大住中学校前",
+        "新道城所入口",
+        "矢羽根",
+        "馬渡(伊勢原市)",
+        "下大竹",
+        "伊勢原中学校前",
+        "伊勢原駅南口"
+    ],
+    "weekday": [
+        "7:27",
+        "8:18",
+        "8:56",
+        "17:43",
+        "19:03"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800747-13/node:00128092/kt:0/lname:/"
+}

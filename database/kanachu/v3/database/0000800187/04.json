@@ -1,0 +1,24 @@
+{
+    "date": "2022/02/05",
+    "name": "ニュータウン入口(茅ケ崎市)",
+    "position": "-",
+    "system": "茅16",
+    "destinations": [
+        "ニュータウン中央(茅ケ崎市)",
+        "高田三丁目",
+        "室田",
+        "室田小学校入口",
+        "室田一丁目",
+        "室田二丁目"
+    ],
+    "weekday": [
+        "22:57"
+    ],
+    "saturday": [
+        "21:22"
+    ],
+    "holiday": [
+        "21:22"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800187-4/node:00127138/kt:0/lname:/"
+}

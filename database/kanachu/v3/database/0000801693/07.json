@@ -1,0 +1,22 @@
+{
+    "date": "2012/09/01",
+    "name": "戸室",
+    "position": "-",
+    "system": "厚95",
+    "destinations": [
+        "林(厚木市)",
+        "王子入口",
+        "高校入口(厚木市)",
+        "王子(厚木市)"
+    ],
+    "weekday": [
+        "7:51",
+        "8:01",
+        "8:11",
+        "8:16",
+        "8:22"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801693-7/node:00128398/kt:0/lname:/"
+}

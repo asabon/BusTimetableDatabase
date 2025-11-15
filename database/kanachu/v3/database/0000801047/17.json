@@ -1,0 +1,23 @@
+{
+    "date": "2023/02/18",
+    "name": "鳥居前(伊勢原市)",
+    "position": "-",
+    "system": "伊12",
+    "destinations": [
+        "大山小学校前(伊勢原市)",
+        "大山駅"
+    ],
+    "weekday": [
+        "21:21",
+        "22:21"
+    ],
+    "saturday": [
+        "20:42",
+        "21:12"
+    ],
+    "holiday": [
+        "20:42",
+        "21:12"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801047-17/node:00128156/kt:0/lname:/"
+}

@@ -1,0 +1,18 @@
+{
+    "date": "2018/03/17",
+    "name": "尾月",
+    "position": "-",
+    "system": "港31",
+    "destinations": [
+        "上郷小学校前",
+        "花篭公園前",
+        "桂台中央"
+    ],
+    "weekday": [
+        "7:21",
+        "8:09"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800031-10/node:00130226/kt:0/lname:/"
+}

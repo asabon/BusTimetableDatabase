@@ -1,0 +1,23 @@
+{
+    "date": "2024/03/16",
+    "name": "駒狩公園前",
+    "position": "-",
+    "system": "成04",
+    "destinations": [
+        "島(横浜市青葉区)",
+        "こどもの国駅"
+    ],
+    "weekday": [
+        "12:44",
+        "14:44"
+    ],
+    "saturday": [
+        "12:44",
+        "14:44"
+    ],
+    "holiday": [
+        "12:44",
+        "14:44"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800226-11/node:00129755/kt:0/lname:/"
+}

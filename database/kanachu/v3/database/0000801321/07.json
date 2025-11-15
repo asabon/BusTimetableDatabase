@@ -1,0 +1,16 @@
+{
+    "date": "2025/07/12",
+    "name": "卸売市場前(藤沢市)",
+    "position": "-",
+    "system": "善02",
+    "destinations": [
+        "老人センター(藤沢市)"
+    ],
+    "weekday": [
+        "9:41",
+        "15:06"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801321-7/node:00127104/kt:0/lname:/"
+}

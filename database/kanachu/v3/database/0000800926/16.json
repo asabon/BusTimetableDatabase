@@ -1,0 +1,19 @@
+{
+    "date": "2024/05/20",
+    "name": "横内公民館入口",
+    "position": "-",
+    "system": "伊82",
+    "destinations": [
+        "横内下",
+        "横内団地前",
+        "今里(平塚市)",
+        "坂口(平塚市)"
+    ],
+    "weekday": [
+        "21:37",
+        "22:12"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800926-16/node:00127615/kt:0/lname:/"
+}

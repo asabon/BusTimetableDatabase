@@ -1,0 +1,25 @@
+{
+    "date": "2025/07/12",
+    "name": "遊行寺前",
+    "position": "-",
+    "system": "藤38",
+    "destinations": [
+        "藤沢公民館前",
+        "本町消防出張所前",
+        "白旗交差点",
+        "台町(藤沢市)",
+        "湘南高校前",
+        "一中入口(藤沢市)",
+        "引地橋",
+        "観音坂下",
+        "老人センター(藤沢市)"
+    ],
+    "weekday": [
+        "9:04",
+        "9:34",
+        "12:10"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800982-3/node:00127009/kt:0/lname:/"
+}

@@ -1,0 +1,23 @@
+{
+    "date": "2025/03/15",
+    "name": "大邸",
+    "position": "-",
+    "system": "長22",
+    "destinations": [
+        "綾瀬農協前",
+        "綾瀬小学校前",
+        "中郷(綾瀬市)",
+        "綾瀬タウンヒルズ前",
+        "綾瀬市役所"
+    ],
+    "weekday": [
+        "7:01",
+        "7:31",
+        "8:09",
+        "8:56",
+        "9:21"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801389-9/node:00129856/kt:0/lname:/"
+}

@@ -1,0 +1,24 @@
+{
+    "date": "2022/09/08",
+    "name": "上愛甲",
+    "position": "-",
+    "system": "愛19",
+    "destinations": [
+        "愛甲橋",
+        "堂山",
+        "宮前(厚木市)",
+        "愛甲石田駅"
+    ],
+    "weekday": [
+        "18:05",
+        "18:30",
+        "18:40",
+        "19:12",
+        "20:01",
+        "20:30",
+        "20:42"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800093-12/node:00128527/kt:0/lname:/"
+}

@@ -1,0 +1,22 @@
+{
+    "date": "2024/03/16",
+    "name": "港南台駅",
+    "position": "-",
+    "system": "港85",
+    "destinations": [
+        "横浜女子短期大学前",
+        "榎戸(横浜市港南区)",
+        "横浜栄高校前",
+        "紅葉橋(横浜市栄区)",
+        "光明寺(横浜市栄区)",
+        "庄戸(横浜市栄区)"
+    ],
+    "weekday": [
+        "6:15",
+        "7:03",
+        "7:30"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800235-1/node:00025554/kt:0/lname:/"
+}

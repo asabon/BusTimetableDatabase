@@ -1,0 +1,29 @@
+{
+    "date": "2012/09/01",
+    "name": "宿原入口",
+    "position": "-",
+    "system": "愛24",
+    "destinations": [
+        "糀屋前(厚木市)",
+        "松蓮寺"
+    ],
+    "weekday": [
+        "6:46",
+        "8:12",
+        "17:37",
+        "19:12"
+    ],
+    "saturday": [
+        "6:46",
+        "8:12",
+        "17:37",
+        "19:12"
+    ],
+    "holiday": [
+        "6:46",
+        "8:11",
+        "17:37",
+        "19:12"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800811-25/node:00128267/kt:0/lname:/"
+}
