@@ -1,0 +1,22 @@
+{
+    "date": "2025/07/12",
+    "name": "玉縄行政センター入口",
+    "position": "-",
+    "system": "船30",
+    "destinations": [
+        "児童公園前(鎌倉市)",
+        "大船駅西口"
+    ],
+    "weekday": [
+        "6:31",
+        "6:47",
+        "7:08",
+        "7:21",
+        "7:33",
+        "7:43",
+        "7:59"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801769-11/node:00127116/kt:0/lname:/"
+}

@@ -1,0 +1,26 @@
+{
+    "date": "2025/03/15",
+    "name": "萩園(茅ケ崎市)",
+    "position": "-",
+    "system": "茅46",
+    "destinations": [
+        "番場(茅ケ崎市)",
+        "田端(高座郡寒川町)",
+        "田端耕地",
+        "寒川高校前(高座郡寒川町)",
+        "寒川十字路",
+        "景観寺"
+    ],
+    "weekday": [
+        "20:54",
+        "21:39"
+    ],
+    "saturday": [
+        "19:44",
+        "20:44"
+    ],
+    "holiday": [
+        "19:44"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803490-11/node:00127194/kt:0/lname:/"
+}

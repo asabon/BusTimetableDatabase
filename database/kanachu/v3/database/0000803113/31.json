@@ -1,0 +1,19 @@
+{
+    "date": "2023/02/18",
+    "name": "酒井(厚木市)",
+    "position": "-",
+    "system": "平50",
+    "destinations": [
+        "リバーサイド前(厚木市)"
+    ],
+    "weekday": [
+        "23:43"
+    ],
+    "saturday": [
+        "22:55"
+    ],
+    "holiday": [
+        "22:55"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803113-31/node:00128328/kt:0/lname:/"
+}

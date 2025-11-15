@@ -1,0 +1,22 @@
+{
+    "date": "2025/04/19",
+    "name": "淵野辺公園",
+    "position": "-",
+    "system": "淵36",
+    "destinations": [
+        "和泉短大前",
+        "青葉児童館前"
+    ],
+    "weekday": [
+        "20:09"
+    ],
+    "saturday": [
+        "19:19",
+        "20:39"
+    ],
+    "holiday": [
+        "19:19",
+        "20:39"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803489-9/node:00129247/kt:0/lname:/"
+}

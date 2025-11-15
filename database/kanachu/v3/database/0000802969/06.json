@@ -1,0 +1,27 @@
+{
+    "date": "2025/07/12",
+    "name": "東京ラヂエーター前",
+    "position": "-",
+    "system": "藤34",
+    "destinations": [
+        "プレス工業前(藤沢市)",
+        "石川(藤沢市)",
+        "石川橋",
+        "五反田(藤沢市)",
+        "北の谷",
+        "弁天前(藤沢市)",
+        "天神社前",
+        "舟地蔵",
+        "大六天(藤沢市)"
+    ],
+    "weekday": [
+        "21:07"
+    ],
+    "saturday": [
+        "20:59"
+    ],
+    "holiday": [
+        "20:59"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802969-6/node:00129931/kt:0/lname:/"
+}

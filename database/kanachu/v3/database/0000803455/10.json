@@ -1,0 +1,25 @@
+{
+    "date": "2024/12/16",
+    "name": "五反田(町田市)",
+    "position": "-",
+    "system": "鶴32",
+    "destinations": [
+        "サンシティ町田",
+        "新屋敷(町田市)",
+        "小野神社前(町田市)",
+        "中宿(町田市)",
+        "小野路",
+        "浅間下(町田市)",
+        "南野二丁目"
+    ],
+    "weekday": [
+        "21:45"
+    ],
+    "saturday": [
+        "21:23"
+    ],
+    "holiday": [
+        "21:23"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803455-10/node:00129476/kt:0/lname:/"
+}

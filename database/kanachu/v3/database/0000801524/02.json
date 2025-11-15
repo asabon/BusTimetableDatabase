@@ -1,0 +1,28 @@
+{
+    "date": "2024/05/20",
+    "name": "鈴川会館前",
+    "position": "-",
+    "system": "伊43",
+    "destinations": [
+        "団地西(伊勢原市)",
+        "団地南(伊勢原市)",
+        "関台",
+        "中央公民館前(伊勢原市)",
+        "本町(伊勢原市)",
+        "伊勢原駅北口"
+    ],
+    "weekday": [
+        "5:35",
+        "6:13",
+        "6:43",
+        "7:43"
+    ],
+    "saturday": [
+        "17:39",
+        "19:09"
+    ],
+    "holiday": [
+        "19:09"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801524-2/node:00128140/kt:0/lname:/"
+}

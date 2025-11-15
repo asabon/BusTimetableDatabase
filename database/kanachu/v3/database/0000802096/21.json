@@ -1,0 +1,15 @@
+{
+    "date": "2021/02/01",
+    "name": "北茅ヶ崎駅入口",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "市立病院(茅ケ崎市)"
+    ],
+    "weekday": [
+        "7:41"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802096-21/node:00130311/kt:0/lname:/"
+}

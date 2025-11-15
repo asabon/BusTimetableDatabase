@@ -1,0 +1,23 @@
+{
+    "date": "2024/09/02",
+    "name": "五軒庭",
+    "position": "-",
+    "system": "長55",
+    "destinations": [
+        "上飯田(横浜市泉区)",
+        "上飯田車庫"
+    ],
+    "weekday": [
+        "7:40",
+        "19:28"
+    ],
+    "saturday": [
+        "7:55",
+        "18:25"
+    ],
+    "holiday": [
+        "7:55",
+        "18:25"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800090-20/node:00126798/kt:0/lname:/"
+}

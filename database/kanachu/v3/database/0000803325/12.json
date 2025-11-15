@@ -1,0 +1,26 @@
+{
+    "date": "2024/03/16",
+    "name": "光明寺(横浜市栄区)",
+    "position": "-",
+    "system": "港35",
+    "destinations": [
+        "庄戸(横浜市栄区)",
+        "庄戸五丁目",
+        "庄戸三丁目南",
+        "庄戸一丁目",
+        "庄戸(横浜市栄区)"
+    ],
+    "weekday": [
+        "19:20",
+        "19:40",
+        "20:00",
+        "20:19"
+    ],
+    "saturday": [
+        "19:23"
+    ],
+    "holiday": [
+        "19:23"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803325-12/node:00126515/kt:0/lname:/"
+}

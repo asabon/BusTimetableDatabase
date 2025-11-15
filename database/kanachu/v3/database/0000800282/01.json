@@ -1,0 +1,21 @@
+{
+    "date": "2024/04/01",
+    "name": "みゆき台団地",
+    "position": "-",
+    "system": "大54",
+    "destinations": [
+        "御園二丁目",
+        "上原団地",
+        "谷口台小学校前",
+        "相模女子大前",
+        "相模大野駅北口"
+    ],
+    "weekday": [
+        "6:58",
+        "7:05",
+        "7:33"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800282-1/node:00129258/kt:0/lname:/"
+}

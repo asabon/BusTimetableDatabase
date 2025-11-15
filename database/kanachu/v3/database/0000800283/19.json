@@ -1,0 +1,29 @@
+{
+    "date": "2025/01/14",
+    "name": "上依知浮島弁天前",
+    "position": "-",
+    "system": "厚76",
+    "destinations": [
+        "猿ヶ島入口",
+        "猿ヶ島"
+    ],
+    "weekday": [
+        "6:56",
+        "8:51",
+        "17:25",
+        "19:16"
+    ],
+    "saturday": [
+        "9:13",
+        "12:14",
+        "15:14",
+        "18:14"
+    ],
+    "holiday": [
+        "8:44",
+        "11:49",
+        "14:49",
+        "17:49"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800283-19/node:00128392/kt:0/lname:/"
+}

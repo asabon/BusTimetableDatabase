@@ -1,0 +1,29 @@
+{
+    "date": "2021/02/22",
+    "name": "18号棟前",
+    "position": "-",
+    "system": "愛02",
+    "destinations": [
+        "22号棟前",
+        "5号棟前",
+        "すみだ公園",
+        "大久保(伊勢原市)",
+        "一之崎",
+        "道了尊入口",
+        "愛甲石田駅"
+    ],
+    "weekday": [
+        "6:00",
+        "6:40",
+        "7:33"
+    ],
+    "saturday": [
+        "7:00",
+        "7:50"
+    ],
+    "holiday": [
+        "7:00",
+        "7:50"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801291-6/node:00128245/kt:0/lname:/"
+}

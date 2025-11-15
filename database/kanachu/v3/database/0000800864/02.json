@@ -1,0 +1,17 @@
+{
+    "date": "2024/03/16",
+    "name": "中村入口(厚木市)",
+    "position": "-",
+    "system": "厚08",
+    "destinations": [
+        "本厚木駅",
+        "厚木バスセンター"
+    ],
+    "weekday": [
+        "6:52",
+        "7:27"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800864-2/node:00128263/kt:0/lname:/"
+}

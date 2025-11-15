@@ -1,0 +1,18 @@
+{
+    "date": "2025/07/12",
+    "name": "関東航空前",
+    "position": "-",
+    "system": "善02",
+    "destinations": [
+        "中郷(藤沢市)",
+        "卸売市場前(藤沢市)",
+        "老人センター(藤沢市)"
+    ],
+    "weekday": [
+        "9:39",
+        "15:04"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801321-5/node:00127066/kt:0/lname:/"
+}

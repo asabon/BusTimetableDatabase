@@ -1,0 +1,15 @@
+{
+    "date": "2025/09/16",
+    "name": "湘南台駅西口",
+    "position": "-",
+    "system": "湘18",
+    "destinations": [
+        "文教大学"
+    ],
+    "weekday": [
+        "8:32"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803883-1/node:00129893/kt:0/lname:/"
+}

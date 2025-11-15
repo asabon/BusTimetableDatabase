@@ -1,0 +1,20 @@
+{
+    "date": "2025/08/30",
+    "name": "南高校前(横浜市港南区)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "月見ヶ丘団地前",
+        "室ノ木(横浜市港南区)",
+        "港南区総合庁舎前",
+        "笹下港南中央通り",
+        "関の下",
+        "上大岡駅"
+    ],
+    "weekday": [
+        "11:20"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803858-14/node:00113527/kt:0/lname:/"
+}

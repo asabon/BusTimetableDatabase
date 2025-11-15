@@ -1,0 +1,22 @@
+{
+    "date": "2024/03/16",
+    "name": "林中学校入口",
+    "position": "-",
+    "system": "厚13",
+    "destinations": [
+        "愛光病院前",
+        "本厚木駅",
+        "厚木バスセンター"
+    ],
+    "weekday": [
+        "6:42",
+        "7:02",
+        "7:32",
+        "8:15",
+        "8:37",
+        "9:02"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800892-16/node:00128685/kt:0/lname:/"
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2024/09/02",
+    "name": "保育所前(大和市)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "渋谷中学校",
+        "集会所前(横浜市泉区)",
+        "中屋敷(横浜市泉区)"
+    ],
+    "weekday": [
+        "20:42"
+    ],
+    "saturday": [
+        "19:54"
+    ],
+    "holiday": [
+        "19:54"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802844-10/node:00126893/kt:0/lname:/"
+}

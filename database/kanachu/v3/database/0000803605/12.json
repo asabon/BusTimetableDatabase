@@ -1,0 +1,24 @@
+{
+    "date": "2024/09/02",
+    "name": "領家中学校前",
+    "position": "-",
+    "system": "戸99",
+    "destinations": [
+        "鳥が丘第一公園",
+        "鳥が丘中央",
+        "道祖神前(横浜市戸塚区)",
+        "谷矢部中央",
+        "来迎寺(横浜市戸塚区)",
+        "柳作東",
+        "蔵坪",
+        "戸塚駅"
+    ],
+    "weekday": [],
+    "saturday": [
+        "6:38"
+    ],
+    "holiday": [
+        "6:38"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803605-12/node:00126710/kt:0/lname:/"
+}

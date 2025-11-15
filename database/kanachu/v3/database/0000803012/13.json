@@ -1,0 +1,28 @@
+{
+    "date": "2022/10/16",
+    "name": "中島(横浜市栄区)",
+    "position": "-",
+    "system": "港40",
+    "destinations": [
+        "西ヶ谷入口",
+        "西ヶ谷",
+        "上郷ネオポリス",
+        "栄プール"
+    ],
+    "weekday": [
+        "9:04",
+        "11:44",
+        "15:06"
+    ],
+    "saturday": [
+        "9:23",
+        "11:38",
+        "15:05"
+    ],
+    "holiday": [
+        "9:23",
+        "11:38",
+        "15:05"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803012-13/node:00126516/kt:0/lname:/"
+}

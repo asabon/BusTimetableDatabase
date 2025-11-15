@@ -1,0 +1,24 @@
+{
+    "date": "2025/08/30",
+    "name": "六ツ川四丁目",
+    "position": "-",
+    "system": "東08",
+    "destinations": [
+        "引越坂",
+        "横浜パークタウン第一降車場"
+    ],
+    "weekday": [
+        "7:23",
+        "8:18",
+        "9:42"
+    ],
+    "saturday": [
+        "9:12",
+        "9:55"
+    ],
+    "holiday": [
+        "9:12",
+        "9:55"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801887-8/node:00126622/kt:0/lname:/"
+}

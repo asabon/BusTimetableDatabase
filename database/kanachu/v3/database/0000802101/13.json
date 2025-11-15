@@ -1,0 +1,19 @@
+{
+    "date": "2025/07/12",
+    "name": "柄沢十字路",
+    "position": "-",
+    "system": "船31",
+    "destinations": [
+        "並木台",
+        "慈眼寺"
+    ],
+    "weekday": [
+        "17:57",
+        "18:47",
+        "19:42",
+        "20:47"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802101-13/node:00130313/kt:0/lname:/"
+}

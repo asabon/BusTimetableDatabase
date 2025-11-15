@@ -1,0 +1,19 @@
+{
+    "date": "2025/05/11",
+    "name": "上郷ネオポリス",
+    "position": "-",
+    "system": "船07",
+    "destinations": [
+        "栄プール"
+    ],
+    "weekday": [
+        "9:16"
+    ],
+    "saturday": [
+        "9:55"
+    ],
+    "holiday": [
+        "9:55"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803009-23/node:00126525/kt:0/lname:/"
+}

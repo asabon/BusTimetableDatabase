@@ -1,0 +1,26 @@
+{
+    "date": "2025/03/15",
+    "name": "古川(茅ケ崎市)",
+    "position": "-",
+    "system": "茅55",
+    "destinations": [
+        "アルバック前",
+        "走内",
+        "西の谷(茅ケ崎市)",
+        "上の前(茅ケ崎市)",
+        "神の倉"
+    ],
+    "weekday": [
+        "21:19",
+        "22:14",
+        "23:14"
+    ],
+    "saturday": [
+        "21:19",
+        "22:14"
+    ],
+    "holiday": [
+        "21:32"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803682-9/node:00127202/kt:0/lname:/"
+}

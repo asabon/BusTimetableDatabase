@@ -1,0 +1,22 @@
+{
+    "date": "2024/12/16",
+    "name": "小野神社前(町田市)",
+    "position": "-",
+    "system": "鶴32",
+    "destinations": [
+        "中宿(町田市)",
+        "小野路",
+        "浅間下(町田市)",
+        "南野二丁目"
+    ],
+    "weekday": [
+        "21:48"
+    ],
+    "saturday": [
+        "21:26"
+    ],
+    "holiday": [
+        "21:26"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803455-13/node:00129478/kt:0/lname:/"
+}

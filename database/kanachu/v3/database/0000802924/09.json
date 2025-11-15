@@ -1,0 +1,22 @@
+{
+    "date": "2022/08/27",
+    "name": "辻堂団地",
+    "position": "-",
+    "system": "辻05",
+    "destinations": [
+        "のぞみ学園前",
+        "東浜須賀",
+        "富士見町(茅ケ崎市)",
+        "平和学園前(茅ケ崎市)",
+        "浜須賀入口",
+        "平和町",
+        "松が丘二丁目(茅ケ崎市)",
+        "東海岸北五丁目"
+    ],
+    "weekday": [
+        "20:32"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802924-9/node:00127107/kt:0/lname:/"
+}

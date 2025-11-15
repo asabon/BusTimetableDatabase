@@ -1,0 +1,27 @@
+{
+    "date": "2020/12/05",
+    "name": "いすゞ南門",
+    "position": "-",
+    "system": "湘14",
+    "destinations": [
+        "湘南台駅東口"
+    ],
+    "weekday": [
+        "6:30",
+        "6:50",
+        "7:15",
+        "7:35",
+        "17:28",
+        "18:45",
+        "19:10",
+        "19:25",
+        "19:30"
+    ],
+    "saturday": [
+        "6:50",
+        "7:15",
+        "7:35"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800106-1/node:00129984/kt:0/lname:/"
+}

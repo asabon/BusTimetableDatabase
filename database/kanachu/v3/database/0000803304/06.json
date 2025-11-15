@@ -1,0 +1,19 @@
+{
+    "date": "2025/07/12",
+    "name": "住宅前(藤沢市明治)",
+    "position": "-",
+    "system": "辻31",
+    "destinations": [
+        "汲田",
+        "明治中学校前",
+        "羽鳥郵便局前",
+        "神台公園前",
+        "辻堂駅北口"
+    ],
+    "weekday": [
+        "15:31"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803304-6/node:00130195/kt:0/lname:/"
+}

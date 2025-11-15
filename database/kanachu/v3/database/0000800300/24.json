@@ -1,0 +1,18 @@
+{
+    "date": "2025/08/04",
+    "name": "上町(相模原市緑区)",
+    "position": "-",
+    "system": "橋26",
+    "destinations": [
+        "香福寺前",
+        "旭小学校前(相模原市緑区)",
+        "旭農協前",
+        "橋本駅北口"
+    ],
+    "weekday": [],
+    "saturday": [],
+    "holiday": [
+        "10:32"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800300-24/node:00128968/kt:0/lname:/"
+}

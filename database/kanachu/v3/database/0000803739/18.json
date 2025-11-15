@@ -1,0 +1,19 @@
+{
+    "date": "2025/04/19",
+    "name": "原当麻駅東",
+    "position": "-",
+    "system": "大15",
+    "destinations": [
+        "原当麻駅"
+    ],
+    "weekday": [
+        "21:54"
+    ],
+    "saturday": [
+        "21:53"
+    ],
+    "holiday": [
+        "20:57"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803739-18/node:00129320/kt:0/lname:/"
+}

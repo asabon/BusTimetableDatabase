@@ -1,0 +1,17 @@
+{
+    "date": "2021/04/01",
+    "name": "平野(相模原市緑区)",
+    "position": "-",
+    "system": "湖29",
+    "destinations": [
+        "北相中学校前",
+        "桂北小学校前",
+        "相模湖駅"
+    ],
+    "weekday": [
+        "17:16"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801187-13/node:00128921/kt:0/lname:/"
+}

@@ -1,0 +1,24 @@
+{
+    "date": "2023/02/18",
+    "name": "土沢中学校前",
+    "position": "-",
+    "system": "平37",
+    "destinations": [
+        "妙円寺前",
+        "神奈川大学"
+    ],
+    "weekday": [],
+    "saturday": [
+        "10:40",
+        "15:15",
+        "16:55"
+    ],
+    "holiday": [
+        "8:15",
+        "8:45",
+        "10:40",
+        "15:15",
+        "16:55"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803265-27/node:00127826/kt:0/lname:/"
+}

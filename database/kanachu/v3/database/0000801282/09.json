@@ -1,0 +1,23 @@
+{
+    "date": "2024/05/20",
+    "name": "串橋入口",
+    "position": "-",
+    "system": "伊58",
+    "destinations": [
+        "桜坂(伊勢原市)",
+        "谷戸岡",
+        "大住台",
+        "坪ノ内",
+        "笠谷戸",
+        "善波西玉",
+        "善波"
+    ],
+    "weekday": [
+        "7:19",
+        "15:10",
+        "16:01"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801282-9/node:00128135/kt:0/lname:/"
+}

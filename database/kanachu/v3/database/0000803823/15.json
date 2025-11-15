@@ -1,0 +1,25 @@
+{
+    "date": "2025/05/11",
+    "name": "森の家前",
+    "position": "-",
+    "system": "金28",
+    "destinations": [
+        "上郷(横浜市栄区)",
+        "長倉町",
+        "八軒谷戸",
+        "中島(横浜市栄区)",
+        "光明寺(横浜市栄区)",
+        "紅葉橋(横浜市栄区)",
+        "本郷車庫前(横浜市栄区)"
+    ],
+    "weekday": [
+        "23:12"
+    ],
+    "saturday": [
+        "19:58"
+    ],
+    "holiday": [
+        "19:58"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803823-15/node:00126520/kt:0/lname:/"
+}

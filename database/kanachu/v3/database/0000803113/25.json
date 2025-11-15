@@ -1,0 +1,25 @@
+{
+    "date": "2023/02/18",
+    "name": "下戸田(厚木市)",
+    "position": "-",
+    "system": "平50",
+    "destinations": [
+        "中戸田",
+        "戸田(厚木市)",
+        "相川中学校前",
+        "愛坪",
+        "下酒井",
+        "酒井(厚木市)",
+        "リバーサイド前(厚木市)"
+    ],
+    "weekday": [
+        "23:36"
+    ],
+    "saturday": [
+        "22:48"
+    ],
+    "holiday": [
+        "22:48"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803113-25/node:00128630/kt:0/lname:/"
+}

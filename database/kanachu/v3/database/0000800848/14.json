@@ -1,0 +1,28 @@
+{
+    "date": "2024/04/01",
+    "name": "旭通り(平塚市)",
+    "position": "-",
+    "system": "平20",
+    "destinations": [
+        "八間通り",
+        "平塚文化芸術ホール前",
+        "銀座通り(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "6:34",
+        "7:04",
+        "19:04",
+        "20:29",
+        "21:34"
+    ],
+    "saturday": [
+        "7:11",
+        "8:11"
+    ],
+    "holiday": [
+        "7:11",
+        "8:11"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800848-14/node:00127740/kt:0/lname:/"
+}

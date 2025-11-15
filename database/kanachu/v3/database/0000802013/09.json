@@ -1,0 +1,25 @@
+{
+    "date": "2025/07/12",
+    "name": "引地橋",
+    "position": "-",
+    "system": "藤10",
+    "destinations": [
+        "一中入口(藤沢市)",
+        "湘南高校前",
+        "台町(藤沢市)",
+        "藤沢市民病院",
+        "本町消防出張所前",
+        "藤沢公民館前",
+        "遊行寺前",
+        "遊行通り四丁目",
+        "藤沢駅北口"
+    ],
+    "weekday": [
+        "10:24",
+        "12:24",
+        "14:29"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802013-9/node:00127052/kt:0/lname:/"
+}

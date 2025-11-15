@@ -1,0 +1,25 @@
+{
+    "date": "2025/08/30",
+    "name": "丸山台(横浜市港南区)",
+    "position": "-",
+    "system": "舞01",
+    "destinations": [
+        "上永谷駅"
+    ],
+    "weekday": [
+        "5:35",
+        "6:05",
+        "6:19",
+        "6:47",
+        "7:22"
+    ],
+    "saturday": [
+        "6:23",
+        "7:26"
+    ],
+    "holiday": [
+        "6:15",
+        "7:13"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800662-7/node:00103100/kt:0/lname:/"
+}

@@ -1,0 +1,29 @@
+{
+    "date": "2025/08/30",
+    "name": "月見ヶ丘団地前",
+    "position": "-",
+    "system": "上20",
+    "destinations": [
+        "室ノ木(横浜市港南区)",
+        "港南区総合庁舎前",
+        "笹下港南中央通り",
+        "関の下",
+        "上大岡駅"
+    ],
+    "weekday": [
+        "6:18",
+        "6:38",
+        "7:24",
+        "7:50"
+    ],
+    "saturday": [
+        "6:32",
+        "7:02",
+        "7:32"
+    ],
+    "holiday": [
+        "6:52",
+        "7:32"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803862-10/node:00126573/kt:0/lname:/"
+}

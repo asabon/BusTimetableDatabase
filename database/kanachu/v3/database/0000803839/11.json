@@ -1,0 +1,27 @@
+{
+    "date": "2025/08/30",
+    "name": "上永谷中学校前",
+    "position": "-",
+    "system": "上20",
+    "destinations": [
+        "日限地蔵入口",
+        "水田(横浜市港南区)",
+        "中永谷",
+        "般若寺橋",
+        "下永谷(横浜市港南区)",
+        "平戸(横浜市港南区)"
+    ],
+    "weekday": [
+        "22:17"
+    ],
+    "saturday": [
+        "19:36",
+        "20:56",
+        "22:08"
+    ],
+    "holiday": [
+        "18:33",
+        "20:56"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803839-11/node:00126570/kt:0/lname:/"
+}

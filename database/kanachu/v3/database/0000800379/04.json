@@ -1,0 +1,28 @@
+{
+    "date": "2025/07/12",
+    "name": "岡本(鎌倉市)",
+    "position": "-",
+    "system": "船10",
+    "destinations": [
+        "公会堂前(鎌倉市)",
+        "陣屋坂",
+        "陣屋坂上",
+        "城宿",
+        "城廻中村"
+    ],
+    "weekday": [
+        "10:45",
+        "19:00",
+        "19:20",
+        "22:03"
+    ],
+    "saturday": [
+        "15:56",
+        "20:03"
+    ],
+    "holiday": [
+        "15:56",
+        "20:03"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800379-4/node:00126991/kt:0/lname:/"
+}

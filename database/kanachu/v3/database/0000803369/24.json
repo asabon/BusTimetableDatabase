@@ -1,0 +1,25 @@
+{
+    "date": "2025/01/14",
+    "name": "本厚木駅",
+    "position": "-",
+    "system": "厚34",
+    "destinations": [
+        "厚木バスセンター"
+    ],
+    "weekday": [
+        "6:56",
+        "7:26",
+        "8:00",
+        "22:04"
+    ],
+    "saturday": [
+        "7:16",
+        "8:16",
+        "21:02"
+    ],
+    "holiday": [
+        "8:16",
+        "21:02"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803369-24/node:00025684/kt:0/lname:/"
+}

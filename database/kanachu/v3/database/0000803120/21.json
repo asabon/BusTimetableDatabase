@@ -1,0 +1,20 @@
+{
+    "date": "2022/01/04",
+    "name": "下依知入口",
+    "position": "-",
+    "system": "海02",
+    "destinations": [
+        "金田神社前",
+        "水道路(厚木市)",
+        "今泉(海老名市)",
+        "鶴松",
+        "海老名駅西口"
+    ],
+    "weekday": [
+        "7:16",
+        "8:16"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803120-21/node:00128349/kt:0/lname:/"
+}

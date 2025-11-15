@@ -1,0 +1,19 @@
+{
+    "date": "2025/04/19",
+    "name": "南中前(相模原市南区)",
+    "position": "-",
+    "system": "大25",
+    "destinations": [
+        "グリーンホール前",
+        "相模大野駅北口"
+    ],
+    "weekday": [
+        "6:06",
+        "6:18"
+    ],
+    "saturday": [
+        "6:12"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803513-20/node:00129205/kt:0/lname:/"
+}

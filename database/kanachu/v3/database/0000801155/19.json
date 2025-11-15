@@ -1,0 +1,17 @@
+{
+    "date": "2025/07/12",
+    "name": "長尾台(横浜市栄区)",
+    "position": "-",
+    "system": "船65",
+    "destinations": [
+        "坂本(鎌倉市)",
+        "大船駅西口"
+    ],
+    "weekday": [
+        "17:45",
+        "18:45"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801155-19/node:00126853/kt:0/lname:/"
+}

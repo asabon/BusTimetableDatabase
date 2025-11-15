@@ -1,0 +1,23 @@
+{
+    "date": "2025/07/27",
+    "name": "グリーンテク東",
+    "position": "-",
+    "system": "秦96",
+    "destinations": [
+        "東名秦野",
+        "南が丘東",
+        "立野緑地入口",
+        "日赤病院前(秦野市)",
+        "小原台入口(秦野市)",
+        "上尾尻橋",
+        "秦野駅南口"
+    ],
+    "weekday": [
+        "17:22",
+        "18:37",
+        "20:27"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801214-8/node:00128034/kt:0/lname:/"
+}

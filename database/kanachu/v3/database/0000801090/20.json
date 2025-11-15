@@ -1,0 +1,29 @@
+{
+    "date": "2024/03/16",
+    "name": "才戸橋",
+    "position": "-",
+    "system": "厚07",
+    "destinations": [
+        "下川入",
+        "あつぎ郷土博物館"
+    ],
+    "weekday": [
+        "7:20",
+        "7:47",
+        "8:10",
+        "8:30",
+        "9:05",
+        "10:05"
+    ],
+    "saturday": [
+        "8:21",
+        "9:24",
+        "10:22"
+    ],
+    "holiday": [
+        "8:20",
+        "9:21",
+        "10:22"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801090-20/node:00128318/kt:0/lname:/"
+}

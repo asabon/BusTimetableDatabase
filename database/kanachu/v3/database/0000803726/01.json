@@ -1,0 +1,20 @@
+{
+    "date": "2025/05/11",
+    "name": "善行駅",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "荏原工業団地"
+    ],
+    "weekday": [
+        "7:10",
+        "7:18",
+        "7:24",
+        "7:32",
+        "7:39",
+        "7:48"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803726-1/node:00127073/kt:0/lname:/"
+}

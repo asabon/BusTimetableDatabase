@@ -1,0 +1,16 @@
+{
+    "date": "2025/07/12",
+    "name": "善行二丁目",
+    "position": "-",
+    "system": "善02",
+    "destinations": [
+        "善行駅"
+    ],
+    "weekday": [
+        "9:51",
+        "15:16"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800217-7/node:00127072/kt:0/lname:/"
+}

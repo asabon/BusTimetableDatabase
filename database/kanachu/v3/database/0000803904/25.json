@@ -1,0 +1,17 @@
+{
+    "date": "2025/10/01",
+    "name": "山西(中郡二宮町)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "吾妻神社前(中郡二宮町)",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "12:10",
+        "18:10"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803904-25/node:00127493/kt:0/lname:/"
+}

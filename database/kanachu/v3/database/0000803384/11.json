@@ -1,0 +1,23 @@
+{
+    "date": "2025/07/27",
+    "name": "室川橋",
+    "position": "-",
+    "system": "秦38",
+    "destinations": [
+        "秦野駅"
+    ],
+    "weekday": [
+        "8:33",
+        "9:31",
+        "10:31",
+        "11:31",
+        "12:31",
+        "13:31",
+        "14:31",
+        "17:33",
+        "18:38"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803384-11/node:00127721/kt:0/lname:/"
+}

@@ -1,0 +1,25 @@
+{
+    "date": "2025/04/19",
+    "name": "谷口台小学校前",
+    "position": "-",
+    "system": "大58",
+    "destinations": [
+        "上原団地",
+        "御園二丁目",
+        "みゆき台団地",
+        "御園五丁目",
+        "双葉入口",
+        "桜台(相模原市南区)",
+        "水道路(相模原市南区)",
+        "麻溝台",
+        "麻溝台中学校入口",
+        "さがみ緑風園前"
+    ],
+    "weekday": [],
+    "saturday": [
+        "21:23",
+        "21:48"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802991-3/node:00129279/kt:0/lname:/"
+}

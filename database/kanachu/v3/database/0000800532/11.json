@@ -1,0 +1,17 @@
+{
+    "date": "2021/10/16",
+    "name": "岡田一本杉(新道/厚木市)",
+    "position": "-",
+    "system": "平57",
+    "destinations": [
+        "本厚木駅南口"
+    ],
+    "weekday": [
+        "7:47",
+        "8:04",
+        "8:54"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800532-11/node:00128634/kt:0/lname:/"
+}

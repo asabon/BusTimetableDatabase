@@ -1,0 +1,19 @@
+{
+    "date": "2024/04/01",
+    "name": "上谷台",
+    "position": "-",
+    "system": "長22",
+    "destinations": [
+        "長後駅西口"
+    ],
+    "weekday": [
+        "7:34",
+        "8:12",
+        "8:46",
+        "9:36",
+        "9:56"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801168-13/node:00129846/kt:0/lname:/"
+}

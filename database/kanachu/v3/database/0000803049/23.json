@@ -1,0 +1,25 @@
+{
+    "date": "2025/08/04",
+    "name": "寿町(相模原市緑区)",
+    "position": "-",
+    "system": "橋61",
+    "destinations": [
+        "旭農協前",
+        "橋本駅北口"
+    ],
+    "weekday": [
+        "7:15",
+        "8:05",
+        "8:45",
+        "9:30"
+    ],
+    "saturday": [
+        "8:50",
+        "9:38"
+    ],
+    "holiday": [
+        "8:50",
+        "9:38"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803049-23/node:00128991/kt:0/lname:/"
+}

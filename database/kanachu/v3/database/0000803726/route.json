@@ -1,0 +1,20 @@
+{
+    "system": "",
+    "busstops": [
+        {
+            "index": "1",
+            "id": "00127073",
+            "name": "善行駅",
+            "lat": "35.362941",
+            "lng": "139.473041"
+        },
+        {
+            "index": "2",
+            "id": "00127067",
+            "name": "荏原工業団地",
+            "lat": "35.35854",
+            "lng": "139.466376"
+        }
+    ],
+    "route_url": "https://www.kanachu.co.jp/dia/route/index/cid:0000803726/"
+}

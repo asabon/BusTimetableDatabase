@@ -1,0 +1,21 @@
+{
+    "date": "2025/10/20",
+    "name": "あかね台入口(横浜市青葉区)",
+    "position": "-",
+    "system": "津04",
+    "destinations": [
+        "熊の谷公園",
+        "あかね台北",
+        "奈良三丁目"
+    ],
+    "weekday": [
+        "8:44",
+        "19:09",
+        "20:09",
+        "20:49",
+        "22:12"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802141-4/node:00019242/kt:0/lname:/"
+}

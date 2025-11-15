@@ -1,0 +1,26 @@
+{
+    "date": "2025/08/04",
+    "name": "公会堂前(町田市)",
+    "position": "-",
+    "system": "橋61",
+    "destinations": [
+        "大戸橋",
+        "上大戸",
+        "ネイチャーファクトリー東京町田",
+        "大戸(相模原市緑区)"
+    ],
+    "weekday": [
+        "20:20",
+        "20:55"
+    ],
+    "saturday": [
+        "18:40",
+        "19:22",
+        "20:05"
+    ],
+    "holiday": [
+        "18:40",
+        "19:22"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803037-21/node:00128894/kt:0/lname:/"
+}

@@ -1,0 +1,23 @@
+{
+    "date": "2025/03/15",
+    "name": "美住町",
+    "position": "-",
+    "system": "辻14",
+    "destinations": [
+        "ひばりが丘(茅ケ崎市)",
+        "桜道(茅ケ崎市)",
+        "若松町(茅ケ崎市)"
+    ],
+    "weekday": [
+        "19:56"
+    ],
+    "saturday": [
+        "19:56",
+        "22:11"
+    ],
+    "holiday": [
+        "19:56",
+        "22:11"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802923-6/node:00127236/kt:0/lname:/"
+}

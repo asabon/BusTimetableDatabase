@@ -1,0 +1,21 @@
+{
+    "date": "2024/03/16",
+    "name": "多摩境通り北",
+    "position": "-",
+    "system": "町62",
+    "destinations": [
+        "神奈中多摩車庫"
+    ],
+    "weekday": [
+        "23:07"
+    ],
+    "saturday": [
+        "22:17",
+        "22:57"
+    ],
+    "holiday": [
+        "22:17",
+        "22:57"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802021-27/node:00130132/kt:0/lname:/"
+}

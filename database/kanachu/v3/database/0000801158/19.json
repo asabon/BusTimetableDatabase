@@ -1,0 +1,19 @@
+{
+    "date": "2017/01/16",
+    "name": "依知神社前",
+    "position": "-",
+    "system": "厚80",
+    "destinations": [
+        "上依知浮島弁天前",
+        "猿ヶ島入口",
+        "猿ヶ島"
+    ],
+    "weekday": [
+        "11:40",
+        "13:10",
+        "14:40"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801158-19/node:00128358/kt:0/lname:/"
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2024/07/01",
+    "name": "横浜医療センター前",
+    "position": "-",
+    "system": "船24",
+    "destinations": [
+        "三叉路(横浜市戸塚区)",
+        "横浜薬大南門",
+        "俣野公園・横浜薬大前"
+    ],
+    "weekday": [
+        "6:37",
+        "6:46",
+        "7:22",
+        "8:11",
+        "18:49"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803583-14/node:00126819/kt:0/lname:/"
+}

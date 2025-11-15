@@ -1,0 +1,18 @@
+{
+    "date": "2024/03/16",
+    "name": "紅葉橋(横浜市栄区)",
+    "position": "-",
+    "system": "港85",
+    "destinations": [
+        "光明寺(横浜市栄区)",
+        "庄戸(横浜市栄区)"
+    ],
+    "weekday": [
+        "6:21",
+        "7:11",
+        "7:38"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800235-5/node:00126514/kt:0/lname:/"
+}

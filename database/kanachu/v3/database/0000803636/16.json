@@ -1,0 +1,27 @@
+{
+    "date": "2024/09/02",
+    "name": "第二工業団地中央",
+    "position": "-",
+    "system": "戸99",
+    "destinations": [
+        "第二工業団地",
+        "上矢部地区センター前",
+        "戸塚工業団地",
+        "上矢部高校"
+    ],
+    "weekday": [
+        "20:02",
+        "21:00",
+        "23:34"
+    ],
+    "saturday": [
+        "18:54",
+        "22:28",
+        "22:54"
+    ],
+    "holiday": [
+        "22:07",
+        "22:37"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803636-16/node:00126914/kt:0/lname:/"
+}

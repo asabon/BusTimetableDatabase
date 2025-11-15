@@ -1,0 +1,29 @@
+{
+    "date": "2025/07/12",
+    "name": "滝の沢不動前",
+    "position": "-",
+    "system": "善03",
+    "destinations": [
+        "湘南ライフタウン"
+    ],
+    "weekday": [
+        "6:44",
+        "7:44",
+        "8:39",
+        "17:36",
+        "18:36"
+    ],
+    "saturday": [
+        "7:44",
+        "8:44",
+        "17:26",
+        "18:26"
+    ],
+    "holiday": [
+        "7:44",
+        "8:44",
+        "17:26",
+        "18:26"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802713-17/node:00129947/kt:0/lname:/"
+}

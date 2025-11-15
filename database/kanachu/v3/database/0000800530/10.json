@@ -1,0 +1,24 @@
+{
+    "date": "2024/03/16",
+    "name": "中村(町田市成瀬)",
+    "position": "-",
+    "system": "成04",
+    "destinations": [
+        "成瀬高校入口",
+        "南成瀬",
+        "成瀬駅"
+    ],
+    "weekday": [
+        "13:08",
+        "15:08"
+    ],
+    "saturday": [
+        "13:08",
+        "15:08"
+    ],
+    "holiday": [
+        "13:08",
+        "15:08"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800530-10/node:00129560/kt:0/lname:/"
+}

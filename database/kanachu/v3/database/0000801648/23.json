@@ -1,0 +1,22 @@
+{
+    "date": "2025/01/14",
+    "name": "打越(厚木市)",
+    "position": "-",
+    "system": "厚32",
+    "destinations": [
+        "矢崎(厚木市)",
+        "古沢(厚木市)",
+        "上古沢",
+        "ネポン入口",
+        "上分",
+        "旗谷下"
+    ],
+    "weekday": [
+        "13:47",
+        "17:48",
+        "19:18"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801648-23/node:00128482/kt:0/lname:/"
+}

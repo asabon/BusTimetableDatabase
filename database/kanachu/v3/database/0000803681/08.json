@@ -1,0 +1,22 @@
+{
+    "date": "2025/01/14",
+    "name": "アンリツ前",
+    "position": "-",
+    "system": "厚27",
+    "destinations": [
+        "緑ヶ丘入口(厚木市)",
+        "黄金原",
+        "小金",
+        "白山(厚木市)",
+        "六堂辻",
+        "古松台入口"
+    ],
+    "weekday": [
+        "23:34"
+    ],
+    "saturday": [
+        "23:08"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803681-8/node:00128468/kt:0/lname:/"
+}

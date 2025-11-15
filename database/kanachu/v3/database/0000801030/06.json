@@ -1,0 +1,18 @@
+{
+    "date": "2024/03/16",
+    "name": "元大橋",
+    "position": "-",
+    "system": "港39",
+    "destinations": [
+        "中野町",
+        "稲荷森",
+        "山手学院入口",
+        "本郷車庫前(横浜市栄区)"
+    ],
+    "weekday": [
+        "10:00"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801030-6/node:00126546/kt:0/lname:/"
+}

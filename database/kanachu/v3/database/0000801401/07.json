@@ -1,0 +1,17 @@
+{
+    "date": "2025/05/11",
+    "name": "落合(秦野市)",
+    "position": "-",
+    "system": "秦22",
+    "destinations": [
+        "神奈川病院"
+    ],
+    "weekday": [
+        "8:23",
+        "8:40",
+        "8:48"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801401-7/node:00127874/kt:0/lname:/"
+}

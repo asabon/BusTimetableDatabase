@@ -1,0 +1,27 @@
+{
+    "date": "2025/01/14",
+    "name": "旗谷入口",
+    "position": "-",
+    "system": "厚32",
+    "destinations": [
+        "小鮎公民館前",
+        "台ノ上",
+        "学校前(厚木市)",
+        "局前(厚木市)",
+        "打越(厚木市)",
+        "矢崎(厚木市)",
+        "古沢(厚木市)",
+        "上古沢",
+        "ネポン入口",
+        "上分",
+        "旗谷下"
+    ],
+    "weekday": [
+        "13:43",
+        "17:44",
+        "19:14"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801648-18/node:00128486/kt:0/lname:/"
+}

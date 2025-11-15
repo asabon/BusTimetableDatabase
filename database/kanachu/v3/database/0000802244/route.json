@@ -1,0 +1,20 @@
+{
+    "system": "伊11",
+    "busstops": [
+        {
+            "index": "1",
+            "id": "00128127",
+            "name": "伊勢原駅北口",
+            "lat": "35.395754",
+            "lng": "139.312779"
+        },
+        {
+            "index": "2",
+            "id": "00128162",
+            "name": "大山ケーブル",
+            "lat": "35.424192",
+            "lng": "139.249624"
+        }
+    ],
+    "route_url": "https://www.kanachu.co.jp/dia/route/index/cid:0000802244/"
+}

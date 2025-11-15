@@ -1,0 +1,19 @@
+{
+    "date": "2020/11/24",
+    "name": "通信隊前",
+    "position": "-",
+    "system": "船21",
+    "destinations": [
+        "高砂苑前",
+        "萩丸",
+        "西原(横浜市泉区)",
+        "立場ターミナル"
+    ],
+    "weekday": [
+        "9:00",
+        "9:44"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800281-21/node:00126832/kt:0/lname:/"
+}

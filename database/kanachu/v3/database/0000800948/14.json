@@ -1,0 +1,20 @@
+{
+    "date": "2025/08/04",
+    "name": "上町(相模原市緑区)",
+    "position": "-",
+    "system": "橋31",
+    "destinations": [
+        "緑区合同庁舎前(相模原市緑区)",
+        "橋本二丁目",
+        "橋本駅南口"
+    ],
+    "weekday": [
+        "5:43",
+        "6:19",
+        "6:42",
+        "15:56"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800948-14/node:00128968/kt:0/lname:/"
+}

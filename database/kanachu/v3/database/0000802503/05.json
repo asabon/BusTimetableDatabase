@@ -1,0 +1,24 @@
+{
+    "date": "2025/10/20",
+    "name": "坂下(鶴間/町田市)",
+    "position": "-",
+    "system": "南03",
+    "destinations": [
+        "マークスプリングス"
+    ],
+    "weekday": [
+        "20:37",
+        "21:17",
+        "21:57",
+        "22:32"
+    ],
+    "saturday": [
+        "20:49",
+        "21:38"
+    ],
+    "holiday": [
+        "20:49",
+        "21:38"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802503-5/node:00130194/kt:0/lname:/"
+}

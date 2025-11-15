@@ -1,0 +1,19 @@
+{
+    "date": "2024/03/16",
+    "name": "森野一丁目",
+    "position": "-",
+    "system": "町60",
+    "destinations": [
+        "町田バスセンター"
+    ],
+    "weekday": [
+        "7:17",
+        "8:38"
+    ],
+    "saturday": [
+        "7:28",
+        "8:26"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803171-36/node:00129522/kt:0/lname:/"
+}

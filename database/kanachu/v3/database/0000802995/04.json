@@ -1,0 +1,30 @@
+{
+    "date": "2025/03/15",
+    "name": "田方(藤沢市)",
+    "position": "-",
+    "system": "湘21",
+    "destinations": [
+        "寿照寺前",
+        "和泉橋",
+        "石川山田",
+        "南桐原",
+        "桐ヶ谷(藤沢市)",
+        "湘南台住宅前",
+        "湘南台駅西口"
+    ],
+    "weekday": [
+        "6:54",
+        "17:08"
+    ],
+    "saturday": [
+        "7:13",
+        "7:33",
+        "7:53",
+        "8:33"
+    ],
+    "holiday": [
+        "7:53",
+        "8:33"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802995-4/node:00129951/kt:0/lname:/"
+}

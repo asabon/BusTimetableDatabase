@@ -1,0 +1,25 @@
+{
+    "date": "2025/10/20",
+    "name": "亀甲山",
+    "position": "-",
+    "system": "横04",
+    "destinations": [
+        "桜山(横浜市旭区)",
+        "卸センター前",
+        "笹原(横浜市瀬谷区)",
+        "瀬谷入口",
+        "観音寺前(大和市)",
+        "下鶴間",
+        "諏訪神社",
+        "山王原(大和市)",
+        "長堀公園前",
+        "鶴間二丁目",
+        "鶴間駅東口"
+    ],
+    "weekday": [
+        "7:18"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803918-40/node:00129705/kt:0/lname:/"
+}

@@ -1,0 +1,25 @@
+{
+    "date": "2024/10/01",
+    "name": "橋本駅南口",
+    "position": "-",
+    "system": "橋30",
+    "destinations": [
+        "アリオ橋本"
+    ],
+    "weekday": [
+        "11:16",
+        "13:26",
+        "15:36"
+    ],
+    "saturday": [
+        "11:16",
+        "13:26",
+        "15:36"
+    ],
+    "holiday": [
+        "11:16",
+        "13:26",
+        "15:36"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803629-19/node:00128970/kt:0/lname:/"
+}

@@ -1,0 +1,25 @@
+{
+    "date": "2024/04/01",
+    "name": "戸川入口",
+    "position": "-",
+    "system": "秦53",
+    "destinations": [
+        "三屋入口",
+        "羽根入口",
+        "田原入口",
+        "高砂(秦野市)",
+        "高砂車庫前"
+    ],
+    "weekday": [
+        "22:51"
+    ],
+    "saturday": [
+        "21:49",
+        "22:30"
+    ],
+    "holiday": [
+        "21:49",
+        "22:30"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803537-16/node:00127885/kt:0/lname:/"
+}

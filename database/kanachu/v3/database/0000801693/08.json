@@ -1,0 +1,21 @@
+{
+    "date": "2012/09/01",
+    "name": "林(厚木市)",
+    "position": "-",
+    "system": "厚95",
+    "destinations": [
+        "王子入口",
+        "高校入口(厚木市)",
+        "王子(厚木市)"
+    ],
+    "weekday": [
+        "7:52",
+        "8:02",
+        "8:12",
+        "8:17",
+        "8:23"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801693-8/node:00128399/kt:0/lname:/"
+}

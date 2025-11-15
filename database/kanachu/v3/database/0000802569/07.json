@@ -1,0 +1,23 @@
+{
+    "date": "2024/09/09",
+    "name": "生花市場前",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "羽沢横浜国大駅前",
+        "高山(横浜市神奈川区)",
+        "羽沢南",
+        "池の谷戸(横浜市保土ケ谷区)",
+        "川島住宅"
+    ],
+    "weekday": [
+        "20:53"
+    ],
+    "saturday": [
+        "20:53"
+    ],
+    "holiday": [
+        "20:53"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802569-7/node:00129780/kt:0/lname:/"
+}

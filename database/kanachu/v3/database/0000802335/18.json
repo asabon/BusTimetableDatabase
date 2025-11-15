@@ -1,0 +1,27 @@
+{
+    "date": "2025/03/15",
+    "name": "共ヶ丘",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "大塚本町",
+        "大塚上町",
+        "さがみ野駅"
+    ],
+    "weekday": [
+        "6:46",
+        "7:17",
+        "7:46"
+    ],
+    "saturday": [
+        "8:48",
+        "16:18",
+        "17:48"
+    ],
+    "holiday": [
+        "8:48",
+        "16:18",
+        "17:48"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802335-18/node:00129869/kt:0/lname:/"
+}

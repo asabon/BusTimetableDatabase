@@ -1,0 +1,18 @@
+{
+    "date": "2024/11/16",
+    "name": "遊行寺前",
+    "position": "-",
+    "system": "藤45",
+    "destinations": [
+        "遊行通り四丁目",
+        "藤沢駅北口"
+    ],
+    "weekday": [
+        "12:54",
+        "13:34",
+        "14:54"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803352-11/node:00127009/kt:0/lname:/"
+}

@@ -1,0 +1,16 @@
+{
+    "date": "2024/07/08",
+    "name": "北二号(町田市)",
+    "position": "-",
+    "system": "町15",
+    "destinations": [
+        "山崎団地"
+    ],
+    "weekday": [
+        "8:30",
+        "9:02"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802964-18/node:00129391/kt:0/lname:/"
+}

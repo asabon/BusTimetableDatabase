@@ -1,0 +1,25 @@
+{
+    "date": "2025/05/11",
+    "name": "荒井沢公園前",
+    "position": "-",
+    "system": "船24",
+    "destinations": [
+        "公田ハイツ前",
+        "椎郷",
+        "朝日平和台入口",
+        "鎌倉女子大前",
+        "平島(鎌倉市)",
+        "笠間十字路",
+        "笠間町",
+        "岩井口",
+        "大船駅(横浜市栄区)"
+    ],
+    "weekday": [
+        "10:38",
+        "12:53",
+        "14:43"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802935-2/node:00126597/kt:0/lname:/"
+}

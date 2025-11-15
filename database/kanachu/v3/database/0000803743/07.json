@@ -1,0 +1,27 @@
+{
+    "date": "2025/04/01",
+    "name": "藤野下",
+    "position": "-",
+    "system": "湖23",
+    "destinations": [
+        "藤野中学校入口",
+        "藤野駅"
+    ],
+    "weekday": [
+        "12:06",
+        "13:21",
+        "14:06",
+        "16:27"
+    ],
+    "saturday": [
+        "12:05",
+        "12:55",
+        "13:56"
+    ],
+    "holiday": [
+        "12:05",
+        "12:55",
+        "13:56"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803743-7/node:00128786/kt:0/lname:/"
+}

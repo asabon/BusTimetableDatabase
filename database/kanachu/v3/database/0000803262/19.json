@@ -1,0 +1,23 @@
+{
+    "date": "2023/02/18",
+    "name": "上平塚",
+    "position": "-",
+    "system": "平38",
+    "destinations": [
+        "桜ヶ丘",
+        "桜ヶ丘公園(平塚市)",
+        "古花水",
+        "柳町(平塚市)",
+        "豊田道",
+        "八間通り",
+        "平塚文化芸術ホール前",
+        "銀座通り(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "17:35"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803262-19/node:00127572/kt:0/lname:/"
+}

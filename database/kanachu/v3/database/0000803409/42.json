@@ -1,0 +1,16 @@
+{
+    "date": "2025/08/30",
+    "name": "横浜市役所前",
+    "position": "-",
+    "system": "戸45",
+    "destinations": [
+        "桜木町駅前"
+    ],
+    "weekday": [
+        "9:54",
+        "15:18"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803409-42/node:00102945/kt:0/lname:/"
+}

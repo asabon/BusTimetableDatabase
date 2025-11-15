@@ -1,0 +1,22 @@
+{
+    "date": "2025/04/01",
+    "name": "津久井高校前",
+    "position": "-",
+    "system": "三56",
+    "destinations": [
+        "三ヶ木"
+    ],
+    "weekday": [
+        "9:37",
+        "13:32"
+    ],
+    "saturday": [
+        "8:27",
+        "16:52"
+    ],
+    "holiday": [
+        "8:27",
+        "16:52"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803790-30/node:00128751/kt:0/lname:/"
+}

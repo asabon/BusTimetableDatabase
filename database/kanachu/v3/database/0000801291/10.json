@@ -1,0 +1,25 @@
+{
+    "date": "2021/02/22",
+    "name": "大久保(伊勢原市)",
+    "position": "-",
+    "system": "愛02",
+    "destinations": [
+        "一之崎",
+        "道了尊入口",
+        "愛甲石田駅"
+    ],
+    "weekday": [
+        "6:04",
+        "6:44",
+        "7:37"
+    ],
+    "saturday": [
+        "7:04",
+        "7:54"
+    ],
+    "holiday": [
+        "7:04",
+        "7:54"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801291-10/node:00128203/kt:0/lname:/"
+}

@@ -1,0 +1,27 @@
+{
+    "date": "2024/09/02",
+    "name": "いちょう団地",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "台村",
+        "飯田神社前",
+        "団地入口(横浜市泉区)",
+        "児童公園前(横浜市泉区)",
+        "小学校前(横浜市泉区)",
+        "上飯田団地",
+        "金子山",
+        "泉警察署前",
+        "いずみ野駅"
+    ],
+    "weekday": [
+        "6:16"
+    ],
+    "saturday": [
+        "7:13"
+    ],
+    "holiday": [
+        "7:13"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802832-5/node:00126808/kt:0/lname:/"
+}

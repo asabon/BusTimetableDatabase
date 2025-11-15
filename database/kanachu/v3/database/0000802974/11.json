@@ -1,0 +1,21 @@
+{
+    "date": "2024/03/16",
+    "name": "御嶽堂",
+    "position": "-",
+    "system": "橋80",
+    "destinations": [
+        "沼入口(町田市)",
+        "多摩境通り北",
+        "神奈中多摩車庫"
+    ],
+    "weekday": [
+        "19:09",
+        "20:06",
+        "21:09"
+    ],
+    "saturday": [
+        "20:14"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802974-11/node:00130092/kt:0/lname:/"
+}

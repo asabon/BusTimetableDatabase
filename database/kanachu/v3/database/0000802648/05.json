@@ -1,0 +1,27 @@
+{
+    "date": "2022/05/16",
+    "name": "立野緑地入口",
+    "position": "-",
+    "system": "秦70",
+    "destinations": [
+        "南が丘東",
+        "東名秦野",
+        "井ノ口駐在所前",
+        "境入口",
+        "井ノ口小学校西",
+        "久所入口",
+        "西谷戸橋",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "6:28",
+        "7:13",
+        "7:48",
+        "8:13",
+        "17:18",
+        "18:18"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802648-5/node:00128049/kt:0/lname:/"
+}

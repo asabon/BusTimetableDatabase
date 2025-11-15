@@ -1,0 +1,22 @@
+{
+    "date": "2025/05/11",
+    "name": "笠間十字路",
+    "position": "-",
+    "system": "船07",
+    "destinations": [
+        "笠間町",
+        "岩井口",
+        "大船駅(横浜市栄区)"
+    ],
+    "weekday": [
+        "11:44",
+        "17:06"
+    ],
+    "saturday": [
+        "16:20"
+    ],
+    "holiday": [
+        "16:20"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803819-20/node:00126503/kt:0/lname:/"
+}

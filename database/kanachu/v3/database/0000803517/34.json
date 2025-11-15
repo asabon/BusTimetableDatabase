@@ -1,0 +1,25 @@
+{
+    "date": "2025/04/19",
+    "name": "元町(相模原市中央区)",
+    "position": "-",
+    "system": "大15",
+    "destinations": [
+        "本町(相模原市中央区)",
+        "上溝中央",
+        "上溝"
+    ],
+    "weekday": [
+        "8:34",
+        "9:18"
+    ],
+    "saturday": [
+        "8:07",
+        "9:19"
+    ],
+    "holiday": [
+        "8:21",
+        "9:21",
+        "10:01"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803517-34/node:00128530/kt:0/lname:/"
+}

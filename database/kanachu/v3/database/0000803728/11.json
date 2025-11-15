@@ -1,0 +1,25 @@
+{
+    "date": "2025/04/01",
+    "name": "小松原入口",
+    "position": "-",
+    "system": "小03",
+    "destinations": [
+        "相模が丘",
+        "マルマン工場前",
+        "小田急住宅前(座間市)",
+        "相模台",
+        "小田急相模原駅"
+    ],
+    "weekday": [
+        "17:14",
+        "17:54",
+        "18:31",
+        "19:07",
+        "20:10",
+        "21:07",
+        "22:07"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803728-11/node:00129679/kt:0/lname:/"
+}

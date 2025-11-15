@@ -1,0 +1,23 @@
+{
+    "date": "2021/02/22",
+    "name": "共済病院前総合公園西",
+    "position": "-",
+    "system": "平99",
+    "destinations": [
+        "追分(平塚市)",
+        "立野町(平塚市)",
+        "横浜ゴム前",
+        "市役所前(ゴム前/平塚市)",
+        "四ツ角(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "7:27",
+        "7:43",
+        "7:56",
+        "8:11"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802066-9/node:00128222/kt:0/lname:/"
+}

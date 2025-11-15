@@ -1,0 +1,20 @@
+{
+    "date": "2025/08/30",
+    "name": "元町橋交番前",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "樹源寺前",
+        "保土ヶ谷町2丁目",
+        "八幡橋(横浜市保土ケ谷区)",
+        "保土ヶ谷橋",
+        "保土ヶ谷駅東口"
+    ],
+    "weekday": [
+        "6:20",
+        "6:34"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802085-13/node:00103177/kt:0/lname:/"
+}

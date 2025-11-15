@@ -1,0 +1,28 @@
+{
+    "date": "2025/03/15",
+    "name": "中央公園前(茅ケ崎市)",
+    "position": "-",
+    "system": "茅17",
+    "destinations": [
+        "茅ヶ崎駅"
+    ],
+    "weekday": [
+        "6:19",
+        "6:50",
+        "7:16",
+        "7:27",
+        "7:57"
+    ],
+    "saturday": [
+        "6:09",
+        "6:49",
+        "8:15",
+        "9:15"
+    ],
+    "holiday": [
+        "6:09",
+        "6:49",
+        "8:05"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800742-8/node:00127135/kt:0/lname:/"
+}

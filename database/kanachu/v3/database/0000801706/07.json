@@ -1,0 +1,27 @@
+{
+    "date": "2025/07/12",
+    "name": "白旗交差点",
+    "position": "-",
+    "system": "藤46",
+    "destinations": [
+        "台町(藤沢市)",
+        "伊勢山入口",
+        "花の木(藤沢市)",
+        "善行",
+        "善行南",
+        "善行大橋",
+        "善行二丁目",
+        "善行駅"
+    ],
+    "weekday": [
+        "8:47",
+        "9:52",
+        "11:02",
+        "12:52",
+        "13:57",
+        "14:47"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801706-7/node:00127012/kt:0/lname:/"
+}

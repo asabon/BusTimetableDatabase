@@ -1,0 +1,22 @@
+{
+    "date": "2024/02/17",
+    "name": "上能ヶ谷",
+    "position": "-",
+    "system": "鶴23",
+    "destinations": [
+        "金井入口",
+        "下大蔵",
+        "鶴川市民センター前",
+        "消防署前(鶴川出張所/町田市)",
+        "鶴川三丁目",
+        "団地南(町田市)",
+        "街道口",
+        "和光学園(町田市)"
+    ],
+    "weekday": [
+        "8:26"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803470-2/node:00129439/kt:0/lname:/"
+}

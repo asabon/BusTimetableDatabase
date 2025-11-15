@@ -1,0 +1,25 @@
+{
+    "date": "2025/07/12",
+    "name": "陣屋坂上",
+    "position": "-",
+    "system": "船10",
+    "destinations": [
+        "城宿",
+        "城廻中村"
+    ],
+    "weekday": [
+        "10:51",
+        "19:05",
+        "19:25",
+        "22:08"
+    ],
+    "saturday": [
+        "16:02",
+        "20:08"
+    ],
+    "holiday": [
+        "16:02",
+        "20:08"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800379-7/node:00127125/kt:0/lname:/"
+}

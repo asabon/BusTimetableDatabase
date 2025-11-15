@@ -1,0 +1,25 @@
+{
+    "date": "2024/12/16",
+    "name": "消防署前(多摩市)",
+    "position": "-",
+    "system": "桜22",
+    "destinations": [
+        "諏訪下橋(多摩市)",
+        "車橋",
+        "新大栗橋",
+        "聖蹟桜ヶ丘駅"
+    ],
+    "weekday": [
+        "5:57",
+        "6:21"
+    ],
+    "saturday": [
+        "6:08",
+        "6:38"
+    ],
+    "holiday": [
+        "6:08",
+        "6:38"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801153-7/node:00021488/kt:0/lname:/"
+}

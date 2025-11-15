@@ -1,0 +1,23 @@
+{
+    "date": "2025/07/12",
+    "name": "五反田(藤沢市)",
+    "position": "-",
+    "system": "藤34",
+    "destinations": [
+        "北の谷",
+        "弁天前(藤沢市)",
+        "天神社前",
+        "舟地蔵",
+        "大六天(藤沢市)"
+    ],
+    "weekday": [
+        "21:12"
+    ],
+    "saturday": [
+        "21:04"
+    ],
+    "holiday": [
+        "21:04"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802969-10/node:00127061/kt:0/lname:/"
+}

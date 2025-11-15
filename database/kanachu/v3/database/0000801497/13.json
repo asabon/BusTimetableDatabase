@@ -1,0 +1,30 @@
+{
+    "date": "2024/04/01",
+    "name": "下万田",
+    "position": "-",
+    "system": "平35",
+    "destinations": [
+        "上万田",
+        "湘南平富士見",
+        "湘南平"
+    ],
+    "weekday": [
+        "9:12",
+        "11:25",
+        "13:25",
+        "16:19"
+    ],
+    "saturday": [
+        "9:12",
+        "11:25",
+        "13:25",
+        "16:14"
+    ],
+    "holiday": [
+        "9:12",
+        "11:25",
+        "13:25",
+        "16:14"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801497-13/node:00127534/kt:0/lname:/"
+}

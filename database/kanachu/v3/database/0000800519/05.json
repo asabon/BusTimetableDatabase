@@ -1,0 +1,15 @@
+{
+    "date": "2024/04/01",
+    "name": "御園二丁目",
+    "position": "-",
+    "system": "大54",
+    "destinations": [
+        "みゆき台団地"
+    ],
+    "weekday": [
+        "6:45"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800519-5/node:00129260/kt:0/lname:/"
+}

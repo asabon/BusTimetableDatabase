@@ -1,0 +1,26 @@
+{
+    "date": "2025/01/14",
+    "name": "愛川町役場",
+    "position": "-",
+    "system": "厚64",
+    "destinations": [
+        "愛川バスセンター"
+    ],
+    "weekday": [
+        "20:46",
+        "21:16",
+        "22:11",
+        "23:21"
+    ],
+    "saturday": [
+        "20:51",
+        "21:31",
+        "22:11"
+    ],
+    "holiday": [
+        "20:51",
+        "21:31",
+        "22:11"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802983-25/node:00128520/kt:0/lname:/"
+}

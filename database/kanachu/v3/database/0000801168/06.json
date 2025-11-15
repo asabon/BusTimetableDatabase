@@ -1,0 +1,26 @@
+{
+    "date": "2024/04/01",
+    "name": "大邸",
+    "position": "-",
+    "system": "長22",
+    "destinations": [
+        "大法寺(綾瀬市)",
+        "上落合(綾瀬市)",
+        "落合(綾瀬市)",
+        "中川橋",
+        "上土棚",
+        "並塚",
+        "上谷台",
+        "長後駅西口"
+    ],
+    "weekday": [
+        "7:25",
+        "8:03",
+        "8:39",
+        "9:29",
+        "9:49"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801168-6/node:00129856/kt:0/lname:/"
+}

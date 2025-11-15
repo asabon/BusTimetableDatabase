@@ -1,0 +1,25 @@
+{
+    "date": "2021/02/01",
+    "name": "弘明寺",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "通町三丁目",
+        "通町一丁目",
+        "蒔田駅前",
+        "蒔田中学校前(横浜市南区)"
+    ],
+    "weekday": [
+        "19:56",
+        "21:59"
+    ],
+    "saturday": [
+        "19:55",
+        "21:49"
+    ],
+    "holiday": [
+        "19:55",
+        "21:49"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803014-14/node:00102458/kt:0/lname:/"
+}

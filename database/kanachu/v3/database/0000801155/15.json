@@ -1,0 +1,21 @@
+{
+    "date": "2025/07/12",
+    "name": "常勝寺(横浜市栄区)",
+    "position": "-",
+    "system": "船65",
+    "destinations": [
+        "田谷(横浜市栄区)",
+        "小蓋山",
+        "宮ノ前(横浜市栄区)",
+        "長尾台(横浜市栄区)",
+        "坂本(鎌倉市)",
+        "大船駅西口"
+    ],
+    "weekday": [
+        "17:40",
+        "18:40"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801155-15/node:00126921/kt:0/lname:/"
+}

@@ -1,0 +1,20 @@
+{
+    "date": "2024/03/16",
+    "name": "保健所入口",
+    "position": "-",
+    "system": "町60",
+    "destinations": [
+        "森野一丁目",
+        "町田バスセンター"
+    ],
+    "weekday": [
+        "7:16",
+        "8:37"
+    ],
+    "saturday": [
+        "7:27",
+        "8:25"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803171-35/node:00129418/kt:0/lname:/"
+}

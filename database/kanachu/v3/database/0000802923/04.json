@@ -1,0 +1,25 @@
+{
+    "date": "2025/03/15",
+    "name": "保育園前(茅ヶ崎市)",
+    "position": "-",
+    "system": "辻14",
+    "destinations": [
+        "松浪小学校前",
+        "美住町",
+        "ひばりが丘(茅ケ崎市)",
+        "桜道(茅ケ崎市)",
+        "若松町(茅ケ崎市)"
+    ],
+    "weekday": [
+        "19:54"
+    ],
+    "saturday": [
+        "19:54",
+        "22:09"
+    ],
+    "holiday": [
+        "19:54",
+        "22:09"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802923-4/node:00130344/kt:0/lname:/"
+}

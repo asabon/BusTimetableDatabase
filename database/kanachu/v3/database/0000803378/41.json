@@ -1,0 +1,24 @@
+{
+    "date": "2025/07/27",
+    "name": "養泉院",
+    "position": "-",
+    "system": "平75",
+    "destinations": [
+        "秦野郵便局前",
+        "秦野駅南口"
+    ],
+    "weekday": [
+        "9:33",
+        "18:43",
+        "19:29"
+    ],
+    "saturday": [
+        "8:37",
+        "19:19"
+    ],
+    "holiday": [
+        "8:37",
+        "19:19"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803378-41/node:00127765/kt:0/lname:/"
+}

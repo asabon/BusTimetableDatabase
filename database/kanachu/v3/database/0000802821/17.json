@@ -1,0 +1,22 @@
+{
+    "date": "2025/05/11",
+    "name": "長倉町",
+    "position": "-",
+    "system": "金25",
+    "destinations": [
+        "八軒谷戸",
+        "西ヶ谷入口",
+        "西ヶ谷",
+        "上郷ネオポリス"
+    ],
+    "weekday": [
+        "7:36",
+        "8:15",
+        "8:38",
+        "11:01",
+        "12:31"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802821-17/node:00126518/kt:0/lname:/"
+}

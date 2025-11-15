@@ -1,0 +1,24 @@
+{
+    "date": "2025/10/20",
+    "name": "長津田駅北口",
+    "position": "-",
+    "system": "津04",
+    "destinations": [
+        "長津田三丁目",
+        "堀の内(横浜市青葉区)",
+        "あかね台入口(横浜市青葉区)",
+        "熊の谷公園",
+        "あかね台北",
+        "奈良三丁目"
+    ],
+    "weekday": [
+        "8:40",
+        "19:05",
+        "20:05",
+        "20:45",
+        "22:08"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802141-1/node:00130356/kt:0/lname:/"
+}

@@ -1,0 +1,19 @@
+{
+    "date": "2025/10/20",
+    "name": "長津田三丁目",
+    "position": "-",
+    "system": "津04",
+    "destinations": [
+        "長津田駅北口"
+    ],
+    "weekday": [
+        "7:03",
+        "8:06",
+        "9:05",
+        "19:29",
+        "20:29"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802142-6/node:00130357/kt:0/lname:/"
+}

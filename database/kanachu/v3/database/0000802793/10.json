@@ -1,0 +1,29 @@
+{
+    "date": "2024/03/16",
+    "name": "湘南ハイツ",
+    "position": "-",
+    "system": "船24",
+    "destinations": [
+        "荒井沢公園前",
+        "公田ハイツ前"
+    ],
+    "weekday": [
+        "9:53",
+        "12:10",
+        "14:42",
+        "20:48",
+        "22:28",
+        "23:08"
+    ],
+    "saturday": [
+        "13:27",
+        "21:32",
+        "22:28"
+    ],
+    "holiday": [
+        "13:27",
+        "21:32",
+        "22:28"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802793-10/node:00126544/kt:0/lname:/"
+}

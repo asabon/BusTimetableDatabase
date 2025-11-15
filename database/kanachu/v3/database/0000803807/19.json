@@ -1,0 +1,23 @@
+{
+    "date": "2025/04/01",
+    "name": "地蔵前(相模原市緑区)",
+    "position": "-",
+    "system": "三55",
+    "destinations": [
+        "鮑子取入口",
+        "津久井クリーンセンター前",
+        "青山(相模原市緑区)",
+        "三ヶ木新宿",
+        "津久井高校前",
+        "三ヶ木"
+    ],
+    "weekday": [
+        "7:22",
+        "11:12",
+        "16:32",
+        "18:02"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803807-19/node:00128756/kt:0/lname:/"
+}

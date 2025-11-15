@@ -1,0 +1,15 @@
+{
+    "date": "2024/03/16",
+    "name": "相模原協同病院入口",
+    "position": "-",
+    "system": "田05",
+    "destinations": [
+        "相模原協同病院"
+    ],
+    "weekday": [
+        "10:08"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803486-14/node:00128977/kt:0/lname:/"
+}

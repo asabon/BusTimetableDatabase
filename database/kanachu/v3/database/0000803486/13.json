@@ -1,0 +1,16 @@
+{
+    "date": "2024/03/16",
+    "name": "内出(相模原市緑区)",
+    "position": "-",
+    "system": "田05",
+    "destinations": [
+        "相模原協同病院入口",
+        "相模原協同病院"
+    ],
+    "weekday": [
+        "10:07"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803486-13/node:00128978/kt:0/lname:/"
+}

@@ -1,0 +1,17 @@
+{
+    "date": "2020/11/16",
+    "name": "合同庁舎前(厚木市)",
+    "position": "-",
+    "system": "厚27",
+    "destinations": [
+        "市役所入口(厚木市)",
+        "本厚木駅",
+        "厚木バスセンター"
+    ],
+    "weekday": [
+        "5:59"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801996-10/node:00128439/kt:0/lname:/"
+}

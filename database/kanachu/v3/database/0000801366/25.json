@@ -1,0 +1,29 @@
+{
+    "date": "2025/01/14",
+    "name": "源氏河原",
+    "position": "-",
+    "system": "厚04",
+    "destinations": [
+        "相州病院",
+        "新道橋(厚木市)",
+        "上荻野",
+        "上荻野車庫前"
+    ],
+    "weekday": [
+        "20:46",
+        "21:26",
+        "22:06",
+        "23:01"
+    ],
+    "saturday": [
+        "19:52",
+        "20:42",
+        "20:52",
+        "21:42"
+    ],
+    "holiday": [
+        "20:42",
+        "21:42"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801366-25/node:00128278/kt:0/lname:/"
+}

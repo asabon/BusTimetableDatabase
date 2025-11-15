@@ -1,0 +1,23 @@
+{
+    "date": "2023/02/27",
+    "name": "荻野中学校入口",
+    "position": "-",
+    "system": "厚13",
+    "destinations": [
+        "東谷戸入口",
+        "みはる野",
+        "みはる野一丁目",
+        "みはる野中央",
+        "みはる野二丁目",
+        "まつかげ台"
+    ],
+    "weekday": [
+        "18:43",
+        "19:13",
+        "19:34",
+        "20:26"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800269-13/node:00128690/kt:0/lname:/"
+}

@@ -1,0 +1,25 @@
+{
+    "date": "2025/10/01",
+    "name": "山西(中郡二宮町)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "山西防災コミュニティセンター",
+        "密厳院北",
+        "川勾神社入口",
+        "山西プール前",
+        "釜野交差点東",
+        "山西小学校前",
+        "釜野隧道",
+        "中里2丁目",
+        "南5号前",
+        "南4号前",
+        "団地中央(中郡二宮町)"
+    ],
+    "weekday": [
+        "18:33"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803902-3/node:00127493/kt:0/lname:/"
+}

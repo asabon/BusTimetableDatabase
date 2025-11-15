@@ -1,0 +1,19 @@
+{
+    "date": "2024/05/20",
+    "name": "市役所前(ゴム前/平塚市)",
+    "position": "-",
+    "system": "平94",
+    "destinations": [
+        "四ツ角(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "7:05",
+        "7:51",
+        "18:07",
+        "19:07"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800945-19/node:00127553/kt:0/lname:/"
+}

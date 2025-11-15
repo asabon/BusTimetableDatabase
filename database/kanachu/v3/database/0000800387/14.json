@@ -1,0 +1,23 @@
+{
+    "date": "2023/02/18",
+    "name": "四ノ宮(平塚市)",
+    "position": "-",
+    "system": "平58",
+    "destinations": [
+        "泉蔵院前",
+        "古河電工入口",
+        "八幡公民館入口",
+        "八幡(平塚市)",
+        "八幡入口",
+        "コンフォール平塚前",
+        "市役所前(平塚市)",
+        "四ツ角(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "8:02"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800387-14/node:00127656/kt:0/lname:/"
+}

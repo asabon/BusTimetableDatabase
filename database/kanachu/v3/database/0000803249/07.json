@@ -1,0 +1,22 @@
+{
+    "date": "2025/03/15",
+    "name": "ヘッドランド入口",
+    "position": "-",
+    "system": "茅09",
+    "destinations": [
+        "第一中学校前(茅ケ崎市)",
+        "駐在所前(茅ケ崎市)",
+        "石神下(茅ケ崎市)",
+        "東海岸北三丁目"
+    ],
+    "weekday": [
+        "21:30"
+    ],
+    "saturday": [
+        "20:20"
+    ],
+    "holiday": [
+        "20:20"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803249-7/node:00127246/kt:0/lname:/"
+}

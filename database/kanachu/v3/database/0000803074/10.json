@@ -1,0 +1,21 @@
+{
+    "date": "2025/07/12",
+    "name": "諏訪神社前(横浜市戸塚区)",
+    "position": "-",
+    "system": "藤56",
+    "destinations": [
+        "影取",
+        "聖母の園前"
+    ],
+    "weekday": [
+        "19:44",
+        "23:19"
+    ],
+    "saturday": [
+        "22:25"
+    ],
+    "holiday": [
+        "22:25"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803074-10/node:00126979/kt:0/lname:/"
+}

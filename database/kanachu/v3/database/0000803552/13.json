@@ -1,0 +1,23 @@
+{
+    "date": "2024/09/02",
+    "name": "原宿公園",
+    "position": "-",
+    "system": "戸95",
+    "destinations": [
+        "戸塚台",
+        "戸塚台中央"
+    ],
+    "weekday": [
+        "19:43",
+        "21:43"
+    ],
+    "saturday": [
+        "19:03",
+        "21:13"
+    ],
+    "holiday": [
+        "19:03",
+        "21:13"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803552-13/node:00126865/kt:0/lname:/"
+}

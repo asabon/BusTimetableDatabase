@@ -1,0 +1,21 @@
+{
+    "date": "2025/10/20",
+    "name": "深見(大和市)",
+    "position": "-",
+    "system": "間20",
+    "destinations": [
+        "遊園地前(大和市)",
+        "四ツ角(大和市)",
+        "大和駅西口"
+    ],
+    "weekday": [
+        "6:50"
+    ],
+    "saturday": [
+        "7:29"
+    ],
+    "holiday": [
+        "7:29"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803908-7/node:00129649/kt:0/lname:/"
+}

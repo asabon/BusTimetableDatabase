@@ -1,0 +1,20 @@
+{
+    "date": "2024/11/16",
+    "name": "修道院前",
+    "position": "-",
+    "system": "藤45",
+    "destinations": [
+        "関東航空前",
+        "石原谷",
+        "荏原工業団地"
+    ],
+    "weekday": [
+        "12:17",
+        "13:37",
+        "14:17",
+        "15:37"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801707-11/node:00127065/kt:0/lname:/"
+}

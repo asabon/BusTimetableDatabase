@@ -1,0 +1,19 @@
+{
+    "date": "2025/08/30",
+    "name": "浩南台",
+    "position": "-",
+    "system": "東50",
+    "destinations": [
+        "東永谷",
+        "渡戸(横浜市港南区)",
+        "美晴台",
+        "永野小学校前",
+        "上永谷駅"
+    ],
+    "weekday": [
+        "6:54"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803872-2/node:00126742/kt:0/lname:/"
+}

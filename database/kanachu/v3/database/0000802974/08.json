@@ -1,0 +1,24 @@
+{
+    "date": "2024/03/16",
+    "name": "田端(町田市)",
+    "position": "-",
+    "system": "橋80",
+    "destinations": [
+        "坂本橋(町田市)",
+        "片所",
+        "御嶽堂",
+        "沼入口(町田市)",
+        "多摩境通り北",
+        "神奈中多摩車庫"
+    ],
+    "weekday": [
+        "19:06",
+        "20:03",
+        "21:06"
+    ],
+    "saturday": [
+        "20:11"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802974-8/node:00130089/kt:0/lname:/"
+}

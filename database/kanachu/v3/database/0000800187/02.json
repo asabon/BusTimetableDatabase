@@ -1,0 +1,26 @@
+{
+    "date": "2022/02/05",
+    "name": "本村(茅ケ崎市)",
+    "position": "-",
+    "system": "茅16",
+    "destinations": [
+        "本村五丁目",
+        "ニュータウン入口(茅ケ崎市)",
+        "ニュータウン中央(茅ケ崎市)",
+        "高田三丁目",
+        "室田",
+        "室田小学校入口",
+        "室田一丁目",
+        "室田二丁目"
+    ],
+    "weekday": [
+        "22:55"
+    ],
+    "saturday": [
+        "21:20"
+    ],
+    "holiday": [
+        "21:20"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800187-2/node:00127127/kt:0/lname:/"
+}

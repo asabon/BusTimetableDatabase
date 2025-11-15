@@ -1,0 +1,20 @@
+{
+    "date": "2024/03/16",
+    "name": "沼入口(町田市)",
+    "position": "-",
+    "system": "橋80",
+    "destinations": [
+        "多摩境通り北",
+        "神奈中多摩車庫"
+    ],
+    "weekday": [
+        "19:10",
+        "20:07",
+        "21:10"
+    ],
+    "saturday": [
+        "20:15"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802974-12/node:00020533/kt:0/lname:/"
+}

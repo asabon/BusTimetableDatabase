@@ -1,0 +1,23 @@
+{
+    "date": "2021/04/01",
+    "name": "相原十字路",
+    "position": "-",
+    "system": "橋16",
+    "destinations": [
+        "根岸(相原町/町田市)",
+        "境橋(町田市)",
+        "円林寺前",
+        "水の口(町田市)",
+        "公会堂前(町田市)",
+        "大戸橋",
+        "上大戸",
+        "ネイチャーファクトリー東京町田",
+        "大戸(相模原市緑区)"
+    ],
+    "weekday": [
+        "7:44"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800965-15/node:00128889/kt:0/lname:/"
+}

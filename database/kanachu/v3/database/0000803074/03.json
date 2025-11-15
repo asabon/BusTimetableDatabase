@@ -1,0 +1,28 @@
+{
+    "date": "2025/07/12",
+    "name": "相生町(藤沢市)",
+    "position": "-",
+    "system": "藤56",
+    "destinations": [
+        "南仲通り",
+        "藤沢小学校前",
+        "藤沢橋",
+        "遊行寺坂上",
+        "緑ヶ丘(藤沢市)",
+        "鉄砲宿",
+        "諏訪神社前(横浜市戸塚区)",
+        "影取",
+        "聖母の園前"
+    ],
+    "weekday": [
+        "19:32",
+        "23:07"
+    ],
+    "saturday": [
+        "22:12"
+    ],
+    "holiday": [
+        "22:12"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803074-3/node:00126972/kt:0/lname:/"
+}

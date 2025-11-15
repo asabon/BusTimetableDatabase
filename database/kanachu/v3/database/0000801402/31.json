@@ -1,0 +1,19 @@
+{
+    "date": "2021/11/27",
+    "name": "いすゞ前",
+    "position": "-",
+    "system": "長16",
+    "destinations": [
+        "下土棚",
+        "坂下(藤沢市)",
+        "住宅前(藤沢市下土棚)",
+        "長後市民センター前",
+        "長後駅西口"
+    ],
+    "weekday": [
+        "8:59"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801402-31/node:00129816/kt:0/lname:/"
+}

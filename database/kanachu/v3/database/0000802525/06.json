@@ -1,0 +1,27 @@
+{
+    "date": "2024/03/16",
+    "name": "ネオポリス公園",
+    "position": "-",
+    "system": "東16",
+    "destinations": [
+        "公園前商店街入口",
+        "公園前(横浜市戸塚区)",
+        "資源循環局前",
+        "川上インター前",
+        "東戸塚駅西口"
+    ],
+    "weekday": [
+        "6:22",
+        "6:40",
+        "7:00"
+    ],
+    "saturday": [
+        "6:34",
+        "9:50"
+    ],
+    "holiday": [
+        "6:34",
+        "9:50"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802525-6/node:00126724/kt:0/lname:/"
+}

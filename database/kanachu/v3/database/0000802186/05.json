@@ -1,0 +1,17 @@
+{
+    "date": "2022/01/16",
+    "name": "今宿小学校入口",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "今宿(横浜市旭区)"
+    ],
+    "weekday": [
+        "7:10",
+        "8:06",
+        "8:26"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802186-5/node:00129717/kt:0/lname:/"
+}

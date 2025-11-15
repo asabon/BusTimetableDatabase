@@ -1,0 +1,27 @@
+{
+    "date": "2024/09/09",
+    "name": "薬王寺入口",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "鶴ヶ峰中学校前",
+        "今宿小学校入口",
+        "今宿中学校前",
+        "今宿ハイツ",
+        "上白根公園",
+        "グリーンヒル上白根"
+    ],
+    "weekday": [
+        "21:05"
+    ],
+    "saturday": [
+        "20:37",
+        "21:22"
+    ],
+    "holiday": [
+        "20:02",
+        "20:42",
+        "21:22"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802482-3/node:00129719/kt:0/lname:/"
+}

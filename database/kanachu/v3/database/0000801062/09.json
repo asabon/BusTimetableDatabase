@@ -1,0 +1,19 @@
+{
+    "date": "2024/04/01",
+    "name": "高森二丁目",
+    "position": "-",
+    "system": "愛02",
+    "destinations": [
+        "18号棟前",
+        "22号棟前",
+        "5号棟前",
+        "すみだ公園"
+    ],
+    "weekday": [
+        "20:15",
+        "22:30"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801062-9/node:00128244/kt:0/lname:/"
+}

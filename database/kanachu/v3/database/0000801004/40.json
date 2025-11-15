@@ -1,0 +1,22 @@
+{
+    "date": "2025/07/27",
+    "name": "八間通り",
+    "position": "-",
+    "system": "平75",
+    "destinations": [
+        "平塚文化芸術ホール前",
+        "銀座通り(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "7:19",
+        "17:25"
+    ],
+    "saturday": [
+        "7:40"
+    ],
+    "holiday": [
+        "7:40"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801004-40/node:00127467/kt:0/lname:/"
+}

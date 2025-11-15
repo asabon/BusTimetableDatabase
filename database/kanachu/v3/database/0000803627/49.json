@@ -1,0 +1,26 @@
+{
+    "date": "2024/10/01",
+    "name": "下宿(愛甲郡愛川町)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "ハイテク団地入口",
+        "高峰小学校前",
+        "愛川高校前",
+        "箕輪辻",
+        "愛川北部病院前",
+        "愛川町役場",
+        "愛川バスセンター"
+    ],
+    "weekday": [
+        "8:07",
+        "9:42",
+        "12:37",
+        "14:32",
+        "17:17",
+        "18:52"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803627-49/node:00128734/kt:0/lname:/"
+}

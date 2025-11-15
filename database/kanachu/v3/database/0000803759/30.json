@@ -1,0 +1,22 @@
+{
+    "date": "2025/04/01",
+    "name": "神の川入口",
+    "position": "-",
+    "system": "三56",
+    "destinations": [
+        "月夜野"
+    ],
+    "weekday": [
+        "8:18",
+        "12:48"
+    ],
+    "saturday": [
+        "7:38",
+        "16:08"
+    ],
+    "holiday": [
+        "7:38",
+        "16:08"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803759-30/node:00128779/kt:0/lname:/"
+}

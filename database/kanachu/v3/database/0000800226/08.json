@@ -1,0 +1,26 @@
+{
+    "date": "2024/03/16",
+    "name": "成瀬台二丁目",
+    "position": "-",
+    "system": "成04",
+    "destinations": [
+        "野村住宅中央",
+        "成瀬台",
+        "駒狩公園前",
+        "島(横浜市青葉区)",
+        "こどもの国駅"
+    ],
+    "weekday": [
+        "12:38",
+        "14:38"
+    ],
+    "saturday": [
+        "12:38",
+        "14:38"
+    ],
+    "holiday": [
+        "12:38",
+        "14:38"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800226-8/node:00129601/kt:0/lname:/"
+}

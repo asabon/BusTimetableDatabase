@@ -1,0 +1,25 @@
+{
+    "date": "2024/03/16",
+    "name": "堂の前(町田市)",
+    "position": "-",
+    "system": "橋80",
+    "destinations": [
+        "田端(町田市)",
+        "坂本橋(町田市)",
+        "片所",
+        "御嶽堂",
+        "沼入口(町田市)",
+        "多摩境通り北",
+        "神奈中多摩車庫"
+    ],
+    "weekday": [
+        "19:05",
+        "20:02",
+        "21:05"
+    ],
+    "saturday": [
+        "20:10"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802974-7/node:00130088/kt:0/lname:/"
+}

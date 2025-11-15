@@ -1,0 +1,28 @@
+{
+    "date": "2021/04/01",
+    "name": "田名坂上",
+    "position": "-",
+    "system": "橋06",
+    "destinations": [
+        "田名バスターミナル"
+    ],
+    "weekday": [
+        "10:50",
+        "12:50",
+        "16:50",
+        "19:05"
+    ],
+    "saturday": [
+        "9:10",
+        "12:05",
+        "14:15",
+        "18:20"
+    ],
+    "holiday": [
+        "9:10",
+        "12:05",
+        "14:15",
+        "18:20"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803041-27/node:00129182/kt:0/lname:/"
+}

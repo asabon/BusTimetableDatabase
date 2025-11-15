@@ -1,0 +1,27 @@
+{
+    "date": "2025/07/12",
+    "name": "公会堂前(鎌倉市)",
+    "position": "-",
+    "system": "船10",
+    "destinations": [
+        "陣屋坂",
+        "陣屋坂上",
+        "城宿",
+        "城廻中村"
+    ],
+    "weekday": [
+        "10:48",
+        "19:02",
+        "19:22",
+        "22:05"
+    ],
+    "saturday": [
+        "15:59",
+        "20:05"
+    ],
+    "holiday": [
+        "15:59",
+        "20:05"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800379-5/node:00126990/kt:0/lname:/"
+}

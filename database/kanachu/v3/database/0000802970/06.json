@@ -1,0 +1,24 @@
+{
+    "date": "2024/12/16",
+    "name": "貝取北センター",
+    "position": "-",
+    "system": "永66",
+    "destinations": [
+        "とちのき公園入口",
+        "貝取二丁目",
+        "豊ヶ丘四丁目"
+    ],
+    "weekday": [
+        "22:38",
+        "23:03"
+    ],
+    "saturday": [
+        "21:41",
+        "22:22"
+    ],
+    "holiday": [
+        "21:41",
+        "22:22"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802970-6/node:00020199/kt:0/lname:/"
+}

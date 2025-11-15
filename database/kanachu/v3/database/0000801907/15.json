@@ -1,0 +1,22 @@
+{
+    "date": "2025/04/19",
+    "name": "二宮神社前(相模原市南区)",
+    "position": "-",
+    "system": "小14",
+    "destinations": [
+        "小田急相模原駅"
+    ],
+    "weekday": [
+        "6:07",
+        "6:23",
+        "6:39",
+        "6:55"
+    ],
+    "saturday": [
+        "6:54"
+    ],
+    "holiday": [
+        "7:34"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801907-15/node:00129689/kt:0/lname:/"
+}

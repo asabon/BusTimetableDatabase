@@ -1,0 +1,26 @@
+{
+    "date": "2024/05/20",
+    "name": "馬渡(伊勢原市)",
+    "position": "-",
+    "system": "伊01",
+    "destinations": [
+        "団地下大竹",
+        "団地南口(伊勢原市)",
+        "ひかり幼稚園前",
+        "千津",
+        "伊勢原駅南口"
+    ],
+    "weekday": [
+        "10:15",
+        "11:15",
+        "12:15",
+        "14:15",
+        "15:15",
+        "16:15",
+        "17:10",
+        "18:10"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801217-11/node:00128060/kt:0/lname:/"
+}

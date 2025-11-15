@@ -1,0 +1,22 @@
+{
+    "date": "2020/12/05",
+    "name": "石川山田",
+    "position": "-",
+    "system": "湘16",
+    "destinations": [
+        "南桐原",
+        "桐ヶ谷(藤沢市)",
+        "湘南台住宅前",
+        "湘南台駅西口"
+    ],
+    "weekday": [
+        "5:54",
+        "6:19",
+        "6:39",
+        "7:15",
+        "7:36"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802696-11/node:00129954/kt:0/lname:/"
+}

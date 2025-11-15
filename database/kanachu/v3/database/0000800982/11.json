@@ -1,0 +1,17 @@
+{
+    "date": "2025/07/12",
+    "name": "観音坂下",
+    "position": "-",
+    "system": "藤38",
+    "destinations": [
+        "老人センター(藤沢市)"
+    ],
+    "weekday": [
+        "9:14",
+        "9:44",
+        "12:20"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800982-11/node:00127099/kt:0/lname:/"
+}

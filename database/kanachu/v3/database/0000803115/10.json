@@ -1,0 +1,25 @@
+{
+    "date": "2025/04/19",
+    "name": "光が丘三丁目(相模原市中央区)",
+    "position": "-",
+    "system": "淵34",
+    "destinations": [
+        "光が丘大通り",
+        "光が丘小学校前",
+        "光が丘一丁目(相模原市中央区)"
+    ],
+    "weekday": [
+        "19:16",
+        "23:11"
+    ],
+    "saturday": [
+        "18:31",
+        "20:46",
+        "22:37"
+    ],
+    "holiday": [
+        "18:31",
+        "21:21"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803115-10/node:00129233/kt:0/lname:/"
+}

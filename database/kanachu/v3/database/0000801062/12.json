@@ -1,0 +1,16 @@
+{
+    "date": "2024/04/01",
+    "name": "5号棟前",
+    "position": "-",
+    "system": "愛02",
+    "destinations": [
+        "すみだ公園"
+    ],
+    "weekday": [
+        "20:18",
+        "22:33"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801062-12/node:00128247/kt:0/lname:/"
+}

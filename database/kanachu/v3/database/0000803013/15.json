@@ -1,0 +1,22 @@
+{
+    "date": "2021/02/01",
+    "name": "山王谷",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "宮の下(横浜市磯子区)",
+        "芦名橋",
+        "磯子センター前",
+        "磯子駅前"
+    ],
+    "weekday": [
+        "6:50"
+    ],
+    "saturday": [
+        "6:55"
+    ],
+    "holiday": [
+        "6:55"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803013-15/node:00126763/kt:0/lname:/"
+}

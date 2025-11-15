@@ -1,0 +1,19 @@
+{
+    "date": "2025/03/15",
+    "name": "石神下(茅ケ崎市)",
+    "position": "-",
+    "system": "茅09",
+    "destinations": [
+        "東海岸北三丁目"
+    ],
+    "weekday": [
+        "21:33"
+    ],
+    "saturday": [
+        "20:23"
+    ],
+    "holiday": [
+        "20:23"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803249-10/node:00127241/kt:0/lname:/"
+}

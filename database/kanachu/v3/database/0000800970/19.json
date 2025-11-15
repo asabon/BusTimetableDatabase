@@ -1,0 +1,17 @@
+{
+    "date": "2023/02/18",
+    "name": "坊中(伊勢原市)",
+    "position": "-",
+    "system": "伊22",
+    "destinations": [
+        "日向薬師"
+    ],
+    "weekday": [
+        "8:09",
+        "12:09",
+        "16:34"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800970-19/node:00128183/kt:0/lname:/"
+}

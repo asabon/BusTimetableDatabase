@@ -1,0 +1,17 @@
+{
+    "date": "2025/07/12",
+    "name": "茅山(藤沢市)",
+    "position": "-",
+    "system": "善02",
+    "destinations": [
+        "善行二丁目",
+        "善行駅"
+    ],
+    "weekday": [
+        "9:50",
+        "15:15"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800217-6/node:00127101/kt:0/lname:/"
+}

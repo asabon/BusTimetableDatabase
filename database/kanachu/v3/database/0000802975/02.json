@@ -1,0 +1,28 @@
+{
+    "date": "2024/12/16",
+    "name": "豊ヶ丘六丁目",
+    "position": "-",
+    "system": "多03",
+    "destinations": [
+        "恵泉女学園大学入口",
+        "豊ヶ丘五丁目",
+        "落合四丁目",
+        "落合三丁目",
+        "豊ヶ丘小学校",
+        "落合東",
+        "多摩センター駅"
+    ],
+    "weekday": [
+        "6:56",
+        "7:41",
+        "8:41",
+        "9:19"
+    ],
+    "saturday": [
+        "6:28"
+    ],
+    "holiday": [
+        "6:28"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802975-2/node:00021290/kt:0/lname:/"
+}

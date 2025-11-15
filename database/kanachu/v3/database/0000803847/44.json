@@ -1,0 +1,19 @@
+{
+    "date": "2025/08/30",
+    "name": "坂下(横浜市戸塚区)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "品濃町(横浜市戸塚区)",
+        "東戸塚駅東口"
+    ],
+    "weekday": [
+        "10:13",
+        "12:18",
+        "14:23",
+        "16:23"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803847-44/node:00126641/kt:0/lname:/"
+}

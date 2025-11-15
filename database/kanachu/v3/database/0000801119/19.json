@@ -1,0 +1,26 @@
+{
+    "date": "2023/02/18",
+    "name": "下大竹",
+    "position": "-",
+    "system": "平91",
+    "destinations": [
+        "伊勢原中学校前",
+        "伊勢原駅南口"
+    ],
+    "weekday": [
+        "6:30",
+        "6:42",
+        "8:04",
+        "8:48",
+        "9:22",
+        "20:09",
+        "23:00"
+    ],
+    "saturday": [
+        "6:47"
+    ],
+    "holiday": [
+        "6:47"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801119-19/node:00128059/kt:0/lname:/"
+}

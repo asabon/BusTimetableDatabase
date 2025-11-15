@@ -1,0 +1,27 @@
+{
+    "date": "2024/07/08",
+    "name": "境川団地",
+    "position": "-",
+    "system": "町13",
+    "destinations": [
+        "木曽入口",
+        "山崎団地入口",
+        "山崎団地センター"
+    ],
+    "weekday": [
+        "8:09",
+        "8:17",
+        "8:27",
+        "9:24",
+        "9:55",
+        "10:24",
+        "10:55",
+        "11:55",
+        "12:37",
+        "12:45",
+        "12:55"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802960-3/node:00129382/kt:0/lname:/"
+}

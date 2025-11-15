@@ -1,0 +1,27 @@
+{
+    "date": "2025/03/15",
+    "name": "香川小学校入口",
+    "position": "-",
+    "system": "茅17",
+    "destinations": [
+        "松風台(茅ケ崎市)"
+    ],
+    "weekday": [
+        "7:00",
+        "8:28",
+        "17:03",
+        "18:03",
+        "18:21",
+        "19:01",
+        "19:21"
+    ],
+    "saturday": [
+        "7:53",
+        "8:51"
+    ],
+    "holiday": [
+        "7:53",
+        "8:51"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801305-8/node:00127157/kt:0/lname:/"
+}

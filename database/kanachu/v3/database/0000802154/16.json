@@ -1,0 +1,22 @@
+{
+    "date": "2015/10/28",
+    "name": "原中(足柄上郡中井町)",
+    "position": "-",
+    "system": "秦15",
+    "destinations": [
+        "原下(足柄上郡中井町)",
+        "大塚(足柄上郡中井町)",
+        "やまゆり園前(足柄上郡中井町)",
+        "才戸",
+        "藤沢",
+        "中井中学校前",
+        "中井役場前",
+        "万年橋(足柄上郡中井町)"
+    ],
+    "weekday": [
+        "7:41"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802154-16/node:00127942/kt:0/lname:/"
+}

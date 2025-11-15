@@ -1,0 +1,18 @@
+{
+    "date": "2024/11/16",
+    "name": "藤沢公民館前",
+    "position": "-",
+    "system": "藤13",
+    "destinations": [
+        "遊行寺前",
+        "遊行通り四丁目",
+        "藤沢駅北口"
+    ],
+    "weekday": [
+        "10:08",
+        "12:01"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802691-24/node:00127010/kt:0/lname:/"
+}

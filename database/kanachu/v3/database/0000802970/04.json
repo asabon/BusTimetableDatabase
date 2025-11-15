@@ -1,0 +1,26 @@
+{
+    "date": "2024/12/16",
+    "name": "釜沼橋",
+    "position": "-",
+    "system": "永66",
+    "destinations": [
+        "貝取神社前",
+        "貝取北センター",
+        "とちのき公園入口",
+        "貝取二丁目",
+        "豊ヶ丘四丁目"
+    ],
+    "weekday": [
+        "22:36",
+        "23:01"
+    ],
+    "saturday": [
+        "21:39",
+        "22:20"
+    ],
+    "holiday": [
+        "21:39",
+        "22:20"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802970-4/node:00020211/kt:0/lname:/"
+}

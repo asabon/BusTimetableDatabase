@@ -1,0 +1,19 @@
+{
+    "date": "2022/03/12",
+    "name": "近戸神社",
+    "position": "-",
+    "system": "国05",
+    "destinations": [
+        "前川(小田原市)",
+        "西前川",
+        "国府津駅"
+    ],
+    "weekday": [
+        "12:23",
+        "13:28",
+        "16:53"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803132-18/node:00127499/kt:0/lname:/"
+}

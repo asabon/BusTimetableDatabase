@@ -1,0 +1,25 @@
+{
+    "date": "2022/03/12",
+    "name": "下小竹",
+    "position": "-",
+    "system": "国04",
+    "destinations": [
+        "橘団地"
+    ],
+    "weekday": [
+        "19:39"
+    ],
+    "saturday": [
+        "9:16",
+        "12:58",
+        "14:08",
+        "19:39"
+    ],
+    "holiday": [
+        "9:16",
+        "12:58",
+        "14:08",
+        "19:39"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802554-17/node:00127972/kt:0/lname:/"
+}

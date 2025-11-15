@@ -1,0 +1,21 @@
+{
+    "date": "2024/04/01",
+    "name": "高砂(秦野市)",
+    "position": "-",
+    "system": "秦53",
+    "destinations": [
+        "高砂車庫前"
+    ],
+    "weekday": [
+        "22:57"
+    ],
+    "saturday": [
+        "21:55",
+        "22:36"
+    ],
+    "holiday": [
+        "21:55",
+        "22:36"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803537-20/node:00127927/kt:0/lname:/"
+}

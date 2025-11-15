@@ -1,0 +1,23 @@
+{
+    "date": "2020/08/24",
+    "name": "元大橋",
+    "position": "-",
+    "system": "港31",
+    "destinations": [
+        "若竹町(横浜市栄区)",
+        "元大橋公園前",
+        "港南台西公園",
+        "横浜女子短期大学前",
+        "港南台駅"
+    ],
+    "weekday": [
+        "6:44",
+        "7:03",
+        "7:18",
+        "7:38",
+        "8:32"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801196-8/node:00126546/kt:0/lname:/"
+}

@@ -1,0 +1,20 @@
+{
+    "date": "2016/03/26",
+    "name": "林(厚木市)",
+    "position": "-",
+    "system": "厚22",
+    "destinations": [
+        "戸室",
+        "戸室神社下",
+        "戸室住宅前",
+        "合同庁舎前(厚木市)",
+        "市役所入口(厚木市)",
+        "本厚木駅"
+    ],
+    "weekday": [
+        "6:34"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800843-37/node:00128399/kt:0/lname:/"
+}

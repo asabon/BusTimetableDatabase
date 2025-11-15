@@ -1,0 +1,27 @@
+{
+    "date": "2024/05/20",
+    "name": "上長谷(厚木市)",
+    "position": "-",
+    "system": "愛12",
+    "destinations": [
+        "愛名入口",
+        "小野宮前",
+        "小野橋(厚木市)",
+        "中屋橋",
+        "玉川農協前",
+        "玉川公民館前",
+        "日向川",
+        "馬場リハビリ入口",
+        "神奈川リハビリ"
+    ],
+    "weekday": [
+        "19:54"
+    ],
+    "saturday": [
+        "18:14"
+    ],
+    "holiday": [
+        "18:14"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803022-10/node:00128447/kt:0/lname:/"
+}

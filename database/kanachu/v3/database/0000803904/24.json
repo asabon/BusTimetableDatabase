@@ -1,0 +1,18 @@
+{
+    "date": "2025/10/01",
+    "name": "山西防災コミュニティセンター",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "山西(中郡二宮町)",
+        "吾妻神社前(中郡二宮町)",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "12:09",
+        "18:09"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803904-24/node:00130149/kt:0/lname:/"
+}

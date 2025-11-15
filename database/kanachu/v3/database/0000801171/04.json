@@ -1,0 +1,23 @@
+{
+    "date": "2024/04/01",
+    "name": "八間通り",
+    "position": "-",
+    "system": "平78",
+    "destinations": [
+        "旭通り(平塚市)",
+        "営林署前(平塚市)",
+        "追分(平塚市)",
+        "江南高校前",
+        "向原(平塚市)",
+        "南原(平塚市)",
+        "南原土手",
+        "長瀬(平塚市)",
+        "長持"
+    ],
+    "weekday": [
+        "6:56"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801171-4/node:00127467/kt:0/lname:/"
+}

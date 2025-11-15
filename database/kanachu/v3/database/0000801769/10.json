@@ -1,0 +1,23 @@
+{
+    "date": "2025/07/12",
+    "name": "岡本(鎌倉市)",
+    "position": "-",
+    "system": "船30",
+    "destinations": [
+        "玉縄行政センター入口",
+        "児童公園前(鎌倉市)",
+        "大船駅西口"
+    ],
+    "weekday": [
+        "6:30",
+        "6:46",
+        "7:06",
+        "7:19",
+        "7:31",
+        "7:41",
+        "7:57"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801769-10/node:00126991/kt:0/lname:/"
+}

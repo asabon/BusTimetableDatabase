@@ -1,0 +1,13 @@
+{
+    "date": "2024/12/16",
+    "name": "鶴川駅西口",
+    "position": "-",
+    "system": "鶴32",
+    "destinations": [
+        "鶴川駅"
+    ],
+    "weekday": [],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803448-24/node:00130346/kt:0/lname:/"
+}

@@ -1,0 +1,18 @@
+{
+    "date": "2024/04/01",
+    "name": "化粧坂",
+    "position": "-",
+    "system": "平48",
+    "destinations": [
+        "長者町(中郡大磯町)",
+        "山王町(中郡大磯町)",
+        "図書館前(中郡大磯町)",
+        "大磯駅"
+    ],
+    "weekday": [
+        "5:55"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801285-9/node:00127472/kt:0/lname:/"
+}

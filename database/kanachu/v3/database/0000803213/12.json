@@ -1,0 +1,16 @@
+{
+    "date": "2025/01/14",
+    "name": "三塚",
+    "position": "-",
+    "system": "町84",
+    "destinations": [
+        "町田ターミナル前",
+        "町田バスセンター"
+    ],
+    "weekday": [
+        "7:29"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803213-12/node:00129543/kt:0/lname:/"
+}

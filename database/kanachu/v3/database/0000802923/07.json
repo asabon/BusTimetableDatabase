@@ -1,0 +1,22 @@
+{
+    "date": "2025/03/15",
+    "name": "ひばりが丘(茅ケ崎市)",
+    "position": "-",
+    "system": "辻14",
+    "destinations": [
+        "桜道(茅ケ崎市)",
+        "若松町(茅ケ崎市)"
+    ],
+    "weekday": [
+        "19:57"
+    ],
+    "saturday": [
+        "19:57",
+        "22:12"
+    ],
+    "holiday": [
+        "19:57",
+        "22:12"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802923-7/node:00127237/kt:0/lname:/"
+}

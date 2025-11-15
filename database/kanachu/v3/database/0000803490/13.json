@@ -1,0 +1,24 @@
+{
+    "date": "2025/03/15",
+    "name": "田端(高座郡寒川町)",
+    "position": "-",
+    "system": "茅46",
+    "destinations": [
+        "田端耕地",
+        "寒川高校前(高座郡寒川町)",
+        "寒川十字路",
+        "景観寺"
+    ],
+    "weekday": [
+        "20:57",
+        "21:42"
+    ],
+    "saturday": [
+        "19:47",
+        "20:47"
+    ],
+    "holiday": [
+        "19:47"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803490-13/node:00127196/kt:0/lname:/"
+}

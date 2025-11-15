@@ -1,0 +1,27 @@
+{
+    "date": "2025/04/19",
+    "name": "宇宙科学研究本部",
+    "position": "-",
+    "system": "淵36",
+    "destinations": [
+        "共和(相模原市中央区)",
+        "由野台二丁目",
+        "大野台中央",
+        "大野台三丁目",
+        "淵野辺公園",
+        "和泉短大前",
+        "青葉児童館前"
+    ],
+    "weekday": [
+        "20:04"
+    ],
+    "saturday": [
+        "19:14",
+        "20:34"
+    ],
+    "holiday": [
+        "19:14",
+        "20:34"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803489-4/node:00129075/kt:0/lname:/"
+}

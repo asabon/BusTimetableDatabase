@@ -1,0 +1,16 @@
+{
+    "date": "2021/04/01",
+    "name": "橋本駅南口",
+    "position": "-",
+    "system": "橋41",
+    "destinations": [
+        "相模原協同病院"
+    ],
+    "weekday": [
+        "7:25",
+        "7:40"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803004-1/node:00128970/kt:0/lname:/"
+}

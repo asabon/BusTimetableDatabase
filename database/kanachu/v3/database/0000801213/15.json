@@ -1,0 +1,27 @@
+{
+    "date": "2025/08/04",
+    "name": "香福寺前",
+    "position": "-",
+    "system": "橋08",
+    "destinations": [
+        "旭小学校前(相模原市緑区)",
+        "旭農協前",
+        "橋本駅北口"
+    ],
+    "weekday": [
+        "7:45",
+        "9:46",
+        "20:03",
+        "20:38",
+        "21:03",
+        "21:43"
+    ],
+    "saturday": [
+        "20:30",
+        "21:00"
+    ],
+    "holiday": [
+        "21:00"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801213-15/node:00020335/kt:0/lname:/"
+}

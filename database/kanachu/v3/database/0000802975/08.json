@@ -1,0 +1,22 @@
+{
+    "date": "2024/12/16",
+    "name": "落合東",
+    "position": "-",
+    "system": "多03",
+    "destinations": [
+        "多摩センター駅"
+    ],
+    "weekday": [
+        "7:04",
+        "7:49",
+        "8:49",
+        "9:27"
+    ],
+    "saturday": [
+        "6:36"
+    ],
+    "holiday": [
+        "6:36"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802975-8/node:00021381/kt:0/lname:/"
+}

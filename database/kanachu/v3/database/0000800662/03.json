@@ -1,0 +1,29 @@
+{
+    "date": "2025/08/30",
+    "name": "舞岡地区センター前",
+    "position": "-",
+    "system": "舞01",
+    "destinations": [
+        "スポーツ公園前",
+        "日限山",
+        "丸山台中学校前",
+        "丸山台(横浜市港南区)",
+        "上永谷駅"
+    ],
+    "weekday": [
+        "5:29",
+        "5:59",
+        "6:13",
+        "6:41",
+        "7:16"
+    ],
+    "saturday": [
+        "6:17",
+        "7:20"
+    ],
+    "holiday": [
+        "6:09",
+        "7:07"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800662-3/node:00130220/kt:0/lname:/"
+}

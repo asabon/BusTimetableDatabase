@@ -1,0 +1,19 @@
+{
+    "date": "2024/05/20",
+    "name": "馬場リハビリ入口",
+    "position": "-",
+    "system": "伊36",
+    "destinations": [
+        "七沢温泉入口",
+        "七沢病院入口",
+        "広沢寺温泉入口",
+        "七沢"
+    ],
+    "weekday": [
+        "11:21",
+        "15:41"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801952-17/node:00128455/kt:0/lname:/"
+}

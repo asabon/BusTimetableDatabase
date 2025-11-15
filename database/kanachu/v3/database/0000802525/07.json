@@ -1,0 +1,26 @@
+{
+    "date": "2024/03/16",
+    "name": "公園前商店街入口",
+    "position": "-",
+    "system": "東16",
+    "destinations": [
+        "公園前(横浜市戸塚区)",
+        "資源循環局前",
+        "川上インター前",
+        "東戸塚駅西口"
+    ],
+    "weekday": [
+        "6:23",
+        "6:41",
+        "7:01"
+    ],
+    "saturday": [
+        "6:35",
+        "9:52"
+    ],
+    "holiday": [
+        "6:35",
+        "9:52"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802525-7/node:00126725/kt:0/lname:/"
+}

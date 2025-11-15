@@ -1,0 +1,26 @@
+{
+    "date": "2025/01/14",
+    "name": "河鹿の沢",
+    "position": "-",
+    "system": "厚38",
+    "destinations": [
+        "広沢寺温泉"
+    ],
+    "weekday": [
+        "9:38",
+        "16:40"
+    ],
+    "saturday": [
+        "8:38",
+        "12:39",
+        "14:39",
+        "18:40"
+    ],
+    "holiday": [
+        "8:38",
+        "12:39",
+        "14:39",
+        "18:40"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803340-35/node:00128462/kt:0/lname:/"
+}

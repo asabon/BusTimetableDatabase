@@ -1,0 +1,26 @@
+{
+    "date": "2021/02/01",
+    "name": "高田三丁目",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "市立病院(茅ケ崎市)"
+    ],
+    "weekday": [
+        "7:53",
+        "9:06",
+        "12:51",
+        "17:21"
+    ],
+    "saturday": [
+        "9:06",
+        "12:51",
+        "17:21"
+    ],
+    "holiday": [
+        "9:06",
+        "12:51",
+        "17:21"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802649-49/node:00127261/kt:0/lname:/"
+}

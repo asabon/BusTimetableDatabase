@@ -1,0 +1,22 @@
+{
+    "date": "2023/03/18",
+    "name": "浄水場前(町田市)",
+    "position": "-",
+    "system": "町21",
+    "destinations": [
+        "市民病院前(町田市)",
+        "森野三丁目",
+        "第四小学校前(町田市)",
+        "町田市役所市民ホール前",
+        "町田バスセンター"
+    ],
+    "weekday": [
+        "6:46",
+        "7:11",
+        "7:27",
+        "8:11"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803199-2/node:00129360/kt:0/lname:/"
+}

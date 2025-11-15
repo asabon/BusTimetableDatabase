@@ -1,0 +1,25 @@
+{
+    "date": "2024/12/16",
+    "name": "落合四丁目",
+    "position": "-",
+    "system": "多03",
+    "destinations": [
+        "落合三丁目",
+        "豊ヶ丘小学校",
+        "落合東",
+        "多摩センター駅"
+    ],
+    "weekday": [
+        "7:00",
+        "7:45",
+        "8:45",
+        "9:23"
+    ],
+    "saturday": [
+        "6:32"
+    ],
+    "holiday": [
+        "6:32"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802975-5/node:00021379/kt:0/lname:/"
+}

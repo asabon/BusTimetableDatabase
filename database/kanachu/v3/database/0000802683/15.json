@@ -1,0 +1,24 @@
+{
+    "date": "2024/07/08",
+    "name": "山崎高校入口",
+    "position": "-",
+    "system": "町66",
+    "destinations": [
+        "下山崎(町田市)"
+    ],
+    "weekday": [
+        "9:34",
+        "10:04",
+        "10:34",
+        "11:09",
+        "12:09",
+        "13:09",
+        "14:09",
+        "15:10",
+        "16:05",
+        "17:24"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802683-15/node:00129397/kt:0/lname:/"
+}

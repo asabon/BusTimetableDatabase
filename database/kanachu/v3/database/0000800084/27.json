@@ -1,0 +1,16 @@
+{
+    "date": "2023/02/18",
+    "name": "行政センター前(伊勢原市)",
+    "position": "-",
+    "system": "平89",
+    "destinations": [
+        "伊勢原市役所北口",
+        "東海大学病院"
+    ],
+    "weekday": [
+        "9:56"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800084-27/node:00128126/kt:0/lname:/"
+}

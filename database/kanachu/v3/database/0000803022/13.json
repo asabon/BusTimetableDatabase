@@ -1,0 +1,24 @@
+{
+    "date": "2024/05/20",
+    "name": "小野橋(厚木市)",
+    "position": "-",
+    "system": "愛12",
+    "destinations": [
+        "中屋橋",
+        "玉川農協前",
+        "玉川公民館前",
+        "日向川",
+        "馬場リハビリ入口",
+        "神奈川リハビリ"
+    ],
+    "weekday": [
+        "19:57"
+    ],
+    "saturday": [
+        "18:18"
+    ],
+    "holiday": [
+        "18:18"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803022-13/node:00128450/kt:0/lname:/"
+}

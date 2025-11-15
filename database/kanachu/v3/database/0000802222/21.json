@@ -1,0 +1,23 @@
+{
+    "date": "2023/02/20",
+    "name": "郵便局前(横浜市緑区)",
+    "position": "-",
+    "system": "境21",
+    "destinations": [
+        "萱場公園入口",
+        "遊水池前(横浜市緑区)",
+        "中山谷(横浜市緑区)",
+        "十日市場",
+        "十日市場駅"
+    ],
+    "weekday": [
+        "7:57",
+        "9:47",
+        "16:52"
+    ],
+    "saturday": [
+        "8:03"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802222-21/node:00019300/kt:0/lname:/"
+}

@@ -1,0 +1,23 @@
+{
+    "date": "2021/02/22",
+    "name": "道了尊入口",
+    "position": "-",
+    "system": "愛02",
+    "destinations": [
+        "愛甲石田駅"
+    ],
+    "weekday": [
+        "6:06",
+        "6:46",
+        "7:39"
+    ],
+    "saturday": [
+        "7:06",
+        "7:56"
+    ],
+    "holiday": [
+        "7:06",
+        "7:56"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801291-12/node:00128202/kt:0/lname:/"
+}

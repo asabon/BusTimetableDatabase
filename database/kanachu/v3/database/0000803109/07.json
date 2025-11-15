@@ -1,0 +1,23 @@
+{
+    "date": "2025/01/14",
+    "name": "三家入口(厚木市)",
+    "position": "-",
+    "system": "厚08",
+    "destinations": [
+        "妻田",
+        "中村入口(厚木市)",
+        "妻田薬師",
+        "松蓮寺"
+    ],
+    "weekday": [
+        "7:18",
+        "7:41",
+        "7:54",
+        "8:09",
+        "9:22",
+        "9:35"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803109-7/node:00128261/kt:0/lname:/"
+}

@@ -1,0 +1,20 @@
+{
+    "date": "2025/01/14",
+    "name": "まつかげ台",
+    "position": "-",
+    "system": "厚11",
+    "destinations": [
+        "泉(厚木市)",
+        "源氏河原",
+        "相州病院",
+        "新道橋(厚木市)",
+        "上荻野",
+        "上荻野車庫前"
+    ],
+    "weekday": [
+        "24:27"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803333-29/node:00128302/kt:0/lname:/"
+}

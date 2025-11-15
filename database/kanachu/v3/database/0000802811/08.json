@@ -1,0 +1,30 @@
+{
+    "date": "2025/05/11",
+    "name": "朝日平和台入口",
+    "position": "-",
+    "system": "船14",
+    "destinations": [
+        "椎郷",
+        "湘南ハイツ"
+    ],
+    "weekday": [
+        "6:25",
+        "6:45",
+        "7:06",
+        "7:29",
+        "7:49",
+        "8:09",
+        "8:29"
+    ],
+    "saturday": [
+        "7:19",
+        "7:59",
+        "8:39"
+    ],
+    "holiday": [
+        "7:19",
+        "7:59",
+        "8:39"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802811-8/node:00126542/kt:0/lname:/"
+}

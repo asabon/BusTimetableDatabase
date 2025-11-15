@@ -1,0 +1,24 @@
+{
+    "date": "2025/03/15",
+    "name": "湘南台住宅前",
+    "position": "-",
+    "system": "湘21",
+    "destinations": [
+        "湘南台駅西口"
+    ],
+    "weekday": [
+        "7:03",
+        "17:17"
+    ],
+    "saturday": [
+        "7:22",
+        "7:42",
+        "8:02",
+        "8:42"
+    ],
+    "holiday": [
+        "8:02",
+        "8:42"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802995-10/node:00129894/kt:0/lname:/"
+}

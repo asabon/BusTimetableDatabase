@@ -1,0 +1,22 @@
+{
+    "date": "2025/04/19",
+    "name": "北相武台",
+    "position": "-",
+    "system": "台01",
+    "destinations": [
+        "団地センター前(相模原市南区)",
+        "団地西(相模原市南区)",
+        "団地東(相模原市南区)",
+        "保育園前(相模原市南区)"
+    ],
+    "weekday": [
+        "21:23"
+    ],
+    "saturday": [
+        "21:04"
+    ],
+    "holiday": [
+        "20:04"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802889-3/node:00128596/kt:0/lname:/"
+}

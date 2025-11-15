@@ -1,0 +1,18 @@
+{
+    "date": "2023/02/18",
+    "name": "高橋(伊勢原市)",
+    "position": "-",
+    "system": "伊22",
+    "destinations": [
+        "坊中(伊勢原市)",
+        "日向薬師"
+    ],
+    "weekday": [
+        "8:08",
+        "12:08",
+        "16:33"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800970-18/node:00128182/kt:0/lname:/"
+}

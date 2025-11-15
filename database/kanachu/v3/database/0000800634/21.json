@@ -1,0 +1,16 @@
+{
+    "date": "2024/05/20",
+    "name": "広沢寺温泉入口",
+    "position": "-",
+    "system": "伊31",
+    "destinations": [
+        "七沢"
+    ],
+    "weekday": [
+        "7:22",
+        "7:58"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800634-21/node:00128459/kt:0/lname:/"
+}

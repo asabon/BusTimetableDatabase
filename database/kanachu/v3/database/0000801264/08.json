@@ -1,0 +1,25 @@
+{
+    "date": "2012/10/01",
+    "name": "相沢",
+    "position": "-",
+    "system": "境30",
+    "destinations": [
+        "相沢原",
+        "上橋(横浜市瀬谷区)",
+        "中丸(横浜市瀬谷区)",
+        "瀬谷警察入口",
+        "三ツ境駅北口"
+    ],
+    "weekday": [
+        "8:47",
+        "10:11",
+        "11:12",
+        "12:12",
+        "13:17",
+        "14:07",
+        "15:07"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801264-8/node:00126689/kt:0/lname:/"
+}

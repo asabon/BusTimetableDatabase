@@ -1,0 +1,21 @@
+{
+    "date": "2025/07/12",
+    "name": "遊行通り四丁目",
+    "position": "-",
+    "system": "藤58",
+    "destinations": [
+        "藤沢駅北口"
+    ],
+    "weekday": [
+        "6:43"
+    ],
+    "saturday": [
+        "7:46",
+        "10:25"
+    ],
+    "holiday": [
+        "7:46",
+        "10:25"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801548-16/node:00127019/kt:0/lname:/"
+}

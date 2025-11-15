@@ -1,0 +1,20 @@
+{
+    "date": "2025/05/11",
+    "name": "平島(鎌倉市)",
+    "position": "-",
+    "system": "船24",
+    "destinations": [
+        "笠間十字路",
+        "笠間町",
+        "岩井口",
+        "大船駅(横浜市栄区)"
+    ],
+    "weekday": [
+        "10:46",
+        "13:01",
+        "14:51"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802935-7/node:00126504/kt:0/lname:/"
+}

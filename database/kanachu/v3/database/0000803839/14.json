@@ -1,0 +1,24 @@
+{
+    "date": "2025/08/30",
+    "name": "中永谷",
+    "position": "-",
+    "system": "上20",
+    "destinations": [
+        "般若寺橋",
+        "下永谷(横浜市港南区)",
+        "平戸(横浜市港南区)"
+    ],
+    "weekday": [
+        "22:22"
+    ],
+    "saturday": [
+        "19:42",
+        "21:01",
+        "22:13"
+    ],
+    "holiday": [
+        "18:39",
+        "21:01"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803839-14/node:00102823/kt:0/lname:/"
+}

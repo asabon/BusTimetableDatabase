@@ -1,0 +1,23 @@
+{
+    "date": "2024/12/16",
+    "name": "豊ヶ丘小学校",
+    "position": "-",
+    "system": "多03",
+    "destinations": [
+        "落合東",
+        "多摩センター駅"
+    ],
+    "weekday": [
+        "7:03",
+        "7:48",
+        "8:48",
+        "9:26"
+    ],
+    "saturday": [
+        "6:35"
+    ],
+    "holiday": [
+        "6:35"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802975-7/node:00021308/kt:0/lname:/"
+}

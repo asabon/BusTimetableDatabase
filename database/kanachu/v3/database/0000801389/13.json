@@ -1,0 +1,19 @@
+{
+    "date": "2025/03/15",
+    "name": "綾瀬タウンヒルズ前",
+    "position": "-",
+    "system": "長22",
+    "destinations": [
+        "綾瀬市役所"
+    ],
+    "weekday": [
+        "7:05",
+        "7:35",
+        "8:13",
+        "9:00",
+        "9:25"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801389-13/node:00129860/kt:0/lname:/"
+}

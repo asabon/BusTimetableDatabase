@@ -1,0 +1,18 @@
+{
+    "date": "2025/01/14",
+    "name": "上依知中央",
+    "position": "-",
+    "system": "厚74",
+    "destinations": [
+        "長坂下",
+        "東四丁目(愛甲郡愛川町)",
+        "長坂(厚木市)"
+    ],
+    "weekday": [
+        "18:22",
+        "19:45"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800971-18/node:00128388/kt:0/lname:/"
+}

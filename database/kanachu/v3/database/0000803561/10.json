@@ -1,0 +1,25 @@
+{
+    "date": "2024/09/02",
+    "name": "金井(横浜市栄区)",
+    "position": "-",
+    "system": "戸75",
+    "destinations": [
+        "辻前",
+        "金井高校前"
+    ],
+    "weekday": [
+        "6:40",
+        "6:55",
+        "7:02",
+        "7:16",
+        "7:30",
+        "7:44",
+        "7:58",
+        "8:05",
+        "8:18",
+        "8:24"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803561-10/node:00126844/kt:0/lname:/"
+}

@@ -1,0 +1,24 @@
+{
+    "date": "2025/08/30",
+    "name": "不動坂(横浜市戸塚区)",
+    "position": "-",
+    "system": "戸25",
+    "destinations": [
+        "ブリヂストン前",
+        "元町(横浜市戸塚区)",
+        "矢部町",
+        "戸塚駅東口"
+    ],
+    "weekday": [
+        "6:14",
+        "6:30",
+        "6:46"
+    ],
+    "saturday": [
+        "6:35"
+    ],
+    "holiday": [
+        "6:41"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800089-10/node:00126613/kt:0/lname:/"
+}

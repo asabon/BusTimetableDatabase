@@ -1,0 +1,17 @@
+{
+    "date": "2024/05/20",
+    "name": "横浜ゴム前",
+    "position": "-",
+    "system": "平89",
+    "destinations": [
+        "市役所前(ゴム前/平塚市)",
+        "四ツ角(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "13:49"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801049-27/node:00127554/kt:0/lname:/"
+}

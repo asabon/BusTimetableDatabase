@@ -1,0 +1,18 @@
+{
+    "date": "2025/07/12",
+    "name": "宮ノ前(横浜市栄区)",
+    "position": "-",
+    "system": "船65",
+    "destinations": [
+        "長尾台(横浜市栄区)",
+        "坂本(鎌倉市)",
+        "大船駅西口"
+    ],
+    "weekday": [
+        "17:44",
+        "18:44"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801155-18/node:00126852/kt:0/lname:/"
+}

@@ -1,0 +1,20 @@
+{
+    "system": "長12",
+    "busstops": [
+        {
+            "index": "1",
+            "id": "00129812",
+            "name": "長後駅西口",
+            "lat": "35.412254",
+            "lng": "139.464748"
+        },
+        {
+            "index": "2",
+            "id": "00129815",
+            "name": "下土棚",
+            "lat": "35.407192",
+            "lng": "139.451129"
+        }
+    ],
+    "route_url": "https://www.kanachu.co.jp/dia/route/index/cid:0000800940/"
+}

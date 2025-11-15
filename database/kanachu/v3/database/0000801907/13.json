@@ -1,0 +1,24 @@
+{
+    "date": "2025/04/19",
+    "name": "ハウス南門前",
+    "position": "-",
+    "system": "小14",
+    "destinations": [
+        "鶴ヶ丘団地前",
+        "二宮神社前(相模原市南区)",
+        "小田急相模原駅"
+    ],
+    "weekday": [
+        "6:04",
+        "6:20",
+        "6:36",
+        "6:52"
+    ],
+    "saturday": [
+        "6:52"
+    ],
+    "holiday": [
+        "7:32"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801907-13/node:00129699/kt:0/lname:/"
+}

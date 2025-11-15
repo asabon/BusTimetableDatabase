@@ -1,0 +1,20 @@
+{
+    "date": "2024/09/02",
+    "name": "渋谷中学校",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "集会所前(横浜市泉区)",
+        "中屋敷(横浜市泉区)"
+    ],
+    "weekday": [
+        "20:43"
+    ],
+    "saturday": [
+        "19:55"
+    ],
+    "holiday": [
+        "19:55"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802844-11/node:00126894/kt:0/lname:/"
+}

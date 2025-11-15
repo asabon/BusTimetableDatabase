@@ -1,0 +1,20 @@
+{
+    "date": "2025/01/14",
+    "name": "細野橋",
+    "position": "-",
+    "system": "厚10",
+    "destinations": [
+        "原臼",
+        "野外センター前",
+        "馬場(愛甲郡愛川町)",
+        "愛川大橋",
+        "川北(愛甲郡愛川町)",
+        "半原"
+    ],
+    "weekday": [
+        "20:23"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802181-23/node:00128297/kt:0/lname:/"
+}

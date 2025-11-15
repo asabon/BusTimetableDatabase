@@ -1,0 +1,26 @@
+{
+    "date": "2024/09/02",
+    "name": "下岡津",
+    "position": "-",
+    "system": "戸18",
+    "destinations": [
+        "日の森",
+        "上矢部",
+        "上矢部インター",
+        "富士橋",
+        "不動坂(横浜市戸塚区)",
+        "ブリヂストン前",
+        "元町(横浜市戸塚区)",
+        "戸塚駅西口",
+        "戸塚バスセンター"
+    ],
+    "weekday": [
+        "7:02",
+        "7:21"
+    ],
+    "saturday": [
+        "6:53"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803567-1/node:00126672/kt:0/lname:/"
+}

@@ -1,0 +1,22 @@
+{
+    "date": "2025/04/19",
+    "name": "みゆき台団地",
+    "position": "-",
+    "system": "大58",
+    "destinations": [
+        "御園五丁目",
+        "双葉入口",
+        "桜台(相模原市南区)",
+        "水道路(相模原市南区)",
+        "麻溝台",
+        "麻溝台中学校入口",
+        "さがみ緑風園前"
+    ],
+    "weekday": [],
+    "saturday": [
+        "21:26",
+        "21:51"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802991-6/node:00129258/kt:0/lname:/"
+}

@@ -1,0 +1,23 @@
+{
+    "date": "2025/10/20",
+    "name": "児童公園前(町田市)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "東玉川学園四丁目"
+    ],
+    "weekday": [
+        "10:58",
+        "12:58",
+        "14:58"
+    ],
+    "saturday": [
+        "12:58",
+        "14:58"
+    ],
+    "holiday": [
+        "12:58",
+        "14:58"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800395-17/node:00049454/kt:0/lname:/"
+}

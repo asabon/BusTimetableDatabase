@@ -1,0 +1,25 @@
+{
+    "date": "2025/03/15",
+    "name": "アルバック前",
+    "position": "-",
+    "system": "茅55",
+    "destinations": [
+        "古川(茅ケ崎市)",
+        "辻東(茅ケ崎市)",
+        "鶴嶺小学校前",
+        "登象",
+        "肥地力",
+        "保健所前(茅ケ崎市)",
+        "ジャスコ前(茅ケ崎市)",
+        "市民文化会館前(茅ケ崎市)",
+        "茅ヶ崎駅"
+    ],
+    "weekday": [
+        "6:20",
+        "6:36",
+        "7:00"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803683-5/node:00127203/kt:0/lname:/"
+}

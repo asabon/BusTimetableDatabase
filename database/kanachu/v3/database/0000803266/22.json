@@ -1,0 +1,26 @@
+{
+    "date": "2023/02/18",
+    "name": "飛谷津",
+    "position": "-",
+    "system": "平38",
+    "destinations": [
+        "富士見台病院",
+        "土沢農協前",
+        "土沢中学校前",
+        "妙円寺前",
+        "神奈川大学"
+    ],
+    "weekday": [
+        "8:14",
+        "9:04",
+        "10:39",
+        "13:39",
+        "14:54"
+    ],
+    "saturday": [
+        "8:14",
+        "8:44"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803266-22/node:00127829/kt:0/lname:/"
+}

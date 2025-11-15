@@ -1,0 +1,27 @@
+{
+    "date": "2025/10/20",
+    "name": "山王塚(大和市)",
+    "position": "-",
+    "system": "和03",
+    "destinations": [
+        "大和南",
+        "天満宮(大和市)",
+        "大和駅"
+    ],
+    "weekday": [
+        "5:53",
+        "6:30",
+        "6:57",
+        "7:21",
+        "17:48",
+        "20:45"
+    ],
+    "saturday": [
+        "7:02",
+        "20:03"
+    ],
+    "holiday": [
+        "20:02"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800559-9/node:00129635/kt:0/lname:/"
+}

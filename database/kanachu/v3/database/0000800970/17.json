@@ -1,0 +1,19 @@
+{
+    "date": "2023/02/18",
+    "name": "藤野入口",
+    "position": "-",
+    "system": "伊22",
+    "destinations": [
+        "高橋(伊勢原市)",
+        "坊中(伊勢原市)",
+        "日向薬師"
+    ],
+    "weekday": [
+        "8:07",
+        "12:07",
+        "16:32"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800970-17/node:00128181/kt:0/lname:/"
+}

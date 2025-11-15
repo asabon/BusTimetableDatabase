@@ -1,0 +1,18 @@
+{
+    "date": "2025/08/04",
+    "name": "城山相原界",
+    "position": "-",
+    "system": "橋24",
+    "destinations": [
+        "森下(相模原市緑区)",
+        "真米",
+        "東京家政学院前",
+        "東京家政学院"
+    ],
+    "weekday": [],
+    "saturday": [
+        "7:36"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800456-12/node:00128996/kt:0/lname:/"
+}

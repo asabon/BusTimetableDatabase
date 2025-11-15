@@ -1,0 +1,30 @@
+{
+    "date": "2025/04/01",
+    "name": "馬本",
+    "position": "-",
+    "system": "野05",
+    "destinations": [
+        "藤野芸術の家",
+        "赤沢(相模原市緑区)",
+        "杉西",
+        "山口原",
+        "金剛山",
+        "追分(相模原市緑区)",
+        "名倉入口",
+        "日連大橋",
+        "藤野駅"
+    ],
+    "weekday": [
+        "6:31",
+        "7:25"
+    ],
+    "saturday": [
+        "6:31",
+        "7:27"
+    ],
+    "holiday": [
+        "6:31",
+        "7:27"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803772-13/node:00128796/kt:0/lname:/"
+}

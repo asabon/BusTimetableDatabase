@@ -1,0 +1,25 @@
+{
+    "date": "2022/02/05",
+    "name": "県住入口",
+    "position": "-",
+    "system": "茅41",
+    "destinations": [
+        "今宿(茅ケ崎市)",
+        "町屋(茅ケ崎市)",
+        "茶屋町(茅ケ崎市)",
+        "十間坂",
+        "茅ヶ崎四ツ角",
+        "茅ヶ崎駅"
+    ],
+    "weekday": [
+        "6:25",
+        "6:57"
+    ],
+    "saturday": [
+        "6:50"
+    ],
+    "holiday": [
+        "6:50"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801136-16/node:00127191/kt:0/lname:/"
+}

@@ -1,0 +1,24 @@
+{
+    "date": "2025/04/19",
+    "name": "上溝高校入口",
+    "position": "-",
+    "system": "淵59",
+    "destinations": [
+        "上溝中央",
+        "上溝",
+        "横山坂上",
+        "星が丘(相模原市中央区)",
+        "千代田(相模原市中央区)",
+        "栄公園前",
+        "弥栄(相模原市中央区)",
+        "淵野辺十字路",
+        "淵野辺駅入口",
+        "淵野辺駅南口"
+    ],
+    "weekday": [
+        "16:10"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802412-12/node:00129179/kt:0/lname:/"
+}

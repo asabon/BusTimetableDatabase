@@ -1,0 +1,26 @@
+{
+    "date": "2023/07/01",
+    "name": "下宿(厚木市)",
+    "position": "-",
+    "system": "厚11",
+    "destinations": [
+        "旭町(厚木市)",
+        "本厚木駅南口"
+    ],
+    "weekday": [
+        "10:40",
+        "11:40",
+        "12:40",
+        "13:40",
+        "14:40",
+        "15:40",
+        "16:38",
+        "17:40",
+        "18:40",
+        "19:39",
+        "20:38"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803320-15/node:00128635/kt:0/lname:/"
+}

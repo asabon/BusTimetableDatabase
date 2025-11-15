@@ -1,0 +1,19 @@
+{
+    "date": "2025/10/01",
+    "name": "寿考園前",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "富士見が丘児童館前",
+        "富士見が丘交差点上",
+        "ラディアン",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "9:16",
+        "14:16"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803900-23/node:00130154/kt:0/lname:/"
+}

@@ -1,0 +1,17 @@
+{
+    "date": "2025/03/15",
+    "name": "市民文化会館前(茅ケ崎市)",
+    "position": "-",
+    "system": "茅55",
+    "destinations": [
+        "茅ヶ崎駅"
+    ],
+    "weekday": [
+        "6:30",
+        "6:46",
+        "7:10"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803683-13/node:00127171/kt:0/lname:/"
+}

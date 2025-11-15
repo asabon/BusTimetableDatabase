@@ -1,0 +1,28 @@
+{
+    "date": "2025/05/11",
+    "name": "栄警察署前",
+    "position": "-",
+    "system": "本21",
+    "destinations": [
+        "公田",
+        "栄区役所前",
+        "本郷台駅"
+    ],
+    "weekday": [
+        "9:58",
+        "11:58",
+        "13:58",
+        "15:58"
+    ],
+    "saturday": [
+        "10:29",
+        "12:29",
+        "14:29"
+    ],
+    "holiday": [
+        "10:29",
+        "12:29",
+        "14:29"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802877-5/node:00126609/kt:0/lname:/"
+}

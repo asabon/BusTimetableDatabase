@@ -1,0 +1,23 @@
+{
+    "date": "2021/10/16",
+    "name": "田村団地入口",
+    "position": "-",
+    "system": "平57",
+    "destinations": [
+        "神田小学校前(平塚市)",
+        "大神(新道/平塚市)",
+        "戸田(新道/厚木市)",
+        "酒井(新道/厚木市)",
+        "岡田電話局前",
+        "岡田一本杉(新道/厚木市)",
+        "本厚木駅南口"
+    ],
+    "weekday": [
+        "7:29",
+        "7:46",
+        "8:36"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800532-5/node:00127652/kt:0/lname:/"
+}

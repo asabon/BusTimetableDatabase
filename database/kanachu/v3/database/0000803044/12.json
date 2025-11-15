@@ -1,0 +1,18 @@
+{
+    "date": "2023/11/01",
+    "name": "黒岩入口",
+    "position": "-",
+    "system": "黒01",
+    "destinations": [
+        "西久保(中郡大磯町)",
+        "西久保福祉館前",
+        "黒岩公民館前",
+        "黒岩台"
+    ],
+    "weekday": [
+        "16:12"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803044-12/node:00127523/kt:0/lname:/"
+}

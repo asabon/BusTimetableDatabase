@@ -1,0 +1,20 @@
+{
+    "date": "2025/01/14",
+    "name": "黄金原",
+    "position": "-",
+    "system": "厚27",
+    "destinations": [
+        "小金",
+        "白山(厚木市)",
+        "六堂辻",
+        "古松台入口"
+    ],
+    "weekday": [
+        "23:36"
+    ],
+    "saturday": [
+        "23:10"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803681-10/node:00128475/kt:0/lname:/"
+}

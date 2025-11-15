@@ -1,0 +1,22 @@
+{
+    "date": "2022/02/05",
+    "name": "茶屋町(茅ケ崎市)",
+    "position": "-",
+    "system": "茅41",
+    "destinations": [
+        "十間坂",
+        "茅ヶ崎四ツ角",
+        "茅ヶ崎駅"
+    ],
+    "weekday": [
+        "6:31",
+        "7:03"
+    ],
+    "saturday": [
+        "6:55"
+    ],
+    "holiday": [
+        "6:55"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801136-19/node:00127182/kt:0/lname:/"
+}

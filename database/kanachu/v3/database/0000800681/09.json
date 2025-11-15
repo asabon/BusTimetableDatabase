@@ -1,0 +1,20 @@
+{
+    "date": "2021/10/16",
+    "name": "田村団地入口",
+    "position": "-",
+    "system": "平57",
+    "destinations": [
+        "東真土",
+        "古河電工入口",
+        "四ツ角(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "8:17",
+        "8:39",
+        "17:47"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800681-9/node:00127652/kt:0/lname:/"
+}

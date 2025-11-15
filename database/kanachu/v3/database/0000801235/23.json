@@ -1,0 +1,20 @@
+{
+    "date": "2018/06/25",
+    "name": "菱沼",
+    "position": "-",
+    "system": "藤08",
+    "destinations": [
+        "松林中学校前",
+        "茅ヶ崎高校前",
+        "本村(茅ケ崎市)",
+        "茅ヶ崎駅"
+    ],
+    "weekday": [
+        "9:58",
+        "11:26",
+        "13:26"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801235-23/node:00127130/kt:0/lname:/"
+}

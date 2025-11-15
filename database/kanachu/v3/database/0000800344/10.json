@@ -1,0 +1,21 @@
+{
+    "date": "2024/12/16",
+    "name": "多摩郵便局",
+    "position": "-",
+    "system": "多61",
+    "destinations": [
+        "多摩センター駅"
+    ],
+    "weekday": [
+        "5:21",
+        "6:23",
+        "6:51"
+    ],
+    "saturday": [
+        "6:28"
+    ],
+    "holiday": [
+        "6:28"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800344-10/node:00020777/kt:0/lname:/"
+}

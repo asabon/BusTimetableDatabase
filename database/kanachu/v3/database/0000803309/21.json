@@ -1,0 +1,26 @@
+{
+    "date": "2023/04/25",
+    "name": "柳の内",
+    "position": "-",
+    "system": "平15",
+    "destinations": [
+        "寄木神社前",
+        "真芳寺",
+        "ツインシティ大神"
+    ],
+    "weekday": [
+        "10:25",
+        "11:25",
+        "12:25",
+        "13:25",
+        "14:25",
+        "15:25",
+        "16:23",
+        "17:25",
+        "18:25",
+        "19:25"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803309-21/node:00127665/kt:0/lname:/"
+}

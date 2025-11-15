@@ -1,0 +1,18 @@
+{
+    "date": "2024/07/01",
+    "name": "皇谷台団地",
+    "position": "-",
+    "system": "戸77",
+    "destinations": [
+        "法務局前(横浜市戸塚区)",
+        "長久保(横浜市戸塚区)",
+        "下郷(横浜市戸塚区)",
+        "ヒルズ南戸塚"
+    ],
+    "weekday": [
+        "22:45"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803548-5/node:00126839/kt:0/lname:/"
+}

@@ -1,0 +1,20 @@
+{
+    "date": "2024/03/16",
+    "name": "中の郷(相模原市緑区)",
+    "position": "-",
+    "system": "田05",
+    "destinations": [
+        "上大島南",
+        "上大島東",
+        "合野原",
+        "内出(相模原市緑区)",
+        "相模原協同病院入口",
+        "相模原協同病院"
+    ],
+    "weekday": [
+        "10:04"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803486-9/node:00130170/kt:0/lname:/"
+}

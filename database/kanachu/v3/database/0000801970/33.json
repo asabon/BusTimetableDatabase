@@ -1,0 +1,29 @@
+{
+    "date": "2025/03/15",
+    "name": "城(藤沢市)",
+    "position": "-",
+    "system": "辻33",
+    "destinations": [
+        "南山(藤沢市)",
+        "羽鳥山",
+        "羽鳥郵便局前",
+        "神台公園前",
+        "辻堂駅北口"
+    ],
+    "weekday": [
+        "8:02",
+        "10:32",
+        "16:32"
+    ],
+    "saturday": [
+        "8:32",
+        "10:32",
+        "16:32"
+    ],
+    "holiday": [
+        "8:32",
+        "10:32",
+        "16:32"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801970-33/node:00129969/kt:0/lname:/"
+}

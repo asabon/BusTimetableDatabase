@@ -1,0 +1,17 @@
+{
+    "date": "2025/07/27",
+    "name": "諏訪町(秦野市)",
+    "position": "-",
+    "system": "秦14",
+    "destinations": [
+        "今川町",
+        "今泉(秦野市)",
+        "秦野駅"
+    ],
+    "weekday": [
+        "6:31"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802076-4/node:00127930/kt:0/lname:/"
+}

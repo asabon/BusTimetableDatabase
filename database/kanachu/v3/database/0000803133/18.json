@@ -1,0 +1,27 @@
+{
+    "date": "2025/08/04",
+    "name": "新若葉台",
+    "position": "-",
+    "system": "橋28",
+    "destinations": [
+        "若葉台住宅"
+    ],
+    "weekday": [
+        "16:07",
+        "17:00",
+        "18:05",
+        "19:15",
+        "20:08"
+    ],
+    "saturday": [
+        "18:03",
+        "18:38",
+        "19:26"
+    ],
+    "holiday": [
+        "18:03",
+        "18:38",
+        "19:26"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803133-18/node:00129010/kt:0/lname:/"
+}

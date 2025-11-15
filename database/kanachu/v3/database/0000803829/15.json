@@ -1,0 +1,18 @@
+{
+    "date": "2025/08/04",
+    "name": "谷ヶ原",
+    "position": "-",
+    "system": "橋15",
+    "destinations": [
+        "都井沢",
+        "城山高校前"
+    ],
+    "weekday": [
+        "23:53"
+    ],
+    "saturday": [
+        "23:19"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803829-15/node:00128958/kt:0/lname:/"
+}

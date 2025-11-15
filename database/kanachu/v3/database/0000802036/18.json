@@ -1,0 +1,21 @@
+{
+    "date": "2018/06/25",
+    "name": "藤沢市民病院",
+    "position": "-",
+    "system": "藤08",
+    "destinations": [
+        "本町消防出張所前",
+        "藤沢公民館前",
+        "遊行寺前",
+        "遊行通り四丁目",
+        "藤沢駅北口"
+    ],
+    "weekday": [
+        "9:00",
+        "10:14",
+        "12:14"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802036-18/node:00127108/kt:0/lname:/"
+}

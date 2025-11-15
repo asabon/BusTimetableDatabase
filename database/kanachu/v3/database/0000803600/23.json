@@ -1,0 +1,13 @@
+{
+    "date": "2025/07/12",
+    "name": "戸塚駅西口",
+    "position": "-",
+    "system": "戸81",
+    "destinations": [
+        "戸塚バスセンター"
+    ],
+    "weekday": [],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803600-23/node:00126969/kt:0/lname:/"
+}

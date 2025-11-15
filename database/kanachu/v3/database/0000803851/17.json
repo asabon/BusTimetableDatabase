@@ -1,0 +1,21 @@
+{
+    "date": "2025/08/30",
+    "name": "国道平戸",
+    "position": "-",
+    "system": "東21",
+    "destinations": [
+        "品濃口",
+        "坂下(横浜市戸塚区)",
+        "品濃町(横浜市戸塚区)",
+        "東戸塚駅東口"
+    ],
+    "weekday": [
+        "8:21",
+        "8:36",
+        "8:45",
+        "9:11"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803851-17/node:00126618/kt:0/lname:/"
+}

@@ -1,0 +1,24 @@
+{
+    "date": "2025/03/15",
+    "name": "本蓼川",
+    "position": "-",
+    "system": "丘01",
+    "destinations": [
+        "廻り坂",
+        "深谷原",
+        "鶴ヶ岡",
+        "大法寺(綾瀬市)",
+        "綾瀬車庫(綾瀬市)"
+    ],
+    "weekday": [
+        "19:25",
+        "20:15"
+    ],
+    "saturday": [
+        "18:42"
+    ],
+    "holiday": [
+        "18:42"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800916-8/node:00129855/kt:0/lname:/"
+}

@@ -1,0 +1,23 @@
+{
+    "date": "2024/03/16",
+    "name": "及川球技場入口",
+    "position": "-",
+    "system": "厚13",
+    "destinations": [
+        "林中学校入口",
+        "愛光病院前",
+        "本厚木駅",
+        "厚木バスセンター"
+    ],
+    "weekday": [
+        "6:40",
+        "7:00",
+        "7:30",
+        "8:13",
+        "8:35",
+        "9:00"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800892-15/node:00128686/kt:0/lname:/"
+}

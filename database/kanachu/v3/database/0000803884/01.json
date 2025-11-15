@@ -1,0 +1,16 @@
+{
+    "date": "2025/09/16",
+    "name": "厚木バスセンター",
+    "position": "-",
+    "system": "厚67",
+    "destinations": [
+        "神奈川工科大学"
+    ],
+    "weekday": [
+        "10:30",
+        "10:45"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803884-1/node:00128256/kt:0/lname:/"
+}

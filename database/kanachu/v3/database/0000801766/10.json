@@ -1,0 +1,28 @@
+{
+    "date": "2024/09/02",
+    "name": "阿久和",
+    "position": "-",
+    "system": "境01",
+    "destinations": [
+        "阿久和坂上",
+        "阿久和山谷",
+        "柳明",
+        "遊水池前(横浜市泉区)",
+        "ひなた山",
+        "上飯田車庫"
+    ],
+    "weekday": [
+        "18:04",
+        "18:36"
+    ],
+    "saturday": [
+        "17:09",
+        "21:56"
+    ],
+    "holiday": [
+        "16:09",
+        "17:09",
+        "21:56"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801766-10/node:00126681/kt:0/lname:/"
+}

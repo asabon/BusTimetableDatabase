@@ -1,0 +1,23 @@
+{
+    "date": "2024/12/16",
+    "name": "鶴川市民センター入口",
+    "position": "-",
+    "system": "鶴31",
+    "destinations": [
+        "下大蔵",
+        "金井入口",
+        "上能ヶ谷",
+        "鶴川駅西口",
+        "鶴川駅"
+    ],
+    "weekday": [
+        "7:02"
+    ],
+    "saturday": [
+        "7:32"
+    ],
+    "holiday": [
+        "7:32"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803438-20/node:00129436/kt:0/lname:/"
+}

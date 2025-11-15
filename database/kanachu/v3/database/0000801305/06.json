@@ -1,0 +1,29 @@
+{
+    "date": "2025/03/15",
+    "name": "鶴が台入口",
+    "position": "-",
+    "system": "茅17",
+    "destinations": [
+        "鶴が台中学校前",
+        "香川小学校入口",
+        "松風台(茅ケ崎市)"
+    ],
+    "weekday": [
+        "6:58",
+        "8:25",
+        "17:00",
+        "18:00",
+        "18:18",
+        "18:58",
+        "19:18"
+    ],
+    "saturday": [
+        "7:51",
+        "8:48"
+    ],
+    "holiday": [
+        "7:51",
+        "8:48"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801305-6/node:00127139/kt:0/lname:/"
+}

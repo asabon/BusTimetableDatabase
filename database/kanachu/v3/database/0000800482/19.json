@@ -1,0 +1,21 @@
+{
+    "date": "2025/07/12",
+    "name": "南仲通り",
+    "position": "-",
+    "system": "船65",
+    "destinations": [
+        "相生町(藤沢市)",
+        "三富士町",
+        "藤沢駅北口"
+    ],
+    "weekday": [
+        "7:27",
+        "7:54",
+        "8:29",
+        "8:47",
+        "9:09"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800482-19/node:00126973/kt:0/lname:/"
+}

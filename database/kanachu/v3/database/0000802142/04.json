@@ -1,0 +1,21 @@
+{
+    "date": "2025/10/20",
+    "name": "あかね台入口(横浜市青葉区)",
+    "position": "-",
+    "system": "津04",
+    "destinations": [
+        "堀の内(横浜市青葉区)",
+        "長津田三丁目",
+        "長津田駅北口"
+    ],
+    "weekday": [
+        "6:59",
+        "8:01",
+        "9:01",
+        "19:25",
+        "20:25"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802142-4/node:00019242/kt:0/lname:/"
+}

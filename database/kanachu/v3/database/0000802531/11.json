@@ -1,0 +1,24 @@
+{
+    "date": "2020/05/11",
+    "name": "名瀬ホーム前",
+    "position": "-",
+    "system": "東16",
+    "destinations": [
+        "ネオポリス公園",
+        "公園前商店街入口"
+    ],
+    "weekday": [
+        "19:38",
+        "19:53",
+        "22:40"
+    ],
+    "saturday": [
+        "19:43",
+        "21:17"
+    ],
+    "holiday": [
+        "19:43",
+        "21:17"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802531-11/node:00126723/kt:0/lname:/"
+}

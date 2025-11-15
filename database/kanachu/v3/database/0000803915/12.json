@@ -1,0 +1,20 @@
+{
+    "date": "2025/10/20",
+    "name": "上瀬谷小学校入口",
+    "position": "-",
+    "system": "間15",
+    "destinations": [
+        "八幡神社前(横浜市瀬谷区)",
+        "馬場屋敷",
+        "目黒",
+        "長堀公園前",
+        "鶴間二丁目",
+        "鶴間駅東口"
+    ],
+    "weekday": [
+        "15:14"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803915-12/node:00129654/kt:0/lname:/"
+}

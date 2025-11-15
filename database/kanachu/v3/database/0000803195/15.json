@@ -1,0 +1,23 @@
+{
+    "date": "2024/03/16",
+    "name": "滝の沢(町田市)",
+    "position": "-",
+    "system": "町45",
+    "destinations": [
+        "浄水場前(町田市)",
+        "市民病院前(町田市)",
+        "森野三丁目",
+        "第四小学校前(町田市)",
+        "町田市役所市民ホール前",
+        "町田バスセンター"
+    ],
+    "weekday": [
+        "8:21",
+        "16:06",
+        "16:31",
+        "18:21"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803195-15/node:00129361/kt:0/lname:/"
+}

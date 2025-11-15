@@ -1,0 +1,18 @@
+{
+    "date": "2025/10/20",
+    "name": "相沢原",
+    "position": "-",
+    "system": "間15",
+    "destinations": [
+        "上橋(横浜市瀬谷区)",
+        "中丸(横浜市瀬谷区)",
+        "瀬谷警察入口",
+        "三ツ境駅北口"
+    ],
+    "weekday": [
+        "14:30"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803914-15/node:00126688/kt:0/lname:/"
+}

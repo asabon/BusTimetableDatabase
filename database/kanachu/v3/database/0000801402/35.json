@@ -1,0 +1,15 @@
+{
+    "date": "2021/11/27",
+    "name": "長後市民センター前",
+    "position": "-",
+    "system": "長16",
+    "destinations": [
+        "長後駅西口"
+    ],
+    "weekday": [
+        "9:03"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801402-35/node:00129813/kt:0/lname:/"
+}

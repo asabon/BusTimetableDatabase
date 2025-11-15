@@ -1,0 +1,20 @@
+{
+    "date": "2020/08/24",
+    "name": "港南台西公園",
+    "position": "-",
+    "system": "港31",
+    "destinations": [
+        "横浜女子短期大学前",
+        "港南台駅"
+    ],
+    "weekday": [
+        "6:47",
+        "7:06",
+        "7:21",
+        "7:41",
+        "8:35"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801196-11/node:00126549/kt:0/lname:/"
+}

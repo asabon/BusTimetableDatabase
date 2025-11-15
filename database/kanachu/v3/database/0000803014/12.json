@@ -1,0 +1,27 @@
+{
+    "date": "2021/02/01",
+    "name": "大岡住宅前",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "藤の木(横浜市南区)",
+        "弘明寺",
+        "通町三丁目",
+        "通町一丁目",
+        "蒔田駅前",
+        "蒔田中学校前(横浜市南区)"
+    ],
+    "weekday": [
+        "19:52",
+        "21:56"
+    ],
+    "saturday": [
+        "19:51",
+        "21:46"
+    ],
+    "holiday": [
+        "19:51",
+        "21:46"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803014-12/node:00102309/kt:0/lname:/"
+}

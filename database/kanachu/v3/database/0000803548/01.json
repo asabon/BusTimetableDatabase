@@ -1,0 +1,22 @@
+{
+    "date": "2024/07/01",
+    "name": "戸塚バスセンター",
+    "position": "-",
+    "system": "戸77",
+    "destinations": [
+        "消防署前(横浜市戸塚区)",
+        "八坂神社前",
+        "東電前(横浜市戸塚区)",
+        "皇谷台団地",
+        "法務局前(横浜市戸塚区)",
+        "長久保(横浜市戸塚区)",
+        "下郷(横浜市戸塚区)",
+        "ヒルズ南戸塚"
+    ],
+    "weekday": [
+        "22:40"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803548-1/node:00126775/kt:0/lname:/"
+}

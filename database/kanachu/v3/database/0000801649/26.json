@@ -1,0 +1,20 @@
+{
+    "date": "2025/01/14",
+    "name": "合同庁舎前(厚木市)",
+    "position": "-",
+    "system": "厚32",
+    "destinations": [
+        "市役所入口(厚木市)",
+        "本厚木駅",
+        "厚木バスセンター"
+    ],
+    "weekday": [
+        "6:39",
+        "7:09",
+        "7:37",
+        "14:40"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801649-26/node:00128439/kt:0/lname:/"
+}

@@ -1,0 +1,27 @@
+{
+    "date": "2023/02/18",
+    "name": "城山公園前(中郡大磯町)",
+    "position": "-",
+    "system": "磯13",
+    "destinations": [
+        "八坂神社(中郡大磯町)",
+        "白岩大門",
+        "統監道",
+        "大磯小学校前",
+        "大磯駅"
+    ],
+    "weekday": [
+        "6:00",
+        "6:20",
+        "7:08"
+    ],
+    "saturday": [
+        "6:24",
+        "7:04"
+    ],
+    "holiday": [
+        "6:24",
+        "7:04"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800036-9/node:00127687/kt:0/lname:/"
+}

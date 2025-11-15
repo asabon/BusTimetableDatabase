@@ -1,0 +1,21 @@
+{
+    "date": "2024/05/20",
+    "name": "共済病院前総合公園西",
+    "position": "-",
+    "system": "平95",
+    "destinations": [
+        "追分(平塚市)",
+        "立野町(平塚市)",
+        "横浜ゴム前",
+        "市役所前(ゴム前/平塚市)",
+        "四ツ角(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "5:50",
+        "6:12"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800732-7/node:00128222/kt:0/lname:/"
+}

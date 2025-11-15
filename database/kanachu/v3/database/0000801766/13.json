@@ -1,0 +1,25 @@
+{
+    "date": "2024/09/02",
+    "name": "柳明",
+    "position": "-",
+    "system": "境01",
+    "destinations": [
+        "遊水池前(横浜市泉区)",
+        "ひなた山",
+        "上飯田車庫"
+    ],
+    "weekday": [
+        "18:09",
+        "18:41"
+    ],
+    "saturday": [
+        "17:14",
+        "22:00"
+    ],
+    "holiday": [
+        "16:14",
+        "17:14",
+        "22:00"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801766-13/node:00126700/kt:0/lname:/"
+}

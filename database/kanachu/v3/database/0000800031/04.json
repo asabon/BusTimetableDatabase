@@ -1,0 +1,24 @@
+{
+    "date": "2018/03/17",
+    "name": "元大橋公園前",
+    "position": "-",
+    "system": "港31",
+    "destinations": [
+        "若竹町(横浜市栄区)",
+        "元大橋",
+        "中野町",
+        "稲荷森",
+        "山手学院入口",
+        "尾月",
+        "上郷小学校前",
+        "花篭公園前",
+        "桂台中央"
+    ],
+    "weekday": [
+        "7:14",
+        "8:02"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800031-4/node:00126548/kt:0/lname:/"
+}

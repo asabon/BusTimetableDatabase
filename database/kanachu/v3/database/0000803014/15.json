@@ -1,0 +1,24 @@
+{
+    "date": "2021/02/01",
+    "name": "通町三丁目",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "通町一丁目",
+        "蒔田駅前",
+        "蒔田中学校前(横浜市南区)"
+    ],
+    "weekday": [
+        "19:57",
+        "22:00"
+    ],
+    "saturday": [
+        "19:56",
+        "21:50"
+    ],
+    "holiday": [
+        "19:56",
+        "21:50"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803014-15/node:00102796/kt:0/lname:/"
+}

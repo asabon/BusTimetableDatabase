@@ -1,0 +1,27 @@
+{
+    "date": "2023/02/27",
+    "name": "稲荷木",
+    "position": "-",
+    "system": "厚13",
+    "destinations": [
+        "鳶尾山前",
+        "鳶尾四丁目",
+        "鳶尾団地",
+        "荻野中学校入口",
+        "東谷戸入口",
+        "みはる野",
+        "みはる野一丁目",
+        "みはる野中央",
+        "みはる野二丁目",
+        "まつかげ台"
+    ],
+    "weekday": [
+        "18:38",
+        "19:08",
+        "19:29",
+        "20:21"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800269-9/node:00128272/kt:0/lname:/"
+}

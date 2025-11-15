@@ -1,0 +1,26 @@
+{
+    "date": "2024/12/16",
+    "name": "岩子山",
+    "position": "-",
+    "system": "鶴31",
+    "destinations": [
+        "井の花",
+        "大蔵(鶴川郵便局前/町田市)",
+        "鶴川市民センター入口",
+        "下大蔵",
+        "金井入口",
+        "上能ヶ谷",
+        "鶴川駅西口",
+        "鶴川駅"
+    ],
+    "weekday": [
+        "6:59"
+    ],
+    "saturday": [
+        "7:29"
+    ],
+    "holiday": [
+        "7:29"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803438-17/node:00129474/kt:0/lname:/"
+}

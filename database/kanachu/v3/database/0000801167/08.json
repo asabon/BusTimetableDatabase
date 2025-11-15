@@ -1,0 +1,24 @@
+{
+    "date": "2025/08/04",
+    "name": "東原宿",
+    "position": "-",
+    "system": "橋14",
+    "destinations": [
+        "森の上",
+        "二本松(相模原市緑区)",
+        "相原中央",
+        "相原台",
+        "大西(相模原市緑区)",
+        "上町(相模原市緑区)",
+        "香福寺前",
+        "旭小学校前(相模原市緑区)",
+        "旭農協前",
+        "橋本駅北口"
+    ],
+    "weekday": [
+        "6:46"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801167-8/node:00128962/kt:0/lname:/"
+}

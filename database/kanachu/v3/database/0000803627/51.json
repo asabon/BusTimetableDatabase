@@ -1,0 +1,24 @@
+{
+    "date": "2024/10/01",
+    "name": "高峰小学校前",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "愛川高校前",
+        "箕輪辻",
+        "愛川北部病院前",
+        "愛川町役場",
+        "愛川バスセンター"
+    ],
+    "weekday": [
+        "8:09",
+        "9:44",
+        "12:39",
+        "14:34",
+        "17:19",
+        "18:54"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803627-51/node:00128330/kt:0/lname:/"
+}

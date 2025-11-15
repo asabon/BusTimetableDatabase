@@ -1,0 +1,29 @@
+{
+    "date": "2018/03/17",
+    "name": "本村(茅ケ崎市)",
+    "position": "-",
+    "system": "辻09",
+    "destinations": [
+        "茅ヶ崎駅"
+    ],
+    "weekday": [
+        "6:52",
+        "7:24",
+        "7:55",
+        "8:32",
+        "9:11",
+        "10:42",
+        "14:06",
+        "18:07",
+        "19:13",
+        "19:50",
+        "21:15"
+    ],
+    "saturday": [
+        "7:55"
+    ],
+    "holiday": [
+        "7:55"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802653-23/node:00127127/kt:0/lname:/"
+}

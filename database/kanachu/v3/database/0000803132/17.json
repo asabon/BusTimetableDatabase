@@ -1,0 +1,20 @@
+{
+    "date": "2022/03/12",
+    "name": "小学校前(小田原市)",
+    "position": "-",
+    "system": "国05",
+    "destinations": [
+        "近戸神社",
+        "前川(小田原市)",
+        "西前川",
+        "国府津駅"
+    ],
+    "weekday": [
+        "12:22",
+        "13:27",
+        "16:52"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803132-17/node:00127498/kt:0/lname:/"
+}

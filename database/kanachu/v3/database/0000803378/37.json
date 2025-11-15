@@ -1,0 +1,28 @@
+{
+    "date": "2025/07/27",
+    "name": "猪分",
+    "position": "-",
+    "system": "平75",
+    "destinations": [
+        "東名秦野",
+        "大竹(秦野市)",
+        "西大竹",
+        "養泉院",
+        "秦野郵便局前",
+        "秦野駅南口"
+    ],
+    "weekday": [
+        "9:27",
+        "18:37",
+        "19:24"
+    ],
+    "saturday": [
+        "8:32",
+        "19:14"
+    ],
+    "holiday": [
+        "8:32",
+        "19:14"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803378-37/node:00127775/kt:0/lname:/"
+}

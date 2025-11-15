@@ -1,0 +1,17 @@
+{
+    "date": "2025/10/01",
+    "name": "富士見が丘交差点上",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "ラディアン",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "9:18",
+        "14:18"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803900-25/node:00130483/kt:0/lname:/"
+}

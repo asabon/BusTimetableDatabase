@@ -1,0 +1,19 @@
+{
+    "date": "2021/02/22",
+    "name": "大神宮前",
+    "position": "-",
+    "system": "伊12",
+    "destinations": [
+        "本町(伊勢原市)",
+        "伊勢原駅北口"
+    ],
+    "weekday": [
+        "6:10",
+        "6:44"
+    ],
+    "saturday": [
+        "6:35"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803361-17/node:00128129/kt:0/lname:/"
+}

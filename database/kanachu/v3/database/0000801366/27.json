@@ -1,0 +1,27 @@
+{
+    "date": "2025/01/14",
+    "name": "新道橋(厚木市)",
+    "position": "-",
+    "system": "厚04",
+    "destinations": [
+        "上荻野",
+        "上荻野車庫前"
+    ],
+    "weekday": [
+        "20:47",
+        "21:27",
+        "22:07",
+        "23:02"
+    ],
+    "saturday": [
+        "19:53",
+        "20:43",
+        "20:53",
+        "21:43"
+    ],
+    "holiday": [
+        "20:43",
+        "21:43"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801366-27/node:00128280/kt:0/lname:/"
+}

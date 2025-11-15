@@ -1,0 +1,22 @@
+{
+    "date": "2025/07/27",
+    "name": "中島(中郡二宮町)",
+    "position": "-",
+    "system": "二43",
+    "destinations": [
+        "堂面(中郡二宮町)",
+        "元町(中郡二宮町)",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "6:25",
+        "7:12"
+    ],
+    "saturday": [
+        "9:07"
+    ],
+    "holiday": [
+        "9:07"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802633-10/node:00127789/kt:0/lname:/"
+}

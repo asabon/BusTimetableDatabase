@@ -1,0 +1,22 @@
+{
+    "date": "2017/01/16",
+    "name": "愛川高校前",
+    "position": "-",
+    "system": "厚96",
+    "destinations": [
+        "高峰小学校前",
+        "愛川ハイテク団地入口",
+        "愛川ハイテク団地",
+        "三増下宿",
+        "三増",
+        "中里遊園地前",
+        "上三増"
+    ],
+    "weekday": [
+        "7:52",
+        "8:11"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801394-27/node:00128329/kt:0/lname:/"
+}

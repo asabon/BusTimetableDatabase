@@ -1,0 +1,18 @@
+{
+    "date": "2025/01/14",
+    "name": "イオンモール座間",
+    "position": "-",
+    "system": "林05",
+    "destinations": [
+        "南林間駅"
+    ],
+    "weekday": [],
+    "saturday": [
+        "22:27"
+    ],
+    "holiday": [
+        "21:40",
+        "22:27"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802638-1/node:00128603/kt:0/lname:/"
+}

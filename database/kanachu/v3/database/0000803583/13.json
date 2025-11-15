@@ -1,0 +1,22 @@
+{
+    "date": "2024/07/01",
+    "name": "原宿四ツ角",
+    "position": "-",
+    "system": "船24",
+    "destinations": [
+        "横浜医療センター前",
+        "三叉路(横浜市戸塚区)",
+        "横浜薬大南門",
+        "俣野公園・横浜薬大前"
+    ],
+    "weekday": [
+        "6:35",
+        "6:44",
+        "7:20",
+        "8:09",
+        "18:47"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803583-13/node:00126927/kt:0/lname:/"
+}

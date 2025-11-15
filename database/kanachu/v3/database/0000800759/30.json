@@ -1,0 +1,15 @@
+{
+    "date": "2021/02/01",
+    "name": "ニュータウン入口(茅ケ崎市)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "市立病院(茅ケ崎市)"
+    ],
+    "weekday": [
+        "7:53"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800759-30/node:00127138/kt:0/lname:/"
+}

@@ -1,0 +1,24 @@
+{
+    "date": "2025/07/12",
+    "name": "花の木(藤沢市)",
+    "position": "-",
+    "system": "藤46",
+    "destinations": [
+        "善行",
+        "善行南",
+        "善行大橋",
+        "善行二丁目",
+        "善行駅"
+    ],
+    "weekday": [
+        "8:51",
+        "9:56",
+        "11:06",
+        "12:56",
+        "14:01",
+        "14:51"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801706-10/node:00127068/kt:0/lname:/"
+}

@@ -1,0 +1,20 @@
+{
+    "date": "2025/01/14",
+    "name": "市営住宅入口(町田市)",
+    "position": "-",
+    "system": "町84",
+    "destinations": [
+        "金森",
+        "金森郵便局前",
+        "南橋(町田市)",
+        "三塚",
+        "町田ターミナル前",
+        "町田バスセンター"
+    ],
+    "weekday": [
+        "7:25"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803213-8/node:00129539/kt:0/lname:/"
+}

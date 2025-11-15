@@ -1,0 +1,27 @@
+{
+    "date": "2025/07/12",
+    "name": "亀井野三丁目",
+    "position": "-",
+    "system": "藤58",
+    "destinations": [
+        "六会市民センター入口",
+        "六会日大前駅"
+    ],
+    "weekday": [
+        "20:43",
+        "21:43"
+    ],
+    "saturday": [
+        "9:31",
+        "18:33",
+        "19:33",
+        "20:31"
+    ],
+    "holiday": [
+        "9:31",
+        "18:33",
+        "19:33",
+        "20:31"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802717-15/node:00129885/kt:0/lname:/"
+}

@@ -1,0 +1,17 @@
+{
+    "date": "2024/10/01",
+    "name": "箕輪(愛甲郡愛川町)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "愛川町役場",
+        "愛川北部病院前",
+        "愛川バスセンター"
+    ],
+    "weekday": [
+        "8:35"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803632-27/node:00128326/kt:0/lname:/"
+}

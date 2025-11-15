@@ -1,0 +1,28 @@
+{
+    "date": "2024/04/01",
+    "name": "綾瀬小学校前",
+    "position": "-",
+    "system": "長22",
+    "destinations": [
+        "綾瀬農協前",
+        "大邸",
+        "大法寺(綾瀬市)",
+        "上落合(綾瀬市)",
+        "落合(綾瀬市)",
+        "中川橋",
+        "上土棚",
+        "並塚",
+        "上谷台",
+        "長後駅西口"
+    ],
+    "weekday": [
+        "7:21",
+        "7:59",
+        "8:37",
+        "9:27",
+        "9:47"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801168-4/node:00129858/kt:0/lname:/"
+}

@@ -1,0 +1,23 @@
+{
+    "date": "2025/03/15",
+    "name": "羽鳥一丁目",
+    "position": "-",
+    "system": "辻24",
+    "destinations": [
+        "神台公園前",
+        "辻堂駅北口"
+    ],
+    "weekday": [
+        "5:36",
+        "5:46",
+        "6:00",
+        "6:13",
+        "6:28",
+        "6:58",
+        "7:08",
+        "7:55"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800733-14/node:00129935/kt:0/lname:/"
+}

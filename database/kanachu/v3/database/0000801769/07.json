@@ -1,0 +1,26 @@
+{
+    "date": "2025/07/12",
+    "name": "久成寺前",
+    "position": "-",
+    "system": "船30",
+    "destinations": [
+        "植木(鎌倉市)",
+        "公会堂前(鎌倉市)",
+        "岡本(鎌倉市)",
+        "玉縄行政センター入口",
+        "児童公園前(鎌倉市)",
+        "大船駅西口"
+    ],
+    "weekday": [
+        "6:26",
+        "6:42",
+        "7:01",
+        "7:14",
+        "7:26",
+        "7:36",
+        "7:52"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801769-7/node:00126988/kt:0/lname:/"
+}

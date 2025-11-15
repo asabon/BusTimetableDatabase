@@ -1,0 +1,25 @@
+{
+    "date": "2021/04/01",
+    "name": "北相中学校前",
+    "position": "-",
+    "system": "八07",
+    "destinations": [
+        "桂北小学校前",
+        "相模湖駅"
+    ],
+    "weekday": [
+        "10:49",
+        "13:52"
+    ],
+    "saturday": [
+        "10:49",
+        "13:52",
+        "18:17"
+    ],
+    "holiday": [
+        "10:49",
+        "13:52",
+        "18:17"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800353-37/node:00128920/kt:0/lname:/"
+}

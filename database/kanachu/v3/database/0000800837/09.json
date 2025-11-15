@@ -1,0 +1,29 @@
+{
+    "date": "2022/12/17",
+    "name": "室田小学校入口",
+    "position": "-",
+    "system": "茅16",
+    "destinations": [
+        "室田一丁目",
+        "室田二丁目"
+    ],
+    "weekday": [
+        "10:45",
+        "12:53"
+    ],
+    "saturday": [
+        "11:28",
+        "19:08",
+        "19:52",
+        "20:17",
+        "20:52"
+    ],
+    "holiday": [
+        "11:28",
+        "19:08",
+        "19:52",
+        "20:17",
+        "20:52"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800837-9/node:00127263/kt:0/lname:/"
+}

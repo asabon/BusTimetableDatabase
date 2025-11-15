@@ -1,0 +1,29 @@
+{
+    "date": "2025/01/14",
+    "name": "七沢病院入口",
+    "position": "-",
+    "system": "厚38",
+    "destinations": [
+        "広沢寺温泉入口",
+        "鐘ヶ獄",
+        "河鹿の沢",
+        "広沢寺温泉"
+    ],
+    "weekday": [
+        "9:35",
+        "16:37"
+    ],
+    "saturday": [
+        "8:35",
+        "12:36",
+        "14:36",
+        "18:37"
+    ],
+    "holiday": [
+        "8:35",
+        "12:36",
+        "14:36",
+        "18:37"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803340-32/node:00128458/kt:0/lname:/"
+}

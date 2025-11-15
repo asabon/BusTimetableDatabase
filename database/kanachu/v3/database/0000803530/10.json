@@ -1,0 +1,28 @@
+{
+    "date": "2025/04/19",
+    "name": "大野台入口",
+    "position": "-",
+    "system": "大68",
+    "destinations": [
+        "麻溝台入口",
+        "麻溝台高校",
+        "北里大学病院・北里大学",
+        "友愛病院前",
+        "麻溝車庫"
+    ],
+    "weekday": [
+        "22:33",
+        "23:11"
+    ],
+    "saturday": [
+        "22:11",
+        "22:36",
+        "23:01"
+    ],
+    "holiday": [
+        "21:41",
+        "22:11",
+        "22:36"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803530-10/node:00129093/kt:0/lname:/"
+}

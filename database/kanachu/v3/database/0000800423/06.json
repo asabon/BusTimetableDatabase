@@ -1,0 +1,26 @@
+{
+    "date": "2024/05/20",
+    "name": "白根",
+    "position": "-",
+    "system": "伊54",
+    "destinations": [
+        "白根公民館前",
+        "団地北(伊勢原市)",
+        "伊勢原車庫"
+    ],
+    "weekday": [
+        "8:12",
+        "16:57",
+        "18:53",
+        "19:51",
+        "20:51",
+        "22:26"
+    ],
+    "saturday": [
+        "21:41"
+    ],
+    "holiday": [
+        "21:41"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800423-6/node:00128132/kt:0/lname:/"
+}

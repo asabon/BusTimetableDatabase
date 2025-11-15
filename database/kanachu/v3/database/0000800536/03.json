@@ -1,0 +1,23 @@
+{
+    "date": "2024/03/16",
+    "name": "榎戸(横浜市港南区)",
+    "position": "-",
+    "system": "港86",
+    "destinations": [
+        "横浜栄高校前",
+        "紅葉橋(横浜市栄区)",
+        "光明寺(横浜市栄区)",
+        "中島(横浜市栄区)",
+        "西ヶ谷入口",
+        "西ヶ谷",
+        "上郷ネオポリス"
+    ],
+    "weekday": [
+        "6:34",
+        "6:59",
+        "7:24"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800536-3/node:00102293/kt:0/lname:/"
+}

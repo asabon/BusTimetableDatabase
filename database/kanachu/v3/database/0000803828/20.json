@@ -1,0 +1,23 @@
+{
+    "date": "2025/08/04",
+    "name": "水の口(町田市)",
+    "position": "-",
+    "system": "橋62",
+    "destinations": [
+        "法政大学入口",
+        "法政大学(町田市)"
+    ],
+    "weekday": [
+        "21:33",
+        "22:13"
+    ],
+    "saturday": [
+        "20:53",
+        "21:28"
+    ],
+    "holiday": [
+        "20:03",
+        "20:53"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803828-20/node:00128893/kt:0/lname:/"
+}

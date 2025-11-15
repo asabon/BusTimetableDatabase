@@ -1,0 +1,26 @@
+{
+    "date": "2018/03/17",
+    "name": "横浜女子短期大学前",
+    "position": "-",
+    "system": "港31",
+    "destinations": [
+        "港南台西公園",
+        "元大橋公園前",
+        "若竹町(横浜市栄区)",
+        "元大橋",
+        "中野町",
+        "稲荷森",
+        "山手学院入口",
+        "尾月",
+        "上郷小学校前",
+        "花篭公園前",
+        "桂台中央"
+    ],
+    "weekday": [
+        "7:12",
+        "8:00"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800031-2/node:00103234/kt:0/lname:/"
+}

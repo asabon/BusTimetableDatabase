@@ -1,0 +1,17 @@
+{
+    "date": "2025/07/12",
+    "name": "中郷(藤沢市)",
+    "position": "-",
+    "system": "善02",
+    "destinations": [
+        "卸売市場前(藤沢市)",
+        "老人センター(藤沢市)"
+    ],
+    "weekday": [
+        "9:40",
+        "15:05"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801321-6/node:00127103/kt:0/lname:/"
+}

@@ -1,0 +1,22 @@
+{
+    "date": "2025/03/15",
+    "name": "寒川高校前(高座郡寒川町)",
+    "position": "-",
+    "system": "茅46",
+    "destinations": [
+        "寒川十字路",
+        "景観寺"
+    ],
+    "weekday": [
+        "20:59",
+        "21:44"
+    ],
+    "saturday": [
+        "19:49",
+        "20:49"
+    ],
+    "holiday": [
+        "19:49"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803490-15/node:00127198/kt:0/lname:/"
+}

@@ -1,0 +1,22 @@
+{
+    "date": "2023/02/18",
+    "name": "大山小学校前(伊勢原市)",
+    "position": "-",
+    "system": "伊12",
+    "destinations": [
+        "大山駅"
+    ],
+    "weekday": [
+        "21:22",
+        "22:22"
+    ],
+    "saturday": [
+        "20:43",
+        "21:13"
+    ],
+    "holiday": [
+        "20:43",
+        "21:13"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801047-18/node:00128157/kt:0/lname:/"
+}

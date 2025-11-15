@@ -1,0 +1,29 @@
+{
+    "date": "2025/03/15",
+    "name": "上土棚",
+    "position": "-",
+    "system": "長37",
+    "destinations": [
+        "並塚",
+        "上谷台",
+        "長後駅西口"
+    ],
+    "weekday": [
+        "5:35",
+        "6:32",
+        "6:43",
+        "6:46",
+        "7:01",
+        "7:14",
+        "7:25",
+        "7:39",
+        "7:55"
+    ],
+    "saturday": [
+        "5:41"
+    ],
+    "holiday": [
+        "6:11"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800268-6/node:00129848/kt:0/lname:/"
+}

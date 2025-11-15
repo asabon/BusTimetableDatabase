@@ -1,0 +1,23 @@
+{
+    "date": "2025/02/03",
+    "name": "厚木アクスト",
+    "position": "-",
+    "system": "厚10",
+    "destinations": [
+        "岡田電話局前",
+        "岡田(新道/厚木市)",
+        "岡田一本杉(新道/厚木市)",
+        "本厚木駅東口",
+        "厚木バスセンター"
+    ],
+    "weekday": [
+        "8:18",
+        "8:33",
+        "8:58",
+        "9:45",
+        "10:15"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801443-1/node:00127706/kt:0/lname:/"
+}

@@ -1,0 +1,27 @@
+{
+    "date": "2025/07/27",
+    "name": "東名秦野",
+    "position": "-",
+    "system": "平75",
+    "destinations": [
+        "大竹(秦野市)",
+        "西大竹",
+        "養泉院",
+        "秦野郵便局前",
+        "秦野駅南口"
+    ],
+    "weekday": [
+        "9:28",
+        "18:38",
+        "19:25"
+    ],
+    "saturday": [
+        "8:33",
+        "19:15"
+    ],
+    "holiday": [
+        "8:33",
+        "19:15"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803378-38/node:00026081/kt:0/lname:/"
+}

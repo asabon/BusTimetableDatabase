@@ -1,0 +1,22 @@
+{
+    "date": "2023/10/01",
+    "name": "日飛入口",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "引地台公園",
+        "中央6丁目",
+        "大和警察署前",
+        "大和駅"
+    ],
+    "weekday": [
+        "9:04"
+    ],
+    "saturday": [
+        "9:04"
+    ],
+    "holiday": [
+        "9:04"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803395-37/node:00130417/kt:0/lname:/"
+}

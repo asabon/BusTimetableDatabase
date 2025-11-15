@@ -1,0 +1,20 @@
+{
+    "date": "2023/11/01",
+    "name": "舟窪",
+    "position": "-",
+    "system": "黒01",
+    "destinations": [
+        "上舟窪",
+        "黒岩入口",
+        "西久保(中郡大磯町)",
+        "西久保福祉館前",
+        "黒岩公民館前",
+        "黒岩台"
+    ],
+    "weekday": [
+        "16:10"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803044-10/node:00127521/kt:0/lname:/"
+}

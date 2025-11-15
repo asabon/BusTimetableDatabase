@@ -1,0 +1,23 @@
+{
+    "date": "2025/04/19",
+    "name": "県営住宅入口(座間市)",
+    "position": "-",
+    "system": "台01",
+    "destinations": [
+        "北相武台",
+        "団地センター前(相模原市南区)",
+        "団地西(相模原市南区)",
+        "団地東(相模原市南区)",
+        "保育園前(相模原市南区)"
+    ],
+    "weekday": [
+        "21:22"
+    ],
+    "saturday": [
+        "21:03"
+    ],
+    "holiday": [
+        "20:03"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802889-2/node:00128595/kt:0/lname:/"
+}

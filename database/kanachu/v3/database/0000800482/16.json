@@ -1,0 +1,24 @@
+{
+    "date": "2025/07/12",
+    "name": "遊行寺坂上",
+    "position": "-",
+    "system": "船65",
+    "destinations": [
+        "藤沢橋",
+        "藤沢小学校前",
+        "南仲通り",
+        "相生町(藤沢市)",
+        "三富士町",
+        "藤沢駅北口"
+    ],
+    "weekday": [
+        "7:23",
+        "7:50",
+        "8:25",
+        "8:43",
+        "9:05"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800482-16/node:00126976/kt:0/lname:/"
+}

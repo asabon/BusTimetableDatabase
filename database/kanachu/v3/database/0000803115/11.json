@@ -1,0 +1,24 @@
+{
+    "date": "2025/04/19",
+    "name": "光が丘大通り",
+    "position": "-",
+    "system": "淵34",
+    "destinations": [
+        "光が丘小学校前",
+        "光が丘一丁目(相模原市中央区)"
+    ],
+    "weekday": [
+        "19:17",
+        "23:12"
+    ],
+    "saturday": [
+        "18:32",
+        "20:47",
+        "22:38"
+    ],
+    "holiday": [
+        "18:32",
+        "21:22"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803115-11/node:00129234/kt:0/lname:/"
+}

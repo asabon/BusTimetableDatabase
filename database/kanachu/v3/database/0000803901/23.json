@@ -1,0 +1,19 @@
+{
+    "date": "2025/10/01",
+    "name": "富士見が丘児童館上",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "秋葉神社前",
+        "西公園前(中郡二宮町)",
+        "ラディアン",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "11:17",
+        "17:17"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803901-23/node:00130484/kt:0/lname:/"
+}

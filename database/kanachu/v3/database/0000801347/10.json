@@ -1,0 +1,21 @@
+{
+    "date": "2024/01/15",
+    "name": "第二工業団地",
+    "position": "-",
+    "system": "戸96",
+    "destinations": [
+        "第二工業団地中央",
+        "ラムーナ横浜戸塚"
+    ],
+    "weekday": [
+        "6:26",
+        "7:16",
+        "7:38",
+        "8:01",
+        "8:39",
+        "9:16"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801347-10/node:00126913/kt:0/lname:/"
+}

@@ -1,0 +1,17 @@
+{
+    "date": "2025/03/15",
+    "name": "福田四丁目",
+    "position": "-",
+    "system": "丘01",
+    "destinations": [
+        "福田三丁目",
+        "桜ヶ丘駅西口"
+    ],
+    "weekday": [
+        "6:12",
+        "7:01"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803649-11/node:00129997/kt:0/lname:/"
+}

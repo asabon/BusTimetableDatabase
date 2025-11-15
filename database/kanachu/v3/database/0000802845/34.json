@@ -1,0 +1,17 @@
+{
+    "date": "2019/04/01",
+    "name": "上大戸",
+    "position": "-",
+    "system": "町28",
+    "destinations": [
+        "ネイチャーファクトリー東京町田"
+    ],
+    "weekday": [
+        "11:34",
+        "15:44",
+        "18:44"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802845-34/node:00128896/kt:0/lname:/"
+}

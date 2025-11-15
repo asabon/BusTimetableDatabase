@@ -1,0 +1,26 @@
+{
+    "date": "2024/05/20",
+    "name": "専修大学入口(伊勢原市)",
+    "position": "-",
+    "system": "伊37",
+    "destinations": [
+        "総合運動公園入口",
+        "分れ道",
+        "日向新田",
+        "薬師入口",
+        "はつみ坂",
+        "日向川",
+        "馬場リハビリ入口",
+        "神奈川リハビリ"
+    ],
+    "weekday": [
+        "19:58"
+    ],
+    "saturday": [
+        "19:23"
+    ],
+    "holiday": [
+        "19:23"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803020-9/node:00128175/kt:0/lname:/"
+}

@@ -1,0 +1,20 @@
+{
+    "date": "2025/08/30",
+    "name": "品濃坂",
+    "position": "-",
+    "system": "東55",
+    "destinations": [
+        "東戸塚駅東口"
+    ],
+    "weekday": [
+        "6:30",
+        "7:15"
+    ],
+    "saturday": [
+        "7:15"
+    ],
+    "holiday": [
+        "7:15"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801760-11/node:00126728/kt:0/lname:/"
+}

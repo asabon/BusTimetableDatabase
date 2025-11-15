@@ -1,0 +1,18 @@
+{
+    "date": "2020/11/24",
+    "name": "高砂苑前",
+    "position": "-",
+    "system": "船21",
+    "destinations": [
+        "萩丸",
+        "西原(横浜市泉区)",
+        "立場ターミナル"
+    ],
+    "weekday": [
+        "9:02",
+        "9:46"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800281-22/node:00126833/kt:0/lname:/"
+}

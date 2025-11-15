@@ -1,0 +1,24 @@
+{
+    "date": "2025/08/30",
+    "name": "井土ヶ谷",
+    "position": "-",
+    "system": "戸01",
+    "destinations": [
+        "井土ヶ谷下町"
+    ],
+    "weekday": [
+        "20:56",
+        "22:49"
+    ],
+    "saturday": [
+        "19:36",
+        "20:46",
+        "22:27"
+    ],
+    "holiday": [
+        "19:36",
+        "20:46",
+        "22:27"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803410-21/node:00102233/kt:0/lname:/"
+}

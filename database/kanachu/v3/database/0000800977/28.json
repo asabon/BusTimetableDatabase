@@ -1,0 +1,16 @@
+{
+    "date": "2025/08/30",
+    "name": "尾上町(横浜市中区)",
+    "position": "-",
+    "system": "東06",
+    "destinations": [
+        "本町四丁目(横浜市中区)",
+        "県庁入口"
+    ],
+    "weekday": [
+        "6:44"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800977-28/node:00102323/kt:0/lname:/"
+}

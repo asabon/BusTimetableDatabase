@@ -1,0 +1,25 @@
+{
+    "date": "2025/04/01",
+    "name": "舟久保",
+    "position": "-",
+    "system": "野05",
+    "destinations": [
+        "梁瀬橋",
+        "牧野入口",
+        "奥牧野"
+    ],
+    "weekday": [
+        "6:32",
+        "6:59",
+        "19:27"
+    ],
+    "saturday": [
+        "6:59",
+        "19:32"
+    ],
+    "holiday": [
+        "6:59",
+        "19:32"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803774-19/node:00128808/kt:0/lname:/"
+}

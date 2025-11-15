@@ -1,0 +1,25 @@
+{
+    "date": "2024/12/16",
+    "name": "諏訪二丁目(多摩市)",
+    "position": "-",
+    "system": "桜22",
+    "destinations": [
+        "諏訪幼稚園前",
+        "諏訪南公園",
+        "諏訪四丁目(多摩市)",
+        "諏訪三丁目(多摩市)"
+    ],
+    "weekday": [
+        "20:55",
+        "22:25"
+    ],
+    "saturday": [
+        "20:55",
+        "22:25"
+    ],
+    "holiday": [
+        "20:55",
+        "21:25"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800579-7/node:00020624/kt:0/lname:/"
+}

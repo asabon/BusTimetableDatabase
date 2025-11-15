@@ -1,0 +1,20 @@
+{
+    "date": "2025/10/20",
+    "name": "堀の内(横浜市青葉区)",
+    "position": "-",
+    "system": "津04",
+    "destinations": [
+        "長津田三丁目",
+        "長津田駅北口"
+    ],
+    "weekday": [
+        "7:01",
+        "8:04",
+        "9:03",
+        "19:27",
+        "20:27"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802142-5/node:00019243/kt:0/lname:/"
+}

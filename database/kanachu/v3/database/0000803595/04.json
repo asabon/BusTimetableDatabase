@@ -1,0 +1,20 @@
+{
+    "date": "2024/07/01",
+    "name": "大坂上(横浜市戸塚区)",
+    "position": "-",
+    "system": "戸52",
+    "destinations": [
+        "大坂台",
+        "大坂下",
+        "八坂神社前",
+        "消防署前(横浜市戸塚区)",
+        "戸塚駅西口",
+        "戸塚バスセンター"
+    ],
+    "weekday": [
+        "5:44"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803595-4/node:00126813/kt:0/lname:/"
+}

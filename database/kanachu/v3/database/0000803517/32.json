@@ -1,0 +1,27 @@
+{
+    "date": "2025/04/19",
+    "name": "田中住宅前",
+    "position": "-",
+    "system": "大15",
+    "destinations": [
+        "農協下",
+        "元町(相模原市中央区)",
+        "本町(相模原市中央区)",
+        "上溝中央",
+        "上溝"
+    ],
+    "weekday": [
+        "8:30",
+        "9:16"
+    ],
+    "saturday": [
+        "8:05",
+        "9:17"
+    ],
+    "holiday": [
+        "8:19",
+        "9:19",
+        "9:59"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803517-32/node:00129185/kt:0/lname:/"
+}

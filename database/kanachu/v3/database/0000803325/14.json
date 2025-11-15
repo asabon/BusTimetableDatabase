@@ -1,0 +1,24 @@
+{
+    "date": "2024/03/16",
+    "name": "庄戸五丁目",
+    "position": "-",
+    "system": "港35",
+    "destinations": [
+        "庄戸三丁目南",
+        "庄戸一丁目",
+        "庄戸(横浜市栄区)"
+    ],
+    "weekday": [
+        "19:22",
+        "19:42",
+        "20:02",
+        "20:21"
+    ],
+    "saturday": [
+        "19:25"
+    ],
+    "holiday": [
+        "19:25"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803325-14/node:00126603/kt:0/lname:/"
+}

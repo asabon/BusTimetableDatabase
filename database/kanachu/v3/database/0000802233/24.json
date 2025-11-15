@@ -1,0 +1,18 @@
+{
+    "date": "2023/02/20",
+    "name": "水道企業団前(横浜市旭区)",
+    "position": "-",
+    "system": "境21",
+    "destinations": [
+        "つゆきの森",
+        "三ツ境駅北口"
+    ],
+    "weekday": [
+        "8:35"
+    ],
+    "saturday": [],
+    "holiday": [
+        "7:42"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802233-24/node:00129723/kt:0/lname:/"
+}

@@ -1,0 +1,23 @@
+{
+    "date": "2024/05/20",
+    "name": "中屋橋",
+    "position": "-",
+    "system": "愛12",
+    "destinations": [
+        "玉川農協前",
+        "玉川公民館前",
+        "日向川",
+        "馬場リハビリ入口",
+        "神奈川リハビリ"
+    ],
+    "weekday": [
+        "19:58"
+    ],
+    "saturday": [
+        "18:19"
+    ],
+    "holiday": [
+        "18:19"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803022-14/node:00128451/kt:0/lname:/"
+}

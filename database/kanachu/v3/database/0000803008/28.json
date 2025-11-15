@@ -1,0 +1,22 @@
+{
+    "date": "2022/03/12",
+    "name": "相模原協同病院",
+    "position": "-",
+    "system": "橋02",
+    "destinations": [
+        "峡の原車庫",
+        "西橋本三丁目",
+        "北警察署前(相模原市緑区)",
+        "緑区合同庁舎前(相模原市緑区)",
+        "橋本二丁目",
+        "橋本駅南口"
+    ],
+    "weekday": [
+        "7:49"
+    ],
+    "saturday": [
+        "7:39"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803008-28/node:00130514/kt:0/lname:/"
+}

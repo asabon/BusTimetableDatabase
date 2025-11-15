@@ -1,0 +1,19 @@
+{
+    "date": "2025/02/24",
+    "name": "大運寺",
+    "position": "-",
+    "system": "戸56",
+    "destinations": [
+        "横浜医療センター前",
+        "横浜医療センター"
+    ],
+    "weekday": [
+        "7:16",
+        "18:31",
+        "19:12",
+        "20:18"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801357-10/node:00126817/kt:0/lname:/"
+}

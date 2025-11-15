@@ -1,0 +1,24 @@
+{
+    "date": "2025/08/04",
+    "name": "大西(相模原市緑区)",
+    "position": "-",
+    "system": "橋01",
+    "destinations": [
+        "上町(相模原市緑区)",
+        "緑区合同庁舎前(相模原市緑区)",
+        "橋本二丁目",
+        "橋本駅南口"
+    ],
+    "weekday": [
+        "5:34",
+        "6:14",
+        "6:55",
+        "7:05",
+        "7:35",
+        "7:43",
+        "7:59"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800899-26/node:00128967/kt:0/lname:/"
+}

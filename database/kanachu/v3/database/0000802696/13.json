@@ -1,0 +1,20 @@
+{
+    "date": "2020/12/05",
+    "name": "桐ヶ谷(藤沢市)",
+    "position": "-",
+    "system": "湘16",
+    "destinations": [
+        "湘南台住宅前",
+        "湘南台駅西口"
+    ],
+    "weekday": [
+        "5:56",
+        "6:21",
+        "6:41",
+        "7:17",
+        "7:38"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802696-13/node:00129956/kt:0/lname:/"
+}

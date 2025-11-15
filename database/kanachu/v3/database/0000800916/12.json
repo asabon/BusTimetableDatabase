@@ -1,0 +1,20 @@
+{
+    "date": "2025/03/15",
+    "name": "大法寺(綾瀬市)",
+    "position": "-",
+    "system": "丘01",
+    "destinations": [
+        "綾瀬車庫(綾瀬市)"
+    ],
+    "weekday": [
+        "19:29",
+        "20:19"
+    ],
+    "saturday": [
+        "18:46"
+    ],
+    "holiday": [
+        "18:46"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800916-12/node:00129851/kt:0/lname:/"
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2024/07/01",
+    "name": "谷戸阿久和",
+    "position": "-",
+    "system": "戸16",
+    "destinations": [
+        "上阿久和",
+        "旭ヶ丘(横浜市瀬谷区)",
+        "住宅前(横浜市瀬谷区)",
+        "富士見台(横浜市瀬谷区)",
+        "富士見通り商店街",
+        "三ツ境駅"
+    ],
+    "weekday": [
+        "7:59",
+        "8:09"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803545-21/node:00126683/kt:0/lname:/"
+}

@@ -1,0 +1,24 @@
+{
+    "date": "2025/04/01",
+    "name": "田名バスターミナル",
+    "position": "-",
+    "system": "橋59",
+    "destinations": [
+        "田名坂上",
+        "ふれあい科学館前",
+        "水郷田名"
+    ],
+    "weekday": [
+        "22:14",
+        "22:55"
+    ],
+    "saturday": [
+        "22:08",
+        "22:58"
+    ],
+    "holiday": [
+        "22:08",
+        "22:58"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803751-12/node:00129077/kt:0/lname:/"
+}

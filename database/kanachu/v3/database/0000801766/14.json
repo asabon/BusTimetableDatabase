@@ -1,0 +1,24 @@
+{
+    "date": "2024/09/02",
+    "name": "遊水池前(横浜市泉区)",
+    "position": "-",
+    "system": "境01",
+    "destinations": [
+        "ひなた山",
+        "上飯田車庫"
+    ],
+    "weekday": [
+        "18:10",
+        "18:42"
+    ],
+    "saturday": [
+        "17:15",
+        "22:01"
+    ],
+    "holiday": [
+        "16:15",
+        "17:15",
+        "22:01"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801766-14/node:00126701/kt:0/lname:/"
+}

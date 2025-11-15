@@ -1,0 +1,18 @@
+{
+    "date": "2025/07/27",
+    "name": "小原台入口(秦野市)",
+    "position": "-",
+    "system": "秦96",
+    "destinations": [
+        "上尾尻橋",
+        "秦野駅南口"
+    ],
+    "weekday": [
+        "17:33",
+        "18:48",
+        "20:38"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801214-13/node:00127768/kt:0/lname:/"
+}

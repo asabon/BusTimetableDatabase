@@ -1,0 +1,21 @@
+{
+    "date": "2025/04/01",
+    "name": "坂尻(愛甲郡清川村)",
+    "position": "-",
+    "system": "厚22",
+    "destinations": [
+        "柿ノ木平",
+        "上煤ヶ谷"
+    ],
+    "weekday": [
+        "23:11",
+        "23:41"
+    ],
+    "saturday": [
+        "23:00"
+    ],
+    "holiday": [
+        "23:00"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803802-41/node:00128426/kt:0/lname:/"
+}

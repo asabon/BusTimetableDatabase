@@ -1,0 +1,22 @@
+{
+    "date": "2025/05/11",
+    "name": "朝日平和台入口",
+    "position": "-",
+    "system": "船24",
+    "destinations": [
+        "鎌倉女子大前",
+        "平島(鎌倉市)",
+        "笠間十字路",
+        "笠間町",
+        "岩井口",
+        "大船駅(横浜市栄区)"
+    ],
+    "weekday": [
+        "10:44",
+        "12:59",
+        "14:49"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802935-5/node:00126542/kt:0/lname:/"
+}

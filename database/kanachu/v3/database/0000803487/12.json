@@ -1,0 +1,21 @@
+{
+    "date": "2025/04/19",
+    "name": "淵野辺駅入口",
+    "position": "-",
+    "system": "淵35",
+    "destinations": [
+        "淵野辺駅南口"
+    ],
+    "weekday": [
+        "6:07",
+        "6:27",
+        "6:55"
+    ],
+    "saturday": [
+        "7:02"
+    ],
+    "holiday": [
+        "7:02"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803487-12/node:00129125/kt:0/lname:/"
+}

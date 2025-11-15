@@ -1,0 +1,16 @@
+{
+    "date": "2024/05/20",
+    "name": "今里(平塚市)",
+    "position": "-",
+    "system": "伊82",
+    "destinations": [
+        "坂口(平塚市)"
+    ],
+    "weekday": [
+        "21:41",
+        "22:16"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800926-19/node:00127612/kt:0/lname:/"
+}

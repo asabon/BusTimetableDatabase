@@ -1,0 +1,18 @@
+{
+    "date": "2024/03/16",
+    "name": "清水(相模原市中央区)",
+    "position": "-",
+    "system": "田05",
+    "destinations": [
+        "清水入口(相模原市中央区)",
+        "雨窪(相模原市中央区)",
+        "堀の内(相模原市中央区)",
+        "田名バスターミナル"
+    ],
+    "weekday": [
+        "15:57"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803484-12/node:00129157/kt:0/lname:/"
+}

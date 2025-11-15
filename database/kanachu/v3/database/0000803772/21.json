@@ -1,0 +1,22 @@
+{
+    "date": "2025/04/01",
+    "name": "日連大橋",
+    "position": "-",
+    "system": "野05",
+    "destinations": [
+        "藤野駅"
+    ],
+    "weekday": [
+        "6:36",
+        "7:30"
+    ],
+    "saturday": [
+        "6:36",
+        "7:32"
+    ],
+    "holiday": [
+        "6:36",
+        "7:32"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803772-21/node:00129011/kt:0/lname:/"
+}

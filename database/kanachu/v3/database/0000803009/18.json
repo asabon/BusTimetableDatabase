@@ -1,0 +1,24 @@
+{
+    "date": "2025/05/11",
+    "name": "紅葉橋(横浜市栄区)",
+    "position": "-",
+    "system": "船07",
+    "destinations": [
+        "光明寺(横浜市栄区)",
+        "中島(横浜市栄区)",
+        "西ヶ谷入口",
+        "西ヶ谷",
+        "上郷ネオポリス",
+        "栄プール"
+    ],
+    "weekday": [
+        "9:10"
+    ],
+    "saturday": [
+        "9:50"
+    ],
+    "holiday": [
+        "9:50"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803009-18/node:00126514/kt:0/lname:/"
+}

@@ -1,0 +1,24 @@
+{
+    "date": "2012/09/18",
+    "name": "蔵坪",
+    "position": "-",
+    "system": "戸96",
+    "destinations": [
+        "戸塚駅"
+    ],
+    "weekday": [
+        "17:19",
+        "17:50",
+        "18:18",
+        "18:32",
+        "18:52",
+        "19:14",
+        "19:48",
+        "20:40",
+        "21:07",
+        "21:57"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800092-12/node:00126899/kt:0/lname:/"
+}

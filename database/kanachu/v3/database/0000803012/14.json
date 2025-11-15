@@ -1,0 +1,27 @@
+{
+    "date": "2022/10/16",
+    "name": "西ヶ谷入口",
+    "position": "-",
+    "system": "港40",
+    "destinations": [
+        "西ヶ谷",
+        "上郷ネオポリス",
+        "栄プール"
+    ],
+    "weekday": [
+        "9:06",
+        "11:46",
+        "15:08"
+    ],
+    "saturday": [
+        "9:25",
+        "11:40",
+        "15:07"
+    ],
+    "holiday": [
+        "9:25",
+        "11:40",
+        "15:07"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803012-14/node:00126523/kt:0/lname:/"
+}

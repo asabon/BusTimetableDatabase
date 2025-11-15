@@ -1,0 +1,24 @@
+{
+    "date": "2024/03/16",
+    "name": "資源循環局前",
+    "position": "-",
+    "system": "東16",
+    "destinations": [
+        "川上インター前",
+        "東戸塚駅西口"
+    ],
+    "weekday": [
+        "6:25",
+        "6:43",
+        "7:03"
+    ],
+    "saturday": [
+        "6:37",
+        "9:54"
+    ],
+    "holiday": [
+        "6:37",
+        "9:54"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802525-9/node:00130479/kt:0/lname:/"
+}

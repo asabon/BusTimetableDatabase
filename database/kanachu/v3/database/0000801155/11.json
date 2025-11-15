@@ -1,0 +1,25 @@
+{
+    "date": "2025/07/12",
+    "name": "影取",
+    "position": "-",
+    "system": "船65",
+    "destinations": [
+        "聖母の園前",
+        "原宿四ツ角",
+        "公文国際学園",
+        "常勝寺(横浜市栄区)",
+        "田谷(横浜市栄区)",
+        "小蓋山",
+        "宮ノ前(横浜市栄区)",
+        "長尾台(横浜市栄区)",
+        "坂本(鎌倉市)",
+        "大船駅西口"
+    ],
+    "weekday": [
+        "17:32",
+        "18:32"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801155-11/node:00126980/kt:0/lname:/"
+}

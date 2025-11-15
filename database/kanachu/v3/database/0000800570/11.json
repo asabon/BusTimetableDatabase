@@ -1,0 +1,19 @@
+{
+    "date": "2025/10/20",
+    "name": "南成瀬",
+    "position": "-",
+    "system": "町75",
+    "destinations": [
+        "成瀬駅"
+    ],
+    "weekday": [
+        "7:43"
+    ],
+    "saturday": [
+        "8:28"
+    ],
+    "holiday": [
+        "8:48"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800570-11/node:00129562/kt:0/lname:/"
+}

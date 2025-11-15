@@ -1,0 +1,16 @@
+{
+    "date": "2021/02/01",
+    "name": "前の田",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "北茅ヶ崎駅入口",
+        "市立病院(茅ケ崎市)"
+    ],
+    "weekday": [
+        "7:40"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802096-20/node:00127136/kt:0/lname:/"
+}

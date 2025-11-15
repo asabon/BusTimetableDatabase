@@ -1,0 +1,20 @@
+{
+    "system": "湘18",
+    "busstops": [
+        {
+            "index": "1",
+            "id": "00129893",
+            "name": "湘南台駅西口",
+            "lat": "35.395968",
+            "lng": "139.465354"
+        },
+        {
+            "index": "2",
+            "id": "00127148",
+            "name": "文教大学",
+            "lat": "35.368558",
+            "lng": "139.415519"
+        }
+    ],
+    "route_url": "https://www.kanachu.co.jp/dia/route/index/cid:0000803883/"
+}

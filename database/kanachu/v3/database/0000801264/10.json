@@ -1,0 +1,23 @@
+{
+    "date": "2012/10/01",
+    "name": "上橋(横浜市瀬谷区)",
+    "position": "-",
+    "system": "境30",
+    "destinations": [
+        "中丸(横浜市瀬谷区)",
+        "瀬谷警察入口",
+        "三ツ境駅北口"
+    ],
+    "weekday": [
+        "8:49",
+        "10:13",
+        "11:14",
+        "12:14",
+        "13:19",
+        "14:09",
+        "15:09"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801264-10/node:00129661/kt:0/lname:/"
+}

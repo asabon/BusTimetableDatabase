@@ -1,0 +1,18 @@
+{
+    "date": "2025/01/14",
+    "name": "白山(厚木市)",
+    "position": "-",
+    "system": "厚27",
+    "destinations": [
+        "六堂辻",
+        "古松台入口"
+    ],
+    "weekday": [
+        "23:38"
+    ],
+    "saturday": [
+        "23:12"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803681-12/node:00128476/kt:0/lname:/"
+}

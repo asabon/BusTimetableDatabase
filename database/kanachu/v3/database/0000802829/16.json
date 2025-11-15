@@ -1,0 +1,23 @@
+{
+    "date": "2025/05/11",
+    "name": "大道小学校前",
+    "position": "-",
+    "system": "金25",
+    "destinations": [
+        "六浦",
+        "上行寺",
+        "六浦橋",
+        "金沢八景",
+        "金沢八景駅"
+    ],
+    "weekday": [
+        "7:01",
+        "7:25",
+        "8:04",
+        "10:22",
+        "11:52"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802829-16/node:00113600/kt:0/lname:/"
+}

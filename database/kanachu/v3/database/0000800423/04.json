@@ -1,0 +1,28 @@
+{
+    "date": "2024/05/20",
+    "name": "板戸",
+    "position": "-",
+    "system": "伊54",
+    "destinations": [
+        "八雲神社前(伊勢原市)",
+        "白根",
+        "白根公民館前",
+        "団地北(伊勢原市)",
+        "伊勢原車庫"
+    ],
+    "weekday": [
+        "8:10",
+        "16:55",
+        "18:51",
+        "19:49",
+        "20:49",
+        "22:24"
+    ],
+    "saturday": [
+        "21:39"
+    ],
+    "holiday": [
+        "21:39"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800423-4/node:00128130/kt:0/lname:/"
+}

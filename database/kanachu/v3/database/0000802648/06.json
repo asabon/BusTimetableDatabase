@@ -1,0 +1,26 @@
+{
+    "date": "2022/05/16",
+    "name": "南が丘東",
+    "position": "-",
+    "system": "秦70",
+    "destinations": [
+        "東名秦野",
+        "井ノ口駐在所前",
+        "境入口",
+        "井ノ口小学校西",
+        "久所入口",
+        "西谷戸橋",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "6:29",
+        "7:14",
+        "7:49",
+        "8:14",
+        "17:19",
+        "18:19"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802648-6/node:00127774/kt:0/lname:/"
+}

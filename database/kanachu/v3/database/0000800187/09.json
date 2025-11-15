@@ -1,0 +1,19 @@
+{
+    "date": "2022/02/05",
+    "name": "室田一丁目",
+    "position": "-",
+    "system": "茅16",
+    "destinations": [
+        "室田二丁目"
+    ],
+    "weekday": [
+        "23:01"
+    ],
+    "saturday": [
+        "21:26"
+    ],
+    "holiday": [
+        "21:26"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800187-9/node:00127264/kt:0/lname:/"
+}

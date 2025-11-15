@@ -1,0 +1,20 @@
+{
+    "system": "大61",
+    "busstops": [
+        {
+            "index": "1",
+            "id": "00129307",
+            "name": "グリーンホール前",
+            "lat": "35.534254",
+            "lng": "139.435128"
+        },
+        {
+            "index": "2",
+            "id": "00129312",
+            "name": "女子美術大学",
+            "lat": "35.52912",
+            "lng": "139.38992"
+        }
+    ],
+    "route_url": "https://www.kanachu.co.jp/dia/route/index/cid:0000803221/"
+}

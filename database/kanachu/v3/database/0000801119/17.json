@@ -1,0 +1,28 @@
+{
+    "date": "2023/02/18",
+    "name": "矢羽根",
+    "position": "-",
+    "system": "平91",
+    "destinations": [
+        "馬渡(伊勢原市)",
+        "下大竹",
+        "伊勢原中学校前",
+        "伊勢原駅南口"
+    ],
+    "weekday": [
+        "6:29",
+        "6:41",
+        "8:02",
+        "8:46",
+        "9:20",
+        "20:07",
+        "22:58"
+    ],
+    "saturday": [
+        "6:46"
+    ],
+    "holiday": [
+        "6:46"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801119-17/node:00128070/kt:0/lname:/"
+}

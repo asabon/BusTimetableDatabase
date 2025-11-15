@@ -1,0 +1,18 @@
+{
+    "date": "2025/04/19",
+    "name": "グリーンホール前",
+    "position": "-",
+    "system": "大25",
+    "destinations": [
+        "相模大野駅北口"
+    ],
+    "weekday": [
+        "6:08",
+        "6:20"
+    ],
+    "saturday": [
+        "6:14"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803513-21/node:00129307/kt:0/lname:/"
+}

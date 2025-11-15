@@ -1,0 +1,26 @@
+{
+    "date": "2025/05/11",
+    "name": "栄区役所前",
+    "position": "-",
+    "system": "本21",
+    "destinations": [
+        "本郷台駅"
+    ],
+    "weekday": [
+        "10:01",
+        "12:01",
+        "14:01",
+        "16:01"
+    ],
+    "saturday": [
+        "10:32",
+        "12:32",
+        "14:32"
+    ],
+    "holiday": [
+        "10:32",
+        "12:32",
+        "14:32"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802877-7/node:00126545/kt:0/lname:/"
+}

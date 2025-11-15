@@ -1,0 +1,24 @@
+{
+    "date": "2025/03/15",
+    "name": "団地中央(綾瀬市)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "吉岡工業団地"
+    ],
+    "weekday": [
+        "7:31",
+        "19:59"
+    ],
+    "saturday": [
+        "9:28",
+        "16:58",
+        "18:28"
+    ],
+    "holiday": [
+        "9:28",
+        "16:58",
+        "18:28"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802331-20/node:00129898/kt:0/lname:/"
+}

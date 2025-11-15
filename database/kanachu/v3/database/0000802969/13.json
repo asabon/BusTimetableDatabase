@@ -1,0 +1,20 @@
+{
+    "date": "2025/07/12",
+    "name": "天神社前",
+    "position": "-",
+    "system": "藤34",
+    "destinations": [
+        "舟地蔵",
+        "大六天(藤沢市)"
+    ],
+    "weekday": [
+        "21:15"
+    ],
+    "saturday": [
+        "21:07"
+    ],
+    "holiday": [
+        "21:07"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802969-13/node:00127058/kt:0/lname:/"
+}

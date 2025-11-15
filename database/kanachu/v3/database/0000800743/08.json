@@ -1,0 +1,27 @@
+{
+    "date": "2025/07/12",
+    "name": "台町(藤沢市)",
+    "position": "-",
+    "system": "藤36",
+    "destinations": [
+        "白旗交差点",
+        "本町小学校前(藤沢市)",
+        "南仲通り二丁目",
+        "南仲通り",
+        "相生町(藤沢市)",
+        "三富士町",
+        "藤沢駅北口"
+    ],
+    "weekday": [],
+    "saturday": [
+        "10:24",
+        "11:29",
+        "13:34"
+    ],
+    "holiday": [
+        "10:24",
+        "11:29",
+        "13:34"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800743-8/node:00127049/kt:0/lname:/"
+}

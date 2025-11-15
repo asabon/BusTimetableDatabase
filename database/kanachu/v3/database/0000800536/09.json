@@ -1,0 +1,17 @@
+{
+    "date": "2024/03/16",
+    "name": "西ヶ谷",
+    "position": "-",
+    "system": "港86",
+    "destinations": [
+        "上郷ネオポリス"
+    ],
+    "weekday": [
+        "6:44",
+        "7:09",
+        "7:34"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800536-9/node:00126524/kt:0/lname:/"
+}

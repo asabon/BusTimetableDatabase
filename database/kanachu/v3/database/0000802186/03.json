@@ -1,0 +1,19 @@
+{
+    "date": "2022/01/16",
+    "name": "薬王寺入口",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "鶴ヶ峰中学校前",
+        "今宿小学校入口",
+        "今宿(横浜市旭区)"
+    ],
+    "weekday": [
+        "7:07",
+        "8:03",
+        "8:23"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802186-3/node:00129719/kt:0/lname:/"
+}

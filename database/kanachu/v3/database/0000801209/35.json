@@ -1,0 +1,25 @@
+{
+    "date": "2025/07/12",
+    "name": "工業団地入口(藤沢市)",
+    "position": "-",
+    "system": "藤39",
+    "destinations": [
+        "北警察署前(藤沢市)",
+        "湘南台駅西口"
+    ],
+    "weekday": [
+        "6:32",
+        "6:57",
+        "7:51",
+        "8:26",
+        "9:11",
+        "11:11",
+        "13:11",
+        "15:11",
+        "17:12",
+        "19:09"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801209-35/node:00129909/kt:0/lname:/"
+}

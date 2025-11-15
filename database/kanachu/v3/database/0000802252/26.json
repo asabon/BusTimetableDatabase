@@ -1,0 +1,20 @@
+{
+    "date": "2024/04/01",
+    "name": "藤田電機前(中郡二宮町)",
+    "position": "-",
+    "system": "二32",
+    "destinations": [
+        "二宮駅南口"
+    ],
+    "weekday": [
+        "17:38",
+        "17:56",
+        "18:26",
+        "18:56",
+        "19:26",
+        "19:56"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802252-26/node:00127490/kt:0/lname:/"
+}

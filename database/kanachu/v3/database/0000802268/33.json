@@ -1,0 +1,21 @@
+{
+    "date": "2024/04/01",
+    "name": "浅間町車庫前",
+    "position": "-",
+    "system": "横51",
+    "destinations": [
+        "浅岡橋",
+        "浅間下(横浜市西区)",
+        "楠町",
+        "鶴屋町三丁目",
+        "横浜駅西口"
+    ],
+    "weekday": [
+        "7:50",
+        "8:12",
+        "10:00"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802268-33/node:00102672/kt:0/lname:/"
+}

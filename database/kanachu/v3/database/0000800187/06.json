@@ -1,0 +1,22 @@
+{
+    "date": "2022/02/05",
+    "name": "高田三丁目",
+    "position": "-",
+    "system": "茅16",
+    "destinations": [
+        "室田",
+        "室田小学校入口",
+        "室田一丁目",
+        "室田二丁目"
+    ],
+    "weekday": [
+        "22:59"
+    ],
+    "saturday": [
+        "21:24"
+    ],
+    "holiday": [
+        "21:24"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800187-6/node:00127261/kt:0/lname:/"
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2025/03/15",
+    "name": "北警察署前(藤沢市)",
+    "position": "-",
+    "system": "湘13",
+    "destinations": [
+        "湘南台駅西口"
+    ],
+    "weekday": [
+        "7:46",
+        "8:10",
+        "8:18",
+        "8:26",
+        "8:36",
+        "8:46",
+        "9:26"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802689-12/node:00129895/kt:0/lname:/"
+}

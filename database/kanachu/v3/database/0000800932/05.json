@@ -1,0 +1,24 @@
+{
+    "date": "2021/01/16",
+    "name": "南橋(町田市)",
+    "position": "-",
+    "system": "町84",
+    "destinations": [
+        "金森郵便局前",
+        "金森",
+        "市営住宅入口(町田市)",
+        "南中学校前(町田市)",
+        "南中学校東(町田市)",
+        "小田急団地前",
+        "小川かえで公園前",
+        "小川高校入口",
+        "成瀬駅ガード南",
+        "成瀬駅"
+    ],
+    "weekday": [
+        "8:13"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800932-5/node:00129542/kt:0/lname:/"
+}

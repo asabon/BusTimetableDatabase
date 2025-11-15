@@ -1,0 +1,27 @@
+{
+    "date": "2024/12/16",
+    "name": "東橋(伊勢原市)",
+    "position": "-",
+    "system": "巻11",
+    "destinations": [
+        "串橋下",
+        "本村(伊勢原市)",
+        "笠窪",
+        "鶴巻温泉駅"
+    ],
+    "weekday": [
+        "5:49",
+        "10:30",
+        "14:29",
+        "17:55"
+    ],
+    "saturday": [
+        "12:32",
+        "18:07"
+    ],
+    "holiday": [
+        "12:32",
+        "18:07"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802744-3/node:00128227/kt:0/lname:/"
+}

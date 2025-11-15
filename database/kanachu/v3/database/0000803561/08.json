@@ -1,0 +1,27 @@
+{
+    "date": "2024/09/02",
+    "name": "下郷(横浜市戸塚区)",
+    "position": "-",
+    "system": "戸75",
+    "destinations": [
+        "日ノ出橋(横浜市戸塚区)",
+        "金井(横浜市栄区)",
+        "辻前",
+        "金井高校前"
+    ],
+    "weekday": [
+        "6:38",
+        "6:53",
+        "7:00",
+        "7:14",
+        "7:28",
+        "7:42",
+        "7:56",
+        "8:03",
+        "8:16",
+        "8:22"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803561-8/node:00126842/kt:0/lname:/"
+}

@@ -1,0 +1,22 @@
+{
+    "date": "2025/01/14",
+    "name": "三家入口(厚木市)",
+    "position": "-",
+    "system": "厚04",
+    "destinations": [
+        "木売場",
+        "市立病院前(厚木市)",
+        "税務署入口(厚木市)",
+        "市役所入口(厚木市)",
+        "本厚木駅"
+    ],
+    "weekday": [],
+    "saturday": [
+        "6:05",
+        "7:24"
+    ],
+    "holiday": [
+        "6:07"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801405-22/node:00128261/kt:0/lname:/"
+}

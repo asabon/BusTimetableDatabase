@@ -1,0 +1,25 @@
+{
+    "date": "2024/09/02",
+    "name": "集会所前(横浜市泉区)",
+    "position": "-",
+    "system": "長55",
+    "destinations": [
+        "中屋敷(横浜市泉区)",
+        "五軒庭",
+        "上飯田(横浜市泉区)",
+        "上飯田車庫"
+    ],
+    "weekday": [
+        "7:38",
+        "19:26"
+    ],
+    "saturday": [
+        "7:53",
+        "18:23"
+    ],
+    "holiday": [
+        "7:53",
+        "18:23"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800090-18/node:00126895/kt:0/lname:/"
+}

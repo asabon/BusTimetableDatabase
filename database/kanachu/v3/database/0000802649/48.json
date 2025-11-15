@@ -1,0 +1,27 @@
+{
+    "date": "2021/02/01",
+    "name": "室田二丁目",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "高田三丁目",
+        "市立病院(茅ケ崎市)"
+    ],
+    "weekday": [
+        "7:52",
+        "9:05",
+        "12:50",
+        "17:20"
+    ],
+    "saturday": [
+        "9:05",
+        "12:50",
+        "17:20"
+    ],
+    "holiday": [
+        "9:05",
+        "12:50",
+        "17:20"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802649-48/node:00127265/kt:0/lname:/"
+}

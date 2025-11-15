@@ -1,0 +1,25 @@
+{
+    "date": "2025/05/11",
+    "name": "団地下(横浜市栄区)",
+    "position": "-",
+    "system": "本21",
+    "destinations": [
+        "公田団地"
+    ],
+    "weekday": [
+        "11:45",
+        "13:45",
+        "15:45"
+    ],
+    "saturday": [
+        "10:15",
+        "12:15",
+        "14:15"
+    ],
+    "holiday": [
+        "10:15",
+        "12:15",
+        "14:15"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801372-6/node:00126540/kt:0/lname:/"
+}

@@ -1,0 +1,19 @@
+{
+    "date": "2025/04/01",
+    "name": "平丸",
+    "position": "-",
+    "system": "三55",
+    "destinations": [
+        "橋津原",
+        "青根公民館前",
+        "東野(相模原市緑区)"
+    ],
+    "weekday": [
+        "10:28",
+        "15:23",
+        "17:18"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803767-22/node:00128771/kt:0/lname:/"
+}

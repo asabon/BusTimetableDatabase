@@ -1,0 +1,20 @@
+{
+    "date": "2024/05/20",
+    "name": "高部屋小学校前",
+    "position": "-",
+    "system": "伊24",
+    "destinations": [
+        "洗水",
+        "諏訪坂下",
+        "藤野入口",
+        "高橋(伊勢原市)",
+        "坊中(伊勢原市)",
+        "日向薬師"
+    ],
+    "weekday": [
+        "15:52"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801948-10/node:00128178/kt:0/lname:/"
+}

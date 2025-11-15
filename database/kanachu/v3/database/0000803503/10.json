@@ -1,0 +1,23 @@
+{
+    "date": "2025/04/19",
+    "name": "東通り(相模原市南区)",
+    "position": "-",
+    "system": "大68",
+    "destinations": [
+        "団地入口(相模原市南区)",
+        "小沼(相模原市南区)",
+        "南中前(相模原市南区)",
+        "グリーンホール前",
+        "相模大野駅北口"
+    ],
+    "weekday": [
+        "5:49",
+        "6:25",
+        "6:55"
+    ],
+    "saturday": [],
+    "holiday": [
+        "6:28"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803503-10/node:00129237/kt:0/lname:/"
+}

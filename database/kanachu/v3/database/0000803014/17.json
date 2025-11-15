@@ -1,0 +1,22 @@
+{
+    "date": "2021/02/01",
+    "name": "蒔田駅前",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "蒔田中学校前(横浜市南区)"
+    ],
+    "weekday": [
+        "19:59",
+        "22:02"
+    ],
+    "saturday": [
+        "19:58",
+        "21:52"
+    ],
+    "holiday": [
+        "19:58",
+        "21:52"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803014-17/node:00103093/kt:0/lname:/"
+}

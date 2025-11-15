@@ -1,0 +1,17 @@
+{
+    "date": "2025/10/01",
+    "name": "西公園前(中郡二宮町)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "ラディアン",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "11:18",
+        "17:18"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803901-25/node:00130163/kt:0/lname:/"
+}

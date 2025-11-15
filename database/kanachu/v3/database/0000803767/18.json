@@ -1,0 +1,23 @@
+{
+    "date": "2025/04/01",
+    "name": "西野々(相模原市緑区)",
+    "position": "-",
+    "system": "三55",
+    "destinations": [
+        "伏馬田入口",
+        "夫婦園",
+        "荒井(相模原市緑区)",
+        "平丸",
+        "橋津原",
+        "青根公民館前",
+        "東野(相模原市緑区)"
+    ],
+    "weekday": [
+        "10:18",
+        "15:13",
+        "17:08"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803767-18/node:00128767/kt:0/lname:/"
+}

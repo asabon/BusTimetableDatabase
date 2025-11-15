@@ -1,0 +1,18 @@
+{
+    "date": "2025/01/14",
+    "name": "文化会館入口(愛甲郡愛川町)",
+    "position": "-",
+    "system": "海02",
+    "destinations": [
+        "愛川高校入口",
+        "箕輪辻",
+        "愛川バスセンター"
+    ],
+    "weekday": [
+        "20:28",
+        "21:28"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803121-23/node:00128376/kt:0/lname:/"
+}

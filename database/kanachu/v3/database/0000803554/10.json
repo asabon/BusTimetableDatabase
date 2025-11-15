@@ -1,0 +1,20 @@
+{
+    "date": "2024/05/20",
+    "name": "中原上宿",
+    "position": "-",
+    "system": "平96",
+    "destinations": [
+        "大縄橋",
+        "豊田本郷駅",
+        "東橋(平塚市)",
+        "矢崎(平塚市)"
+    ],
+    "weekday": [
+        "21:02",
+        "21:32",
+        "23:42"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803554-10/node:00128067/kt:0/lname:/"
+}

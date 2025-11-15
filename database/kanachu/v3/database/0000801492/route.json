@@ -1,0 +1,20 @@
+{
+    "system": "厚10",
+    "busstops": [
+        {
+            "index": "1",
+            "id": "00128256",
+            "name": "厚木バスセンター",
+            "lat": "35.441543",
+            "lng": "139.366372"
+        },
+        {
+            "index": "2",
+            "id": "00127706",
+            "name": "厚木アクスト",
+            "lat": "35.42278",
+            "lng": "139.360989"
+        }
+    ],
+    "route_url": "https://www.kanachu.co.jp/dia/route/index/cid:0000801492/"
+}

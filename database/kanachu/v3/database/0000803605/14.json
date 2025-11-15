@@ -1,0 +1,22 @@
+{
+    "date": "2024/09/02",
+    "name": "鳥が丘中央",
+    "position": "-",
+    "system": "戸99",
+    "destinations": [
+        "道祖神前(横浜市戸塚区)",
+        "谷矢部中央",
+        "来迎寺(横浜市戸塚区)",
+        "柳作東",
+        "蔵坪",
+        "戸塚駅"
+    ],
+    "weekday": [],
+    "saturday": [
+        "6:41"
+    ],
+    "holiday": [
+        "6:41"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803605-14/node:00126859/kt:0/lname:/"
+}

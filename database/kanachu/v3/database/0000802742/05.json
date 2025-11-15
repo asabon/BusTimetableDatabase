@@ -1,0 +1,25 @@
+{
+    "date": "2024/12/16",
+    "name": "東橋(伊勢原市)",
+    "position": "-",
+    "system": "巻11",
+    "destinations": [
+        "串橋改善センター",
+        "伊勢原車庫"
+    ],
+    "weekday": [
+        "8:53",
+        "13:29",
+        "16:28",
+        "18:32"
+    ],
+    "saturday": [
+        "11:05",
+        "16:44"
+    ],
+    "holiday": [
+        "11:05",
+        "16:44"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802742-5/node:00128227/kt:0/lname:/"
+}

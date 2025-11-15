@@ -1,0 +1,19 @@
+{
+    "date": "2025/01/14",
+    "name": "上古沢",
+    "position": "-",
+    "system": "厚32",
+    "destinations": [
+        "ネポン入口",
+        "上分",
+        "旗谷下"
+    ],
+    "weekday": [
+        "13:50",
+        "17:51",
+        "19:21"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801648-26/node:00128485/kt:0/lname:/"
+}

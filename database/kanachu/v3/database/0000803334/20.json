@@ -1,0 +1,29 @@
+{
+    "date": "2024/05/20",
+    "name": "下宿(伊勢原市)",
+    "position": "-",
+    "system": "伊80",
+    "destinations": [
+        "伊勢原駅南口"
+    ],
+    "weekday": [
+        "7:37",
+        "9:07",
+        "10:37",
+        "12:27",
+        "16:07",
+        "17:32",
+        "18:54"
+    ],
+    "saturday": [
+        "9:39",
+        "14:39",
+        "18:47"
+    ],
+    "holiday": [
+        "9:39",
+        "14:39",
+        "18:47"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803334-20/node:00128057/kt:0/lname:/"
+}

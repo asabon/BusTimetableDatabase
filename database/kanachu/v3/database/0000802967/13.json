@@ -1,0 +1,25 @@
+{
+    "date": "2025/07/12",
+    "name": "小出一本松",
+    "position": "-",
+    "system": "藤39",
+    "destinations": [
+        "大辻(藤沢市)",
+        "丸山大辻",
+        "ライフタウン入口",
+        "堤羽根沢",
+        "湘南カントリークラブ前",
+        "羽根沢",
+        "大庭小学校",
+        "小糸",
+        "城下(藤沢市)",
+        "舟地蔵",
+        "大六天(藤沢市)"
+    ],
+    "weekday": [
+        "19:45"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802967-13/node:00129957/kt:0/lname:/"
+}

@@ -1,0 +1,22 @@
+{
+    "date": "2025/04/19",
+    "name": "田名工業団地入口",
+    "position": "-",
+    "system": "淵59",
+    "destinations": [
+        "四ツ谷(相模原市中央区)",
+        "田名バスターミナル",
+        "田名坂上",
+        "高田橋入口",
+        "小沢(愛甲郡愛川町)",
+        "梅沢(愛甲郡愛川町)",
+        "箕輪辻",
+        "愛川バスセンター"
+    ],
+    "weekday": [
+        "7:40"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802379-14/node:00129184/kt:0/lname:/"
+}

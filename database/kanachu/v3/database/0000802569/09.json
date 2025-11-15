@@ -1,0 +1,21 @@
+{
+    "date": "2024/09/09",
+    "name": "高山(横浜市神奈川区)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "羽沢南",
+        "池の谷戸(横浜市保土ケ谷区)",
+        "川島住宅"
+    ],
+    "weekday": [
+        "20:55"
+    ],
+    "saturday": [
+        "20:55"
+    ],
+    "holiday": [
+        "20:55"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802569-9/node:00129778/kt:0/lname:/"
+}

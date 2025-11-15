@@ -1,0 +1,22 @@
+{
+    "date": "2025/10/20",
+    "name": "堀の内(横浜市青葉区)",
+    "position": "-",
+    "system": "津04",
+    "destinations": [
+        "あかね台入口(横浜市青葉区)",
+        "熊の谷公園",
+        "あかね台北",
+        "奈良三丁目"
+    ],
+    "weekday": [
+        "8:43",
+        "19:08",
+        "20:08",
+        "20:48",
+        "22:11"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802141-3/node:00019243/kt:0/lname:/"
+}

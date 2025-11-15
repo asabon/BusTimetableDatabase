@@ -1,0 +1,21 @@
+{
+    "date": "2024/05/20",
+    "name": "片町十字路",
+    "position": "-",
+    "system": "伊37",
+    "destinations": [
+        "大神宮前",
+        "本町(伊勢原市)",
+        "伊勢原駅北口"
+    ],
+    "weekday": [
+        "6:36"
+    ],
+    "saturday": [
+        "6:51"
+    ],
+    "holiday": [
+        "6:51"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803541-14/node:00128143/kt:0/lname:/"
+}

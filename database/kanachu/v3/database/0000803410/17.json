@@ -1,0 +1,28 @@
+{
+    "date": "2025/08/30",
+    "name": "六ツ川町",
+    "position": "-",
+    "system": "戸01",
+    "destinations": [
+        "弘明寺口",
+        "南永田",
+        "住宅前(横浜市南区)",
+        "井土ヶ谷",
+        "井土ヶ谷下町"
+    ],
+    "weekday": [
+        "20:49",
+        "22:42"
+    ],
+    "saturday": [
+        "19:29",
+        "20:39",
+        "22:20"
+    ],
+    "holiday": [
+        "19:29",
+        "20:39",
+        "22:20"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803410-17/node:00126627/kt:0/lname:/"
+}

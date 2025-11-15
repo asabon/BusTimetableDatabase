@@ -1,0 +1,26 @@
+{
+    "date": "2025/04/01",
+    "name": "公民館前(愛甲郡清川村)",
+    "position": "-",
+    "system": "厚22",
+    "destinations": [
+        "小学校前(愛甲郡清川村)",
+        "清川村役場前",
+        "煤ヶ谷",
+        "古在家",
+        "坂尻(愛甲郡清川村)",
+        "柿ノ木平",
+        "上煤ヶ谷"
+    ],
+    "weekday": [
+        "23:07",
+        "23:37"
+    ],
+    "saturday": [
+        "22:56"
+    ],
+    "holiday": [
+        "22:56"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803802-36/node:00128421/kt:0/lname:/"
+}

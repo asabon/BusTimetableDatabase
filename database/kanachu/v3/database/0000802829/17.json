@@ -1,0 +1,22 @@
+{
+    "date": "2025/05/11",
+    "name": "六浦",
+    "position": "-",
+    "system": "金25",
+    "destinations": [
+        "上行寺",
+        "六浦橋",
+        "金沢八景",
+        "金沢八景駅"
+    ],
+    "weekday": [
+        "7:02",
+        "7:26",
+        "8:05",
+        "10:23",
+        "11:53"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802829-17/node:00113599/kt:0/lname:/"
+}

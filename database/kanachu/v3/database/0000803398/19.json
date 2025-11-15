@@ -1,0 +1,22 @@
+{
+    "date": "2023/10/01",
+    "name": "鶴間中前",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "鶴間駅東口",
+        "鶴間二丁目",
+        "オークシティ南",
+        "市立病院(大和市)"
+    ],
+    "weekday": [
+        "19:31"
+    ],
+    "saturday": [
+        "18:31"
+    ],
+    "holiday": [
+        "18:31"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803398-19/node:00130450/kt:0/lname:/"
+}

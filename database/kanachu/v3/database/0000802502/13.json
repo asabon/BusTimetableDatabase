@@ -1,0 +1,27 @@
+{
+    "date": "2025/10/20",
+    "name": "柴山",
+    "position": "-",
+    "system": "津01",
+    "destinations": [
+        "南町田グランベリーパーク駅"
+    ],
+    "weekday": [
+        "8:27",
+        "9:32",
+        "12:32",
+        "13:32",
+        "15:02",
+        "16:02",
+        "17:12"
+    ],
+    "saturday": [
+        "9:42",
+        "14:42"
+    ],
+    "holiday": [
+        "9:42",
+        "14:42"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802502-13/node:00129568/kt:0/lname:/"
+}

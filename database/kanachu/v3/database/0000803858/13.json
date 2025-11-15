@@ -1,0 +1,21 @@
+{
+    "date": "2025/08/30",
+    "name": "上永谷住宅入口",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "南高校前(横浜市港南区)",
+        "月見ヶ丘団地前",
+        "室ノ木(横浜市港南区)",
+        "港南区総合庁舎前",
+        "笹下港南中央通り",
+        "関の下",
+        "上大岡駅"
+    ],
+    "weekday": [
+        "11:19"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803858-13/node:00126572/kt:0/lname:/"
+}

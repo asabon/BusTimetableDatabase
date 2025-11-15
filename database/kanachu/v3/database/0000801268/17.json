@@ -1,0 +1,21 @@
+{
+    "date": "2025/03/15",
+    "name": "一之宮小学校前",
+    "position": "-",
+    "system": "茅52",
+    "destinations": [
+        "西一之宮"
+    ],
+    "weekday": [
+        "21:58",
+        "22:53"
+    ],
+    "saturday": [
+        "21:48"
+    ],
+    "holiday": [
+        "20:38",
+        "21:08"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801268-17/node:00127217/kt:0/lname:/"
+}

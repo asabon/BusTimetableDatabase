@@ -1,0 +1,25 @@
+{
+    "date": "2023/07/01",
+    "name": "市役所前(平塚市)",
+    "position": "-",
+    "system": "平15",
+    "destinations": [
+        "四ツ角(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "11:30",
+        "12:30",
+        "13:30",
+        "14:30",
+        "15:30",
+        "16:30",
+        "17:28",
+        "18:30",
+        "19:31",
+        "20:28"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803317-22/node:00127684/kt:0/lname:/"
+}

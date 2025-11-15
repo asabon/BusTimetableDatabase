@@ -1,0 +1,22 @@
+{
+    "date": "2017/01/16",
+    "name": "上依知",
+    "position": "-",
+    "system": "厚81",
+    "destinations": [
+        "依知神社前",
+        "昭和橋(相模原市南区)",
+        "下当麻",
+        "当麻市場",
+        "夢の丘小学校入口",
+        "原当麻駅"
+    ],
+    "weekday": [
+        "12:24",
+        "13:54",
+        "15:24"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800596-18/node:00128357/kt:0/lname:/"
+}

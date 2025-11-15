@@ -1,0 +1,25 @@
+{
+    "date": "2024/09/09",
+    "name": "今宿小学校入口",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "今宿中学校前",
+        "今宿ハイツ",
+        "上白根公園",
+        "グリーンヒル上白根"
+    ],
+    "weekday": [
+        "21:07"
+    ],
+    "saturday": [
+        "20:39",
+        "21:24"
+    ],
+    "holiday": [
+        "20:04",
+        "20:44",
+        "21:24"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802482-5/node:00129717/kt:0/lname:/"
+}

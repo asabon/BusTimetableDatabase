@@ -1,0 +1,22 @@
+{
+    "date": "2023/03/18",
+    "name": "町田バスセンター",
+    "position": "14番乗り場",
+    "system": "町21",
+    "destinations": [
+        "町田市役所市民ホール前",
+        "第四小学校前(町田市)",
+        "中町二丁目",
+        "旭町(町田市)",
+        "市民病院正門"
+    ],
+    "weekday": [
+        "6:30",
+        "6:58",
+        "7:13",
+        "7:48"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802847-1/node:00025625/kt:0/lname:/"
+}

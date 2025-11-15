@@ -1,0 +1,25 @@
+{
+    "date": "2023/10/01",
+    "name": "つきみ野1丁目",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "代官山",
+        "南林間駅東口",
+        "鶴間中前",
+        "鶴間駅東口",
+        "鶴間二丁目",
+        "オークシティ南",
+        "市立病院(大和市)"
+    ],
+    "weekday": [
+        "19:23"
+    ],
+    "saturday": [
+        "18:23"
+    ],
+    "holiday": [
+        "18:23"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803398-16/node:00130452/kt:0/lname:/"
+}

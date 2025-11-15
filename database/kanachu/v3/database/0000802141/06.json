@@ -1,0 +1,19 @@
+{
+    "date": "2025/10/20",
+    "name": "あかね台北",
+    "position": "-",
+    "system": "津04",
+    "destinations": [
+        "奈良三丁目"
+    ],
+    "weekday": [
+        "8:47",
+        "19:12",
+        "20:12",
+        "20:52",
+        "22:15"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802141-6/node:00130358/kt:0/lname:/"
+}

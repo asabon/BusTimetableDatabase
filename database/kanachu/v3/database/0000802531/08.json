@@ -1,0 +1,27 @@
+{
+    "date": "2020/05/11",
+    "name": "市営第二住宅入口",
+    "position": "-",
+    "system": "東16",
+    "destinations": [
+        "名瀬スポーツ公園入口",
+        "新戸塚病院前",
+        "名瀬ホーム前",
+        "ネオポリス公園",
+        "公園前商店街入口"
+    ],
+    "weekday": [
+        "19:36",
+        "19:51",
+        "22:36"
+    ],
+    "saturday": [
+        "19:41",
+        "21:15"
+    ],
+    "holiday": [
+        "19:41",
+        "21:15"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802531-8/node:00126720/kt:0/lname:/"
+}

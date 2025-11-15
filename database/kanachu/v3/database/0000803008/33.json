@@ -1,0 +1,17 @@
+{
+    "date": "2022/03/12",
+    "name": "橋本二丁目",
+    "position": "-",
+    "system": "橋02",
+    "destinations": [
+        "橋本駅南口"
+    ],
+    "weekday": [
+        "7:55"
+    ],
+    "saturday": [
+        "7:45"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803008-33/node:00128971/kt:0/lname:/"
+}

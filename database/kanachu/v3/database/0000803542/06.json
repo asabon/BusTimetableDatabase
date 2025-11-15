@@ -1,0 +1,27 @@
+{
+    "date": "2024/05/20",
+    "name": "中屋橋",
+    "position": "-",
+    "system": "愛12",
+    "destinations": [
+        "小野橋(厚木市)",
+        "小野宮前",
+        "愛名入口",
+        "上長谷(厚木市)",
+        "毛利台南入口",
+        "聖木",
+        "大上(厚木市)",
+        "愛甲原住宅",
+        "上愛甲",
+        "愛甲橋",
+        "堂山",
+        "宮前(厚木市)",
+        "愛甲石田駅"
+    ],
+    "weekday": [
+        "6:08"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803542-6/node:00128451/kt:0/lname:/"
+}

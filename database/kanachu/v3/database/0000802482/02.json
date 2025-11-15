@@ -1,0 +1,28 @@
+{
+    "date": "2024/09/09",
+    "name": "鶴ヶ峰本町",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "薬王寺入口",
+        "鶴ヶ峰中学校前",
+        "今宿小学校入口",
+        "今宿中学校前",
+        "今宿ハイツ",
+        "上白根公園",
+        "グリーンヒル上白根"
+    ],
+    "weekday": [
+        "21:04"
+    ],
+    "saturday": [
+        "20:36",
+        "21:21"
+    ],
+    "holiday": [
+        "20:01",
+        "20:41",
+        "21:21"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802482-2/node:00129720/kt:0/lname:/"
+}

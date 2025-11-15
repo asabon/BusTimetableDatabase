@@ -1,0 +1,22 @@
+{
+    "date": "2024/03/16",
+    "name": "横浜栄高校前",
+    "position": "-",
+    "system": "港86",
+    "destinations": [
+        "榎戸(横浜市港南区)",
+        "横浜女子短期大学前",
+        "港南台駅"
+    ],
+    "weekday": [
+        "5:52",
+        "6:17",
+        "6:44",
+        "7:09",
+        "7:34",
+        "7:54"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800699-7/node:00126608/kt:0/lname:/"
+}

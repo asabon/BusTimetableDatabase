@@ -1,0 +1,23 @@
+{
+    "date": "2025/02/24",
+    "name": "大坂上(横浜市戸塚区)",
+    "position": "-",
+    "system": "戸56",
+    "destinations": [
+        "新道大坂上",
+        "西横浜国際総合病院前",
+        "吹上(横浜市戸塚区)",
+        "大運寺",
+        "横浜医療センター前",
+        "横浜医療センター"
+    ],
+    "weekday": [
+        "7:11",
+        "18:26",
+        "19:07",
+        "20:13"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801357-6/node:00126813/kt:0/lname:/"
+}

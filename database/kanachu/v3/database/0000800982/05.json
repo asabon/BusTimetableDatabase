@@ -1,0 +1,23 @@
+{
+    "date": "2025/07/12",
+    "name": "本町消防出張所前",
+    "position": "-",
+    "system": "藤38",
+    "destinations": [
+        "白旗交差点",
+        "台町(藤沢市)",
+        "湘南高校前",
+        "一中入口(藤沢市)",
+        "引地橋",
+        "観音坂下",
+        "老人センター(藤沢市)"
+    ],
+    "weekday": [
+        "9:06",
+        "9:36",
+        "12:12"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800982-5/node:00127011/kt:0/lname:/"
+}

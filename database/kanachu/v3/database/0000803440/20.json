@@ -1,0 +1,22 @@
+{
+    "date": "2024/12/16",
+    "name": "永山いちょう通り",
+    "position": "-",
+    "system": "鶴31",
+    "destinations": [
+        "諏訪南公園",
+        "諏訪幼稚園前",
+        "諏訪二丁目(多摩市)",
+        "永山駅"
+    ],
+    "weekday": [
+        "22:15"
+    ],
+    "saturday": [
+        "22:15"
+    ],
+    "holiday": [
+        "22:15"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803440-20/node:00020140/kt:0/lname:/"
+}

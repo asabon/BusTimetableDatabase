@@ -1,0 +1,19 @@
+{
+    "date": "2024/05/20",
+    "name": "追分(平塚市)",
+    "position": "-",
+    "system": "平89",
+    "destinations": [
+        "立野町(平塚市)",
+        "横浜ゴム前",
+        "市役所前(ゴム前/平塚市)",
+        "四ツ角(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "13:47"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801049-25/node:00127556/kt:0/lname:/"
+}

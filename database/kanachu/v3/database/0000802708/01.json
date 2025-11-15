@@ -1,0 +1,28 @@
+{
+    "date": "2025/03/15",
+    "name": "文化体育館前",
+    "position": "-",
+    "system": "湘15",
+    "destinations": [
+        "一色上",
+        "公園北(藤沢市)",
+        "石川六丁目",
+        "工業団地入口(藤沢市)",
+        "北警察署前(藤沢市)",
+        "湘南台駅東口"
+    ],
+    "weekday": [
+        "9:25",
+        "13:20",
+        "16:20"
+    ],
+    "saturday": [
+        "13:20",
+        "14:20"
+    ],
+    "holiday": [
+        "8:20",
+        "13:20"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802708-1/node:00129929/kt:0/lname:/"
+}

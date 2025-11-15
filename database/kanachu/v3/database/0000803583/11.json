@@ -1,0 +1,24 @@
+{
+    "date": "2024/07/01",
+    "name": "小雀",
+    "position": "-",
+    "system": "船24",
+    "destinations": [
+        "庚申塚(横浜市戸塚区)",
+        "原宿四ツ角",
+        "横浜医療センター前",
+        "三叉路(横浜市戸塚区)",
+        "横浜薬大南門",
+        "俣野公園・横浜薬大前"
+    ],
+    "weekday": [
+        "6:32",
+        "6:41",
+        "7:17",
+        "8:06",
+        "18:44"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803583-11/node:00126925/kt:0/lname:/"
+}

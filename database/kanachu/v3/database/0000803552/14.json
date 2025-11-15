@@ -1,0 +1,22 @@
+{
+    "date": "2024/09/02",
+    "name": "戸塚台",
+    "position": "-",
+    "system": "戸95",
+    "destinations": [
+        "戸塚台中央"
+    ],
+    "weekday": [
+        "19:44",
+        "21:44"
+    ],
+    "saturday": [
+        "19:04",
+        "21:14"
+    ],
+    "holiday": [
+        "19:04",
+        "21:14"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803552-14/node:00126866/kt:0/lname:/"
+}

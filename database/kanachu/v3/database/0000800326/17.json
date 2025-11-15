@@ -1,0 +1,17 @@
+{
+    "date": "2025/08/04",
+    "name": "城山高校前",
+    "position": "-",
+    "system": "橋14",
+    "destinations": [
+        "城山(相模原市緑区)"
+    ],
+    "weekday": [
+        "20:01",
+        "20:51",
+        "23:11"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800326-17/node:00128956/kt:0/lname:/"
+}

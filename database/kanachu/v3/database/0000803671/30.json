@@ -1,0 +1,19 @@
+{
+    "date": "2025/01/06",
+    "name": "中山小学校南",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "中山町",
+        "西村橋",
+        "中山駅"
+    ],
+    "weekday": [
+        "7:00"
+    ],
+    "saturday": [
+        "7:00"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803671-30/node:00102856/kt:0/lname:/"
+}

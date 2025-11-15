@@ -1,0 +1,15 @@
+{
+    "date": "2025/08/30",
+    "name": "矢部町",
+    "position": "-",
+    "system": "横46",
+    "destinations": [
+        "戸塚駅東口"
+    ],
+    "weekday": [
+        "7:20"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802533-33/node:00126610/kt:0/lname:/"
+}

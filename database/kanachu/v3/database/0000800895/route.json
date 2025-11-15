@@ -1,0 +1,20 @@
+{
+    "system": "淵25",
+    "busstops": [
+        {
+            "index": "1",
+            "id": "00021091",
+            "name": "日大三高",
+            "lat": "35.59209",
+            "lng": "139.418516"
+        },
+        {
+            "index": "2",
+            "id": "00129246",
+            "name": "淵野辺駅北口",
+            "lat": "35.569097",
+            "lng": "139.394529"
+        }
+    ],
+    "route_url": "https://www.kanachu.co.jp/dia/route/index/cid:0000800895/"
+}

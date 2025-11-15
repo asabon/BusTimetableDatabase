@@ -1,0 +1,28 @@
+{
+    "date": "2020/05/11",
+    "name": "渋谷ノ里",
+    "position": "-",
+    "system": "長41",
+    "destinations": [
+        "とどろき公園",
+        "渋谷ヶ原",
+        "東谷(藤沢市)",
+        "湘南台駅西口"
+    ],
+    "weekday": [
+        "8:44",
+        "12:24",
+        "15:54"
+    ],
+    "saturday": [
+        "8:44",
+        "12:24",
+        "15:54"
+    ],
+    "holiday": [
+        "8:44",
+        "12:24",
+        "15:54"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800228-5/node:00130015/kt:0/lname:/"
+}

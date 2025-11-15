@@ -1,0 +1,25 @@
+{
+    "date": "2024/03/16",
+    "name": "厚木バスセンター",
+    "position": "-",
+    "system": "厚10",
+    "destinations": [
+        "厚木アクスト"
+    ],
+    "weekday": [
+        "7:00",
+        "7:20",
+        "7:40",
+        "8:00",
+        "8:15",
+        "8:30",
+        "8:40",
+        "8:55",
+        "9:10",
+        "9:30",
+        "9:55"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801492-1/node:00128256/kt:0/lname:/"
+}

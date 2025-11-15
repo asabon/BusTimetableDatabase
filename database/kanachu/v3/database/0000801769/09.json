@@ -1,0 +1,24 @@
+{
+    "date": "2025/07/12",
+    "name": "公会堂前(鎌倉市)",
+    "position": "-",
+    "system": "船30",
+    "destinations": [
+        "岡本(鎌倉市)",
+        "玉縄行政センター入口",
+        "児童公園前(鎌倉市)",
+        "大船駅西口"
+    ],
+    "weekday": [
+        "6:28",
+        "6:44",
+        "7:04",
+        "7:17",
+        "7:29",
+        "7:39",
+        "7:55"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801769-9/node:00126990/kt:0/lname:/"
+}

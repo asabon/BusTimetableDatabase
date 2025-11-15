@@ -1,0 +1,16 @@
+{
+    "date": "2025/08/30",
+    "name": "品濃町(横浜市戸塚区)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "東戸塚駅東口"
+    ],
+    "weekday": [
+        "6:58",
+        "7:21"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803849-17/node:00126642/kt:0/lname:/"
+}

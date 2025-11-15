@@ -1,0 +1,28 @@
+{
+    "date": "2025/07/12",
+    "name": "坂本(鎌倉市)",
+    "position": "-",
+    "system": "船37",
+    "destinations": [
+        "大船駅西口"
+    ],
+    "weekday": [
+        "7:56",
+        "8:41",
+        "10:16",
+        "11:31",
+        "16:41",
+        "17:41"
+    ],
+    "saturday": [
+        "8:41",
+        "9:46",
+        "10:43"
+    ],
+    "holiday": [
+        "8:41",
+        "9:46",
+        "10:43"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800824-11/node:00126854/kt:0/lname:/"
+}

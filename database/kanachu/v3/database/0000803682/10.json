@@ -1,0 +1,25 @@
+{
+    "date": "2025/03/15",
+    "name": "アルバック前",
+    "position": "-",
+    "system": "茅55",
+    "destinations": [
+        "走内",
+        "西の谷(茅ケ崎市)",
+        "上の前(茅ケ崎市)",
+        "神の倉"
+    ],
+    "weekday": [
+        "21:21",
+        "22:16",
+        "23:16"
+    ],
+    "saturday": [
+        "21:21",
+        "22:16"
+    ],
+    "holiday": [
+        "21:34"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803682-10/node:00127203/kt:0/lname:/"
+}

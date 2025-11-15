@@ -1,0 +1,19 @@
+{
+    "date": "2025/03/15",
+    "name": "保健所前(茅ケ崎市)",
+    "position": "-",
+    "system": "茅55",
+    "destinations": [
+        "ジャスコ前(茅ケ崎市)",
+        "市民文化会館前(茅ケ崎市)",
+        "茅ヶ崎駅"
+    ],
+    "weekday": [
+        "6:29",
+        "6:45",
+        "7:09"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803683-11/node:00127271/kt:0/lname:/"
+}

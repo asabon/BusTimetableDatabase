@@ -1,0 +1,26 @@
+{
+    "date": "2025/03/15",
+    "name": "春日原(綾瀬市)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "吉岡芝原",
+        "団地中央(綾瀬市)",
+        "吉岡工業団地"
+    ],
+    "weekday": [
+        "7:27",
+        "19:55"
+    ],
+    "saturday": [
+        "9:24",
+        "16:54",
+        "18:24"
+    ],
+    "holiday": [
+        "9:24",
+        "16:54",
+        "18:24"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802331-18/node:00129862/kt:0/lname:/"
+}

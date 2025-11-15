@@ -1,0 +1,28 @@
+{
+    "date": "2024/03/16",
+    "name": "下川入",
+    "position": "-",
+    "system": "厚07",
+    "destinations": [
+        "あつぎ郷土博物館"
+    ],
+    "weekday": [
+        "7:21",
+        "7:49",
+        "8:12",
+        "8:32",
+        "9:07",
+        "10:07"
+    ],
+    "saturday": [
+        "8:22",
+        "9:25",
+        "10:23"
+    ],
+    "holiday": [
+        "8:21",
+        "9:22",
+        "10:23"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801090-21/node:00128310/kt:0/lname:/"
+}

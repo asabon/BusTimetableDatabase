@@ -1,0 +1,15 @@
+{
+    "date": "2025/01/14",
+    "name": "鳶尾四丁目",
+    "position": "-",
+    "system": "厚06",
+    "destinations": [
+        "鳶尾団地"
+    ],
+    "weekday": [
+        "24:51"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803495-20/node:00128675/kt:0/lname:/"
+}

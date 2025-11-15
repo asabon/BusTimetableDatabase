@@ -1,0 +1,19 @@
+{
+    "date": "2025/10/20",
+    "name": "相模大塚",
+    "position": "-",
+    "system": "海08",
+    "destinations": [
+        "扇野",
+        "西鶴寺前",
+        "南鶴間",
+        "西鶴間",
+        "鶴間駅"
+    ],
+    "weekday": [
+        "18:46"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801255-14/node:00129673/kt:0/lname:/"
+}

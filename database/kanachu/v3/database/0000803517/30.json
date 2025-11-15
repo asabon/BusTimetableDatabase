@@ -1,0 +1,29 @@
+{
+    "date": "2025/04/19",
+    "name": "亀ヶ池八幡宮前",
+    "position": "-",
+    "system": "大15",
+    "destinations": [
+        "北相前",
+        "田中住宅前",
+        "農協下",
+        "元町(相模原市中央区)",
+        "本町(相模原市中央区)",
+        "上溝中央",
+        "上溝"
+    ],
+    "weekday": [
+        "8:27",
+        "9:14"
+    ],
+    "saturday": [
+        "8:04",
+        "9:16"
+    ],
+    "holiday": [
+        "8:18",
+        "9:18",
+        "9:58"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803517-30/node:00129223/kt:0/lname:/"
+}

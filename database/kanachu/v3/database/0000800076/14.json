@@ -1,0 +1,30 @@
+{
+    "date": "2024/09/02",
+    "name": "芝原(横浜市泉区)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "横浜泉郵便局前",
+        "三ツ俣",
+        "立場駅",
+        "立場ターミナル"
+    ],
+    "weekday": [
+        "6:00",
+        "6:24",
+        "6:49",
+        "7:02",
+        "7:27",
+        "7:50",
+        "8:15"
+    ],
+    "saturday": [
+        "6:15",
+        "6:56"
+    ],
+    "holiday": [
+        "6:15",
+        "6:56"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800076-14/node:00126935/kt:0/lname:/"
+}

@@ -1,0 +1,26 @@
+{
+    "date": "2024/05/20",
+    "name": "つきみの団地",
+    "position": "-",
+    "system": "伊82",
+    "destinations": [
+        "西沼目",
+        "藤田電機前(伊勢原市)",
+        "三福寺前",
+        "下宿(伊勢原市)",
+        "伊勢原駅南口"
+    ],
+    "weekday": [
+        "6:00",
+        "6:30",
+        "7:15"
+    ],
+    "saturday": [
+        "6:38",
+        "7:18"
+    ],
+    "holiday": [
+        "7:18"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803353-15/node:00128098/kt:0/lname:/"
+}

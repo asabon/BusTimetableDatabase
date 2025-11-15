@@ -1,0 +1,25 @@
+{
+    "date": "2025/08/21",
+    "name": "町田バスセンター",
+    "position": "15番乗り場",
+    "system": "町16",
+    "destinations": [
+        "横町(町田市)",
+        "図師大橋",
+        "日大三高"
+    ],
+    "weekday": [
+        "7:35",
+        "7:51",
+        "7:55"
+    ],
+    "saturday": [
+        "7:35",
+        "7:51",
+        "7:55"
+    ],
+    "holiday": [
+        "8:00"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801655-1/node:00025625/kt:0/lname:/"
+}

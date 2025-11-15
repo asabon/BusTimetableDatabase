@@ -1,0 +1,25 @@
+{
+    "date": "2021/08/16",
+    "name": "御所ヶ谷橋",
+    "position": "-",
+    "system": "藤10",
+    "destinations": [
+        "藤が岡1号",
+        "藤が岡2号",
+        "藤が岡3号",
+        "藤が岡4号",
+        "藤が岡5号",
+        "藤が岡6号",
+        "藤が岡中央",
+        "藤が岡14号",
+        "藤が岡15号",
+        "御所ヶ谷橋",
+        "藤沢駅北口"
+    ],
+    "weekday": [
+        "6:23"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802586-2/node:00127020/kt:0/lname:/"
+}

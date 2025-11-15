@@ -1,0 +1,19 @@
+{
+    "date": "2023/07/31",
+    "name": "下中小学校前",
+    "position": "-",
+    "system": "国05",
+    "destinations": [
+        "下中駐在所前",
+        "下小竹",
+        "橘団地"
+    ],
+    "weekday": [
+        "9:19",
+        "13:01",
+        "14:11"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803379-18/node:00127974/kt:0/lname:/"
+}

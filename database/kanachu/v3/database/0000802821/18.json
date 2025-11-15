@@ -1,0 +1,21 @@
+{
+    "date": "2025/05/11",
+    "name": "八軒谷戸",
+    "position": "-",
+    "system": "金25",
+    "destinations": [
+        "西ヶ谷入口",
+        "西ヶ谷",
+        "上郷ネオポリス"
+    ],
+    "weekday": [
+        "7:37",
+        "8:16",
+        "8:39",
+        "11:02",
+        "12:32"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802821-18/node:00126517/kt:0/lname:/"
+}

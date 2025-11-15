@@ -1,0 +1,27 @@
+{
+    "date": "2025/01/14",
+    "name": "ネポン入口",
+    "position": "-",
+    "system": "厚46",
+    "destinations": [
+        "上分"
+    ],
+    "weekday": [
+        "7:29",
+        "8:11",
+        "8:51",
+        "9:50",
+        "10:50",
+        "11:50",
+        "12:50",
+        "14:50",
+        "15:50",
+        "16:51",
+        "17:21",
+        "18:21",
+        "18:51"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801631-27/node:00128489/kt:0/lname:/"
+}

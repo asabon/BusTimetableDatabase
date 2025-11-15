@@ -1,0 +1,22 @@
+{
+    "date": "2024/12/16",
+    "name": "新大栗橋",
+    "position": "-",
+    "system": "桜22",
+    "destinations": [
+        "聖蹟桜ヶ丘駅"
+    ],
+    "weekday": [
+        "6:02",
+        "6:27"
+    ],
+    "saturday": [
+        "6:13",
+        "6:43"
+    ],
+    "holiday": [
+        "6:13",
+        "6:42"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801153-10/node:00020594/kt:0/lname:/"
+}

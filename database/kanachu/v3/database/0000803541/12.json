@@ -1,0 +1,23 @@
+{
+    "date": "2024/05/20",
+    "name": "共済会館入口",
+    "position": "-",
+    "system": "伊37",
+    "destinations": [
+        "片町(伊勢原市)",
+        "片町十字路",
+        "大神宮前",
+        "本町(伊勢原市)",
+        "伊勢原駅北口"
+    ],
+    "weekday": [
+        "6:34"
+    ],
+    "saturday": [
+        "6:49"
+    ],
+    "holiday": [
+        "6:49"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803541-12/node:00128223/kt:0/lname:/"
+}

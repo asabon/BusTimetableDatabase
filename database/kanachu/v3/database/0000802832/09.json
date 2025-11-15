@@ -1,0 +1,23 @@
+{
+    "date": "2024/09/02",
+    "name": "児童公園前(横浜市泉区)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "小学校前(横浜市泉区)",
+        "上飯田団地",
+        "金子山",
+        "泉警察署前",
+        "いずみ野駅"
+    ],
+    "weekday": [
+        "6:20"
+    ],
+    "saturday": [
+        "7:17"
+    ],
+    "holiday": [
+        "7:17"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802832-9/node:00126805/kt:0/lname:/"
+}

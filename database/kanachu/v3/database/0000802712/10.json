@@ -1,0 +1,20 @@
+{
+    "date": "2025/03/15",
+    "name": "桐原四辻",
+    "position": "-",
+    "system": "湘13",
+    "destinations": [
+        "工業団地入口(藤沢市)",
+        "北警察署前(藤沢市)",
+        "湘南台駅西口"
+    ],
+    "weekday": [
+        "17:12",
+        "17:32",
+        "17:52",
+        "19:42"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802712-10/node:00129925/kt:0/lname:/"
+}

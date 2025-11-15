@@ -1,0 +1,23 @@
+{
+    "date": "2025/03/15",
+    "name": "山伏塚",
+    "position": "-",
+    "system": "茅52",
+    "destinations": [
+        "尾崎戸",
+        "一之宮小学校前",
+        "西一之宮"
+    ],
+    "weekday": [
+        "21:56",
+        "22:51"
+    ],
+    "saturday": [
+        "21:46"
+    ],
+    "holiday": [
+        "20:36",
+        "21:06"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801268-15/node:00127208/kt:0/lname:/"
+}

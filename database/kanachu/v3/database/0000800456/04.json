@@ -1,0 +1,26 @@
+{
+    "date": "2025/08/04",
+    "name": "香福寺前",
+    "position": "-",
+    "system": "橋24",
+    "destinations": [
+        "上町(相模原市緑区)",
+        "大西(相模原市緑区)",
+        "相原台",
+        "相原中央",
+        "二本松(相模原市緑区)",
+        "森の上",
+        "東原宿",
+        "城山相原界",
+        "森下(相模原市緑区)",
+        "真米",
+        "東京家政学院前",
+        "東京家政学院"
+    ],
+    "weekday": [],
+    "saturday": [
+        "7:26"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800456-4/node:00020335/kt:0/lname:/"
+}

@@ -1,0 +1,25 @@
+{
+    "date": "2025/01/14",
+    "name": "日向川",
+    "position": "-",
+    "system": "厚34",
+    "destinations": [
+        "馬場リハビリ入口",
+        "七沢温泉入口",
+        "七沢病院入口",
+        "広沢寺温泉入口",
+        "七沢"
+    ],
+    "weekday": [
+        "21:18",
+        "22:28"
+    ],
+    "saturday": [
+        "20:18",
+        "21:38"
+    ],
+    "holiday": [
+        "20:18"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800517-20/node:00128454/kt:0/lname:/"
+}

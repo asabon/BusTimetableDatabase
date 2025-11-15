@@ -1,0 +1,19 @@
+{
+    "date": "2025/01/14",
+    "name": "積水ソフランウイズ前",
+    "position": "-",
+    "system": "厚96",
+    "destinations": [
+        "鮎津橋",
+        "元町(厚木市)",
+        "小田急通り",
+        "厚木バスセンター"
+    ],
+    "weekday": [
+        "18:29",
+        "19:21"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800805-30/node:00128345/kt:0/lname:/"
+}

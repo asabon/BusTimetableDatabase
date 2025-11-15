@@ -1,0 +1,21 @@
+{
+    "date": "2024/12/16",
+    "name": "中宿(町田市)",
+    "position": "-",
+    "system": "鶴32",
+    "destinations": [
+        "小野路",
+        "浅間下(町田市)",
+        "南野二丁目"
+    ],
+    "weekday": [
+        "21:49"
+    ],
+    "saturday": [
+        "21:27"
+    ],
+    "holiday": [
+        "21:27"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803455-14/node:00130078/kt:0/lname:/"
+}

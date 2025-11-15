@@ -1,0 +1,24 @@
+{
+    "date": "2025/05/11",
+    "name": "大道(横浜市金沢区)",
+    "position": "-",
+    "system": "金25",
+    "destinations": [
+        "大道小学校前",
+        "六浦",
+        "上行寺",
+        "六浦橋",
+        "金沢八景",
+        "金沢八景駅"
+    ],
+    "weekday": [
+        "7:00",
+        "7:24",
+        "8:03",
+        "10:21",
+        "11:51"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802829-15/node:00113601/kt:0/lname:/"
+}

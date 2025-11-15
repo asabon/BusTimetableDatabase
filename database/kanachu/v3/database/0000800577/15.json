@@ -1,0 +1,23 @@
+{
+    "date": "2022/01/15",
+    "name": "保土ヶ谷町2丁目",
+    "position": "-",
+    "system": "東21",
+    "destinations": [
+        "八幡橋(横浜市保土ケ谷区)",
+        "保土ヶ谷橋",
+        "保土ヶ谷駅東口",
+        "西久保町",
+        "久保町(横浜市西区)",
+        "水道道"
+    ],
+    "weekday": [
+        "7:33",
+        "7:48",
+        "7:56",
+        "8:21"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800577-15/node:00103045/kt:0/lname:/"
+}

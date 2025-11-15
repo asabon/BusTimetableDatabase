@@ -1,0 +1,17 @@
+{
+    "date": "2025/07/12",
+    "name": "神台公園前",
+    "position": "-",
+    "system": "藤10",
+    "destinations": [
+        "辻堂駅北口"
+    ],
+    "weekday": [
+        "10:02",
+        "12:02",
+        "14:02"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800279-21/node:00130068/kt:0/lname:/"
+}

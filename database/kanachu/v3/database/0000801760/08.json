@@ -1,0 +1,23 @@
+{
+    "date": "2025/08/30",
+    "name": "赤関橋",
+    "position": "-",
+    "system": "東55",
+    "destinations": [
+        "品濃口",
+        "環2平戸",
+        "品濃坂",
+        "東戸塚駅東口"
+    ],
+    "weekday": [
+        "6:27",
+        "7:12"
+    ],
+    "saturday": [
+        "7:12"
+    ],
+    "holiday": [
+        "7:12"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801760-8/node:00126616/kt:0/lname:/"
+}

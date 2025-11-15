@@ -1,0 +1,24 @@
+{
+    "date": "2025/01/14",
+    "name": "中村入口(厚木市)",
+    "position": "-",
+    "system": "厚04",
+    "destinations": [
+        "妻田",
+        "三家入口(厚木市)",
+        "木売場",
+        "市立病院前(厚木市)",
+        "税務署入口(厚木市)",
+        "市役所入口(厚木市)",
+        "本厚木駅"
+    ],
+    "weekday": [],
+    "saturday": [
+        "6:03",
+        "7:22"
+    ],
+    "holiday": [
+        "6:05"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801405-20/node:00128263/kt:0/lname:/"
+}

@@ -1,0 +1,16 @@
+{
+    "date": "2024/02/17",
+    "name": "団地南(町田市)",
+    "position": "-",
+    "system": "鶴23",
+    "destinations": [
+        "街道口",
+        "和光学園(町田市)"
+    ],
+    "weekday": [
+        "8:33"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803470-8/node:00049327/kt:0/lname:/"
+}

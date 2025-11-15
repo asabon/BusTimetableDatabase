@@ -1,0 +1,18 @@
+{
+    "date": "2025/08/30",
+    "name": "舞岡地区センター前",
+    "position": "-",
+    "system": "舞01",
+    "destinations": [
+        "リサーチパーク入口",
+        "舞岡"
+    ],
+    "weekday": [
+        "20:36"
+    ],
+    "saturday": [
+        "20:03"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800880-6/node:00130220/kt:0/lname:/"
+}

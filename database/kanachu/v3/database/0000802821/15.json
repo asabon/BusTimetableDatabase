@@ -1,0 +1,24 @@
+{
+    "date": "2025/05/11",
+    "name": "森の家前",
+    "position": "-",
+    "system": "金25",
+    "destinations": [
+        "上郷(横浜市栄区)",
+        "長倉町",
+        "八軒谷戸",
+        "西ヶ谷入口",
+        "西ヶ谷",
+        "上郷ネオポリス"
+    ],
+    "weekday": [
+        "7:34",
+        "8:13",
+        "8:36",
+        "10:59",
+        "12:29"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802821-15/node:00126520/kt:0/lname:/"
+}

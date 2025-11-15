@@ -1,0 +1,20 @@
+{
+    "system": "湘14",
+    "busstops": [
+        {
+            "index": "1",
+            "id": "00129984",
+            "name": "いすゞ南門",
+            "lat": "35.402718",
+            "lng": "139.452084"
+        },
+        {
+            "index": "2",
+            "id": "00126881",
+            "name": "湘南台駅東口",
+            "lat": "35.396714",
+            "lng": "139.467701"
+        }
+    ],
+    "route_url": "https://www.kanachu.co.jp/dia/route/index/cid:0000800106/"
+}

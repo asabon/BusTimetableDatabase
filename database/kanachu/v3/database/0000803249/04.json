@@ -1,0 +1,25 @@
+{
+    "date": "2025/03/15",
+    "name": "東海岸",
+    "position": "-",
+    "system": "茅09",
+    "destinations": [
+        "東海岸南三丁目",
+        "茅ヶ崎駅入口",
+        "ヘッドランド入口",
+        "第一中学校前(茅ケ崎市)",
+        "駐在所前(茅ケ崎市)",
+        "石神下(茅ケ崎市)",
+        "東海岸北三丁目"
+    ],
+    "weekday": [
+        "21:27"
+    ],
+    "saturday": [
+        "20:17"
+    ],
+    "holiday": [
+        "20:17"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803249-4/node:00127243/kt:0/lname:/"
+}

@@ -1,0 +1,28 @@
+{
+    "date": "2024/03/16",
+    "name": "成瀬台入口",
+    "position": "-",
+    "system": "成04",
+    "destinations": [
+        "ポプラヶ丘前",
+        "成瀬台二丁目",
+        "野村住宅中央",
+        "成瀬台",
+        "駒狩公園前",
+        "島(横浜市青葉区)",
+        "こどもの国駅"
+    ],
+    "weekday": [
+        "12:36",
+        "14:36"
+    ],
+    "saturday": [
+        "12:36",
+        "14:36"
+    ],
+    "holiday": [
+        "12:36",
+        "14:36"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800226-6/node:00129599/kt:0/lname:/"
+}

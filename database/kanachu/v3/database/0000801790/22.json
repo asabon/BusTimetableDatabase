@@ -1,0 +1,24 @@
+{
+    "date": "2023/11/01",
+    "name": "白岩大門",
+    "position": "-",
+    "system": "磯13",
+    "destinations": [
+        "統監道",
+        "大磯小学校前",
+        "大磯駅"
+    ],
+    "weekday": [
+        "6:39",
+        "7:00",
+        "7:44",
+        "8:19"
+    ],
+    "saturday": [
+        "7:24"
+    ],
+    "holiday": [
+        "7:24"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801790-22/node:00127479/kt:0/lname:/"
+}

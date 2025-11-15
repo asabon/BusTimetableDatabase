@@ -1,0 +1,23 @@
+{
+    "date": "2025/08/04",
+    "name": "風間",
+    "position": "-",
+    "system": "橋26",
+    "destinations": [
+        "滝尻(相模原市緑区)",
+        "上大戸",
+        "ネイチャーファクトリー東京町田",
+        "大戸(相模原市緑区)",
+        "ネイチャーファクトリー東京町田",
+        "上大戸",
+        "大戸橋",
+        "法政大学入口",
+        "法政大学(町田市)"
+    ],
+    "weekday": [],
+    "saturday": [],
+    "holiday": [
+        "14:43"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802896-19/node:00128879/kt:0/lname:/"
+}

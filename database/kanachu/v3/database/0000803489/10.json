@@ -1,0 +1,21 @@
+{
+    "date": "2025/04/19",
+    "name": "和泉短大前",
+    "position": "-",
+    "system": "淵36",
+    "destinations": [
+        "青葉児童館前"
+    ],
+    "weekday": [
+        "20:10"
+    ],
+    "saturday": [
+        "19:20",
+        "20:40"
+    ],
+    "holiday": [
+        "19:20",
+        "20:40"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803489-10/node:00129071/kt:0/lname:/"
+}

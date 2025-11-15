@@ -1,0 +1,20 @@
+{
+    "date": "2018/03/17",
+    "name": "室田",
+    "position": "-",
+    "system": "茅16",
+    "destinations": [
+        "高田三丁目",
+        "ニュータウン中央(茅ケ崎市)",
+        "ニュータウン入口(茅ケ崎市)",
+        "本村五丁目",
+        "本村(茅ケ崎市)",
+        "茅ヶ崎駅"
+    ],
+    "weekday": [
+        "5:57"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800219-4/node:00127262/kt:0/lname:/"
+}

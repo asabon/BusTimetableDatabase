@@ -1,0 +1,19 @@
+{
+    "date": "2025/10/20",
+    "name": "瀬谷駅前通り",
+    "position": "-",
+    "system": "間24",
+    "destinations": [
+        "瀬谷駅"
+    ],
+    "weekday": [
+        "6:02"
+    ],
+    "saturday": [
+        "6:17"
+    ],
+    "holiday": [
+        "6:17"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803917-11/node:00129659/kt:0/lname:/"
+}

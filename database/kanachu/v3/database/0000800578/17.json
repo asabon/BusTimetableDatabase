@@ -1,0 +1,21 @@
+{
+    "date": "2023/04/25",
+    "name": "駒返橋",
+    "position": "-",
+    "system": "平58",
+    "destinations": [
+        "田村十字路",
+        "相模神田",
+        "農協神田支所前",
+        "柳の内",
+        "大神工業団地入口",
+        "大神工業団地"
+    ],
+    "weekday": [
+        "7:25",
+        "20:37"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800578-17/node:00127661/kt:0/lname:/"
+}

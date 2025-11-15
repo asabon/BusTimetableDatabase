@@ -1,0 +1,23 @@
+{
+    "date": "2024/03/16",
+    "name": "紅葉橋(横浜市栄区)",
+    "position": "-",
+    "system": "港86",
+    "destinations": [
+        "横浜栄高校前",
+        "榎戸(横浜市港南区)",
+        "横浜女子短期大学前",
+        "港南台駅"
+    ],
+    "weekday": [
+        "5:51",
+        "6:16",
+        "6:42",
+        "7:07",
+        "7:32",
+        "7:52"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800699-6/node:00126514/kt:0/lname:/"
+}

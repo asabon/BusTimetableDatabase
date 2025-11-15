@@ -1,0 +1,20 @@
+{
+    "date": "2025/04/19",
+    "name": "田名バスターミナル",
+    "position": "-",
+    "system": "淵59",
+    "destinations": [
+        "田名坂上",
+        "高田橋入口",
+        "小沢(愛甲郡愛川町)",
+        "梅沢(愛甲郡愛川町)",
+        "箕輪辻",
+        "愛川バスセンター"
+    ],
+    "weekday": [
+        "7:46"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802379-16/node:00129077/kt:0/lname:/"
+}

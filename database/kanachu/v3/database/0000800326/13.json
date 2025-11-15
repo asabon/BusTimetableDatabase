@@ -1,0 +1,21 @@
+{
+    "date": "2025/08/04",
+    "name": "城山総合事務所入口",
+    "position": "-",
+    "system": "橋14",
+    "destinations": [
+        "久保沢",
+        "谷ヶ原",
+        "都井沢",
+        "城山高校前",
+        "城山(相模原市緑区)"
+    ],
+    "weekday": [
+        "19:56",
+        "20:46",
+        "23:06"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800326-13/node:00128960/kt:0/lname:/"
+}

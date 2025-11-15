@@ -1,0 +1,28 @@
+{
+    "date": "2025/10/20",
+    "name": "杉山神社前(横浜市青葉区)",
+    "position": "-",
+    "system": "津03",
+    "destinations": [
+        "堀の内(横浜市青葉区)",
+        "長津田三丁目",
+        "長津田駅北口"
+    ],
+    "weekday": [
+        "6:32",
+        "7:21",
+        "8:14",
+        "9:11",
+        "15:30",
+        "16:20",
+        "17:11",
+        "18:01"
+    ],
+    "saturday": [
+        "9:27"
+    ],
+    "holiday": [
+        "9:27"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803149-9/node:00019244/kt:0/lname:/"
+}

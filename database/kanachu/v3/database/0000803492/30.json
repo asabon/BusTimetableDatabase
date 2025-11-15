@@ -1,0 +1,20 @@
+{
+    "date": "2024/03/16",
+    "name": "図書館前(町田市)",
+    "position": "-",
+    "system": "町28",
+    "destinations": [
+        "中町一丁目(町田市)",
+        "原町田五丁目",
+        "原町田四丁目",
+        "町田ターミナル"
+    ],
+    "weekday": [
+        "9:38",
+        "12:55",
+        "17:05"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803492-30/node:00129483/kt:0/lname:/"
+}

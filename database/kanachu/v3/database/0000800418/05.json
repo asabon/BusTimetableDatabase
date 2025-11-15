@@ -1,0 +1,20 @@
+{
+    "date": "2024/03/16",
+    "name": "榎戸(横浜市港南区)",
+    "position": "-",
+    "system": "港85",
+    "destinations": [
+        "横浜女子短期大学前",
+        "港南台駅"
+    ],
+    "weekday": [
+        "6:25",
+        "6:51",
+        "7:15",
+        "7:39",
+        "8:02"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800418-5/node:00102293/kt:0/lname:/"
+}

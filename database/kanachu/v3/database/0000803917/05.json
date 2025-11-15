@@ -1,0 +1,25 @@
+{
+    "date": "2025/10/20",
+    "name": "八幡神社前(横浜市瀬谷区)",
+    "position": "-",
+    "system": "間24",
+    "destinations": [
+        "上瀬谷小学校入口",
+        "竹村町",
+        "中屋敷(横浜市瀬谷区)",
+        "本郷原",
+        "本郷(横浜市瀬谷区)",
+        "瀬谷駅前通り",
+        "瀬谷駅"
+    ],
+    "weekday": [
+        "5:53"
+    ],
+    "saturday": [
+        "6:08"
+    ],
+    "holiday": [
+        "6:08"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803917-5/node:00129653/kt:0/lname:/"
+}

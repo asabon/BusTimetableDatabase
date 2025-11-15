@@ -1,0 +1,25 @@
+{
+    "date": "2025/01/14",
+    "name": "市立病院前(厚木市)",
+    "position": "-",
+    "system": "厚08",
+    "destinations": [
+        "木売場",
+        "三家入口(厚木市)",
+        "妻田",
+        "中村入口(厚木市)",
+        "妻田薬師",
+        "松蓮寺"
+    ],
+    "weekday": [
+        "7:16",
+        "7:39",
+        "7:52",
+        "8:07",
+        "9:20",
+        "9:33"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803109-5/node:00128259/kt:0/lname:/"
+}

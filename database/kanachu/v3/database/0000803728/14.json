@@ -1,0 +1,22 @@
+{
+    "date": "2025/04/01",
+    "name": "小田急住宅前(座間市)",
+    "position": "-",
+    "system": "小03",
+    "destinations": [
+        "相模台",
+        "小田急相模原駅"
+    ],
+    "weekday": [
+        "17:17",
+        "17:57",
+        "18:34",
+        "19:10",
+        "20:13",
+        "21:10",
+        "22:10"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803728-14/node:00129676/kt:0/lname:/"
+}

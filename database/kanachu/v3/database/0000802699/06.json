@@ -1,0 +1,22 @@
+{
+    "date": "2025/03/15",
+    "name": "丸石(藤沢市)",
+    "position": "-",
+    "system": "湘13",
+    "destinations": [
+        "桐原緑道",
+        "桐原公園前",
+        "団地中央(藤沢市)",
+        "桐原四辻",
+        "工業団地入口(藤沢市)",
+        "北警察署前(藤沢市)",
+        "湘南台駅東口"
+    ],
+    "weekday": [
+        "18:09",
+        "18:54"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802699-6/node:00130004/kt:0/lname:/"
+}

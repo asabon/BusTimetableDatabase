@@ -1,0 +1,29 @@
+{
+    "date": "2025/04/01",
+    "name": "勝瀬橋",
+    "position": "-",
+    "system": "湖23",
+    "destinations": [
+        "吉野(相模原市緑区)",
+        "藤野下",
+        "藤野中学校入口",
+        "藤野駅"
+    ],
+    "weekday": [
+        "12:04",
+        "13:19",
+        "14:04",
+        "16:25"
+    ],
+    "saturday": [
+        "12:03",
+        "12:53",
+        "13:54"
+    ],
+    "holiday": [
+        "12:03",
+        "12:53",
+        "13:54"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803743-5/node:00128784/kt:0/lname:/"
+}

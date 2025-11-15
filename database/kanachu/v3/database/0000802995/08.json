@@ -1,0 +1,26 @@
+{
+    "date": "2025/03/15",
+    "name": "南桐原",
+    "position": "-",
+    "system": "湘21",
+    "destinations": [
+        "桐ヶ谷(藤沢市)",
+        "湘南台住宅前",
+        "湘南台駅西口"
+    ],
+    "weekday": [
+        "7:00",
+        "17:14"
+    ],
+    "saturday": [
+        "7:19",
+        "7:39",
+        "7:59",
+        "8:39"
+    ],
+    "holiday": [
+        "7:59",
+        "8:39"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802995-8/node:00129955/kt:0/lname:/"
+}

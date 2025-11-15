@@ -1,0 +1,22 @@
+{
+    "date": "2025/03/15",
+    "name": "諸之木",
+    "position": "-",
+    "system": "辻34",
+    "destinations": [
+        "慶応大学"
+    ],
+    "weekday": [],
+    "saturday": [],
+    "holiday": [
+        "9:33",
+        "10:53",
+        "12:13",
+        "13:33",
+        "14:53",
+        "16:13",
+        "17:33",
+        "18:53"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802690-18/node:00129987/kt:0/lname:/"
+}

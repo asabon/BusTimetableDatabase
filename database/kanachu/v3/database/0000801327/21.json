@@ -1,0 +1,30 @@
+{
+    "date": "2025/07/27",
+    "name": "菜の花台",
+    "position": "-",
+    "system": "秦21",
+    "destinations": [
+        "表丹沢林道入口",
+        "ヤビツ峠"
+    ],
+    "weekday": [
+        "8:50"
+    ],
+    "saturday": [
+        "7:45",
+        "8:09",
+        "8:49",
+        "9:29",
+        "14:55",
+        "16:00"
+    ],
+    "holiday": [
+        "7:45",
+        "8:09",
+        "8:49",
+        "9:29",
+        "14:55",
+        "16:00"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801327-21/node:00127852/kt:0/lname:/"
+}

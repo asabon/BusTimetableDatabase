@@ -1,0 +1,19 @@
+{
+    "date": "2024/11/16",
+    "name": "二番構保健医療センター",
+    "position": "-",
+    "system": "藤13",
+    "destinations": [
+        "駒寄",
+        "滝の沢(藤沢市)",
+        "滝の沢不動前",
+        "湘南ライフタウン"
+    ],
+    "weekday": [
+        "9:11",
+        "15:13"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802695-27/node:00129944/kt:0/lname:/"
+}

@@ -1,0 +1,28 @@
+{
+    "date": "2025/08/30",
+    "name": "日野ヶ丘中央",
+    "position": "-",
+    "system": "上31",
+    "destinations": [
+        "日野サザンポート前",
+        "公務員住宅中央",
+        "下野庭三田"
+    ],
+    "weekday": [
+        "12:32",
+        "13:47",
+        "19:46",
+        "22:07"
+    ],
+    "saturday": [
+        "9:40",
+        "18:50",
+        "20:05",
+        "21:19"
+    ],
+    "holiday": [
+        "9:40",
+        "19:46"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803840-10/node:00126770/kt:0/lname:/"
+}

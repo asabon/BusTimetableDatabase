@@ -1,0 +1,16 @@
+{
+    "date": "2021/04/01",
+    "name": "葉山(相模原市緑区)",
+    "position": "-",
+    "system": "橋05",
+    "destinations": [
+        "下河原(相模原市緑区)",
+        "小沢(愛甲郡愛川町)"
+    ],
+    "weekday": [
+        "7:08"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802400-24/node:00128989/kt:0/lname:/"
+}

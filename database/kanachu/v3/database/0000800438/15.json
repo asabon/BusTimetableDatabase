@@ -1,0 +1,23 @@
+{
+    "date": "2025/03/15",
+    "name": "ひなた山第二",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "下瀬谷坂上",
+        "下瀬谷"
+    ],
+    "weekday": [
+        "22:04",
+        "23:17"
+    ],
+    "saturday": [
+        "21:39",
+        "22:39"
+    ],
+    "holiday": [
+        "21:39",
+        "22:39"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800438-15/node:00126802/kt:0/lname:/"
+}

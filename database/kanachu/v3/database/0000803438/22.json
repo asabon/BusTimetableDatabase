@@ -1,0 +1,21 @@
+{
+    "date": "2024/12/16",
+    "name": "金井入口",
+    "position": "-",
+    "system": "鶴31",
+    "destinations": [
+        "上能ヶ谷",
+        "鶴川駅西口",
+        "鶴川駅"
+    ],
+    "weekday": [
+        "7:04"
+    ],
+    "saturday": [
+        "7:34"
+    ],
+    "holiday": [
+        "7:34"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803438-22/node:00129438/kt:0/lname:/"
+}

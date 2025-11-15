@@ -1,0 +1,27 @@
+{
+    "date": "2025/03/15",
+    "name": "ハンディホームセンター前",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "春日原(綾瀬市)",
+        "吉岡芝原",
+        "団地中央(綾瀬市)",
+        "吉岡工業団地"
+    ],
+    "weekday": [
+        "7:26",
+        "19:54"
+    ],
+    "saturday": [
+        "9:23",
+        "16:53",
+        "18:23"
+    ],
+    "holiday": [
+        "9:23",
+        "16:53",
+        "18:23"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802331-17/node:00130069/kt:0/lname:/"
+}

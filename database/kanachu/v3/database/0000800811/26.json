@@ -1,0 +1,28 @@
+{
+    "date": "2012/09/01",
+    "name": "糀屋前(厚木市)",
+    "position": "-",
+    "system": "愛24",
+    "destinations": [
+        "松蓮寺"
+    ],
+    "weekday": [
+        "6:47",
+        "8:13",
+        "17:38",
+        "19:13"
+    ],
+    "saturday": [
+        "6:47",
+        "8:13",
+        "17:38",
+        "19:13"
+    ],
+    "holiday": [
+        "6:47",
+        "8:12",
+        "17:38",
+        "19:13"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800811-26/node:00128266/kt:0/lname:/"
+}

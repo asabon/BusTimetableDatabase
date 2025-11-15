@@ -1,0 +1,27 @@
+{
+    "date": "2024/12/16",
+    "name": "諏訪二丁目(多摩市)",
+    "position": "-",
+    "system": "桜22",
+    "destinations": [
+        "永山駅",
+        "消防署前(多摩市)",
+        "諏訪下橋(多摩市)",
+        "車橋",
+        "新大栗橋",
+        "聖蹟桜ヶ丘駅"
+    ],
+    "weekday": [
+        "5:53",
+        "6:17"
+    ],
+    "saturday": [
+        "6:04",
+        "6:34"
+    ],
+    "holiday": [
+        "6:04",
+        "6:34"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801153-5/node:00020624/kt:0/lname:/"
+}

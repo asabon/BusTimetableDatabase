@@ -1,0 +1,20 @@
+{
+    "date": "2021/02/22",
+    "name": "馬渡(伊勢原市)",
+    "position": "-",
+    "system": "平91",
+    "destinations": [
+        "下大竹",
+        "伊勢原中学校前",
+        "伊勢原駅南口"
+    ],
+    "weekday": [
+        "5:57",
+        "6:17",
+        "6:49",
+        "7:26"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800122-7/node:00128060/kt:0/lname:/"
+}

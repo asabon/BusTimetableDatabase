@@ -1,0 +1,20 @@
+{
+    "date": "2024/04/01",
+    "name": "追分(平塚市)",
+    "position": "-",
+    "system": "平78",
+    "destinations": [
+        "江南高校前",
+        "向原(平塚市)",
+        "南原(平塚市)",
+        "南原土手",
+        "長瀬(平塚市)",
+        "長持"
+    ],
+    "weekday": [
+        "6:59"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801171-7/node:00127556/kt:0/lname:/"
+}

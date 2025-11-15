@@ -1,0 +1,21 @@
+{
+    "date": "2024/04/01",
+    "name": "梅沢(中郡二宮町)",
+    "position": "-",
+    "system": "二32",
+    "destinations": [
+        "藤田電機前(中郡二宮町)",
+        "二宮駅南口"
+    ],
+    "weekday": [
+        "17:37",
+        "17:55",
+        "18:25",
+        "18:55",
+        "19:25",
+        "19:55"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802252-25/node:00127491/kt:0/lname:/"
+}

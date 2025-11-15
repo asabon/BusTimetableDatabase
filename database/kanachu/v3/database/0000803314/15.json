@@ -1,0 +1,26 @@
+{
+    "date": "2023/04/25",
+    "name": "下戸田(厚木市)",
+    "position": "-",
+    "system": "厚11",
+    "destinations": [
+        "大神(平塚市)",
+        "ツインシティ大神"
+    ],
+    "weekday": [
+        "10:04",
+        "11:08",
+        "12:08",
+        "13:08",
+        "14:08",
+        "15:08",
+        "16:08",
+        "17:06",
+        "18:08",
+        "19:09",
+        "20:08"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803314-15/node:00128630/kt:0/lname:/"
+}

@@ -1,0 +1,24 @@
+{
+    "date": "2025/05/11",
+    "name": "公田ハイツ前",
+    "position": "-",
+    "system": "船24",
+    "destinations": [
+        "椎郷",
+        "朝日平和台入口",
+        "鎌倉女子大前",
+        "平島(鎌倉市)",
+        "笠間十字路",
+        "笠間町",
+        "岩井口",
+        "大船駅(横浜市栄区)"
+    ],
+    "weekday": [
+        "10:39",
+        "12:54",
+        "14:44"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802935-3/node:00126598/kt:0/lname:/"
+}

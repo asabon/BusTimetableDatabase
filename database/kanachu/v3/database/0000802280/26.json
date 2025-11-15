@@ -1,0 +1,22 @@
+{
+    "date": "2024/04/01",
+    "name": "高麗清水",
+    "position": "-",
+    "system": "平36",
+    "destinations": [
+        "花水橋",
+        "古花水",
+        "柳町(平塚市)",
+        "豊田道",
+        "八間通り",
+        "平塚文化芸術ホール前",
+        "銀座通り(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "8:19"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802280-26/node:00127530/kt:0/lname:/"
+}

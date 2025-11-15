@@ -1,0 +1,21 @@
+{
+    "date": "2022/01/04",
+    "name": "追分(厚木市)",
+    "position": "-",
+    "system": "海02",
+    "destinations": [
+        "下依知入口",
+        "金田神社前",
+        "水道路(厚木市)",
+        "今泉(海老名市)",
+        "鶴松",
+        "海老名駅西口"
+    ],
+    "weekday": [
+        "7:14",
+        "8:14"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803120-20/node:00128350/kt:0/lname:/"
+}

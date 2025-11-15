@@ -1,0 +1,20 @@
+{
+    "date": "2024/04/01",
+    "name": "菩提原",
+    "position": "-",
+    "system": "秦50",
+    "destinations": [
+        "菩提(秦野市)",
+        "横野入口"
+    ],
+    "weekday": [
+        "7:26",
+        "8:11",
+        "8:30",
+        "8:43",
+        "22:47"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800178-14/node:00127886/kt:0/lname:/"
+}

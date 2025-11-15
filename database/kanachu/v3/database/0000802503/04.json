@@ -1,0 +1,25 @@
+{
+    "date": "2025/10/20",
+    "name": "円成寺前",
+    "position": "-",
+    "system": "南03",
+    "destinations": [
+        "坂下(鶴間/町田市)",
+        "マークスプリングス"
+    ],
+    "weekday": [
+        "20:37",
+        "21:17",
+        "21:57",
+        "22:32"
+    ],
+    "saturday": [
+        "20:49",
+        "21:38"
+    ],
+    "holiday": [
+        "20:49",
+        "21:38"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802503-4/node:00129530/kt:0/lname:/"
+}

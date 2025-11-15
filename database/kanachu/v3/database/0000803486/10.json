@@ -1,0 +1,19 @@
+{
+    "date": "2024/03/16",
+    "name": "上大島南",
+    "position": "-",
+    "system": "田05",
+    "destinations": [
+        "上大島東",
+        "合野原",
+        "内出(相模原市緑区)",
+        "相模原協同病院入口",
+        "相模原協同病院"
+    ],
+    "weekday": [
+        "10:05"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803486-10/node:00130169/kt:0/lname:/"
+}

@@ -1,0 +1,26 @@
+{
+    "date": "2025/07/27",
+    "name": "緑が丘西(中郡二宮町)",
+    "position": "-",
+    "system": "二43",
+    "destinations": [
+        "緑が丘・二宮高校前",
+        "二宮高校入口",
+        "中里(中郡二宮町)",
+        "中島(中郡二宮町)",
+        "堂面(中郡二宮町)",
+        "元町(中郡二宮町)",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "6:19",
+        "7:06"
+    ],
+    "saturday": [
+        "9:02"
+    ],
+    "holiday": [
+        "9:02"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802633-6/node:00130143/kt:0/lname:/"
+}

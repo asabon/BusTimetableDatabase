@@ -1,0 +1,23 @@
+{
+    "date": "2024/03/16",
+    "name": "川上インター前",
+    "position": "-",
+    "system": "東16",
+    "destinations": [
+        "東戸塚駅西口"
+    ],
+    "weekday": [
+        "6:26",
+        "6:44",
+        "7:04"
+    ],
+    "saturday": [
+        "6:38",
+        "9:55"
+    ],
+    "holiday": [
+        "6:38",
+        "9:55"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802525-10/node:00130478/kt:0/lname:/"
+}

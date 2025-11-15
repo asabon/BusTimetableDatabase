@@ -1,0 +1,19 @@
+{
+    "date": "2025/01/14",
+    "name": "上大塚",
+    "position": "-",
+    "system": "海02",
+    "destinations": [
+        "文化会館入口(愛甲郡愛川町)",
+        "愛川高校入口",
+        "箕輪辻",
+        "愛川バスセンター"
+    ],
+    "weekday": [
+        "20:26",
+        "21:26"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803121-22/node:00130520/kt:0/lname:/"
+}

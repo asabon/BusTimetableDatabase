@@ -1,0 +1,20 @@
+{
+    "date": "2025/07/27",
+    "name": "銀座通り(平塚市)",
+    "position": "-",
+    "system": "平75",
+    "destinations": [
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "7:21",
+        "17:27"
+    ],
+    "saturday": [
+        "7:42"
+    ],
+    "holiday": [
+        "7:42"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801004-42/node:00127465/kt:0/lname:/"
+}
