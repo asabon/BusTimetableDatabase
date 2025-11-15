@@ -1,0 +1,23 @@
+{
+    "date": "2025/10/01",
+    "name": "百合が丘坂下",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "釜野橋",
+        "山西プール前",
+        "川勾神社入口",
+        "密厳院北",
+        "山西防災コミュニティセンター",
+        "山西(中郡二宮町)",
+        "吾妻神社前(中郡二宮町)",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "12:04",
+        "18:04"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803904-19/node:00128031/kt:0/lname:/"
+}

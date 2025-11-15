@@ -1,0 +1,26 @@
+{
+    "date": "2025/08/30",
+    "name": "品濃町(横浜市戸塚区)",
+    "position": "-",
+    "system": "東12",
+    "destinations": [
+        "坂下(横浜市戸塚区)",
+        "品濃口",
+        "下永谷(横浜市港南区)",
+        "般若寺橋",
+        "中永谷",
+        "水田(横浜市港南区)",
+        "日限地蔵入口",
+        "永野小学校前",
+        "上永谷駅"
+    ],
+    "weekday": [],
+    "saturday": [
+        "15:13"
+    ],
+    "holiday": [
+        "14:18",
+        "15:13"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803873-2/node:00126642/kt:0/lname:/"
+}

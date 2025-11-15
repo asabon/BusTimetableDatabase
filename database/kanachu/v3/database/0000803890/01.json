@@ -1,0 +1,17 @@
+{
+    "date": "2025/09/18",
+    "name": "相原駅西口",
+    "position": "-",
+    "system": "原19",
+    "destinations": [
+        "法政大学(町田市)"
+    ],
+    "weekday": [
+        "9:09"
+    ],
+    "saturday": [
+        "10:20"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803890-1/node:00130397/kt:0/lname:/"
+}

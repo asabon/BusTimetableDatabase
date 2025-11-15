@@ -1,0 +1,22 @@
+{
+    "date": "2025/10/20",
+    "name": "市民活動拠点ベテルギウス前",
+    "position": "-",
+    "system": "間13",
+    "destinations": [
+        "豊川稲荷前(大和市)",
+        "新橋通り(大和市)",
+        "大和駅西口"
+    ],
+    "weekday": [
+        "9:14",
+        "14:16",
+        "15:08",
+        "18:25",
+        "19:11",
+        "20:03"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803795-8/node:00129613/kt:0/lname:/"
+}

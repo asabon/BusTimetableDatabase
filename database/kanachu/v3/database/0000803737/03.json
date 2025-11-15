@@ -1,0 +1,21 @@
+{
+    "date": "2025/04/01",
+    "name": "玉縄出張所前",
+    "position": "-",
+    "system": "船38",
+    "destinations": [
+        "大船駅西口"
+    ],
+    "weekday": [
+        "21:13",
+        "21:43",
+        "22:38"
+    ],
+    "saturday": [
+        "21:33"
+    ],
+    "holiday": [
+        "21:33"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803737-3/node:00127002/kt:0/lname:/"
+}

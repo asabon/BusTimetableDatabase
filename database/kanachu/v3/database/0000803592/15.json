@@ -1,0 +1,25 @@
+{
+    "date": "2024/07/01",
+    "name": "消防署前(横浜市戸塚区)",
+    "position": "-",
+    "system": "戸94",
+    "destinations": [
+        "戸塚駅西口",
+        "戸塚バスセンター"
+    ],
+    "weekday": [
+        "6:36",
+        "6:56",
+        "7:20",
+        "7:40"
+    ],
+    "saturday": [
+        "7:09",
+        "8:35"
+    ],
+    "holiday": [
+        "7:09",
+        "8:35"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803592-15/node:00126809/kt:0/lname:/"
+}

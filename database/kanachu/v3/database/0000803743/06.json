@@ -1,0 +1,28 @@
+{
+    "date": "2025/04/01",
+    "name": "吉野(相模原市緑区)",
+    "position": "-",
+    "system": "湖23",
+    "destinations": [
+        "藤野下",
+        "藤野中学校入口",
+        "藤野駅"
+    ],
+    "weekday": [
+        "12:05",
+        "13:20",
+        "14:05",
+        "16:26"
+    ],
+    "saturday": [
+        "12:04",
+        "12:54",
+        "13:55"
+    ],
+    "holiday": [
+        "12:04",
+        "12:54",
+        "13:55"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803743-6/node:00128785/kt:0/lname:/"
+}

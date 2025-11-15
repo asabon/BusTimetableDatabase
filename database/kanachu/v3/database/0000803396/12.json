@@ -1,0 +1,22 @@
+{
+    "date": "2023/10/01",
+    "name": "山王原西公園",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "鶴間駅東口",
+        "鶴間二丁目",
+        "オークシティ南",
+        "市立病院(大和市)"
+    ],
+    "weekday": [
+        "20:10"
+    ],
+    "saturday": [
+        "18:55"
+    ],
+    "holiday": [
+        "18:55"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803396-12/node:00130448/kt:0/lname:/"
+}

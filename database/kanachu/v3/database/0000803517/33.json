@@ -1,0 +1,26 @@
+{
+    "date": "2025/04/19",
+    "name": "農協下",
+    "position": "-",
+    "system": "大15",
+    "destinations": [
+        "元町(相模原市中央区)",
+        "本町(相模原市中央区)",
+        "上溝中央",
+        "上溝"
+    ],
+    "weekday": [
+        "8:32",
+        "9:17"
+    ],
+    "saturday": [
+        "8:06",
+        "9:18"
+    ],
+    "holiday": [
+        "8:20",
+        "9:20",
+        "10:00"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803517-33/node:00129218/kt:0/lname:/"
+}

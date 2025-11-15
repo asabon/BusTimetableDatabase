@@ -1,0 +1,19 @@
+{
+    "date": "2021/02/22",
+    "name": "三本松(伊勢原市)",
+    "position": "-",
+    "system": "伊24",
+    "destinations": [
+        "市米橋",
+        "行政センター前(伊勢原市)",
+        "電話局前(伊勢原市)",
+        "伊勢原駅北口"
+    ],
+    "weekday": [
+        "8:34",
+        "12:29"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803345-12/node:00130355/kt:0/lname:/"
+}

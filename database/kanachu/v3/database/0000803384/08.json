@@ -1,0 +1,26 @@
+{
+    "date": "2025/07/27",
+    "name": "下大槻",
+    "position": "-",
+    "system": "秦38",
+    "destinations": [
+        "秦才橋",
+        "なでしこ広場前",
+        "室川橋",
+        "秦野駅"
+    ],
+    "weekday": [
+        "8:28",
+        "9:28",
+        "10:28",
+        "11:28",
+        "12:28",
+        "13:28",
+        "14:28",
+        "17:28",
+        "18:33"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803384-8/node:00127724/kt:0/lname:/"
+}

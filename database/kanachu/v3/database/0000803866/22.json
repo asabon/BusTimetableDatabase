@@ -1,0 +1,26 @@
+{
+    "date": "2025/08/30",
+    "name": "関の下",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "上大岡駅"
+    ],
+    "weekday": [
+        "6:42",
+        "7:27",
+        "8:11",
+        "9:32",
+        "11:40",
+        "16:26"
+    ],
+    "saturday": [
+        "6:37",
+        "9:12"
+    ],
+    "holiday": [
+        "6:37",
+        "7:37"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803866-22/node:00102671/kt:0/lname:/"
+}

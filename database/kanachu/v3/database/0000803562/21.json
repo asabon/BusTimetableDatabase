@@ -1,0 +1,23 @@
+{
+    "date": "2024/07/01",
+    "name": "日の森",
+    "position": "-",
+    "system": "戸16",
+    "destinations": [
+        "上矢部",
+        "上矢部インター",
+        "富士橋",
+        "不動坂(横浜市戸塚区)",
+        "ブリヂストン前",
+        "元町(横浜市戸塚区)",
+        "戸塚駅西口",
+        "戸塚バスセンター"
+    ],
+    "weekday": [
+        "16:25",
+        "16:49"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803562-21/node:00126671/kt:0/lname:/"
+}

@@ -1,0 +1,24 @@
+{
+    "date": "2025/10/01",
+    "name": "栗谷前",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "松根",
+        "富士見が丘3丁目北",
+        "富士見が丘3丁目入口",
+        "寿考園前",
+        "富士見が丘児童館上",
+        "秋葉神社前",
+        "西公園前(中郡二宮町)",
+        "ラディアン",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "11:11",
+        "17:11"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803901-18/node:00127528/kt:0/lname:/"
+}

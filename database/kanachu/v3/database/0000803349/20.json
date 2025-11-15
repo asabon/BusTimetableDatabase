@@ -1,0 +1,24 @@
+{
+    "date": "2024/05/20",
+    "name": "市光前",
+    "position": "-",
+    "system": "伊17",
+    "destinations": [
+        "峰岸",
+        "片町(伊勢原市)",
+        "片町十字路",
+        "大神宮前",
+        "本町(伊勢原市)",
+        "伊勢原駅北口"
+    ],
+    "weekday": [
+        "19:31",
+        "20:00",
+        "20:37",
+        "20:57",
+        "21:24"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803349-20/node:00128146/kt:0/lname:/"
+}

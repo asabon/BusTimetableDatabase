@@ -1,0 +1,15 @@
+{
+    "date": "2024/03/16",
+    "name": "堀の内(相模原市中央区)",
+    "position": "-",
+    "system": "田05",
+    "destinations": [
+        "田名バスターミナル"
+    ],
+    "weekday": [
+        "16:02"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803484-15/node:00129256/kt:0/lname:/"
+}

@@ -1,0 +1,20 @@
+{
+    "date": "2025/04/19",
+    "name": "下原(相模原市南区)",
+    "position": "-",
+    "system": "大15",
+    "destinations": [
+        "原当麻駅東",
+        "原当麻駅"
+    ],
+    "weekday": [
+        "21:53"
+    ],
+    "saturday": [
+        "21:52"
+    ],
+    "holiday": [
+        "20:56"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803739-17/node:00129166/kt:0/lname:/"
+}

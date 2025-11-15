@@ -1,0 +1,29 @@
+{
+    "date": "2025/08/30",
+    "name": "川上北小学校",
+    "position": "-",
+    "system": "東04",
+    "destinations": [
+        "東戸塚駅東口"
+    ],
+    "weekday": [
+        "8:47",
+        "9:47",
+        "10:47",
+        "12:57",
+        "14:57"
+    ],
+    "saturday": [
+        "8:47",
+        "10:47",
+        "12:57",
+        "14:57"
+    ],
+    "holiday": [
+        "8:47",
+        "10:47",
+        "12:57",
+        "14:57"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803870-3/node:00126665/kt:0/lname:/"
+}

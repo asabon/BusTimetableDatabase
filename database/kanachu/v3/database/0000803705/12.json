@@ -1,0 +1,15 @@
+{
+    "date": "2025/04/01",
+    "name": "三菱ケミカル前",
+    "position": "-",
+    "system": "平65",
+    "destinations": [
+        "湘南車検場前"
+    ],
+    "weekday": [
+        "7:59"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803705-12/node:00127632/kt:0/lname:/"
+}

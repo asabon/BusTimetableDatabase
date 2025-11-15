@@ -1,0 +1,20 @@
+{
+    "system": "厚26",
+    "busstops": [
+        {
+            "index": "1",
+            "id": "00128256",
+            "name": "厚木バスセンター",
+            "lat": "35.441457",
+            "lng": "139.367046"
+        },
+        {
+            "index": "2",
+            "id": "00128651",
+            "name": "東京工芸大学",
+            "lat": "35.462873",
+            "lng": "139.330541"
+        }
+    ],
+    "route_url": "https://www.kanachu.co.jp/dia/route/index/cid:0000803885/"
+}

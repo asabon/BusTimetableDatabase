@@ -1,0 +1,25 @@
+{
+    "date": "2025/08/30",
+    "name": "狩場町",
+    "position": "-",
+    "system": "東21",
+    "destinations": [
+        "平和台",
+        "山谷(横浜市戸塚区)",
+        "坂下口",
+        "国道平戸",
+        "品濃口",
+        "坂下(横浜市戸塚区)",
+        "品濃町(横浜市戸塚区)",
+        "東戸塚駅東口"
+    ],
+    "weekday": [
+        "8:14",
+        "8:29",
+        "8:38",
+        "9:04"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803851-13/node:00102378/kt:0/lname:/"
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2025/04/19",
+    "name": "山の神坂下",
+    "position": "-",
+    "system": "大15",
+    "destinations": [
+        "下原(相模原市南区)",
+        "原当麻駅東",
+        "原当麻駅"
+    ],
+    "weekday": [
+        "21:52"
+    ],
+    "saturday": [
+        "21:51"
+    ],
+    "holiday": [
+        "20:55"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803739-16/node:00129239/kt:0/lname:/"
+}

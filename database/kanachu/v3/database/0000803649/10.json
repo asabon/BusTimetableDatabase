@@ -1,0 +1,18 @@
+{
+    "date": "2025/03/15",
+    "name": "札の辻(大和市)",
+    "position": "-",
+    "system": "丘01",
+    "destinations": [
+        "福田四丁目",
+        "福田三丁目",
+        "桜ヶ丘駅西口"
+    ],
+    "weekday": [
+        "6:11",
+        "7:00"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803649-10/node:00129996/kt:0/lname:/"
+}

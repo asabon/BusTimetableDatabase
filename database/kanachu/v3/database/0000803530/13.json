@@ -1,0 +1,25 @@
+{
+    "date": "2025/04/19",
+    "name": "北里大学病院・北里大学",
+    "position": "-",
+    "system": "大68",
+    "destinations": [
+        "友愛病院前",
+        "麻溝車庫"
+    ],
+    "weekday": [
+        "22:40",
+        "23:18"
+    ],
+    "saturday": [
+        "22:17",
+        "22:42",
+        "23:07"
+    ],
+    "holiday": [
+        "21:46",
+        "22:16",
+        "22:41"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803530-13/node:00129119/kt:0/lname:/"
+}

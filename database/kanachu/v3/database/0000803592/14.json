@@ -1,0 +1,26 @@
+{
+    "date": "2024/07/01",
+    "name": "八坂神社前",
+    "position": "-",
+    "system": "戸94",
+    "destinations": [
+        "消防署前(横浜市戸塚区)",
+        "戸塚駅西口",
+        "戸塚バスセンター"
+    ],
+    "weekday": [
+        "6:35",
+        "6:55",
+        "7:19",
+        "7:39"
+    ],
+    "saturday": [
+        "7:08",
+        "8:34"
+    ],
+    "holiday": [
+        "7:08",
+        "8:34"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803592-14/node:00126810/kt:0/lname:/"
+}

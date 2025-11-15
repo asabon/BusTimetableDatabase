@@ -1,0 +1,20 @@
+{
+    "date": "2024/09/02",
+    "name": "谷矢部中央",
+    "position": "-",
+    "system": "戸99",
+    "destinations": [
+        "来迎寺(横浜市戸塚区)",
+        "柳作東",
+        "蔵坪",
+        "戸塚駅"
+    ],
+    "weekday": [],
+    "saturday": [
+        "6:43"
+    ],
+    "holiday": [
+        "6:43"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803605-16/node:00126901/kt:0/lname:/"
+}

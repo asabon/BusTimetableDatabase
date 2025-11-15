@@ -1,0 +1,26 @@
+{
+    "date": "2025/08/30",
+    "name": "日限地蔵入口",
+    "position": "-",
+    "system": "上20",
+    "destinations": [
+        "水田(横浜市港南区)",
+        "中永谷",
+        "般若寺橋",
+        "下永谷(横浜市港南区)",
+        "平戸(横浜市港南区)"
+    ],
+    "weekday": [
+        "22:19"
+    ],
+    "saturday": [
+        "19:39",
+        "20:58",
+        "22:10"
+    ],
+    "holiday": [
+        "18:36",
+        "20:58"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803839-12/node:00102960/kt:0/lname:/"
+}

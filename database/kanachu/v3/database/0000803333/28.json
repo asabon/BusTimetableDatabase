@@ -1,0 +1,21 @@
+{
+    "date": "2025/01/14",
+    "name": "みはる野二丁目",
+    "position": "-",
+    "system": "厚11",
+    "destinations": [
+        "まつかげ台",
+        "泉(厚木市)",
+        "源氏河原",
+        "相州病院",
+        "新道橋(厚木市)",
+        "上荻野",
+        "上荻野車庫前"
+    ],
+    "weekday": [
+        "24:26"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803333-28/node:00128694/kt:0/lname:/"
+}

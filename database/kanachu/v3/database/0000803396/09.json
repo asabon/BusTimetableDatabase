@@ -1,0 +1,25 @@
+{
+    "date": "2023/10/01",
+    "name": "下鶴間",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "山王原(大和市)",
+        "山王原公園",
+        "山王原西公園",
+        "鶴間駅東口",
+        "鶴間二丁目",
+        "オークシティ南",
+        "市立病院(大和市)"
+    ],
+    "weekday": [
+        "20:07"
+    ],
+    "saturday": [
+        "18:52"
+    ],
+    "holiday": [
+        "18:52"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803396-9/node:00129528/kt:0/lname:/"
+}

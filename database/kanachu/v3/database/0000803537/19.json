@@ -1,0 +1,22 @@
+{
+    "date": "2024/04/01",
+    "name": "田原入口",
+    "position": "-",
+    "system": "秦53",
+    "destinations": [
+        "高砂(秦野市)",
+        "高砂車庫前"
+    ],
+    "weekday": [
+        "22:56"
+    ],
+    "saturday": [
+        "21:54",
+        "22:35"
+    ],
+    "holiday": [
+        "21:54",
+        "22:35"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803537-19/node:00127882/kt:0/lname:/"
+}

@@ -1,0 +1,20 @@
+{
+    "date": "2025/10/01",
+    "name": "山西プール前",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "川勾神社入口",
+        "密厳院北",
+        "山西防災コミュニティセンター",
+        "山西(中郡二宮町)",
+        "吾妻神社前(中郡二宮町)",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "8:06"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803903-8/node:00130152/kt:0/lname:/"
+}

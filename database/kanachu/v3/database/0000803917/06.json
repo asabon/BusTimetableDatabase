@@ -1,0 +1,24 @@
+{
+    "date": "2025/10/20",
+    "name": "上瀬谷小学校入口",
+    "position": "-",
+    "system": "間24",
+    "destinations": [
+        "竹村町",
+        "中屋敷(横浜市瀬谷区)",
+        "本郷原",
+        "本郷(横浜市瀬谷区)",
+        "瀬谷駅前通り",
+        "瀬谷駅"
+    ],
+    "weekday": [
+        "5:54"
+    ],
+    "saturday": [
+        "6:09"
+    ],
+    "holiday": [
+        "6:09"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803917-6/node:00129654/kt:0/lname:/"
+}

@@ -1,0 +1,25 @@
+{
+    "date": "2025/04/19",
+    "name": "オルガノ前",
+    "position": "-",
+    "system": "大25",
+    "destinations": [
+        "大沼",
+        "大沼小学校前",
+        "東通り(相模原市南区)",
+        "団地入口(相模原市南区)",
+        "小沼(相模原市南区)",
+        "南中前(相模原市南区)",
+        "グリーンホール前",
+        "相模大野駅北口"
+    ],
+    "weekday": [
+        "5:59",
+        "6:11"
+    ],
+    "saturday": [
+        "6:05"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803513-14/node:00129197/kt:0/lname:/"
+}

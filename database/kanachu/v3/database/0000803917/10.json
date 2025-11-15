@@ -1,0 +1,20 @@
+{
+    "date": "2025/10/20",
+    "name": "本郷(横浜市瀬谷区)",
+    "position": "-",
+    "system": "間24",
+    "destinations": [
+        "瀬谷駅前通り",
+        "瀬谷駅"
+    ],
+    "weekday": [
+        "6:00"
+    ],
+    "saturday": [
+        "6:15"
+    ],
+    "holiday": [
+        "6:15"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803917-10/node:00129658/kt:0/lname:/"
+}

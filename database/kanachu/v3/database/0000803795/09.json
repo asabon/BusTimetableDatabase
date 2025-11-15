@@ -1,0 +1,21 @@
+{
+    "date": "2025/10/20",
+    "name": "豊川稲荷前(大和市)",
+    "position": "-",
+    "system": "間13",
+    "destinations": [
+        "新橋通り(大和市)",
+        "大和駅西口"
+    ],
+    "weekday": [
+        "9:15",
+        "14:17",
+        "15:09",
+        "18:26",
+        "19:12",
+        "20:04"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803795-9/node:00129614/kt:0/lname:/"
+}

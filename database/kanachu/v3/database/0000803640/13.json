@@ -1,0 +1,19 @@
+{
+    "date": "2025/07/12",
+    "name": "石原谷",
+    "position": "-",
+    "system": "藤66",
+    "destinations": [
+        "荏原工業団地",
+        "茅山(藤沢市)",
+        "善行二丁目",
+        "善行駅"
+    ],
+    "weekday": [
+        "9:51",
+        "10:49"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803640-13/node:00127102/kt:0/lname:/"
+}

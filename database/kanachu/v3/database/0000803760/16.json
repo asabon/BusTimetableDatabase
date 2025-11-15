@@ -1,0 +1,17 @@
+{
+    "date": "2025/04/01",
+    "name": "青山(相模原市緑区)",
+    "position": "-",
+    "system": "三55",
+    "destinations": [
+        "三ヶ木新宿",
+        "津久井高校前",
+        "三ヶ木"
+    ],
+    "weekday": [
+        "6:10"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803760-16/node:00128753/kt:0/lname:/"
+}

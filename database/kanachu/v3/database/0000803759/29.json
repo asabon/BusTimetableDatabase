@@ -1,0 +1,23 @@
+{
+    "date": "2025/04/01",
+    "name": "音久和",
+    "position": "-",
+    "system": "三56",
+    "destinations": [
+        "神の川入口",
+        "月夜野"
+    ],
+    "weekday": [
+        "8:17",
+        "12:47"
+    ],
+    "saturday": [
+        "7:37",
+        "16:07"
+    ],
+    "holiday": [
+        "7:37",
+        "16:07"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803759-29/node:00128778/kt:0/lname:/"
+}

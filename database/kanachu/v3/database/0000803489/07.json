@@ -1,0 +1,24 @@
+{
+    "date": "2025/04/19",
+    "name": "大野台中央",
+    "position": "-",
+    "system": "淵36",
+    "destinations": [
+        "大野台三丁目",
+        "淵野辺公園",
+        "和泉短大前",
+        "青葉児童館前"
+    ],
+    "weekday": [
+        "20:07"
+    ],
+    "saturday": [
+        "19:17",
+        "20:37"
+    ],
+    "holiday": [
+        "19:17",
+        "20:37"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803489-7/node:00129094/kt:0/lname:/"
+}

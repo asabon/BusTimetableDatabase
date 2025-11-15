@@ -1,0 +1,20 @@
+{
+    "date": "2024/09/02",
+    "name": "ブリヂストン前",
+    "position": "-",
+    "system": "戸18",
+    "destinations": [
+        "元町(横浜市戸塚区)",
+        "戸塚駅西口",
+        "戸塚バスセンター"
+    ],
+    "weekday": [
+        "7:17",
+        "7:36"
+    ],
+    "saturday": [
+        "7:01"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803567-7/node:00126612/kt:0/lname:/"
+}

@@ -1,0 +1,23 @@
+{
+    "date": "2025/05/11",
+    "name": "長倉町",
+    "position": "-",
+    "system": "金28",
+    "destinations": [
+        "八軒谷戸",
+        "中島(横浜市栄区)",
+        "光明寺(横浜市栄区)",
+        "紅葉橋(横浜市栄区)",
+        "本郷車庫前(横浜市栄区)"
+    ],
+    "weekday": [
+        "23:14"
+    ],
+    "saturday": [
+        "20:01"
+    ],
+    "holiday": [
+        "20:01"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803823-17/node:00126518/kt:0/lname:/"
+}

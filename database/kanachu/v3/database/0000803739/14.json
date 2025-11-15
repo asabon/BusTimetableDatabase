@@ -1,0 +1,23 @@
+{
+    "date": "2025/04/19",
+    "name": "友愛病院前",
+    "position": "-",
+    "system": "大15",
+    "destinations": [
+        "県立相模原公園前",
+        "山の神坂下",
+        "下原(相模原市南区)",
+        "原当麻駅東",
+        "原当麻駅"
+    ],
+    "weekday": [
+        "21:49"
+    ],
+    "saturday": [
+        "21:48"
+    ],
+    "holiday": [
+        "20:52"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803739-14/node:00129286/kt:0/lname:/"
+}

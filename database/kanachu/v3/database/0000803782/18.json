@@ -1,0 +1,25 @@
+{
+    "date": "2025/10/20",
+    "name": "富士見橋(大和市)",
+    "position": "-",
+    "system": "間17",
+    "destinations": [
+        "桜ヶ丘駅西口"
+    ],
+    "weekday": [
+        "10:02",
+        "10:52",
+        "11:37",
+        "12:32",
+        "13:22",
+        "14:12",
+        "15:02",
+        "15:52",
+        "16:42",
+        "17:32",
+        "18:22"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803782-18/node:00129623/kt:0/lname:/"
+}

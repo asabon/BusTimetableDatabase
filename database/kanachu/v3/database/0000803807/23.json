@@ -1,0 +1,19 @@
+{
+    "date": "2025/04/01",
+    "name": "三ヶ木新宿",
+    "position": "-",
+    "system": "三55",
+    "destinations": [
+        "津久井高校前",
+        "三ヶ木"
+    ],
+    "weekday": [
+        "7:26",
+        "11:16",
+        "16:36",
+        "18:06"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803807-23/node:00128752/kt:0/lname:/"
+}

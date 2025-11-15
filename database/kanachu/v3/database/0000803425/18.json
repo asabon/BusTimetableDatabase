@@ -1,0 +1,17 @@
+{
+    "date": "2025/05/11",
+    "name": "本郷石橋",
+    "position": "-",
+    "system": "上06",
+    "destinations": [
+        "天神橋(横浜市栄区)"
+    ],
+    "weekday": [],
+    "saturday": [
+        "22:18"
+    ],
+    "holiday": [
+        "22:18"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803425-18/node:00126550/kt:0/lname:/"
+}

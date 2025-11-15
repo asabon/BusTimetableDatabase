@@ -1,0 +1,23 @@
+{
+    "date": "2024/07/01",
+    "name": "庚申塚(横浜市戸塚区)",
+    "position": "-",
+    "system": "船24",
+    "destinations": [
+        "原宿四ツ角",
+        "横浜医療センター前",
+        "三叉路(横浜市戸塚区)",
+        "横浜薬大南門",
+        "俣野公園・横浜薬大前"
+    ],
+    "weekday": [
+        "6:33",
+        "6:42",
+        "7:18",
+        "8:07",
+        "18:45"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803583-12/node:00126926/kt:0/lname:/"
+}

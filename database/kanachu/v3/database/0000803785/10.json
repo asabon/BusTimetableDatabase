@@ -1,0 +1,21 @@
+{
+    "date": "2025/10/20",
+    "name": "鶴間二丁目",
+    "position": "-",
+    "system": "間13",
+    "destinations": [
+        "鶴間駅東口"
+    ],
+    "weekday": [
+        "7:48",
+        "8:05",
+        "8:41",
+        "9:05",
+        "9:39",
+        "14:45",
+        "15:35"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803785-10/node:00129524/kt:0/lname:/"
+}

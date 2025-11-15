@@ -1,0 +1,23 @@
+{
+    "date": "2025/04/01",
+    "name": "マルマン工場前",
+    "position": "-",
+    "system": "小03",
+    "destinations": [
+        "小田急住宅前(座間市)",
+        "相模台",
+        "小田急相模原駅"
+    ],
+    "weekday": [
+        "17:16",
+        "17:56",
+        "18:33",
+        "19:09",
+        "20:12",
+        "21:09",
+        "22:09"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803728-13/node:00129677/kt:0/lname:/"
+}

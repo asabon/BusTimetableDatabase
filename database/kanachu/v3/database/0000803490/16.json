@@ -1,0 +1,21 @@
+{
+    "date": "2025/03/15",
+    "name": "寒川十字路",
+    "position": "-",
+    "system": "茅46",
+    "destinations": [
+        "景観寺"
+    ],
+    "weekday": [
+        "21:00",
+        "21:45"
+    ],
+    "saturday": [
+        "19:50",
+        "20:50"
+    ],
+    "holiday": [
+        "19:50"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803490-16/node:00127169/kt:0/lname:/"
+}

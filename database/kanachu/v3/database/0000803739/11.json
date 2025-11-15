@@ -1,0 +1,26 @@
+{
+    "date": "2025/04/19",
+    "name": "麻溝台入口",
+    "position": "-",
+    "system": "大15",
+    "destinations": [
+        "麻溝台高校",
+        "北里大学病院・北里大学",
+        "友愛病院前",
+        "県立相模原公園前",
+        "山の神坂下",
+        "下原(相模原市南区)",
+        "原当麻駅東",
+        "原当麻駅"
+    ],
+    "weekday": [
+        "21:42"
+    ],
+    "saturday": [
+        "21:42"
+    ],
+    "holiday": [
+        "20:47"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803739-11/node:00129121/kt:0/lname:/"
+}

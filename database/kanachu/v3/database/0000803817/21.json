@@ -1,0 +1,29 @@
+{
+    "date": "2025/04/01",
+    "name": "陽原",
+    "position": "-",
+    "system": "橋57",
+    "destinations": [
+        "南光寺前",
+        "望地キャンプ場入口"
+    ],
+    "weekday": [
+        "20:13",
+        "21:07",
+        "21:47",
+        "22:07",
+        "22:37",
+        "23:07",
+        "23:29"
+    ],
+    "saturday": [
+        "21:37",
+        "22:07",
+        "22:37"
+    ],
+    "holiday": [
+        "21:32",
+        "22:02"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803817-21/node:00129263/kt:0/lname:/"
+}

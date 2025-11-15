@@ -1,0 +1,24 @@
+{
+    "date": "2024/09/02",
+    "name": "上矢部",
+    "position": "-",
+    "system": "戸18",
+    "destinations": [
+        "上矢部インター",
+        "富士橋",
+        "不動坂(横浜市戸塚区)",
+        "ブリヂストン前",
+        "元町(横浜市戸塚区)",
+        "戸塚駅西口",
+        "戸塚バスセンター"
+    ],
+    "weekday": [
+        "7:06",
+        "7:25"
+    ],
+    "saturday": [
+        "6:55"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803567-3/node:00126670/kt:0/lname:/"
+}

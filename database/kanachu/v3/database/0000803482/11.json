@@ -1,0 +1,25 @@
+{
+    "date": "2024/12/16",
+    "name": "井の花",
+    "position": "-",
+    "system": "鶴32",
+    "destinations": [
+        "大蔵(鶴川郵便局前/町田市)",
+        "鶴川市民センター入口",
+        "下大蔵",
+        "金井入口",
+        "上能ヶ谷",
+        "鶴川駅西口",
+        "鶴川駅"
+    ],
+    "weekday": [
+        "6:40"
+    ],
+    "saturday": [
+        "6:10"
+    ],
+    "holiday": [
+        "6:15"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803482-11/node:00129473/kt:0/lname:/"
+}

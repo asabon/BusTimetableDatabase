@@ -1,0 +1,24 @@
+{
+    "date": "2025/01/14",
+    "name": "松蓮寺",
+    "position": "-",
+    "system": "厚06",
+    "destinations": [
+        "糀屋前(厚木市)",
+        "宿原入口",
+        "荻野新宿",
+        "子合",
+        "桝割",
+        "公所(厚木市)",
+        "稲荷木",
+        "鳶尾山前",
+        "鳶尾四丁目",
+        "鳶尾団地"
+    ],
+    "weekday": [
+        "24:41"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803495-11/node:00128265/kt:0/lname:/"
+}

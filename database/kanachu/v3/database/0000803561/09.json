@@ -1,0 +1,26 @@
+{
+    "date": "2024/09/02",
+    "name": "日ノ出橋(横浜市戸塚区)",
+    "position": "-",
+    "system": "戸75",
+    "destinations": [
+        "金井(横浜市栄区)",
+        "辻前",
+        "金井高校前"
+    ],
+    "weekday": [
+        "6:39",
+        "6:54",
+        "7:01",
+        "7:15",
+        "7:29",
+        "7:43",
+        "7:57",
+        "8:04",
+        "8:17",
+        "8:23"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803561-9/node:00126843/kt:0/lname:/"
+}

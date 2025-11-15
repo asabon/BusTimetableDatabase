@@ -1,0 +1,22 @@
+{
+    "date": "2025/08/04",
+    "name": "法政大学入口",
+    "position": "-",
+    "system": "橋62",
+    "destinations": [
+        "法政大学(町田市)"
+    ],
+    "weekday": [
+        "21:35",
+        "22:15"
+    ],
+    "saturday": [
+        "20:55",
+        "21:30"
+    ],
+    "holiday": [
+        "20:05",
+        "20:55"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803828-21/node:00130508/kt:0/lname:/"
+}

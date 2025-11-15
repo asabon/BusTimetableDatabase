@@ -1,0 +1,18 @@
+{
+    "date": "2025/05/11",
+    "name": "鍛冶ヶ谷",
+    "position": "-",
+    "system": "上06",
+    "destinations": [
+        "本郷石橋",
+        "天神橋(横浜市栄区)"
+    ],
+    "weekday": [],
+    "saturday": [
+        "22:17"
+    ],
+    "holiday": [
+        "22:17"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803425-17/node:00126551/kt:0/lname:/"
+}

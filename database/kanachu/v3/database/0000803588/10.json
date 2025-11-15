@@ -1,0 +1,21 @@
+{
+    "date": "2025/02/24",
+    "name": "大坂下",
+    "position": "-",
+    "system": "戸56",
+    "destinations": [
+        "八坂神社前",
+        "消防署前(横浜市戸塚区)",
+        "戸塚駅西口",
+        "戸塚バスセンター"
+    ],
+    "weekday": [
+        "7:41",
+        "19:11",
+        "19:35",
+        "20:45"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803588-10/node:00126811/kt:0/lname:/"
+}

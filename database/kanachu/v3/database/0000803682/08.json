@@ -1,0 +1,27 @@
+{
+    "date": "2025/03/15",
+    "name": "辻東(茅ケ崎市)",
+    "position": "-",
+    "system": "茅55",
+    "destinations": [
+        "古川(茅ケ崎市)",
+        "アルバック前",
+        "走内",
+        "西の谷(茅ケ崎市)",
+        "上の前(茅ケ崎市)",
+        "神の倉"
+    ],
+    "weekday": [
+        "21:17",
+        "22:12",
+        "23:12"
+    ],
+    "saturday": [
+        "21:17",
+        "22:12"
+    ],
+    "holiday": [
+        "21:30"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803682-8/node:00127201/kt:0/lname:/"
+}

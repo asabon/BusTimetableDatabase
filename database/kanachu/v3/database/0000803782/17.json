@@ -1,0 +1,26 @@
+{
+    "date": "2025/10/20",
+    "name": "山王橋(大和市)",
+    "position": "-",
+    "system": "間17",
+    "destinations": [
+        "富士見橋(大和市)",
+        "桜ヶ丘駅西口"
+    ],
+    "weekday": [
+        "10:01",
+        "10:51",
+        "11:36",
+        "12:31",
+        "13:21",
+        "14:11",
+        "15:01",
+        "15:51",
+        "16:41",
+        "17:31",
+        "18:21"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803782-17/node:00129622/kt:0/lname:/"
+}

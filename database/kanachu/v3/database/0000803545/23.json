@@ -1,0 +1,19 @@
+{
+    "date": "2024/07/01",
+    "name": "旭ヶ丘(横浜市瀬谷区)",
+    "position": "-",
+    "system": "戸16",
+    "destinations": [
+        "住宅前(横浜市瀬谷区)",
+        "富士見台(横浜市瀬谷区)",
+        "富士見通り商店街",
+        "三ツ境駅"
+    ],
+    "weekday": [
+        "8:02",
+        "8:12"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803545-23/node:00126685/kt:0/lname:/"
+}

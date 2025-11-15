@@ -1,0 +1,25 @@
+{
+    "date": "2021/02/22",
+    "name": "道灌塚前",
+    "position": "-",
+    "system": "伊12",
+    "destinations": [
+        "〆引",
+        "市光前",
+        "峰岸",
+        "片町(伊勢原市)",
+        "片町十字路",
+        "大神宮前",
+        "本町(伊勢原市)",
+        "伊勢原駅北口"
+    ],
+    "weekday": [
+        "6:03",
+        "6:37"
+    ],
+    "saturday": [
+        "6:28"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803361-11/node:00128148/kt:0/lname:/"
+}

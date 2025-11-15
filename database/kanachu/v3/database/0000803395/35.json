@@ -1,0 +1,24 @@
+{
+    "date": "2023/10/01",
+    "name": "まごころ地域福祉センター",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "柳橋小入口",
+        "日飛入口",
+        "引地台公園",
+        "中央6丁目",
+        "大和警察署前",
+        "大和駅"
+    ],
+    "weekday": [
+        "9:01"
+    ],
+    "saturday": [
+        "9:01"
+    ],
+    "holiday": [
+        "9:01"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803395-35/node:00130419/kt:0/lname:/"
+}

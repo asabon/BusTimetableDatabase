@@ -1,0 +1,22 @@
+{
+    "date": "2025/04/19",
+    "name": "県立相模原公園前",
+    "position": "-",
+    "system": "大15",
+    "destinations": [
+        "山の神坂下",
+        "下原(相模原市南区)",
+        "原当麻駅東",
+        "原当麻駅"
+    ],
+    "weekday": [
+        "21:51"
+    ],
+    "saturday": [
+        "21:50"
+    ],
+    "holiday": [
+        "20:54"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803739-15/node:00129133/kt:0/lname:/"
+}

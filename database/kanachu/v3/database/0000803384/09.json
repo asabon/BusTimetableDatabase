@@ -1,0 +1,25 @@
+{
+    "date": "2025/07/27",
+    "name": "秦才橋",
+    "position": "-",
+    "system": "秦38",
+    "destinations": [
+        "なでしこ広場前",
+        "室川橋",
+        "秦野駅"
+    ],
+    "weekday": [
+        "8:30",
+        "9:29",
+        "10:29",
+        "11:29",
+        "12:29",
+        "13:29",
+        "14:29",
+        "17:30",
+        "18:35"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803384-9/node:00127723/kt:0/lname:/"
+}

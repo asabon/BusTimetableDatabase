@@ -1,0 +1,27 @@
+{
+    "date": "2025/08/30",
+    "name": "弘明寺口",
+    "position": "-",
+    "system": "戸01",
+    "destinations": [
+        "南永田",
+        "住宅前(横浜市南区)",
+        "井土ヶ谷",
+        "井土ヶ谷下町"
+    ],
+    "weekday": [
+        "20:51",
+        "22:44"
+    ],
+    "saturday": [
+        "19:31",
+        "20:41",
+        "22:22"
+    ],
+    "holiday": [
+        "19:31",
+        "20:41",
+        "22:22"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803410-18/node:00126628/kt:0/lname:/"
+}

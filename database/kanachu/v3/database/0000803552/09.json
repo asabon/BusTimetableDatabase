@@ -1,0 +1,27 @@
+{
+    "date": "2024/09/02",
+    "name": "日ノ出橋(横浜市戸塚区)",
+    "position": "-",
+    "system": "戸95",
+    "destinations": [
+        "金井(横浜市栄区)",
+        "町内会館前(横浜市栄区)",
+        "戸塚台入口",
+        "原宿公園",
+        "戸塚台",
+        "戸塚台中央"
+    ],
+    "weekday": [
+        "19:39",
+        "21:39"
+    ],
+    "saturday": [
+        "18:59",
+        "21:09"
+    ],
+    "holiday": [
+        "18:59",
+        "21:09"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803552-9/node:00126843/kt:0/lname:/"
+}

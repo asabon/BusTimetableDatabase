@@ -1,0 +1,21 @@
+{
+    "date": "2024/05/20",
+    "name": "中原御殿",
+    "position": "-",
+    "system": "平96",
+    "destinations": [
+        "中原上宿",
+        "大縄橋",
+        "豊田本郷駅",
+        "東橋(平塚市)",
+        "矢崎(平塚市)"
+    ],
+    "weekday": [
+        "21:01",
+        "21:31",
+        "23:41"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803554-9/node:00128068/kt:0/lname:/"
+}

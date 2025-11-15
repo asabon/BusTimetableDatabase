@@ -1,0 +1,16 @@
+{
+    "date": "2025/10/01",
+    "name": "南5号前",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "南4号前",
+        "団地中央(中郡二宮町)"
+    ],
+    "weekday": [
+        "18:41"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803902-12/node:00127794/kt:0/lname:/"
+}

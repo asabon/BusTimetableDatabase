@@ -1,0 +1,25 @@
+{
+    "date": "2025/04/19",
+    "name": "大沼",
+    "position": "-",
+    "system": "大68",
+    "destinations": [
+        "大沼小学校前",
+        "東通り(相模原市南区)",
+        "団地入口(相模原市南区)",
+        "小沼(相模原市南区)",
+        "南中前(相模原市南区)",
+        "グリーンホール前",
+        "相模大野駅北口"
+    ],
+    "weekday": [
+        "5:46",
+        "6:22",
+        "6:52"
+    ],
+    "saturday": [],
+    "holiday": [
+        "6:25"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803503-8/node:00129089/kt:0/lname:/"
+}

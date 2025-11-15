@@ -1,0 +1,17 @@
+{
+    "date": "2024/07/01",
+    "name": "富士見台(横浜市瀬谷区)",
+    "position": "-",
+    "system": "戸16",
+    "destinations": [
+        "富士見通り商店街",
+        "三ツ境駅"
+    ],
+    "weekday": [
+        "8:04",
+        "8:14"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803545-25/node:00126704/kt:0/lname:/"
+}

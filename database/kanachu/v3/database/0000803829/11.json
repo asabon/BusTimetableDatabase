@@ -1,0 +1,22 @@
+{
+    "date": "2025/08/04",
+    "name": "東原宿",
+    "position": "-",
+    "system": "橋15",
+    "destinations": [
+        "原宿(相模原市緑区)",
+        "城山総合事務所入口",
+        "久保沢",
+        "谷ヶ原",
+        "都井沢",
+        "城山高校前"
+    ],
+    "weekday": [
+        "23:48"
+    ],
+    "saturday": [
+        "23:14"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803829-11/node:00128962/kt:0/lname:/"
+}

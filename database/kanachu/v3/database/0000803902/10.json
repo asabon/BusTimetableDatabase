@@ -1,0 +1,18 @@
+{
+    "date": "2025/10/01",
+    "name": "釜野隧道",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "中里2丁目",
+        "南5号前",
+        "南4号前",
+        "団地中央(中郡二宮町)"
+    ],
+    "weekday": [
+        "18:39"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803902-10/node:00130160/kt:0/lname:/"
+}

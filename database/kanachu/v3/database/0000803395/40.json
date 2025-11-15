@@ -1,0 +1,19 @@
+{
+    "date": "2023/10/01",
+    "name": "大和警察署前",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "大和駅"
+    ],
+    "weekday": [
+        "9:10"
+    ],
+    "saturday": [
+        "9:10"
+    ],
+    "holiday": [
+        "9:10"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803395-40/node:00130415/kt:0/lname:/"
+}

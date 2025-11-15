@@ -1,0 +1,18 @@
+{
+    "date": "2025/03/15",
+    "name": "ジャスコ前(茅ケ崎市)",
+    "position": "-",
+    "system": "茅55",
+    "destinations": [
+        "市民文化会館前(茅ケ崎市)",
+        "茅ヶ崎駅"
+    ],
+    "weekday": [
+        "6:29",
+        "6:45",
+        "7:09"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803683-12/node:00127288/kt:0/lname:/"
+}

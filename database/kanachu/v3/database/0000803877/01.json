@@ -1,0 +1,18 @@
+{
+    "date": "2025/09/08",
+    "name": "慶応大学本館前",
+    "position": "-",
+    "system": "湘28",
+    "destinations": [
+        "湘南台駅西口"
+    ],
+    "weekday": [
+        "15:28",
+        "15:34",
+        "18:11",
+        "18:42"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803877-1/node:00129986/kt:0/lname:/"
+}

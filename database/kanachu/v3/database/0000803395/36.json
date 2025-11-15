@@ -1,0 +1,23 @@
+{
+    "date": "2023/10/01",
+    "name": "柳橋小入口",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "日飛入口",
+        "引地台公園",
+        "中央6丁目",
+        "大和警察署前",
+        "大和駅"
+    ],
+    "weekday": [
+        "9:02"
+    ],
+    "saturday": [
+        "9:02"
+    ],
+    "holiday": [
+        "9:02"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803395-36/node:00130431/kt:0/lname:/"
+}

@@ -1,0 +1,20 @@
+{
+    "date": "2024/12/16",
+    "name": "小野路",
+    "position": "-",
+    "system": "鶴32",
+    "destinations": [
+        "浅間下(町田市)",
+        "南野二丁目"
+    ],
+    "weekday": [
+        "21:50"
+    ],
+    "saturday": [
+        "21:28"
+    ],
+    "holiday": [
+        "21:28"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803455-15/node:00130077/kt:0/lname:/"
+}

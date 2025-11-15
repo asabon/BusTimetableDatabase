@@ -1,0 +1,22 @@
+{
+    "date": "2025/04/01",
+    "name": "大磯局前",
+    "position": "-",
+    "system": "二01",
+    "destinations": [
+        "山王町(中郡大磯町)",
+        "長者町(中郡大磯町)",
+        "化粧坂",
+        "花水",
+        "桜ヶ丘公園(平塚市)",
+        "桜ヶ丘",
+        "上平塚",
+        "市民病院前(平塚市)"
+    ],
+    "weekday": [
+        "8:22"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803719-38/node:00127475/kt:0/lname:/"
+}

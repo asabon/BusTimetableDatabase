@@ -1,0 +1,16 @@
+{
+    "date": "2024/05/20",
+    "name": "本町(伊勢原市)",
+    "position": "-",
+    "system": "伊31",
+    "destinations": [
+        "伊勢原駅北口"
+    ],
+    "weekday": [
+        "7:18",
+        "7:50"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803343-21/node:00128128/kt:0/lname:/"
+}

@@ -1,0 +1,24 @@
+{
+    "date": "2025/10/01",
+    "name": "元町北(二宮町)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "栗谷前",
+        "松根",
+        "富士見が丘3丁目北",
+        "富士見が丘3丁目入口",
+        "寿考園前",
+        "富士見が丘児童館前",
+        "富士見が丘交差点上",
+        "ラディアン",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "9:10",
+        "14:10"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803900-18/node:00130481/kt:0/lname:/"
+}

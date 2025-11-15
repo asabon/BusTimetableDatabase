@@ -1,0 +1,22 @@
+{
+    "date": "2025/05/11",
+    "name": "八軒谷戸",
+    "position": "-",
+    "system": "金28",
+    "destinations": [
+        "中島(横浜市栄区)",
+        "光明寺(横浜市栄区)",
+        "紅葉橋(横浜市栄区)",
+        "本郷車庫前(横浜市栄区)"
+    ],
+    "weekday": [
+        "23:15"
+    ],
+    "saturday": [
+        "20:02"
+    ],
+    "holiday": [
+        "20:02"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803823-18/node:00126517/kt:0/lname:/"
+}

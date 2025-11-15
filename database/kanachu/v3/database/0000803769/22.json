@@ -1,0 +1,24 @@
+{
+    "date": "2025/04/01",
+    "name": "滝ノ前(足柄上郡中井町)",
+    "position": "-",
+    "system": "二32",
+    "destinations": [
+        "五所ノ宮",
+        "中井郵便局前",
+        "万年橋(足柄上郡中井町)",
+        "中井役場前",
+        "中井町役場入口"
+    ],
+    "weekday": [
+        "7:31",
+        "7:56",
+        "8:10",
+        "8:23",
+        "8:38",
+        "8:59"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803769-22/node:00127966/kt:0/lname:/"
+}

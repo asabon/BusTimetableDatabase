@@ -1,0 +1,27 @@
+{
+    "date": "2025/04/01",
+    "name": "与瀬神社前",
+    "position": "-",
+    "system": "湖23",
+    "destinations": [
+        "仲町(相模原市緑区)",
+        "相模湖駅"
+    ],
+    "weekday": [
+        "9:00",
+        "9:44",
+        "11:26",
+        "16:09"
+    ],
+    "saturday": [
+        "9:23",
+        "10:14",
+        "11:38"
+    ],
+    "holiday": [
+        "9:23",
+        "10:14",
+        "11:38"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803757-7/node:00128782/kt:0/lname:/"
+}

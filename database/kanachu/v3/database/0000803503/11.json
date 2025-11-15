@@ -1,0 +1,22 @@
+{
+    "date": "2025/04/19",
+    "name": "団地入口(相模原市南区)",
+    "position": "-",
+    "system": "大68",
+    "destinations": [
+        "小沼(相模原市南区)",
+        "南中前(相模原市南区)",
+        "グリーンホール前",
+        "相模大野駅北口"
+    ],
+    "weekday": [
+        "5:50",
+        "6:26",
+        "6:56"
+    ],
+    "saturday": [],
+    "holiday": [
+        "6:29"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803503-11/node:00129193/kt:0/lname:/"
+}

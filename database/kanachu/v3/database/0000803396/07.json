@@ -1,0 +1,27 @@
+{
+    "date": "2023/10/01",
+    "name": "松の久保公園",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "山谷中央",
+        "下鶴間",
+        "山王原(大和市)",
+        "山王原公園",
+        "山王原西公園",
+        "鶴間駅東口",
+        "鶴間二丁目",
+        "オークシティ南",
+        "市立病院(大和市)"
+    ],
+    "weekday": [
+        "20:02"
+    ],
+    "saturday": [
+        "18:47"
+    ],
+    "holiday": [
+        "18:47"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803396-7/node:00130463/kt:0/lname:/"
+}

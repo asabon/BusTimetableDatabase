@@ -1,0 +1,25 @@
+{
+    "date": "2024/12/16",
+    "name": "南貝取",
+    "position": "-",
+    "system": "鶴31",
+    "destinations": [
+        "永山五丁目",
+        "永山高校",
+        "永山いちょう通り",
+        "諏訪南公園",
+        "諏訪幼稚園前",
+        "諏訪二丁目(多摩市)",
+        "永山駅"
+    ],
+    "weekday": [
+        "22:10"
+    ],
+    "saturday": [
+        "22:10"
+    ],
+    "holiday": [
+        "22:10"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803440-17/node:00021041/kt:0/lname:/"
+}

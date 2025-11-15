@@ -1,0 +1,22 @@
+{
+    "date": "2025/08/04",
+    "name": "旭農協前",
+    "position": "-",
+    "system": "橋62",
+    "destinations": [
+        "橋本駅北口"
+    ],
+    "weekday": [
+        "6:48",
+        "7:28"
+    ],
+    "saturday": [
+        "7:13",
+        "8:03"
+    ],
+    "holiday": [
+        "7:13",
+        "8:03"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803827-21/node:00020098/kt:0/lname:/"
+}

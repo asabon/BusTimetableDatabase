@@ -1,0 +1,20 @@
+{
+    "date": "2025/04/01",
+    "name": "富士見平",
+    "position": "-",
+    "system": "磯01",
+    "destinations": [
+        "桜美園前",
+        "栗谷前",
+        "堂面(中郡二宮町)",
+        "元町(中郡二宮町)",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "14:30",
+        "18:50"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803738-31/node:00127526/kt:0/lname:/"
+}

@@ -1,0 +1,24 @@
+{
+    "date": "2025/10/20",
+    "name": "職業安定所前(大和市)",
+    "position": "-",
+    "system": "間13",
+    "destinations": [
+        "郵便局前(大和市)",
+        "市民活動拠点ベテルギウス前",
+        "豊川稲荷前(大和市)",
+        "新橋通り(大和市)",
+        "大和駅西口"
+    ],
+    "weekday": [
+        "9:11",
+        "14:13",
+        "15:05",
+        "18:22",
+        "19:08",
+        "20:00"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803795-6/node:00129742/kt:0/lname:/"
+}

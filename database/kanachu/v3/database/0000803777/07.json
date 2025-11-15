@@ -1,0 +1,25 @@
+{
+    "date": "2025/10/20",
+    "name": "市役所市立病院前",
+    "position": "-",
+    "system": "間13",
+    "destinations": [
+        "オークシティ前",
+        "鶴間二丁目",
+        "鶴間駅東口"
+    ],
+    "weekday": [
+        "18:44",
+        "19:32",
+        "20:22"
+    ],
+    "saturday": [
+        "8:08",
+        "19:34"
+    ],
+    "holiday": [
+        "8:08",
+        "19:33"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803777-7/node:00129611/kt:0/lname:/"
+}

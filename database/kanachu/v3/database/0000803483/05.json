@@ -1,0 +1,21 @@
+{
+    "date": "2024/03/16",
+    "name": "大野台中央",
+    "position": "-",
+    "system": "淵37",
+    "destinations": [
+        "由野台二丁目",
+        "共和(相模原市中央区)",
+        "宇宙科学研究本部",
+        "共和一丁目",
+        "淵野辺駅入口",
+        "淵野辺駅南口"
+    ],
+    "weekday": [
+        "6:23",
+        "7:15"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803483-5/node:00129094/kt:0/lname:/"
+}

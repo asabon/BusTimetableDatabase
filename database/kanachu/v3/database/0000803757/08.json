@@ -1,0 +1,26 @@
+{
+    "date": "2025/04/01",
+    "name": "仲町(相模原市緑区)",
+    "position": "-",
+    "system": "湖23",
+    "destinations": [
+        "相模湖駅"
+    ],
+    "weekday": [
+        "9:01",
+        "9:45",
+        "11:27",
+        "16:10"
+    ],
+    "saturday": [
+        "9:24",
+        "10:15",
+        "11:39"
+    ],
+    "holiday": [
+        "9:24",
+        "10:15",
+        "11:39"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803757-8/node:00128781/kt:0/lname:/"
+}

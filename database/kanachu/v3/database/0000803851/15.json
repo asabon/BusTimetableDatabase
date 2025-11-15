@@ -1,0 +1,23 @@
+{
+    "date": "2025/08/30",
+    "name": "山谷(横浜市戸塚区)",
+    "position": "-",
+    "system": "東21",
+    "destinations": [
+        "坂下口",
+        "国道平戸",
+        "品濃口",
+        "坂下(横浜市戸塚区)",
+        "品濃町(横浜市戸塚区)",
+        "東戸塚駅東口"
+    ],
+    "weekday": [
+        "8:17",
+        "8:32",
+        "8:41",
+        "9:07"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803851-15/node:00126620/kt:0/lname:/"
+}

@@ -1,0 +1,25 @@
+{
+    "date": "2025/04/19",
+    "name": "千代田(相模原市中央区)",
+    "position": "-",
+    "system": "淵35",
+    "destinations": [
+        "栄公園前",
+        "弥栄(相模原市中央区)",
+        "淵野辺十字路",
+        "淵野辺駅入口",
+        "淵野辺駅南口"
+    ],
+    "weekday": [
+        "6:02",
+        "6:22",
+        "6:50"
+    ],
+    "saturday": [
+        "6:57"
+    ],
+    "holiday": [
+        "6:57"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803487-8/node:00129195/kt:0/lname:/"
+}

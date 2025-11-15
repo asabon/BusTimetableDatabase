@@ -1,0 +1,27 @@
+{
+    "date": "2025/09/08",
+    "name": "湘南台駅西口",
+    "position": "-",
+    "system": "湘28",
+    "destinations": [
+        "慶応中高等部前"
+    ],
+    "weekday": [
+        "7:48",
+        "7:53",
+        "7:57",
+        "8:01",
+        "8:05",
+        "8:12"
+    ],
+    "saturday": [
+        "7:48",
+        "7:53",
+        "7:57",
+        "8:01",
+        "8:05",
+        "8:12"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803878-1/node:00129893/kt:0/lname:/"
+}

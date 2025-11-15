@@ -1,0 +1,20 @@
+{
+    "date": "2025/03/15",
+    "name": "肥地力",
+    "position": "-",
+    "system": "茅55",
+    "destinations": [
+        "保健所前(茅ケ崎市)",
+        "ジャスコ前(茅ケ崎市)",
+        "市民文化会館前(茅ケ崎市)",
+        "茅ヶ崎駅"
+    ],
+    "weekday": [
+        "6:28",
+        "6:44",
+        "7:08"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803683-10/node:00127160/kt:0/lname:/"
+}

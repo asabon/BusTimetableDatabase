@@ -1,0 +1,22 @@
+{
+    "date": "2024/09/02",
+    "name": "富士橋",
+    "position": "-",
+    "system": "戸18",
+    "destinations": [
+        "不動坂(横浜市戸塚区)",
+        "ブリヂストン前",
+        "元町(横浜市戸塚区)",
+        "戸塚駅西口",
+        "戸塚バスセンター"
+    ],
+    "weekday": [
+        "7:11",
+        "7:30"
+    ],
+    "saturday": [
+        "6:57"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803567-5/node:00126668/kt:0/lname:/"
+}

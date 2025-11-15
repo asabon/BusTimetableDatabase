@@ -1,0 +1,18 @@
+{
+    "date": "2025/04/01",
+    "name": "橋津原",
+    "position": "-",
+    "system": "三55",
+    "destinations": [
+        "青根公民館前",
+        "東野(相模原市緑区)"
+    ],
+    "weekday": [
+        "10:31",
+        "15:26",
+        "17:21"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803767-23/node:00128772/kt:0/lname:/"
+}

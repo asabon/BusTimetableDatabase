@@ -1,0 +1,19 @@
+{
+    "date": "2025/10/01",
+    "name": "密厳院北",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "山西防災コミュニティセンター",
+        "山西(中郡二宮町)",
+        "吾妻神社前(中郡二宮町)",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "12:08",
+        "18:08"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803904-23/node:00130150/kt:0/lname:/"
+}

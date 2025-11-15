@@ -1,0 +1,16 @@
+{
+    "date": "2025/10/01",
+    "name": "吾妻神社前(中郡二宮町)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "12:11",
+        "18:11"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803904-26/node:00127492/kt:0/lname:/"
+}

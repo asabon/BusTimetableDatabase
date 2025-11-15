@@ -1,0 +1,25 @@
+{
+    "date": "2025/04/01",
+    "name": "津久井クリーンセンター前",
+    "position": "-",
+    "system": "三56",
+    "destinations": [
+        "青山(相模原市緑区)",
+        "三ヶ木新宿",
+        "津久井高校前",
+        "三ヶ木"
+    ],
+    "weekday": [
+        "9:34",
+        "13:29"
+    ],
+    "saturday": [
+        "8:24",
+        "16:49"
+    ],
+    "holiday": [
+        "8:24",
+        "16:49"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803790-27/node:00128754/kt:0/lname:/"
+}

@@ -1,0 +1,24 @@
+{
+    "date": "2024/09/02",
+    "name": "辻前",
+    "position": "-",
+    "system": "戸75",
+    "destinations": [
+        "金井高校前"
+    ],
+    "weekday": [
+        "6:41",
+        "6:56",
+        "7:03",
+        "7:17",
+        "7:31",
+        "7:45",
+        "7:59",
+        "8:06",
+        "8:19",
+        "8:25"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803561-11/node:00126845/kt:0/lname:/"
+}

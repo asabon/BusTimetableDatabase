@@ -1,0 +1,27 @@
+{
+    "date": "2025/08/30",
+    "name": "港南区総合庁舎前",
+    "position": "-",
+    "system": "上20",
+    "destinations": [
+        "笹下港南中央通り",
+        "関の下",
+        "上大岡駅"
+    ],
+    "weekday": [
+        "6:21",
+        "6:41",
+        "7:27",
+        "7:53"
+    ],
+    "saturday": [
+        "6:35",
+        "7:05",
+        "7:35"
+    ],
+    "holiday": [
+        "6:55",
+        "7:35"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803862-12/node:00102499/kt:0/lname:/"
+}

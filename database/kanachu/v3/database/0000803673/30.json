@@ -1,0 +1,25 @@
+{
+    "date": "2025/01/06",
+    "name": "鴨居橋",
+    "position": "-",
+    "system": "横51",
+    "destinations": [
+        "白山一丁目(横浜市緑区)",
+        "緑車庫前",
+        "白山ハイテクパーク",
+        "石神(横浜市緑区)",
+        "上山町(横浜市緑区)",
+        "中山小学校南",
+        "中山町",
+        "西村橋",
+        "中山駅"
+    ],
+    "weekday": [
+        "7:44"
+    ],
+    "saturday": [
+        "7:23"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803673-30/node:00102375/kt:0/lname:/"
+}

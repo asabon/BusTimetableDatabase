@@ -1,0 +1,26 @@
+{
+    "date": "2024/12/16",
+    "name": "下堤(町田市)",
+    "position": "-",
+    "system": "鶴32",
+    "destinations": [
+        "五反田(町田市)",
+        "サンシティ町田",
+        "新屋敷(町田市)",
+        "小野神社前(町田市)",
+        "中宿(町田市)",
+        "小野路",
+        "浅間下(町田市)",
+        "南野二丁目"
+    ],
+    "weekday": [
+        "21:44"
+    ],
+    "saturday": [
+        "21:22"
+    ],
+    "holiday": [
+        "21:22"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803455-9/node:00129475/kt:0/lname:/"
+}

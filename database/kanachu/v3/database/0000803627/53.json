@@ -1,0 +1,22 @@
+{
+    "date": "2024/10/01",
+    "name": "箕輪辻",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "愛川北部病院前",
+        "愛川町役場",
+        "愛川バスセンター"
+    ],
+    "weekday": [
+        "8:11",
+        "9:46",
+        "12:41",
+        "14:36",
+        "17:21",
+        "18:56"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803627-53/node:00128327/kt:0/lname:/"
+}

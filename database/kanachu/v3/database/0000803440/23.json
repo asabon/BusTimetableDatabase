@@ -1,0 +1,19 @@
+{
+    "date": "2024/12/16",
+    "name": "諏訪二丁目(多摩市)",
+    "position": "-",
+    "system": "鶴31",
+    "destinations": [
+        "永山駅"
+    ],
+    "weekday": [
+        "22:18"
+    ],
+    "saturday": [
+        "22:18"
+    ],
+    "holiday": [
+        "22:18"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803440-23/node:00020624/kt:0/lname:/"
+}

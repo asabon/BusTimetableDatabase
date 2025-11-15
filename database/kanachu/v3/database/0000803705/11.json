@@ -1,0 +1,16 @@
+{
+    "date": "2025/04/01",
+    "name": "第一三共前(平塚市)",
+    "position": "-",
+    "system": "平65",
+    "destinations": [
+        "三菱ケミカル前",
+        "湘南車検場前"
+    ],
+    "weekday": [
+        "7:58"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803705-11/node:00127631/kt:0/lname:/"
+}

@@ -1,0 +1,22 @@
+{
+    "date": "2025/10/01",
+    "name": "松根",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "富士見が丘3丁目北",
+        "富士見が丘3丁目入口",
+        "寿考園前",
+        "富士見が丘児童館前",
+        "富士見が丘交差点上",
+        "ラディアン",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "9:12",
+        "14:12"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803900-20/node:00130156/kt:0/lname:/"
+}

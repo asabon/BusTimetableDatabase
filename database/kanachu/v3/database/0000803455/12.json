@@ -1,0 +1,23 @@
+{
+    "date": "2024/12/16",
+    "name": "新屋敷(町田市)",
+    "position": "-",
+    "system": "鶴32",
+    "destinations": [
+        "小野神社前(町田市)",
+        "中宿(町田市)",
+        "小野路",
+        "浅間下(町田市)",
+        "南野二丁目"
+    ],
+    "weekday": [
+        "21:47"
+    ],
+    "saturday": [
+        "21:25"
+    ],
+    "holiday": [
+        "21:25"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803455-12/node:00129477/kt:0/lname:/"
+}

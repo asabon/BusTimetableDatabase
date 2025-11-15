@@ -1,0 +1,23 @@
+{
+    "date": "2024/05/20",
+    "name": "峰岸",
+    "position": "-",
+    "system": "伊17",
+    "destinations": [
+        "片町(伊勢原市)",
+        "片町十字路",
+        "大神宮前",
+        "本町(伊勢原市)",
+        "伊勢原駅北口"
+    ],
+    "weekday": [
+        "19:32",
+        "20:01",
+        "20:38",
+        "20:58",
+        "21:25"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803349-21/node:00128145/kt:0/lname:/"
+}

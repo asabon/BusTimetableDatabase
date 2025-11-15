@@ -1,0 +1,23 @@
+{
+    "date": "2025/04/19",
+    "name": "上溝中央",
+    "position": "-",
+    "system": "大15",
+    "destinations": [
+        "上溝"
+    ],
+    "weekday": [
+        "8:39",
+        "9:20"
+    ],
+    "saturday": [
+        "8:09",
+        "9:21"
+    ],
+    "holiday": [
+        "8:23",
+        "9:23",
+        "10:03"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803517-36/node:00129348/kt:0/lname:/"
+}

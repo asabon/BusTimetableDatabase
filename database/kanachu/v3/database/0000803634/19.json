@@ -1,0 +1,28 @@
+{
+    "date": "2024/10/01",
+    "name": "渓松園前",
+    "position": "-",
+    "system": "橋30",
+    "destinations": [
+        "相模川自然の村"
+    ],
+    "weekday": [
+        "11:32",
+        "13:42",
+        "15:52",
+        "18:02"
+    ],
+    "saturday": [
+        "11:32",
+        "13:42",
+        "15:52",
+        "18:02"
+    ],
+    "holiday": [
+        "11:32",
+        "13:42",
+        "15:52",
+        "18:02"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803634-19/node:00130171/kt:0/lname:/"
+}

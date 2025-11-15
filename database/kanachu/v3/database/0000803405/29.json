@@ -1,0 +1,22 @@
+{
+    "date": "2025/08/30",
+    "name": "横浜橋",
+    "position": "-",
+    "system": "戸03",
+    "destinations": [
+        "曙町(横浜市中区)",
+        "長者町五丁目",
+        "羽衣町(横浜市中区)",
+        "尾上町(横浜市中区)",
+        "本町四丁目(横浜市中区)",
+        "県庁入口"
+    ],
+    "weekday": [
+        "6:17"
+    ],
+    "saturday": [
+        "6:16"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803405-29/node:00103225/kt:0/lname:/"
+}

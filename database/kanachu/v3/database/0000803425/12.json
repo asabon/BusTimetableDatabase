@@ -1,0 +1,23 @@
+{
+    "date": "2025/05/11",
+    "name": "金井(横浜市港南区)",
+    "position": "-",
+    "system": "上06",
+    "destinations": [
+        "藤ヶ沢",
+        "港南車庫入口",
+        "原(横浜市港南区)",
+        "七曲",
+        "鍛冶ヶ谷",
+        "本郷石橋",
+        "天神橋(横浜市栄区)"
+    ],
+    "weekday": [],
+    "saturday": [
+        "22:11"
+    ],
+    "holiday": [
+        "22:11"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803425-12/node:00102359/kt:0/lname:/"
+}

@@ -1,0 +1,28 @@
+{
+    "date": "2025/01/14",
+    "name": "厚木高校前",
+    "position": "-",
+    "system": "厚34",
+    "destinations": [
+        "合同庁舎前(厚木市)",
+        "市役所入口(厚木市)",
+        "本厚木駅",
+        "厚木バスセンター"
+    ],
+    "weekday": [
+        "6:52",
+        "7:22",
+        "7:53",
+        "22:00"
+    ],
+    "saturday": [
+        "7:12",
+        "8:12",
+        "20:58"
+    ],
+    "holiday": [
+        "8:12",
+        "20:58"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803369-21/node:00128440/kt:0/lname:/"
+}

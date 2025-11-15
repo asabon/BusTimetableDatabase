@@ -1,0 +1,23 @@
+{
+    "date": "2025/03/15",
+    "name": "西の谷(茅ケ崎市)",
+    "position": "-",
+    "system": "茅55",
+    "destinations": [
+        "上の前(茅ケ崎市)",
+        "神の倉"
+    ],
+    "weekday": [
+        "21:23",
+        "22:18",
+        "23:18"
+    ],
+    "saturday": [
+        "21:23",
+        "22:18"
+    ],
+    "holiday": [
+        "21:36"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803682-12/node:00127205/kt:0/lname:/"
+}

@@ -1,0 +1,20 @@
+{
+    "date": "2025/05/11",
+    "name": "光明寺(横浜市栄区)",
+    "position": "-",
+    "system": "金28",
+    "destinations": [
+        "紅葉橋(横浜市栄区)",
+        "本郷車庫前(横浜市栄区)"
+    ],
+    "weekday": [
+        "23:17"
+    ],
+    "saturday": [
+        "20:04"
+    ],
+    "holiday": [
+        "20:04"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803823-20/node:00126515/kt:0/lname:/"
+}

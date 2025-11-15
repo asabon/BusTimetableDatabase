@@ -1,0 +1,19 @@
+{
+    "date": "2025/10/20",
+    "name": "長堀公園前",
+    "position": "-",
+    "system": "間20",
+    "destinations": [
+        "鶴間車庫"
+    ],
+    "weekday": [
+        "20:34"
+    ],
+    "saturday": [
+        "19:52"
+    ],
+    "holiday": [
+        "19:52"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803922-9/node:00130537/kt:0/lname:/"
+}

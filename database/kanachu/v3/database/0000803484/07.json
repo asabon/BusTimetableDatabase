@@ -1,0 +1,23 @@
+{
+    "date": "2024/03/16",
+    "name": "中の郷(相模原市緑区)",
+    "position": "-",
+    "system": "田05",
+    "destinations": [
+        "榎戸(相模原市緑区)",
+        "日々社前",
+        "水場",
+        "古清水",
+        "清水(相模原市中央区)",
+        "清水入口(相模原市中央区)",
+        "雨窪(相模原市中央区)",
+        "堀の内(相模原市中央区)",
+        "田名バスターミナル"
+    ],
+    "weekday": [
+        "15:52"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803484-7/node:00130170/kt:0/lname:/"
+}

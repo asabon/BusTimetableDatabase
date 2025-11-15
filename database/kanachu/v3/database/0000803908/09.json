@@ -1,0 +1,19 @@
+{
+    "date": "2025/10/20",
+    "name": "四ツ角(大和市)",
+    "position": "-",
+    "system": "間20",
+    "destinations": [
+        "大和駅西口"
+    ],
+    "weekday": [
+        "6:53"
+    ],
+    "saturday": [
+        "7:32"
+    ],
+    "holiday": [
+        "7:32"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803908-9/node:00129651/kt:0/lname:/"
+}

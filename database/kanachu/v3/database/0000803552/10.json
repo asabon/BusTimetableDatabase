@@ -1,0 +1,26 @@
+{
+    "date": "2024/09/02",
+    "name": "金井(横浜市栄区)",
+    "position": "-",
+    "system": "戸95",
+    "destinations": [
+        "町内会館前(横浜市栄区)",
+        "戸塚台入口",
+        "原宿公園",
+        "戸塚台",
+        "戸塚台中央"
+    ],
+    "weekday": [
+        "19:40",
+        "21:40"
+    ],
+    "saturday": [
+        "19:00",
+        "21:10"
+    ],
+    "holiday": [
+        "19:00",
+        "21:10"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803552-10/node:00126844/kt:0/lname:/"
+}

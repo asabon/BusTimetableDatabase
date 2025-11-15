@@ -1,0 +1,24 @@
+{
+    "date": "2025/10/20",
+    "name": "諏訪神社",
+    "position": "-",
+    "system": "町87",
+    "destinations": [
+        "山王原(大和市)",
+        "長堀公園前",
+        "鶴間二丁目",
+        "鶴間駅東口"
+    ],
+    "weekday": [
+        "8:10",
+        "9:09"
+    ],
+    "saturday": [
+        "8:18",
+        "9:09"
+    ],
+    "holiday": [
+        "8:28"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803924-21/node:00129527/kt:0/lname:/"
+}

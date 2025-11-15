@@ -1,0 +1,27 @@
+{
+    "date": "2025/01/14",
+    "name": "鐘ヶ獄",
+    "position": "-",
+    "system": "厚38",
+    "destinations": [
+        "河鹿の沢",
+        "広沢寺温泉"
+    ],
+    "weekday": [
+        "9:37",
+        "16:39"
+    ],
+    "saturday": [
+        "8:37",
+        "12:38",
+        "14:38",
+        "18:39"
+    ],
+    "holiday": [
+        "8:37",
+        "12:38",
+        "14:38",
+        "18:39"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803340-34/node:00128461/kt:0/lname:/"
+}

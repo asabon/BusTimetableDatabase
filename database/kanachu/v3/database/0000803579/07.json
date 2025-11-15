@@ -1,0 +1,29 @@
+{
+    "date": "2024/09/02",
+    "name": "上矢部",
+    "position": "-",
+    "system": "戸18",
+    "destinations": [
+        "日の森",
+        "下岡津"
+    ],
+    "weekday": [
+        "18:11",
+        "19:09",
+        "19:33",
+        "19:45",
+        "20:42",
+        "20:50"
+    ],
+    "saturday": [
+        "17:11",
+        "18:11",
+        "20:23",
+        "21:41"
+    ],
+    "holiday": [
+        "20:19",
+        "21:37"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803579-7/node:00126670/kt:0/lname:/"
+}

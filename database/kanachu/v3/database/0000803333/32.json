@@ -1,0 +1,17 @@
+{
+    "date": "2025/01/14",
+    "name": "相州病院",
+    "position": "-",
+    "system": "厚11",
+    "destinations": [
+        "新道橋(厚木市)",
+        "上荻野",
+        "上荻野車庫前"
+    ],
+    "weekday": [
+        "24:29"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803333-32/node:00128279/kt:0/lname:/"
+}

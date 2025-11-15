@@ -1,0 +1,20 @@
+{
+    "date": "2025/04/19",
+    "name": "小沼(相模原市南区)",
+    "position": "-",
+    "system": "大25",
+    "destinations": [
+        "南中前(相模原市南区)",
+        "グリーンホール前",
+        "相模大野駅北口"
+    ],
+    "weekday": [
+        "6:05",
+        "6:17"
+    ],
+    "saturday": [
+        "6:11"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803513-19/node:00129137/kt:0/lname:/"
+}

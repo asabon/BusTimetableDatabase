@@ -1,0 +1,20 @@
+{
+    "date": "2025/09/18",
+    "name": "法政大学(町田市)",
+    "position": "-",
+    "system": "原19",
+    "destinations": [
+        "法政大学経済学部前",
+        "法政大学体育館"
+    ],
+    "weekday": [
+        "8:58",
+        "9:03",
+        "9:06",
+        "10:47",
+        "10:57"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803889-2/node:00021279/kt:0/lname:/"
+}

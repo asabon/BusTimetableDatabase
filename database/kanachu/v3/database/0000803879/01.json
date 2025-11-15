@@ -1,0 +1,23 @@
+{
+    "date": "2025/09/09",
+    "name": "俣野公園・横浜薬大前",
+    "position": "-",
+    "system": "湘29",
+    "destinations": [
+        "湘南台駅東口"
+    ],
+    "weekday": [
+        "15:42",
+        "16:20",
+        "16:47",
+        "17:07",
+        "17:47",
+        "18:22",
+        "18:47",
+        "19:22",
+        "20:32"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803879-1/node:00126822/kt:0/lname:/"
+}

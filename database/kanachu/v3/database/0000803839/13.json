@@ -1,0 +1,25 @@
+{
+    "date": "2025/08/30",
+    "name": "水田(横浜市港南区)",
+    "position": "-",
+    "system": "上20",
+    "destinations": [
+        "中永谷",
+        "般若寺橋",
+        "下永谷(横浜市港南区)",
+        "平戸(横浜市港南区)"
+    ],
+    "weekday": [
+        "22:21"
+    ],
+    "saturday": [
+        "19:41",
+        "21:00",
+        "22:12"
+    ],
+    "holiday": [
+        "18:38",
+        "21:00"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803839-13/node:00102646/kt:0/lname:/"
+}

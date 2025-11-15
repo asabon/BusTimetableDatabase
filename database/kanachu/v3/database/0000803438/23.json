@@ -1,0 +1,20 @@
+{
+    "date": "2024/12/16",
+    "name": "上能ヶ谷",
+    "position": "-",
+    "system": "鶴31",
+    "destinations": [
+        "鶴川駅西口",
+        "鶴川駅"
+    ],
+    "weekday": [
+        "7:06"
+    ],
+    "saturday": [
+        "7:36"
+    ],
+    "holiday": [
+        "7:36"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803438-23/node:00129439/kt:0/lname:/"
+}

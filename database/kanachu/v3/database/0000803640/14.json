@@ -1,0 +1,18 @@
+{
+    "date": "2025/07/12",
+    "name": "荏原工業団地",
+    "position": "-",
+    "system": "藤66",
+    "destinations": [
+        "茅山(藤沢市)",
+        "善行二丁目",
+        "善行駅"
+    ],
+    "weekday": [
+        "9:53",
+        "10:51"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803640-14/node:00127067/kt:0/lname:/"
+}

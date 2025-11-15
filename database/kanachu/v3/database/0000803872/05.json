@@ -1,0 +1,16 @@
+{
+    "date": "2025/08/30",
+    "name": "美晴台",
+    "position": "-",
+    "system": "東50",
+    "destinations": [
+        "永野小学校前",
+        "上永谷駅"
+    ],
+    "weekday": [
+        "6:57"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803872-5/node:00126745/kt:0/lname:/"
+}

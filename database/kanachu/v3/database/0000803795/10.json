@@ -1,0 +1,20 @@
+{
+    "date": "2025/10/20",
+    "name": "新橋通り(大和市)",
+    "position": "-",
+    "system": "間13",
+    "destinations": [
+        "大和駅西口"
+    ],
+    "weekday": [
+        "9:16",
+        "14:18",
+        "15:10",
+        "18:27",
+        "19:13",
+        "20:05"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803795-10/node:00129615/kt:0/lname:/"
+}

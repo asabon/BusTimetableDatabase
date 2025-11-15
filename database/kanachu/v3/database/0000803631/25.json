@@ -1,0 +1,24 @@
+{
+    "date": "2024/10/01",
+    "name": "大塚(愛甲郡愛川町)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "春日台団地北",
+        "コピオ愛川",
+        "郵便局前(愛甲郡愛川町)",
+        "箕輪(愛甲郡愛川町)",
+        "愛川町役場",
+        "愛川北部病院前",
+        "愛川バスセンター"
+    ],
+    "weekday": [
+        "10:34",
+        "13:59",
+        "16:04",
+        "19:29"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803631-25/node:00128710/kt:0/lname:/"
+}

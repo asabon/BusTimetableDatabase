@@ -1,0 +1,20 @@
+{
+    "date": "2025/08/30",
+    "name": "尾張屋橋際",
+    "position": "-",
+    "system": "横46",
+    "destinations": [
+        "洪福寺",
+        "浅間町車庫前",
+        "浅岡橋",
+        "浅間下(横浜市西区)",
+        "楠町",
+        "横浜駅西口"
+    ],
+    "weekday": [
+        "6:09"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803535-28/node:00102330/kt:0/lname:/"
+}

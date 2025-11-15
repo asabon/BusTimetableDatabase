@@ -1,0 +1,23 @@
+{
+    "date": "2025/04/19",
+    "name": "桜台(相模原市南区)",
+    "position": "-",
+    "system": "小14",
+    "destinations": [
+        "水道路(相模原市南区)",
+        "麻溝台",
+        "麻溝台中学校入口",
+        "さがみ緑風園前",
+        "麻溝台入口",
+        "麻溝台高校",
+        "北里大学病院・北里大学",
+        "友愛病院前",
+        "麻溝車庫"
+    ],
+    "weekday": [
+        "21:17"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803534-8/node:00129694/kt:0/lname:/"
+}

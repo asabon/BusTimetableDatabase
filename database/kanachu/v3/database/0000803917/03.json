@@ -1,0 +1,27 @@
+{
+    "date": "2025/10/20",
+    "name": "目黒",
+    "position": "-",
+    "system": "間24",
+    "destinations": [
+        "馬場屋敷",
+        "八幡神社前(横浜市瀬谷区)",
+        "上瀬谷小学校入口",
+        "竹村町",
+        "中屋敷(横浜市瀬谷区)",
+        "本郷原",
+        "本郷(横浜市瀬谷区)",
+        "瀬谷駅前通り",
+        "瀬谷駅"
+    ],
+    "weekday": [
+        "5:51"
+    ],
+    "saturday": [
+        "6:06"
+    ],
+    "holiday": [
+        "6:06"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803917-3/node:00129652/kt:0/lname:/"
+}

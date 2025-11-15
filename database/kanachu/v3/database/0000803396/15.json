@@ -1,0 +1,19 @@
+{
+    "date": "2023/10/01",
+    "name": "オークシティ南",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "市立病院(大和市)"
+    ],
+    "weekday": [
+        "20:16"
+    ],
+    "saturday": [
+        "19:01"
+    ],
+    "holiday": [
+        "19:01"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803396-15/node:00130449/kt:0/lname:/"
+}

@@ -1,0 +1,22 @@
+{
+    "date": "2025/03/15",
+    "name": "本蓼川",
+    "position": "-",
+    "system": "丘01",
+    "destinations": [
+        "代官三丁目",
+        "代官二丁目",
+        "千本桜商店街",
+        "札の辻(大和市)",
+        "福田四丁目",
+        "福田三丁目",
+        "桜ヶ丘駅西口"
+    ],
+    "weekday": [
+        "6:05",
+        "6:54"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803649-6/node:00129855/kt:0/lname:/"
+}

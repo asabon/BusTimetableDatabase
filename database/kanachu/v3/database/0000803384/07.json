@@ -1,0 +1,27 @@
+{
+    "date": "2025/07/27",
+    "name": "南平橋",
+    "position": "-",
+    "system": "秦38",
+    "destinations": [
+        "下大槻",
+        "秦才橋",
+        "なでしこ広場前",
+        "室川橋",
+        "秦野駅"
+    ],
+    "weekday": [
+        "8:27",
+        "9:27",
+        "10:27",
+        "11:27",
+        "12:27",
+        "13:27",
+        "14:27",
+        "17:27",
+        "18:32"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803384-7/node:00127725/kt:0/lname:/"
+}

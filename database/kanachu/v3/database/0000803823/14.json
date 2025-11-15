@@ -1,0 +1,26 @@
+{
+    "date": "2025/05/11",
+    "name": "横浜霊園前",
+    "position": "-",
+    "system": "金28",
+    "destinations": [
+        "森の家前",
+        "上郷(横浜市栄区)",
+        "長倉町",
+        "八軒谷戸",
+        "中島(横浜市栄区)",
+        "光明寺(横浜市栄区)",
+        "紅葉橋(横浜市栄区)",
+        "本郷車庫前(横浜市栄区)"
+    ],
+    "weekday": [
+        "23:11"
+    ],
+    "saturday": [
+        "19:57"
+    ],
+    "holiday": [
+        "19:57"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803823-14/node:00126521/kt:0/lname:/"
+}

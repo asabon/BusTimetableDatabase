@@ -1,0 +1,22 @@
+{
+    "date": "2025/08/30",
+    "name": "般若寺橋",
+    "position": "-",
+    "system": "東12",
+    "destinations": [
+        "中永谷",
+        "水田(横浜市港南区)",
+        "日限地蔵入口",
+        "永野小学校前",
+        "上永谷駅"
+    ],
+    "weekday": [],
+    "saturday": [
+        "15:22"
+    ],
+    "holiday": [
+        "14:27",
+        "15:22"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803873-6/node:00102927/kt:0/lname:/"
+}

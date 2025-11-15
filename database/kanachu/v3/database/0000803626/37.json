@@ -1,0 +1,19 @@
+{
+    "date": "2024/10/01",
+    "name": "愛川北部病院前",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "愛川バスセンター"
+    ],
+    "weekday": [
+        "7:48",
+        "9:48",
+        "13:13",
+        "15:18",
+        "18:43"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803626-37/node:00128737/kt:0/lname:/"
+}
