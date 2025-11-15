@@ -17,9 +17,9 @@ PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')
 sys.path.insert(0, PROJECT_ROOT)
 
 from script.common.web_access import get_data
-from script.v2.busstop_database import BusStopDatabase
-from script.v2.route_database import RouteDatabase
-from script.v2.timetable import Timetable
+from script.v3.busstop_database import BusStopDatabase
+from script.v3.route_database import RouteDatabase
+from script.v3.timetable import Timetable
 
 def main():
     route_id_list = load_route_ids()
@@ -29,12 +29,12 @@ def main():
     busstop_db.save()
 
 def load_busstop_db() -> BusStopDatabase:
-    db = BusStopDatabase(f"database/kanachu/v2/database/busstops.json")
+    db = BusStopDatabase(f"database/kanachu/v3/database/busstops.json")
     db.load()
     return db
 
 def process_route(route_id: str, busstop_db: BusStopDatabase):
-    route_json_path = f"database/kanachu/v2/database/{route_id}/route.json"
+    route_json_path = f"database/kanachu/v3/database/{route_id}/route.json"
     route_url = f"https://www.kanachu.co.jp/dia/route/index/cid:{route_id}/"
     route_db = RouteDatabase(route_json_path, route_url)
     route_db.update()
@@ -64,7 +64,7 @@ def process_route(route_id: str, busstop_db: BusStopDatabase):
             break
         index_str = str(busstop["index"]).zfill(2)
         timetable = Timetable(
-            file_path = f"database/kanachu/v2/database/{route_id}/{index_str}.json", 
+            file_path = f"database/kanachu/v3/database/{route_id}/{index_str}.json", 
             system = system,
             route_id = route_id, 
             busstop_index = busstop["index"],
@@ -163,7 +163,7 @@ def get_system_from_route_html(html: str) -> str:
     else:
         return None
 
-def update_route_ids_list2():
+def update_route_ids_list():
     base_locations = [
         {"sdid": "00025625", "name": '町田バスセンター'},
     ]
@@ -192,43 +192,9 @@ def update_route_ids_list2():
     with open(route_ids_path, 'w', encoding='utf-8') as f:
         json.dump(sorted(all_route_ids), f, indent=4, ensure_ascii=False)
 
-def update_route_ids_list():
-    # route_ids.json を自動生成する関数
-    # 既存の route_ids.json を上書きする
-    import re
-
-    locations = [
-        {"sdid": "00025625", "name": '町田バスセンター'},
-        {"sdid": "00129356", "name": '町田市役所市民ホール前'},
-        {"sdid": "00129246", "name": '淵野辺駅北口'},
-        {"sdid": "00129373", "name": "野津田車庫"},
-    ]
-
-    base_url_list = [
-        f'https://www.kanachu.co.jp/dia/diagram/search?k={quote(loc["name"])}&rt=0&t=0&sdid={loc["sdid"]}'
-        for loc in locations
-    ]
-
-    route_ids = set()
-
-    for base_url in base_url_list:
-        html = get_data(base_url)
-        soup = BeautifulSoup(html, 'html.parser')
-
-        for a_tag in soup.find_all('a', href=True):
-            match = re.search(r'/dia/route/index/cid:(\d{10})/', a_tag['href'])
-            if match:
-                route_ids.add(match.group(1))
-
-    route_ids_list = sorted(route_ids)
-
-    route_ids_path = os.path.join(os.path.dirname(__file__), "route_ids.json")
-    with open(route_ids_path, 'w', encoding='utf-8') as f:
-        json.dump(route_ids_list, f, indent=4, ensure_ascii=False)
-
 def cleanup_obsolete_route_dirs():
     route_ids = load_route_ids()
-    base_dir = os.path.join("database/kanachu/v2/database")
+    base_dir = os.path.join("database/kanachu/v3/database")
     existing_dirs = [
         name for name in os.listdir(base_dir)
         if os.path.isdir(os.path.join(base_dir, name)) and name.isdigit() and len(name) == 10
@@ -247,7 +213,7 @@ def cleanup_obsolete_route_dirs():
 
 if __name__ == "__main__":
     # 路線IDリストを更新
-    # update_route_ids_list2()
+    # update_route_ids_list()
     # 使われなくなった路線ディレクトリを削除
     #cleanup_obsolete_route_dirs()
     # 路線ごとにメイン処理を実施
