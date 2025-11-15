@@ -1,0 +1,23 @@
+{
+    "date": "2025/07/12",
+    "name": "緑ヶ丘(藤沢市)",
+    "position": "-",
+    "system": "藤56",
+    "destinations": [
+        "鉄砲宿",
+        "諏訪神社前(横浜市戸塚区)",
+        "影取",
+        "聖母の園前"
+    ],
+    "weekday": [
+        "19:41",
+        "23:16"
+    ],
+    "saturday": [
+        "22:20"
+    ],
+    "holiday": [
+        "22:20"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803074-8/node:00126977/kt:0/lname:/"
+}

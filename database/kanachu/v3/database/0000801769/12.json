@@ -1,0 +1,21 @@
+{
+    "date": "2025/07/12",
+    "name": "児童公園前(鎌倉市)",
+    "position": "-",
+    "system": "船30",
+    "destinations": [
+        "大船駅西口"
+    ],
+    "weekday": [
+        "6:32",
+        "6:48",
+        "7:09",
+        "7:22",
+        "7:34",
+        "7:44",
+        "8:00"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801769-12/node:00126992/kt:0/lname:/"
+}

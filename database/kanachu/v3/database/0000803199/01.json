@@ -1,0 +1,23 @@
+{
+    "date": "2023/03/18",
+    "name": "市民病院正門",
+    "position": "-",
+    "system": "町21",
+    "destinations": [
+        "浄水場前(町田市)",
+        "市民病院前(町田市)",
+        "森野三丁目",
+        "第四小学校前(町田市)",
+        "町田市役所市民ホール前",
+        "町田バスセンター"
+    ],
+    "weekday": [
+        "6:45",
+        "7:10",
+        "7:26",
+        "8:10"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803199-1/node:00129419/kt:0/lname:/"
+}

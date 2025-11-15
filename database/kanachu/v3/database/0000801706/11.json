@@ -1,0 +1,23 @@
+{
+    "date": "2025/07/12",
+    "name": "善行",
+    "position": "-",
+    "system": "藤46",
+    "destinations": [
+        "善行南",
+        "善行大橋",
+        "善行二丁目",
+        "善行駅"
+    ],
+    "weekday": [
+        "8:52",
+        "9:57",
+        "11:07",
+        "12:57",
+        "14:02",
+        "14:52"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801706-11/node:00127069/kt:0/lname:/"
+}

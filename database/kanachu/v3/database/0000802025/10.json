@@ -1,0 +1,23 @@
+{
+    "date": "2025/07/12",
+    "name": "本町消防出張所前",
+    "position": "-",
+    "system": "藤46",
+    "destinations": [
+        "藤沢公民館前",
+        "遊行寺前",
+        "遊行通り四丁目",
+        "藤沢駅北口"
+    ],
+    "weekday": [
+        "8:46",
+        "9:40",
+        "10:36",
+        "11:51",
+        "13:30",
+        "14:45"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802025-10/node:00127011/kt:0/lname:/"
+}

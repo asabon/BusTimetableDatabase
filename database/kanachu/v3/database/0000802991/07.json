@@ -1,0 +1,21 @@
+{
+    "date": "2025/04/19",
+    "name": "御園五丁目",
+    "position": "-",
+    "system": "大58",
+    "destinations": [
+        "双葉入口",
+        "桜台(相模原市南区)",
+        "水道路(相模原市南区)",
+        "麻溝台",
+        "麻溝台中学校入口",
+        "さがみ緑風園前"
+    ],
+    "weekday": [],
+    "saturday": [
+        "21:27",
+        "21:52"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802991-7/node:00129261/kt:0/lname:/"
+}

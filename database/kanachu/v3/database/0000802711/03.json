@@ -1,0 +1,24 @@
+{
+    "date": "2024/04/01",
+    "name": "工業団地入口(藤沢市)",
+    "position": "-",
+    "system": "湘13",
+    "destinations": [
+        "桐原四辻",
+        "団地中央(藤沢市)",
+        "桐原公園前",
+        "桐原緑道",
+        "丸石(藤沢市)",
+        "公園北(藤沢市)",
+        "石川六丁目",
+        "工業団地入口(藤沢市)",
+        "北警察署前(藤沢市)",
+        "湘南台駅東口"
+    ],
+    "weekday": [
+        "7:48"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802711-3/node:00129909/kt:0/lname:/"
+}

@@ -1,0 +1,20 @@
+{
+    "date": "2021/02/01",
+    "name": "芦名橋",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "磯子センター前",
+        "磯子駅前"
+    ],
+    "weekday": [
+        "6:52"
+    ],
+    "saturday": [
+        "6:57"
+    ],
+    "holiday": [
+        "6:57"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803013-17/node:00102212/kt:0/lname:/"
+}

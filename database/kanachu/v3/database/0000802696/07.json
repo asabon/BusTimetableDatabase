@@ -1,0 +1,26 @@
+{
+    "date": "2020/12/05",
+    "name": "矢尻(藤沢市)",
+    "position": "-",
+    "system": "湘16",
+    "destinations": [
+        "田方(藤沢市)",
+        "寿照寺前",
+        "和泉橋",
+        "石川山田",
+        "南桐原",
+        "桐ヶ谷(藤沢市)",
+        "湘南台住宅前",
+        "湘南台駅西口"
+    ],
+    "weekday": [
+        "5:48",
+        "6:13",
+        "6:33",
+        "7:09",
+        "7:30"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802696-7/node:00129950/kt:0/lname:/"
+}

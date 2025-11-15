@@ -1,0 +1,20 @@
+{
+    "date": "2025/03/15",
+    "name": "滝の沢(藤沢市)",
+    "position": "-",
+    "system": "辻23",
+    "destinations": [
+        "滝の沢不動前",
+        "湘南ライフタウン"
+    ],
+    "weekday": [
+        "8:15",
+        "8:22",
+        "18:13",
+        "19:03",
+        "19:48"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802698-7/node:00129946/kt:0/lname:/"
+}

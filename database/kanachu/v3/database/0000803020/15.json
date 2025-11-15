@@ -1,0 +1,20 @@
+{
+    "date": "2024/05/20",
+    "name": "日向川",
+    "position": "-",
+    "system": "伊37",
+    "destinations": [
+        "馬場リハビリ入口",
+        "神奈川リハビリ"
+    ],
+    "weekday": [
+        "20:04"
+    ],
+    "saturday": [
+        "19:29"
+    ],
+    "holiday": [
+        "19:29"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803020-15/node:00128454/kt:0/lname:/"
+}

@@ -1,0 +1,27 @@
+{
+    "date": "2024/03/16",
+    "name": "木曽住宅",
+    "position": "-",
+    "system": "町62",
+    "destinations": [
+        "滝の沢(町田市)",
+        "浄水場前(町田市)",
+        "市民病院前(町田市)",
+        "森野三丁目",
+        "保健所入口",
+        "森野一丁目",
+        "町田バスセンター"
+    ],
+    "weekday": [
+        "5:24",
+        "5:58"
+    ],
+    "saturday": [
+        "5:27",
+        "6:03"
+    ],
+    "holiday": [
+        "5:49"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803214-20/node:00129362/kt:0/lname:/"
+}

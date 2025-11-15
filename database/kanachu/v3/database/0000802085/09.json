@@ -1,0 +1,24 @@
+{
+    "date": "2025/08/30",
+    "name": "狩場町",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "児童遊園地入口",
+        "権太坂上",
+        "権太坂",
+        "元町橋交番前",
+        "樹源寺前",
+        "保土ヶ谷町2丁目",
+        "八幡橋(横浜市保土ケ谷区)",
+        "保土ヶ谷橋",
+        "保土ヶ谷駅東口"
+    ],
+    "weekday": [
+        "6:15",
+        "6:29"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802085-9/node:00102378/kt:0/lname:/"
+}

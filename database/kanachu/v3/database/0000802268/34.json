@@ -1,0 +1,20 @@
+{
+    "date": "2024/04/01",
+    "name": "浅岡橋",
+    "position": "-",
+    "system": "横51",
+    "destinations": [
+        "浅間下(横浜市西区)",
+        "楠町",
+        "鶴屋町三丁目",
+        "横浜駅西口"
+    ],
+    "weekday": [
+        "7:52",
+        "8:14",
+        "10:02"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802268-34/node:00102205/kt:0/lname:/"
+}

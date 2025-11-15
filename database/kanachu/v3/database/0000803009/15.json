@@ -1,0 +1,27 @@
+{
+    "date": "2025/05/11",
+    "name": "稲荷森",
+    "position": "-",
+    "system": "船07",
+    "destinations": [
+        "山手学院入口",
+        "本郷車庫前(横浜市栄区)",
+        "紅葉橋(横浜市栄区)",
+        "光明寺(横浜市栄区)",
+        "中島(横浜市栄区)",
+        "西ヶ谷入口",
+        "西ヶ谷",
+        "上郷ネオポリス",
+        "栄プール"
+    ],
+    "weekday": [
+        "9:05"
+    ],
+    "saturday": [
+        "9:46"
+    ],
+    "holiday": [
+        "9:46"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803009-15/node:00126512/kt:0/lname:/"
+}

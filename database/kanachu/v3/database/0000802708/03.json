@@ -1,0 +1,26 @@
+{
+    "date": "2025/03/15",
+    "name": "公園北(藤沢市)",
+    "position": "-",
+    "system": "湘15",
+    "destinations": [
+        "石川六丁目",
+        "工業団地入口(藤沢市)",
+        "北警察署前(藤沢市)",
+        "湘南台駅東口"
+    ],
+    "weekday": [
+        "9:27",
+        "13:22",
+        "16:22"
+    ],
+    "saturday": [
+        "13:22",
+        "14:22"
+    ],
+    "holiday": [
+        "8:22",
+        "13:22"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802708-3/node:00130005/kt:0/lname:/"
+}

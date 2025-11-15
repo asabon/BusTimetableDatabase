@@ -1,0 +1,25 @@
+{
+    "date": "2025/04/19",
+    "name": "グリーンハイツC3前",
+    "position": "-",
+    "system": "町08",
+    "destinations": [
+        "北ひろば前",
+        "グリーンハイツF4前",
+        "柏木公園前"
+    ],
+    "weekday": [
+        "19:36",
+        "20:26",
+        "22:46"
+    ],
+    "saturday": [
+        "19:27",
+        "21:37"
+    ],
+    "holiday": [
+        "19:27",
+        "21:37"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802671-7/node:00129336/kt:0/lname:/"
+}

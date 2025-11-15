@@ -1,0 +1,24 @@
+{
+    "date": "2024/11/16",
+    "name": "西高校前(藤沢市)",
+    "position": "-",
+    "system": "藤13",
+    "destinations": [
+        "南センター前(藤沢市)",
+        "小糸",
+        "大庭小学校",
+        "ライフタウン中央(藤沢市)",
+        "二番構保健医療センター",
+        "駒寄",
+        "滝の沢(藤沢市)",
+        "滝の沢不動前",
+        "湘南ライフタウン"
+    ],
+    "weekday": [
+        "9:05",
+        "15:07"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802695-22/node:00129939/kt:0/lname:/"
+}

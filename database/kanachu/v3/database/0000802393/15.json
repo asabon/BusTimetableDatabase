@@ -1,0 +1,27 @@
+{
+    "date": "2025/04/19",
+    "name": "四ツ谷(相模原市中央区)",
+    "position": "-",
+    "system": "淵53",
+    "destinations": [
+        "田名バスターミナル",
+        "田名坂上",
+        "ふれあい科学館前",
+        "水郷田名"
+    ],
+    "weekday": [
+        "21:00",
+        "22:17",
+        "23:02"
+    ],
+    "saturday": [
+        "21:38",
+        "22:38"
+    ],
+    "holiday": [
+        "20:53",
+        "21:38",
+        "22:38"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802393-15/node:00129289/kt:0/lname:/"
+}

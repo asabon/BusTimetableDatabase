@@ -1,0 +1,27 @@
+{
+    "date": "2025/01/14",
+    "name": "古在家",
+    "position": "-",
+    "system": "厚19",
+    "destinations": [
+        "坂尻(愛甲郡清川村)",
+        "柿ノ木平",
+        "上煤ヶ谷"
+    ],
+    "weekday": [
+        "7:21",
+        "17:51",
+        "18:46",
+        "19:47",
+        "20:52"
+    ],
+    "saturday": [
+        "21:11",
+        "22:11"
+    ],
+    "holiday": [
+        "21:11",
+        "22:11"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802109-34/node:00128425/kt:0/lname:/"
+}

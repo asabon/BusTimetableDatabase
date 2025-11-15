@@ -1,0 +1,20 @@
+{
+    "date": "2025/10/20",
+    "name": "熊の谷公園",
+    "position": "-",
+    "system": "津04",
+    "destinations": [
+        "あかね台北",
+        "奈良三丁目"
+    ],
+    "weekday": [
+        "8:46",
+        "19:11",
+        "20:11",
+        "20:51",
+        "22:14"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802141-5/node:00019241/kt:0/lname:/"
+}

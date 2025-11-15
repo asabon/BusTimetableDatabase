@@ -1,0 +1,26 @@
+{
+    "date": "2025/03/15",
+    "name": "前の田",
+    "position": "-",
+    "system": "茅19",
+    "destinations": [
+        "中央公園前(茅ケ崎市)",
+        "茅ヶ崎駅"
+    ],
+    "weekday": [
+        "5:57",
+        "6:37",
+        "7:01",
+        "7:39",
+        "8:14"
+    ],
+    "saturday": [
+        "7:41",
+        "8:42"
+    ],
+    "holiday": [
+        "7:41",
+        "8:42"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802862-15/node:00127136/kt:0/lname:/"
+}

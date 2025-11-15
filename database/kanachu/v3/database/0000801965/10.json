@@ -1,0 +1,27 @@
+{
+    "date": "2025/10/20",
+    "name": "榎が丘小学校前",
+    "position": "-",
+    "system": "津03",
+    "destinations": [
+        "榎が丘",
+        "青葉台駅"
+    ],
+    "weekday": [
+        "6:06",
+        "6:56",
+        "7:50",
+        "8:36",
+        "9:38",
+        "15:58",
+        "16:48",
+        "17:38"
+    ],
+    "saturday": [
+        "9:05"
+    ],
+    "holiday": [
+        "9:05"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801965-10/node:00019249/kt:0/lname:/"
+}

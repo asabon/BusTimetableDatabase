@@ -1,0 +1,17 @@
+{
+    "date": "2025/05/11",
+    "name": "岩井口",
+    "position": "-",
+    "system": "船24",
+    "destinations": [
+        "大船駅(横浜市栄区)"
+    ],
+    "weekday": [
+        "10:48",
+        "13:03",
+        "14:53"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802935-10/node:00126501/kt:0/lname:/"
+}

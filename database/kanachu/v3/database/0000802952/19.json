@@ -1,0 +1,20 @@
+{
+    "date": "2020/09/05",
+    "name": "常盤(町田市)",
+    "position": "-",
+    "system": "町63",
+    "destinations": [
+        "下馬場",
+        "馬場十字路",
+        "中村不動入口",
+        "小山郵便局前",
+        "小山小学校前(町田市)",
+        "横土手"
+    ],
+    "weekday": [
+        "23:43"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802952-19/node:00129202/kt:0/lname:/"
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2022/03/12",
+    "name": "峡の原車庫",
+    "position": "-",
+    "system": "橋02",
+    "destinations": [
+        "西橋本三丁目",
+        "北警察署前(相模原市緑区)",
+        "緑区合同庁舎前(相模原市緑区)",
+        "橋本二丁目",
+        "橋本駅南口"
+    ],
+    "weekday": [
+        "7:51"
+    ],
+    "saturday": [
+        "7:41"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803008-29/node:00129220/kt:0/lname:/"
+}

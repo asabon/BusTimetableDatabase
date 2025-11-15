@@ -1,0 +1,21 @@
+{
+    "date": "2021/02/22",
+    "name": "立野町(平塚市)",
+    "position": "-",
+    "system": "平99",
+    "destinations": [
+        "横浜ゴム前",
+        "市役所前(ゴム前/平塚市)",
+        "四ツ角(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "7:29",
+        "7:45",
+        "7:58",
+        "8:13"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802066-11/node:00127555/kt:0/lname:/"
+}

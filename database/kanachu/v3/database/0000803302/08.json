@@ -1,0 +1,28 @@
+{
+    "date": "2024/12/16",
+    "name": "豊ヶ丘六丁目",
+    "position": "-",
+    "system": "多03",
+    "destinations": [
+        "豊ヶ丘四丁目"
+    ],
+    "weekday": [
+        "16:16",
+        "17:16",
+        "18:10",
+        "18:55",
+        "19:15",
+        "21:08"
+    ],
+    "saturday": [
+        "18:04",
+        "18:53",
+        "22:13"
+    ],
+    "holiday": [
+        "18:04",
+        "18:53",
+        "22:13"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803302-8/node:00021290/kt:0/lname:/"
+}

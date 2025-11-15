@@ -1,0 +1,28 @@
+{
+    "date": "2025/07/12",
+    "name": "一色上",
+    "position": "-",
+    "system": "藤34",
+    "destinations": [
+        "東京ラヂエーター前",
+        "プレス工業前(藤沢市)",
+        "石川(藤沢市)",
+        "石川橋",
+        "五反田(藤沢市)",
+        "北の谷",
+        "弁天前(藤沢市)",
+        "天神社前",
+        "舟地蔵",
+        "大六天(藤沢市)"
+    ],
+    "weekday": [
+        "21:06"
+    ],
+    "saturday": [
+        "20:58"
+    ],
+    "holiday": [
+        "20:58"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802969-5/node:00129928/kt:0/lname:/"
+}

@@ -1,0 +1,27 @@
+{
+    "date": "2025/05/11",
+    "name": "稲荷森",
+    "position": "-",
+    "system": "船16",
+    "destinations": [
+        "山手学院入口",
+        "本郷車庫前(横浜市栄区)"
+    ],
+    "weekday": [
+        "23:00",
+        "23:25"
+    ],
+    "saturday": [
+        "21:04",
+        "21:34",
+        "21:59",
+        "22:49"
+    ],
+    "holiday": [
+        "21:04",
+        "21:34",
+        "21:59",
+        "22:49"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802815-20/node:00126512/kt:0/lname:/"
+}

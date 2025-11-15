@@ -1,0 +1,17 @@
+{
+    "date": "2023/01/16",
+    "name": "鶴ヶ峰本町",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "鶴ヶ峰駅"
+    ],
+    "weekday": [
+        "7:16",
+        "8:12",
+        "8:32"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802199-5/node:00129720/kt:0/lname:/"
+}

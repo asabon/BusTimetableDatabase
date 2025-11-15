@@ -1,0 +1,22 @@
+{
+    "date": "2022/05/16",
+    "name": "花水",
+    "position": "-",
+    "system": "平46",
+    "destinations": [
+        "古花水",
+        "柳町(平塚市)",
+        "豊田道",
+        "八間通り",
+        "平塚文化芸術ホール前",
+        "銀座通り(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "12:12",
+        "15:13"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802257-20/node:00127471/kt:0/lname:/"
+}

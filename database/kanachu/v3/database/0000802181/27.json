@@ -1,0 +1,16 @@
+{
+    "date": "2025/01/14",
+    "name": "愛川大橋",
+    "position": "-",
+    "system": "厚10",
+    "destinations": [
+        "川北(愛甲郡愛川町)",
+        "半原"
+    ],
+    "weekday": [
+        "20:27"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802181-27/node:00128300/kt:0/lname:/"
+}

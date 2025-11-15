@@ -1,0 +1,17 @@
+{
+    "date": "2025/07/27",
+    "name": "元町(中郡二宮町)",
+    "position": "-",
+    "system": "二39",
+    "destinations": [
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "15:41",
+        "15:50",
+        "16:10"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802618-13/node:00127791/kt:0/lname:/"
+}

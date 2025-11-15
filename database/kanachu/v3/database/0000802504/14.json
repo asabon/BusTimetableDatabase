@@ -1,0 +1,28 @@
+{
+    "date": "2025/10/20",
+    "name": "南町田四丁目",
+    "position": "-",
+    "system": "町89",
+    "destinations": [
+        "南町田北",
+        "南町田グランベリーパーク駅"
+    ],
+    "weekday": [
+        "7:14",
+        "7:40",
+        "8:02",
+        "8:33",
+        "8:52"
+    ],
+    "saturday": [
+        "7:38",
+        "8:17",
+        "8:52"
+    ],
+    "holiday": [
+        "7:38",
+        "8:17",
+        "8:52"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802504-14/node:00130411/kt:0/lname:/"
+}

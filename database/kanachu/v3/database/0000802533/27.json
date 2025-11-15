@@ -1,0 +1,21 @@
+{
+    "date": "2025/08/30",
+    "name": "赤関橋",
+    "position": "-",
+    "system": "横46",
+    "destinations": [
+        "柏尾(横浜市戸塚区)",
+        "ポーラ前(横浜市戸塚区)",
+        "不動坂(横浜市戸塚区)",
+        "ブリヂストン前",
+        "元町(横浜市戸塚区)",
+        "矢部町",
+        "戸塚駅東口"
+    ],
+    "weekday": [
+        "7:10"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802533-27/node:00126616/kt:0/lname:/"
+}

@@ -1,0 +1,25 @@
+{
+    "date": "2022/10/16",
+    "name": "田端(町田市)",
+    "position": "-",
+    "system": "町60",
+    "destinations": [
+        "堂の前(町田市)",
+        "三ツ目(町田市)",
+        "久保ヶ谷戸",
+        "寿橋",
+        "寿町(相模原市緑区)",
+        "旭農協前",
+        "橋本駅北口"
+    ],
+    "weekday": [
+        "8:23",
+        "9:43"
+    ],
+    "saturday": [
+        "8:25",
+        "9:26"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802031-30/node:00130089/kt:0/lname:/"
+}

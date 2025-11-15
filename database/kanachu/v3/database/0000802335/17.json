@@ -1,0 +1,28 @@
+{
+    "date": "2025/03/15",
+    "name": "寺尾峰",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "共ヶ丘",
+        "大塚本町",
+        "大塚上町",
+        "さがみ野駅"
+    ],
+    "weekday": [
+        "6:45",
+        "7:16",
+        "7:45"
+    ],
+    "saturday": [
+        "8:47",
+        "16:17",
+        "17:47"
+    ],
+    "holiday": [
+        "8:47",
+        "16:17",
+        "17:47"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802335-17/node:00129868/kt:0/lname:/"
+}

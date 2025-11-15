@@ -1,0 +1,20 @@
+{
+    "date": "2025/07/27",
+    "name": "畑中(秦野市)",
+    "position": "-",
+    "system": "秦14",
+    "destinations": [
+        "白笹稲荷神社入口",
+        "南公民館前(秦野市)",
+        "諏訪町(秦野市)",
+        "今川町",
+        "今泉(秦野市)",
+        "秦野駅"
+    ],
+    "weekday": [
+        "6:29"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802076-1/node:00127933/kt:0/lname:/"
+}

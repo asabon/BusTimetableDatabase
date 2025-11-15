@@ -1,0 +1,29 @@
+{
+    "date": "2024/03/16",
+    "name": "押越",
+    "position": "-",
+    "system": "町27",
+    "destinations": [
+        "小山田(町田市)"
+    ],
+    "weekday": [
+        "7:17",
+        "7:47",
+        "8:17",
+        "9:18",
+        "22:18"
+    ],
+    "saturday": [
+        "7:17",
+        "8:17",
+        "9:17",
+        "21:47"
+    ],
+    "holiday": [
+        "7:17",
+        "8:17",
+        "9:18",
+        "21:47"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802475-23/node:00130123/kt:0/lname:/"
+}

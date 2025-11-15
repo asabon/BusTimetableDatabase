@@ -1,0 +1,18 @@
+{
+    "date": "2025/04/19",
+    "name": "高田橋入口",
+    "position": "-",
+    "system": "淵59",
+    "destinations": [
+        "小沢(愛甲郡愛川町)",
+        "梅沢(愛甲郡愛川町)",
+        "箕輪辻",
+        "愛川バスセンター"
+    ],
+    "weekday": [
+        "7:51"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802379-18/node:00129188/kt:0/lname:/"
+}

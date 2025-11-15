@@ -1,0 +1,20 @@
+{
+    "date": "2025/07/12",
+    "name": "影取",
+    "position": "-",
+    "system": "藤56",
+    "destinations": [
+        "聖母の園前"
+    ],
+    "weekday": [
+        "19:46",
+        "23:21"
+    ],
+    "saturday": [
+        "22:27"
+    ],
+    "holiday": [
+        "22:27"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803074-11/node:00126980/kt:0/lname:/"
+}

@@ -1,0 +1,29 @@
+{
+    "date": "2025/08/30",
+    "name": "川上団地第二",
+    "position": "-",
+    "system": "東04",
+    "destinations": [
+        "川上団地"
+    ],
+    "weekday": [
+        "8:38",
+        "9:38",
+        "10:38",
+        "12:48",
+        "14:48"
+    ],
+    "saturday": [
+        "8:38",
+        "10:38",
+        "12:48",
+        "14:48"
+    ],
+    "holiday": [
+        "8:38",
+        "10:38",
+        "12:48",
+        "14:48"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802528-3/node:00126666/kt:0/lname:/"
+}

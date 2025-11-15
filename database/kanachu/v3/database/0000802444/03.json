@@ -1,0 +1,23 @@
+{
+    "date": "2017/02/25",
+    "name": "台村町",
+    "position": "-",
+    "system": "中57",
+    "destinations": [
+        "薬師谷戸",
+        "萬徳寺別院前",
+        "けやき通り(横浜市緑区)",
+        "自治会館前(横浜市緑区)",
+        "武蔵中山台西"
+    ],
+    "weekday": [
+        "12:01",
+        "16:31"
+    ],
+    "saturday": [
+        "12:01",
+        "16:31"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802444-3/node:00102701/kt:0/lname:/"
+}

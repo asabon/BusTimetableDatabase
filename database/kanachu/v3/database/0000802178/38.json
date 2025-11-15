@@ -1,0 +1,20 @@
+{
+    "date": "2025/08/30",
+    "name": "ポーラ前(横浜市戸塚区)",
+    "position": "-",
+    "system": "戸45",
+    "destinations": [
+        "不動坂(横浜市戸塚区)",
+        "ブリヂストン前",
+        "元町(横浜市戸塚区)",
+        "矢部町",
+        "戸塚駅東口"
+    ],
+    "weekday": [
+        "11:19",
+        "16:19"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802178-38/node:00126614/kt:0/lname:/"
+}

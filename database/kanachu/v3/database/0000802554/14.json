@@ -1,0 +1,28 @@
+{
+    "date": "2022/03/12",
+    "name": "診療所前(小田原市)",
+    "position": "-",
+    "system": "国04",
+    "destinations": [
+        "下中小学校前",
+        "下中駐在所前",
+        "下小竹",
+        "橘団地"
+    ],
+    "weekday": [
+        "19:36"
+    ],
+    "saturday": [
+        "9:13",
+        "12:55",
+        "14:05",
+        "19:36"
+    ],
+    "holiday": [
+        "9:13",
+        "12:55",
+        "14:05",
+        "19:36"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802554-14/node:00127975/kt:0/lname:/"
+}

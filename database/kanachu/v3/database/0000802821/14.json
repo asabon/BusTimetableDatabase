@@ -1,0 +1,25 @@
+{
+    "date": "2025/05/11",
+    "name": "横浜霊園前",
+    "position": "-",
+    "system": "金25",
+    "destinations": [
+        "森の家前",
+        "上郷(横浜市栄区)",
+        "長倉町",
+        "八軒谷戸",
+        "西ヶ谷入口",
+        "西ヶ谷",
+        "上郷ネオポリス"
+    ],
+    "weekday": [
+        "7:33",
+        "8:12",
+        "8:35",
+        "10:58",
+        "12:28"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802821-14/node:00126521/kt:0/lname:/"
+}

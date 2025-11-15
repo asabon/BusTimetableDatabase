@@ -1,0 +1,28 @@
+{
+    "date": "2025/10/20",
+    "name": "小学校前(横浜市緑区)",
+    "position": "-",
+    "system": "津01",
+    "destinations": [
+        "御幸通り",
+        "長津田駅"
+    ],
+    "weekday": [
+        "7:59",
+        "9:04",
+        "12:04",
+        "13:04",
+        "14:34",
+        "15:34",
+        "16:39"
+    ],
+    "saturday": [
+        "9:14",
+        "14:14"
+    ],
+    "holiday": [
+        "9:14",
+        "14:14"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802506-13/node:00129740/kt:0/lname:/"
+}

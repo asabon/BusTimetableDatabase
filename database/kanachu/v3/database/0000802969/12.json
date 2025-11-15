@@ -1,0 +1,21 @@
+{
+    "date": "2025/07/12",
+    "name": "弁天前(藤沢市)",
+    "position": "-",
+    "system": "藤34",
+    "destinations": [
+        "天神社前",
+        "舟地蔵",
+        "大六天(藤沢市)"
+    ],
+    "weekday": [
+        "21:14"
+    ],
+    "saturday": [
+        "21:06"
+    ],
+    "holiday": [
+        "21:06"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802969-12/node:00127059/kt:0/lname:/"
+}

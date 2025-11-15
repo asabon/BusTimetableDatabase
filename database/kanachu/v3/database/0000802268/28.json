@@ -1,0 +1,26 @@
+{
+    "date": "2024/04/01",
+    "name": "常盤園下",
+    "position": "-",
+    "system": "横51",
+    "destinations": [
+        "峰岡町",
+        "峯小学校前",
+        "宮田町(横浜市保土ケ谷区)",
+        "洪福寺",
+        "浅間町車庫前",
+        "浅岡橋",
+        "浅間下(横浜市西区)",
+        "楠町",
+        "鶴屋町三丁目",
+        "横浜駅西口"
+    ],
+    "weekday": [
+        "7:45",
+        "8:07",
+        "9:55"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802268-28/node:00102799/kt:0/lname:/"
+}

@@ -1,0 +1,16 @@
+{
+    "date": "2025/07/12",
+    "name": "城下(藤沢市)",
+    "position": "-",
+    "system": "藤39",
+    "destinations": [
+        "舟地蔵",
+        "大六天(藤沢市)"
+    ],
+    "weekday": [
+        "19:54"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802967-22/node:00129970/kt:0/lname:/"
+}

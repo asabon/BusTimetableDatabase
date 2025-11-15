@@ -1,0 +1,27 @@
+{
+    "date": "2025/03/15",
+    "name": "石川山田",
+    "position": "-",
+    "system": "湘21",
+    "destinations": [
+        "南桐原",
+        "桐ヶ谷(藤沢市)",
+        "湘南台住宅前",
+        "湘南台駅西口"
+    ],
+    "weekday": [
+        "6:59",
+        "17:13"
+    ],
+    "saturday": [
+        "7:18",
+        "7:38",
+        "7:58",
+        "8:38"
+    ],
+    "holiday": [
+        "7:58",
+        "8:38"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802995-7/node:00129954/kt:0/lname:/"
+}

@@ -1,0 +1,23 @@
+{
+    "date": "2019/04/01",
+    "name": "根岸(相原町/町田市)",
+    "position": "-",
+    "system": "町28",
+    "destinations": [
+        "境橋(町田市)",
+        "円林寺前",
+        "水の口(町田市)",
+        "公会堂前(町田市)",
+        "大戸橋",
+        "上大戸",
+        "ネイチャーファクトリー東京町田"
+    ],
+    "weekday": [
+        "11:28",
+        "15:37",
+        "18:37"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802845-28/node:00128890/kt:0/lname:/"
+}

@@ -1,0 +1,25 @@
+{
+    "date": "2024/09/02",
+    "name": "下瀬谷坂上",
+    "position": "-",
+    "system": "瀬02",
+    "destinations": [
+        "ひなた山第二",
+        "ひなた山バザール前",
+        "ひなた山第一",
+        "上飯田車庫"
+    ],
+    "weekday": [
+        "20:00",
+        "21:40"
+    ],
+    "saturday": [
+        "20:16",
+        "21:11"
+    ],
+    "holiday": [
+        "20:16",
+        "21:11"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803147-8/node:00126803/kt:0/lname:/"
+}

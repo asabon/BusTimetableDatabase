@@ -1,0 +1,23 @@
+{
+    "date": "2025/03/15",
+    "name": "石川六丁目",
+    "position": "-",
+    "system": "湘13",
+    "destinations": [
+        "工業団地入口(藤沢市)",
+        "北警察署前(藤沢市)",
+        "湘南台駅西口"
+    ],
+    "weekday": [
+        "7:44",
+        "8:08",
+        "8:16",
+        "8:24",
+        "8:34",
+        "8:44",
+        "9:24"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802689-10/node:00130006/kt:0/lname:/"
+}

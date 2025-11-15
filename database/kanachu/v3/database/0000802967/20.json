@@ -1,0 +1,18 @@
+{
+    "date": "2025/07/12",
+    "name": "大庭小学校",
+    "position": "-",
+    "system": "藤39",
+    "destinations": [
+        "小糸",
+        "城下(藤沢市)",
+        "舟地蔵",
+        "大六天(藤沢市)"
+    ],
+    "weekday": [
+        "19:52"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802967-20/node:00129942/kt:0/lname:/"
+}

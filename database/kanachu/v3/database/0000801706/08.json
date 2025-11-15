@@ -1,0 +1,26 @@
+{
+    "date": "2025/07/12",
+    "name": "台町(藤沢市)",
+    "position": "-",
+    "system": "藤46",
+    "destinations": [
+        "伊勢山入口",
+        "花の木(藤沢市)",
+        "善行",
+        "善行南",
+        "善行大橋",
+        "善行二丁目",
+        "善行駅"
+    ],
+    "weekday": [
+        "8:49",
+        "9:54",
+        "11:04",
+        "12:54",
+        "13:59",
+        "14:49"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801706-8/node:00127049/kt:0/lname:/"
+}

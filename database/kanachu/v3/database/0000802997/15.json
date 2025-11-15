@@ -1,0 +1,25 @@
+{
+    "date": "2025/08/04",
+    "name": "富士塚前(相模原市緑区)",
+    "position": "-",
+    "system": "橋04",
+    "destinations": [
+        "ひがし会館",
+        "東金原",
+        "相模原協同病院",
+        "峡の原車庫",
+        "西橋本三丁目",
+        "北警察署前(相模原市緑区)",
+        "緑区合同庁舎前(相模原市緑区)",
+        "橋本二丁目",
+        "橋本駅南口"
+    ],
+    "weekday": [
+        "7:41"
+    ],
+    "saturday": [
+        "7:40"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802997-15/node:00129016/kt:0/lname:/"
+}

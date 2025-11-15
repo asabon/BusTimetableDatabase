@@ -1,0 +1,23 @@
+{
+    "date": "2016/03/26",
+    "name": "小原(足柄上郡中井町)",
+    "position": "-",
+    "system": "秦15",
+    "destinations": [
+        "震生湖",
+        "平沢(秦野市平沢)",
+        "畑中(秦野市)",
+        "白笹稲荷神社入口",
+        "南公民館前(秦野市)",
+        "諏訪町(秦野市)",
+        "今川町",
+        "今泉(秦野市)",
+        "秦野駅"
+    ],
+    "weekday": [
+        "16:17"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802155-15/node:00127936/kt:0/lname:/"
+}

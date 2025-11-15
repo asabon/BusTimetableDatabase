@@ -1,0 +1,26 @@
+{
+    "date": "2025/03/15",
+    "name": "浜竹",
+    "position": "-",
+    "system": "辻14",
+    "destinations": [
+        "保育園前(茅ヶ崎市)",
+        "松浪小学校前",
+        "美住町",
+        "ひばりが丘(茅ケ崎市)",
+        "桜道(茅ケ崎市)",
+        "若松町(茅ケ崎市)"
+    ],
+    "weekday": [
+        "19:53"
+    ],
+    "saturday": [
+        "19:53",
+        "22:08"
+    ],
+    "holiday": [
+        "19:53",
+        "22:08"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802923-3/node:00127234/kt:0/lname:/"
+}

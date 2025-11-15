@@ -1,0 +1,19 @@
+{
+    "date": "2022/05/16",
+    "name": "豊田道",
+    "position": "-",
+    "system": "平46",
+    "destinations": [
+        "八間通り",
+        "平塚文化芸術ホール前",
+        "銀座通り(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "12:16",
+        "15:17"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802257-23/node:00127468/kt:0/lname:/"
+}

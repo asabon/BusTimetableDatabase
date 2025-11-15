@@ -1,0 +1,23 @@
+{
+    "date": "2025/07/27",
+    "name": "自治会館前(平塚市)",
+    "position": "-",
+    "system": "秦38",
+    "destinations": [
+        "神奈川大学"
+    ],
+    "weekday": [
+        "8:05",
+        "9:05",
+        "10:05",
+        "11:05",
+        "12:05",
+        "13:05",
+        "14:05",
+        "17:05",
+        "18:10"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803260-11/node:00128015/kt:0/lname:/"
+}

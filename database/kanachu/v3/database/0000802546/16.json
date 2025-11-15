@@ -1,0 +1,26 @@
+{
+    "date": "2022/03/12",
+    "name": "前川(小田原市)",
+    "position": "-",
+    "system": "国04",
+    "destinations": [
+        "西前川",
+        "国府津駅"
+    ],
+    "weekday": [
+        "6:34"
+    ],
+    "saturday": [
+        "6:34",
+        "12:24",
+        "13:29",
+        "16:54"
+    ],
+    "holiday": [
+        "6:34",
+        "12:24",
+        "13:29",
+        "16:54"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802546-16/node:00127500/kt:0/lname:/"
+}

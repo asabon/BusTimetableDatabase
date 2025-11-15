@@ -1,0 +1,28 @@
+{
+    "date": "2025/03/15",
+    "name": "和泉橋",
+    "position": "-",
+    "system": "湘21",
+    "destinations": [
+        "石川山田",
+        "南桐原",
+        "桐ヶ谷(藤沢市)",
+        "湘南台住宅前",
+        "湘南台駅西口"
+    ],
+    "weekday": [
+        "6:57",
+        "17:11"
+    ],
+    "saturday": [
+        "7:16",
+        "7:36",
+        "7:56",
+        "8:36"
+    ],
+    "holiday": [
+        "7:56",
+        "8:36"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802995-6/node:00129953/kt:0/lname:/"
+}

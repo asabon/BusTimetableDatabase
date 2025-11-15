@@ -1,0 +1,15 @@
+{
+    "date": "2025/03/15",
+    "name": "小糸",
+    "position": "-",
+    "system": "辻35",
+    "destinations": [
+        "辻堂駅北口"
+    ],
+    "weekday": [
+        "9:32"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802705-10/node:00129941/kt:0/lname:/"
+}

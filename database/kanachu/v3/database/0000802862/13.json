@@ -1,0 +1,28 @@
+{
+    "date": "2025/03/15",
+    "name": "ニュータウン入口(茅ケ崎市)",
+    "position": "-",
+    "system": "茅19",
+    "destinations": [
+        "神奈中営業所前",
+        "前の田",
+        "中央公園前(茅ケ崎市)",
+        "茅ヶ崎駅"
+    ],
+    "weekday": [
+        "5:55",
+        "6:35",
+        "6:59",
+        "7:37",
+        "8:12"
+    ],
+    "saturday": [
+        "7:39",
+        "8:40"
+    ],
+    "holiday": [
+        "7:39",
+        "8:40"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802862-13/node:00127138/kt:0/lname:/"
+}

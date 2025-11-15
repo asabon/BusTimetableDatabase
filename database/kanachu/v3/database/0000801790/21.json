@@ -1,0 +1,25 @@
+{
+    "date": "2023/11/01",
+    "name": "八坂神社(中郡大磯町)",
+    "position": "-",
+    "system": "磯13",
+    "destinations": [
+        "白岩大門",
+        "統監道",
+        "大磯小学校前",
+        "大磯駅"
+    ],
+    "weekday": [
+        "6:38",
+        "6:59",
+        "7:43",
+        "8:18"
+    ],
+    "saturday": [
+        "7:23"
+    ],
+    "holiday": [
+        "7:23"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801790-21/node:00127480/kt:0/lname:/"
+}

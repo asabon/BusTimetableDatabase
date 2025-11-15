@@ -1,0 +1,24 @@
+{
+    "date": "2025/07/12",
+    "name": "石川橋",
+    "position": "-",
+    "system": "藤34",
+    "destinations": [
+        "五反田(藤沢市)",
+        "北の谷",
+        "弁天前(藤沢市)",
+        "天神社前",
+        "舟地蔵",
+        "大六天(藤沢市)"
+    ],
+    "weekday": [
+        "21:11"
+    ],
+    "saturday": [
+        "21:03"
+    ],
+    "holiday": [
+        "21:03"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802969-9/node:00127062/kt:0/lname:/"
+}

@@ -1,0 +1,20 @@
+{
+    "date": "2025/05/11",
+    "name": "西ヶ谷入口",
+    "position": "-",
+    "system": "金25",
+    "destinations": [
+        "西ヶ谷",
+        "上郷ネオポリス"
+    ],
+    "weekday": [
+        "7:38",
+        "8:17",
+        "8:40",
+        "11:03",
+        "12:33"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802821-19/node:00126523/kt:0/lname:/"
+}

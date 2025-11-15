@@ -1,0 +1,21 @@
+{
+    "date": "2023/02/18",
+    "name": "愛坪",
+    "position": "-",
+    "system": "平50",
+    "destinations": [
+        "下酒井",
+        "酒井(厚木市)",
+        "リバーサイド前(厚木市)"
+    ],
+    "weekday": [
+        "23:41"
+    ],
+    "saturday": [
+        "22:53"
+    ],
+    "holiday": [
+        "22:53"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803113-29/node:00128639/kt:0/lname:/"
+}

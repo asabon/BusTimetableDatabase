@@ -1,0 +1,25 @@
+{
+    "date": "2025/04/19",
+    "name": "相模台まちづくりセンター前",
+    "position": "-",
+    "system": "小14",
+    "destinations": [
+        "ハウス南門前",
+        "鶴ヶ丘団地前",
+        "二宮神社前(相模原市南区)",
+        "小田急相模原駅"
+    ],
+    "weekday": [
+        "6:03",
+        "6:19",
+        "6:35",
+        "6:51"
+    ],
+    "saturday": [
+        "6:51"
+    ],
+    "holiday": [
+        "7:31"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801907-12/node:00129691/kt:0/lname:/"
+}

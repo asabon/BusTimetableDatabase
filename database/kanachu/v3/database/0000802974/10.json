@@ -1,0 +1,22 @@
+{
+    "date": "2024/03/16",
+    "name": "片所",
+    "position": "-",
+    "system": "橋80",
+    "destinations": [
+        "御嶽堂",
+        "沼入口(町田市)",
+        "多摩境通り北",
+        "神奈中多摩車庫"
+    ],
+    "weekday": [
+        "19:08",
+        "20:05",
+        "21:08"
+    ],
+    "saturday": [
+        "20:13"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802974-10/node:00130091/kt:0/lname:/"
+}

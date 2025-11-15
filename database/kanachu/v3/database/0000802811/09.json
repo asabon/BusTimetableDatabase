@@ -1,0 +1,29 @@
+{
+    "date": "2025/05/11",
+    "name": "椎郷",
+    "position": "-",
+    "system": "船14",
+    "destinations": [
+        "湘南ハイツ"
+    ],
+    "weekday": [
+        "6:27",
+        "6:47",
+        "7:09",
+        "7:32",
+        "7:52",
+        "8:12",
+        "8:32"
+    ],
+    "saturday": [
+        "7:22",
+        "8:02",
+        "8:42"
+    ],
+    "holiday": [
+        "7:22",
+        "8:02",
+        "8:42"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802811-9/node:00126543/kt:0/lname:/"
+}

@@ -1,0 +1,27 @@
+{
+    "date": "2025/08/30",
+    "name": "上柏尾第二公園入口",
+    "position": "-",
+    "system": "東55",
+    "destinations": [
+        "上柏尾第三公園下",
+        "上柏尾町",
+        "神社前(横浜市戸塚区)",
+        "赤関橋",
+        "品濃口",
+        "環2平戸",
+        "品濃坂",
+        "東戸塚駅東口"
+    ],
+    "weekday": [
+        "6:24",
+        "7:09"
+    ],
+    "saturday": [
+        "7:09"
+    ],
+    "holiday": [
+        "7:09"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801760-4/node:00126735/kt:0/lname:/"
+}

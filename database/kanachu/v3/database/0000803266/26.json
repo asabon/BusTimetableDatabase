@@ -1,0 +1,22 @@
+{
+    "date": "2023/02/18",
+    "name": "妙円寺前",
+    "position": "-",
+    "system": "平38",
+    "destinations": [
+        "神奈川大学"
+    ],
+    "weekday": [
+        "8:16",
+        "9:06",
+        "10:41",
+        "13:41",
+        "14:56"
+    ],
+    "saturday": [
+        "8:16",
+        "8:46"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803266-26/node:00127825/kt:0/lname:/"
+}

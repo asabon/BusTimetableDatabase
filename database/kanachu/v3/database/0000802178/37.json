@@ -1,0 +1,21 @@
+{
+    "date": "2025/08/30",
+    "name": "柏尾(横浜市戸塚区)",
+    "position": "-",
+    "system": "戸45",
+    "destinations": [
+        "ポーラ前(横浜市戸塚区)",
+        "不動坂(横浜市戸塚区)",
+        "ブリヂストン前",
+        "元町(横浜市戸塚区)",
+        "矢部町",
+        "戸塚駅東口"
+    ],
+    "weekday": [
+        "11:18",
+        "16:18"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802178-37/node:00126615/kt:0/lname:/"
+}

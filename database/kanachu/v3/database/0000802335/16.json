@@ -1,0 +1,29 @@
+{
+    "date": "2025/03/15",
+    "name": "子ノ神(綾瀬市)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "寺尾峰",
+        "共ヶ丘",
+        "大塚本町",
+        "大塚上町",
+        "さがみ野駅"
+    ],
+    "weekday": [
+        "6:44",
+        "7:15",
+        "7:44"
+    ],
+    "saturday": [
+        "8:46",
+        "16:16",
+        "17:46"
+    ],
+    "holiday": [
+        "8:46",
+        "16:16",
+        "17:46"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802335-16/node:00129867/kt:0/lname:/"
+}

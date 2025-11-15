@@ -1,0 +1,27 @@
+{
+    "date": "2024/03/16",
+    "name": "川北(愛甲郡愛川町)",
+    "position": "-",
+    "system": "厚01",
+    "destinations": [
+        "半原"
+    ],
+    "weekday": [
+        "7:35",
+        "8:08",
+        "8:39",
+        "9:21",
+        "10:00"
+    ],
+    "saturday": [
+        "8:01",
+        "8:58",
+        "9:57"
+    ],
+    "holiday": [
+        "8:00",
+        "8:57",
+        "9:56"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801700-37/node:00128301/kt:0/lname:/"
+}

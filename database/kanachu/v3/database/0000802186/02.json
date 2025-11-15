@@ -1,0 +1,20 @@
+{
+    "date": "2022/01/16",
+    "name": "鶴ヶ峰本町",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "薬王寺入口",
+        "鶴ヶ峰中学校前",
+        "今宿小学校入口",
+        "今宿(横浜市旭区)"
+    ],
+    "weekday": [
+        "7:06",
+        "8:02",
+        "8:22"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802186-2/node:00129720/kt:0/lname:/"
+}

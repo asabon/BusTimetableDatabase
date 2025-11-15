@@ -1,0 +1,23 @@
+{
+    "date": "2024/04/01",
+    "name": "小松前",
+    "position": "-",
+    "system": "平07",
+    "destinations": [
+        "小松電子前",
+        "東八幡工業団地",
+        "東八幡五丁目",
+        "不動ケミカル前"
+    ],
+    "weekday": [
+        "9:12",
+        "9:47"
+    ],
+    "saturday": [
+        "20:20"
+    ],
+    "holiday": [
+        "20:20"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803274-14/node:00127675/kt:0/lname:/"
+}

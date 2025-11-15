@@ -1,0 +1,25 @@
+{
+    "date": "2025/07/27",
+    "name": "緑が丘西(中郡二宮町)",
+    "position": "-",
+    "system": "二45",
+    "destinations": [
+        "中央公園前(中郡二宮町)",
+        "緑が丘南(中郡二宮町)",
+        "温水プール前(中郡二宮町)",
+        "緑が丘三丁目(中郡二宮町)",
+        "緑が丘二丁目(中郡二宮町)"
+    ],
+    "weekday": [
+        "8:26",
+        "8:50",
+        "21:45"
+    ],
+    "saturday": [
+        "8:58"
+    ],
+    "holiday": [
+        "8:58"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802616-8/node:00130143/kt:0/lname:/"
+}

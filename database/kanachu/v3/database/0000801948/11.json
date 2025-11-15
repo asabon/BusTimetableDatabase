@@ -1,0 +1,19 @@
+{
+    "date": "2024/05/20",
+    "name": "洗水",
+    "position": "-",
+    "system": "伊24",
+    "destinations": [
+        "諏訪坂下",
+        "藤野入口",
+        "高橋(伊勢原市)",
+        "坊中(伊勢原市)",
+        "日向薬師"
+    ],
+    "weekday": [
+        "15:53"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801948-11/node:00128179/kt:0/lname:/"
+}

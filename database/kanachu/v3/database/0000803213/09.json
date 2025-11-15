@@ -1,0 +1,19 @@
+{
+    "date": "2025/01/14",
+    "name": "金森",
+    "position": "-",
+    "system": "町84",
+    "destinations": [
+        "金森郵便局前",
+        "南橋(町田市)",
+        "三塚",
+        "町田ターミナル前",
+        "町田バスセンター"
+    ],
+    "weekday": [
+        "7:26"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803213-9/node:00129540/kt:0/lname:/"
+}

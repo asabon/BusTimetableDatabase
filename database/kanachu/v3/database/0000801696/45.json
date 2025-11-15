@@ -1,0 +1,29 @@
+{
+    "date": "2025/01/14",
+    "name": "馬場(愛甲郡愛川町)",
+    "position": "-",
+    "system": "厚03",
+    "destinations": [
+        "野外センター前",
+        "原臼",
+        "細野橋",
+        "清雲寺入口"
+    ],
+    "weekday": [
+        "20:45",
+        "21:25",
+        "21:55",
+        "22:55"
+    ],
+    "saturday": [
+        "20:31",
+        "21:31",
+        "22:39"
+    ],
+    "holiday": [
+        "20:31",
+        "21:31",
+        "22:39"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801696-45/node:00128696/kt:0/lname:/"
+}

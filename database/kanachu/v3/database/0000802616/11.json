@@ -1,0 +1,22 @@
+{
+    "date": "2025/07/27",
+    "name": "温水プール前(中郡二宮町)",
+    "position": "-",
+    "system": "二45",
+    "destinations": [
+        "緑が丘三丁目(中郡二宮町)",
+        "緑が丘二丁目(中郡二宮町)"
+    ],
+    "weekday": [
+        "8:28",
+        "8:52",
+        "21:47"
+    ],
+    "saturday": [
+        "9:00"
+    ],
+    "holiday": [
+        "9:00"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802616-11/node:00130146/kt:0/lname:/"
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2020/01/19",
+    "name": "山中陣屋跡公園前",
+    "position": "-",
+    "system": "厚10",
+    "destinations": [
+        "天台上野原",
+        "及川球技場入口",
+        "林中学校入口",
+        "愛光病院前",
+        "本厚木駅",
+        "厚木バスセンター"
+    ],
+    "weekday": [
+        "7:12",
+        "7:37"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802180-23/node:00128688/kt:0/lname:/"
+}

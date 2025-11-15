@@ -1,0 +1,27 @@
+{
+    "date": "2024/12/16",
+    "name": "恵泉女学園大学入口",
+    "position": "-",
+    "system": "多03",
+    "destinations": [
+        "豊ヶ丘五丁目",
+        "落合四丁目",
+        "落合三丁目",
+        "豊ヶ丘小学校",
+        "落合東",
+        "多摩センター駅"
+    ],
+    "weekday": [
+        "6:57",
+        "7:42",
+        "8:42",
+        "9:20"
+    ],
+    "saturday": [
+        "6:29"
+    ],
+    "holiday": [
+        "6:29"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802975-3/node:00020285/kt:0/lname:/"
+}

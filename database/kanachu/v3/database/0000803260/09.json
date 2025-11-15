@@ -1,0 +1,25 @@
+{
+    "date": "2025/07/27",
+    "name": "小熊天神前",
+    "position": "-",
+    "system": "秦38",
+    "destinations": [
+        "遠藤原",
+        "自治会館前(平塚市)",
+        "神奈川大学"
+    ],
+    "weekday": [
+        "8:03",
+        "9:03",
+        "10:03",
+        "11:03",
+        "12:03",
+        "13:03",
+        "14:03",
+        "17:03",
+        "18:08"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803260-9/node:00128013/kt:0/lname:/"
+}

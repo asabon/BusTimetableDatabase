@@ -1,0 +1,29 @@
+{
+    "date": "2025/05/11",
+    "name": "天神橋(横浜市栄区)",
+    "position": "-",
+    "system": "本21",
+    "destinations": [
+        "栄警察署前",
+        "公田",
+        "栄区役所前",
+        "本郷台駅"
+    ],
+    "weekday": [
+        "9:58",
+        "11:58",
+        "13:58",
+        "15:58"
+    ],
+    "saturday": [
+        "10:28",
+        "12:28",
+        "14:28"
+    ],
+    "holiday": [
+        "10:28",
+        "12:28",
+        "14:28"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802877-4/node:00126507/kt:0/lname:/"
+}

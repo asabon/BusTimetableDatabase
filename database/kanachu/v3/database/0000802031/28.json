@@ -1,0 +1,27 @@
+{
+    "date": "2022/10/16",
+    "name": "坂本橋(町田市)",
+    "position": "-",
+    "system": "町60",
+    "destinations": [
+        "多摩境駅",
+        "田端(町田市)",
+        "堂の前(町田市)",
+        "三ツ目(町田市)",
+        "久保ヶ谷戸",
+        "寿橋",
+        "寿町(相模原市緑区)",
+        "旭農協前",
+        "橋本駅北口"
+    ],
+    "weekday": [
+        "8:14",
+        "9:34"
+    ],
+    "saturday": [
+        "8:17",
+        "9:18"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802031-28/node:00130090/kt:0/lname:/"
+}

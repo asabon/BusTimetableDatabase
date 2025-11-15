@@ -1,0 +1,28 @@
+{
+    "date": "2025/07/27",
+    "name": "堂面(中郡二宮町)",
+    "position": "-",
+    "system": "二33",
+    "destinations": [
+        "元町(中郡二宮町)",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "6:40",
+        "7:10",
+        "7:40",
+        "8:10",
+        "8:50"
+    ],
+    "saturday": [
+        "6:40",
+        "7:42",
+        "8:42"
+    ],
+    "holiday": [
+        "6:40",
+        "7:42",
+        "8:42"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801999-14/node:00127790/kt:0/lname:/"
+}

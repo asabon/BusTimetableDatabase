@@ -1,0 +1,23 @@
+{
+    "date": "2025/08/04",
+    "name": "ネイチャーファクトリー東京町田",
+    "position": "-",
+    "system": "橋61",
+    "destinations": [
+        "大戸(相模原市緑区)"
+    ],
+    "weekday": [
+        "20:23",
+        "20:58"
+    ],
+    "saturday": [
+        "18:43",
+        "19:25",
+        "20:08"
+    ],
+    "holiday": [
+        "18:43",
+        "19:25"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803037-24/node:00128897/kt:0/lname:/"
+}

@@ -1,0 +1,16 @@
+{
+    "date": "2016/03/26",
+    "name": "今川町",
+    "position": "-",
+    "system": "秦15",
+    "destinations": [
+        "今泉(秦野市)",
+        "秦野駅"
+    ],
+    "weekday": [
+        "16:26"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802155-22/node:00130134/kt:0/lname:/"
+}

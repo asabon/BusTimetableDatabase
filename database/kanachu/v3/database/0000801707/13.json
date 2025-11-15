@@ -1,0 +1,18 @@
+{
+    "date": "2024/11/16",
+    "name": "石原谷",
+    "position": "-",
+    "system": "藤45",
+    "destinations": [
+        "荏原工業団地"
+    ],
+    "weekday": [
+        "12:19",
+        "13:39",
+        "14:19",
+        "15:39"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801707-13/node:00127102/kt:0/lname:/"
+}

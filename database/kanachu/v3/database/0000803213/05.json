@@ -1,0 +1,23 @@
+{
+    "date": "2025/01/14",
+    "name": "小田急団地前",
+    "position": "-",
+    "system": "町84",
+    "destinations": [
+        "南中学校東(町田市)",
+        "南中学校前(町田市)",
+        "市営住宅入口(町田市)",
+        "金森",
+        "金森郵便局前",
+        "南橋(町田市)",
+        "三塚",
+        "町田ターミナル前",
+        "町田バスセンター"
+    ],
+    "weekday": [
+        "7:22"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803213-5/node:00129548/kt:0/lname:/"
+}

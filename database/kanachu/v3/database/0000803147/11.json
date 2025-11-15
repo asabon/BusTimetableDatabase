@@ -1,0 +1,22 @@
+{
+    "date": "2024/09/02",
+    "name": "ひなた山第一",
+    "position": "-",
+    "system": "瀬02",
+    "destinations": [
+        "上飯田車庫"
+    ],
+    "weekday": [
+        "20:05",
+        "21:45"
+    ],
+    "saturday": [
+        "20:20",
+        "21:15"
+    ],
+    "holiday": [
+        "20:20",
+        "21:15"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803147-11/node:00126800/kt:0/lname:/"
+}

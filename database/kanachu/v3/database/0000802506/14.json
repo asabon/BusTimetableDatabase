@@ -1,0 +1,27 @@
+{
+    "date": "2025/10/20",
+    "name": "御幸通り",
+    "position": "-",
+    "system": "津01",
+    "destinations": [
+        "長津田駅"
+    ],
+    "weekday": [
+        "8:00",
+        "9:05",
+        "12:05",
+        "13:05",
+        "14:35",
+        "15:35",
+        "16:40"
+    ],
+    "saturday": [
+        "9:15",
+        "14:15"
+    ],
+    "holiday": [
+        "9:15",
+        "14:15"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802506-14/node:00129558/kt:0/lname:/"
+}

@@ -1,0 +1,26 @@
+{
+    "date": "2025/10/20",
+    "name": "成瀬駅",
+    "position": "-",
+    "system": "成05",
+    "destinations": [
+        "南成瀬",
+        "成瀬高校入口",
+        "中村(町田市成瀬)",
+        "観性寺前",
+        "昭和薬科大学入口",
+        "昭和薬科大学",
+        "昭和薬科大学入口",
+        "成瀬台入口",
+        "ポプラヶ丘前",
+        "成瀬台二丁目",
+        "野村住宅中央",
+        "成瀬台"
+    ],
+    "weekday": [
+        "8:35"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801873-1/node:00129552/kt:0/lname:/"
+}

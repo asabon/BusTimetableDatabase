@@ -1,0 +1,24 @@
+{
+    "date": "2023/04/25",
+    "name": "真芳寺",
+    "position": "-",
+    "system": "平15",
+    "destinations": [
+        "ツインシティ大神"
+    ],
+    "weekday": [
+        "10:27",
+        "11:27",
+        "12:27",
+        "13:27",
+        "14:27",
+        "15:27",
+        "16:25",
+        "17:27",
+        "18:27",
+        "19:27"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803309-23/node:00127667/kt:0/lname:/"
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2025/07/27",
+    "name": "二宮高校入口",
+    "position": "-",
+    "system": "二39",
+    "destinations": [
+        "中里(中郡二宮町)",
+        "中島(中郡二宮町)",
+        "堂面(中郡二宮町)",
+        "元町(中郡二宮町)",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "15:36",
+        "15:45",
+        "16:05"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802618-9/node:00127787/kt:0/lname:/"
+}

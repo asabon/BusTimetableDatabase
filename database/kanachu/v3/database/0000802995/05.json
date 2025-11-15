@@ -1,0 +1,29 @@
+{
+    "date": "2025/03/15",
+    "name": "寿照寺前",
+    "position": "-",
+    "system": "湘21",
+    "destinations": [
+        "和泉橋",
+        "石川山田",
+        "南桐原",
+        "桐ヶ谷(藤沢市)",
+        "湘南台住宅前",
+        "湘南台駅西口"
+    ],
+    "weekday": [
+        "6:55",
+        "17:09"
+    ],
+    "saturday": [
+        "7:14",
+        "7:34",
+        "7:54",
+        "8:34"
+    ],
+    "holiday": [
+        "7:54",
+        "8:34"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802995-5/node:00129952/kt:0/lname:/"
+}

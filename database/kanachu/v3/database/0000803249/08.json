@@ -1,0 +1,21 @@
+{
+    "date": "2025/03/15",
+    "name": "第一中学校前(茅ケ崎市)",
+    "position": "-",
+    "system": "茅09",
+    "destinations": [
+        "駐在所前(茅ケ崎市)",
+        "石神下(茅ケ崎市)",
+        "東海岸北三丁目"
+    ],
+    "weekday": [
+        "21:32"
+    ],
+    "saturday": [
+        "20:22"
+    ],
+    "holiday": [
+        "20:22"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803249-8/node:00127247/kt:0/lname:/"
+}

@@ -1,0 +1,28 @@
+{
+    "date": "2025/01/14",
+    "name": "煤ヶ谷",
+    "position": "-",
+    "system": "厚19",
+    "destinations": [
+        "古在家",
+        "坂尻(愛甲郡清川村)",
+        "柿ノ木平",
+        "上煤ヶ谷"
+    ],
+    "weekday": [
+        "7:20",
+        "17:50",
+        "18:45",
+        "19:46",
+        "20:51"
+    ],
+    "saturday": [
+        "21:10",
+        "22:10"
+    ],
+    "holiday": [
+        "21:10",
+        "22:10"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802109-33/node:00128424/kt:0/lname:/"
+}

@@ -1,0 +1,28 @@
+{
+    "date": "2025/03/15",
+    "name": "浅間橋際",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "ハンディホームセンター前",
+        "春日原(綾瀬市)",
+        "吉岡芝原",
+        "団地中央(綾瀬市)",
+        "吉岡工業団地"
+    ],
+    "weekday": [
+        "7:24",
+        "19:52"
+    ],
+    "saturday": [
+        "9:22",
+        "16:52",
+        "18:22"
+    ],
+    "holiday": [
+        "9:22",
+        "16:52",
+        "18:22"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802331-16/node:00130399/kt:0/lname:/"
+}

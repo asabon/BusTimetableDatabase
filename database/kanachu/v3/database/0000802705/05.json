@@ -1,0 +1,20 @@
+{
+    "date": "2025/03/15",
+    "name": "滝の沢不動前",
+    "position": "-",
+    "system": "辻35",
+    "destinations": [
+        "滝の沢(藤沢市)",
+        "駒寄",
+        "二番構保健医療センター",
+        "ライフタウン中央(藤沢市)",
+        "小糸",
+        "辻堂駅北口"
+    ],
+    "weekday": [
+        "9:26"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802705-5/node:00129947/kt:0/lname:/"
+}

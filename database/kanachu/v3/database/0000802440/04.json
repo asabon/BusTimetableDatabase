@@ -1,0 +1,20 @@
+{
+    "date": "2017/02/25",
+    "name": "けやき通り(横浜市緑区)",
+    "position": "-",
+    "system": "中57",
+    "destinations": [
+        "萬徳寺別院前",
+        "薬師谷戸",
+        "台村町",
+        "中山駅"
+    ],
+    "weekday": [
+        "9:59"
+    ],
+    "saturday": [
+        "9:59"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802440-4/node:00130393/kt:0/lname:/"
+}

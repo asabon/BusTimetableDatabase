@@ -1,0 +1,21 @@
+{
+    "date": "2024/09/02",
+    "name": "上飯田団地",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "金子山",
+        "泉警察署前",
+        "いずみ野駅"
+    ],
+    "weekday": [
+        "6:22"
+    ],
+    "saturday": [
+        "7:19"
+    ],
+    "holiday": [
+        "7:19"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802832-11/node:00126807/kt:0/lname:/"
+}

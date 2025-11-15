@@ -1,0 +1,26 @@
+{
+    "date": "2025/07/12",
+    "name": "プレス工業前(藤沢市)",
+    "position": "-",
+    "system": "藤34",
+    "destinations": [
+        "石川(藤沢市)",
+        "石川橋",
+        "五反田(藤沢市)",
+        "北の谷",
+        "弁天前(藤沢市)",
+        "天神社前",
+        "舟地蔵",
+        "大六天(藤沢市)"
+    ],
+    "weekday": [
+        "21:08"
+    ],
+    "saturday": [
+        "21:00"
+    ],
+    "holiday": [
+        "21:00"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802969-7/node:00129932/kt:0/lname:/"
+}

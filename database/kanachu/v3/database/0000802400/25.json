@@ -1,0 +1,15 @@
+{
+    "date": "2021/04/01",
+    "name": "下河原(相模原市緑区)",
+    "position": "-",
+    "system": "橋05",
+    "destinations": [
+        "小沢(愛甲郡愛川町)"
+    ],
+    "weekday": [
+        "7:10"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802400-25/node:00128990/kt:0/lname:/"
+}

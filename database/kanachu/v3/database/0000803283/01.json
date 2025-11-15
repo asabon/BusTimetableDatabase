@@ -1,0 +1,24 @@
+{
+    "date": "2023/03/18",
+    "name": "横浜ゴム食堂",
+    "position": "-",
+    "system": "平56",
+    "destinations": [
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "8:04",
+        "8:16",
+        "8:26",
+        "8:34",
+        "8:47",
+        "8:56",
+        "9:16",
+        "9:24",
+        "9:36",
+        "9:59"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803283-1/node:00130527/kt:0/lname:/"
+}

@@ -1,0 +1,24 @@
+{
+    "date": "2023/02/20",
+    "name": "原分",
+    "position": "-",
+    "system": "境21",
+    "destinations": [
+        "東根",
+        "川井橋",
+        "程ヶ谷カントリークラブ前",
+        "矢指町入口",
+        "西部病院前",
+        "水道企業団前(横浜市旭区)",
+        "つゆきの森",
+        "三ツ境駅北口"
+    ],
+    "weekday": [
+        "8:28"
+    ],
+    "saturday": [],
+    "holiday": [
+        "7:35"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802233-18/node:00129729/kt:0/lname:/"
+}

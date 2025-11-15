@@ -1,0 +1,20 @@
+{
+    "system": "船36",
+    "busstops": [
+        {
+            "index": "1",
+            "id": "00127005",
+            "name": "清泉女学院",
+            "lat": "35.354253",
+            "lng": "139.515934"
+        },
+        {
+            "index": "2",
+            "id": "00126855",
+            "name": "大船駅西口",
+            "lat": "35.352416",
+            "lng": "139.529024"
+        }
+    ],
+    "route_url": "https://www.kanachu.co.jp/dia/route/index/cid:0000803058/"
+}

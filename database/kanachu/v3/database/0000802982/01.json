@@ -1,0 +1,22 @@
+{
+    "date": "2025/07/12",
+    "name": "善行駅",
+    "position": "-",
+    "system": "善01",
+    "destinations": [
+        "善行二丁目坂上",
+        "団地入口(藤沢市)",
+        "マーケット前",
+        "善行団地"
+    ],
+    "weekday": [
+        "22:36"
+    ],
+    "saturday": [
+        "22:12"
+    ],
+    "holiday": [
+        "22:12"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802982-1/node:00127073/kt:0/lname:/"
+}

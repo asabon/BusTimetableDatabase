@@ -1,0 +1,26 @@
+{
+    "date": "2025/07/12",
+    "name": "藤沢小学校前",
+    "position": "-",
+    "system": "藤56",
+    "destinations": [
+        "藤沢橋",
+        "遊行寺坂上",
+        "緑ヶ丘(藤沢市)",
+        "鉄砲宿",
+        "諏訪神社前(横浜市戸塚区)",
+        "影取",
+        "聖母の園前"
+    ],
+    "weekday": [
+        "19:34",
+        "23:09"
+    ],
+    "saturday": [
+        "22:14"
+    ],
+    "holiday": [
+        "22:14"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803074-5/node:00126974/kt:0/lname:/"
+}

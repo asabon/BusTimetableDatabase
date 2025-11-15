@@ -1,0 +1,28 @@
+{
+    "date": "2025/10/20",
+    "name": "高尾原",
+    "position": "-",
+    "system": "津01",
+    "destinations": [
+        "柴山",
+        "南町田グランベリーパーク駅"
+    ],
+    "weekday": [
+        "8:26",
+        "9:31",
+        "12:31",
+        "13:31",
+        "15:01",
+        "16:01",
+        "17:11"
+    ],
+    "saturday": [
+        "9:41",
+        "14:41"
+    ],
+    "holiday": [
+        "9:41",
+        "14:41"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802502-12/node:00129569/kt:0/lname:/"
+}

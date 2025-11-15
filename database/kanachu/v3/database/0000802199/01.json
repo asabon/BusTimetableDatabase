@@ -1,0 +1,21 @@
+{
+    "date": "2023/01/16",
+    "name": "今宿(横浜市旭区)",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "今宿小学校入口",
+        "鶴ヶ峰中学校前",
+        "薬王寺入口",
+        "鶴ヶ峰本町",
+        "鶴ヶ峰駅"
+    ],
+    "weekday": [
+        "7:12",
+        "8:08",
+        "8:28"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802199-1/node:00129716/kt:0/lname:/"
+}

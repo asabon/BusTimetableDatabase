@@ -1,0 +1,22 @@
+{
+    "date": "2025/07/12",
+    "name": "ライフタウン入口",
+    "position": "-",
+    "system": "藤39",
+    "destinations": [
+        "堤羽根沢",
+        "湘南カントリークラブ前",
+        "羽根沢",
+        "大庭小学校",
+        "小糸",
+        "城下(藤沢市)",
+        "舟地蔵",
+        "大六天(藤沢市)"
+    ],
+    "weekday": [
+        "19:48"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802967-16/node:00129960/kt:0/lname:/"
+}

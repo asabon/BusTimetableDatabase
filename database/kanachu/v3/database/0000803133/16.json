@@ -1,0 +1,29 @@
+{
+    "date": "2025/08/04",
+    "name": "かたくりの里",
+    "position": "-",
+    "system": "橋28",
+    "destinations": [
+        "若葉台七丁目",
+        "新若葉台",
+        "若葉台住宅"
+    ],
+    "weekday": [
+        "16:04",
+        "16:57",
+        "18:02",
+        "19:12",
+        "20:05"
+    ],
+    "saturday": [
+        "18:00",
+        "18:35",
+        "19:23"
+    ],
+    "holiday": [
+        "18:00",
+        "18:35",
+        "19:23"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803133-16/node:00129008/kt:0/lname:/"
+}

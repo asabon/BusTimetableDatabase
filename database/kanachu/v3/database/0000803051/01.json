@@ -1,0 +1,29 @@
+{
+    "date": "2025/07/12",
+    "name": "大船駅西口",
+    "position": "-",
+    "system": "船36",
+    "destinations": [
+        "清泉女学院"
+    ],
+    "weekday": [
+        "7:30",
+        "7:42",
+        "7:54",
+        "8:00",
+        "8:06"
+    ],
+    "saturday": [
+        "7:14",
+        "7:26",
+        "7:44",
+        "7:55",
+        "8:05",
+        "8:15",
+        "11:48",
+        "12:08",
+        "12:28"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803051-1/node:00126855/kt:0/lname:/"
+}

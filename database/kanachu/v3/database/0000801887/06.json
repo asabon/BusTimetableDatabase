@@ -1,0 +1,26 @@
+{
+    "date": "2025/08/30",
+    "name": "坂下口",
+    "position": "-",
+    "system": "東08",
+    "destinations": [
+        "山谷(横浜市戸塚区)",
+        "六ツ川四丁目",
+        "引越坂",
+        "横浜パークタウン第一降車場"
+    ],
+    "weekday": [
+        "7:19",
+        "8:14",
+        "9:38"
+    ],
+    "saturday": [
+        "9:08",
+        "9:51"
+    ],
+    "holiday": [
+        "9:08",
+        "9:51"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801887-6/node:00126619/kt:0/lname:/"
+}

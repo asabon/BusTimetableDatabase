@@ -1,0 +1,24 @@
+{
+    "date": "2024/05/20",
+    "name": "薬師入口",
+    "position": "-",
+    "system": "伊36",
+    "destinations": [
+        "はつみ坂",
+        "日向川",
+        "馬場リハビリ入口",
+        "神奈川リハビリ",
+        "馬場リハビリ入口",
+        "七沢温泉入口",
+        "七沢病院入口",
+        "広沢寺温泉入口",
+        "七沢"
+    ],
+    "weekday": [
+        "11:15",
+        "15:35"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801952-12/node:00128190/kt:0/lname:/"
+}

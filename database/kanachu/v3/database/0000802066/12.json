@@ -1,0 +1,20 @@
+{
+    "date": "2021/02/22",
+    "name": "横浜ゴム前",
+    "position": "-",
+    "system": "平99",
+    "destinations": [
+        "市役所前(ゴム前/平塚市)",
+        "四ツ角(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "7:30",
+        "7:46",
+        "7:59",
+        "8:14"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802066-12/node:00127554/kt:0/lname:/"
+}

@@ -1,0 +1,26 @@
+{
+    "date": "2025/10/20",
+    "name": "大ヶ谷戸(町田市)",
+    "position": "-",
+    "system": "南03",
+    "destinations": [
+        "円成寺前",
+        "坂下(鶴間/町田市)",
+        "マークスプリングス"
+    ],
+    "weekday": [
+        "20:36",
+        "21:16",
+        "21:56",
+        "22:31"
+    ],
+    "saturday": [
+        "20:48",
+        "21:37"
+    ],
+    "holiday": [
+        "20:48",
+        "21:37"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802503-3/node:00129531/kt:0/lname:/"
+}

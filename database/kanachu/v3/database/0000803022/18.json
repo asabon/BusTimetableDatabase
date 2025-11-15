@@ -1,0 +1,19 @@
+{
+    "date": "2024/05/20",
+    "name": "馬場リハビリ入口",
+    "position": "-",
+    "system": "愛12",
+    "destinations": [
+        "神奈川リハビリ"
+    ],
+    "weekday": [
+        "20:02"
+    ],
+    "saturday": [
+        "18:23"
+    ],
+    "holiday": [
+        "18:23"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803022-18/node:00128455/kt:0/lname:/"
+}

@@ -1,0 +1,26 @@
+{
+    "date": "2025/03/15",
+    "name": "羽鳥郵便局前",
+    "position": "-",
+    "system": "辻33",
+    "destinations": [
+        "神台公園前",
+        "辻堂駅北口"
+    ],
+    "weekday": [
+        "8:05",
+        "10:35",
+        "16:35"
+    ],
+    "saturday": [
+        "8:35",
+        "10:35",
+        "16:35"
+    ],
+    "holiday": [
+        "8:35",
+        "10:35",
+        "16:35"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801970-36/node:00127086/kt:0/lname:/"
+}

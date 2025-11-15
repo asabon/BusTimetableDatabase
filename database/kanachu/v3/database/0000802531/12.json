@@ -1,0 +1,23 @@
+{
+    "date": "2020/05/11",
+    "name": "ネオポリス公園",
+    "position": "-",
+    "system": "東16",
+    "destinations": [
+        "公園前商店街入口"
+    ],
+    "weekday": [
+        "19:39",
+        "19:54",
+        "22:41"
+    ],
+    "saturday": [
+        "19:44",
+        "21:18"
+    ],
+    "holiday": [
+        "19:44",
+        "21:18"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802531-12/node:00126724/kt:0/lname:/"
+}

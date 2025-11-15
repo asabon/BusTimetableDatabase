@@ -1,0 +1,25 @@
+{
+    "date": "2025/07/12",
+    "name": "台町(藤沢市)",
+    "position": "-",
+    "system": "藤46",
+    "destinations": [
+        "藤沢市民病院",
+        "本町消防出張所前",
+        "藤沢公民館前",
+        "遊行寺前",
+        "遊行通り四丁目",
+        "藤沢駅北口"
+    ],
+    "weekday": [
+        "8:40",
+        "9:34",
+        "10:30",
+        "11:45",
+        "13:24",
+        "14:39"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802025-8/node:00127049/kt:0/lname:/"
+}

@@ -1,0 +1,27 @@
+{
+    "date": "2025/08/04",
+    "name": "水の口(町田市)",
+    "position": "-",
+    "system": "橋61",
+    "destinations": [
+        "公会堂前(町田市)",
+        "大戸橋",
+        "上大戸",
+        "ネイチャーファクトリー東京町田",
+        "大戸(相模原市緑区)"
+    ],
+    "weekday": [
+        "20:18",
+        "20:53"
+    ],
+    "saturday": [
+        "18:38",
+        "19:20",
+        "20:03"
+    ],
+    "holiday": [
+        "18:38",
+        "19:20"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803037-20/node:00128893/kt:0/lname:/"
+}

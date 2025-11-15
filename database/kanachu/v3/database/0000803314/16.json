@@ -1,0 +1,25 @@
+{
+    "date": "2023/04/25",
+    "name": "大神(平塚市)",
+    "position": "-",
+    "system": "厚11",
+    "destinations": [
+        "ツインシティ大神"
+    ],
+    "weekday": [
+        "10:05",
+        "11:09",
+        "12:09",
+        "13:09",
+        "14:09",
+        "15:09",
+        "16:09",
+        "17:07",
+        "18:09",
+        "19:10",
+        "20:09"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803314-16/node:00128631/kt:0/lname:/"
+}

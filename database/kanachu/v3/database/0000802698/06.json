@@ -1,0 +1,21 @@
+{
+    "date": "2025/03/15",
+    "name": "駒寄",
+    "position": "-",
+    "system": "辻23",
+    "destinations": [
+        "滝の沢(藤沢市)",
+        "滝の沢不動前",
+        "湘南ライフタウン"
+    ],
+    "weekday": [
+        "8:14",
+        "8:21",
+        "18:12",
+        "19:02",
+        "19:47"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802698-6/node:00129945/kt:0/lname:/"
+}

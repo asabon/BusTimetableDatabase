@@ -1,0 +1,19 @@
+{
+    "date": "2025/07/12",
+    "name": "マーケット前",
+    "position": "-",
+    "system": "善01",
+    "destinations": [
+        "善行団地"
+    ],
+    "weekday": [
+        "22:41"
+    ],
+    "saturday": [
+        "22:17"
+    ],
+    "holiday": [
+        "22:17"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802982-4/node:00127075/kt:0/lname:/"
+}

@@ -1,0 +1,25 @@
+{
+    "date": "2022/05/16",
+    "name": "東名秦野",
+    "position": "-",
+    "system": "秦70",
+    "destinations": [
+        "井ノ口駐在所前",
+        "境入口",
+        "井ノ口小学校西",
+        "久所入口",
+        "西谷戸橋",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "6:31",
+        "7:16",
+        "7:51",
+        "8:16",
+        "17:21",
+        "18:21"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802648-7/node:00026081/kt:0/lname:/"
+}

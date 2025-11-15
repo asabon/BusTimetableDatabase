@@ -1,0 +1,24 @@
+{
+    "date": "2025/04/19",
+    "name": "上原団地",
+    "position": "-",
+    "system": "大58",
+    "destinations": [
+        "御園二丁目",
+        "みゆき台団地",
+        "御園五丁目",
+        "双葉入口",
+        "桜台(相模原市南区)",
+        "水道路(相模原市南区)",
+        "麻溝台",
+        "麻溝台中学校入口",
+        "さがみ緑風園前"
+    ],
+    "weekday": [],
+    "saturday": [
+        "21:24",
+        "21:49"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802991-4/node:00129078/kt:0/lname:/"
+}

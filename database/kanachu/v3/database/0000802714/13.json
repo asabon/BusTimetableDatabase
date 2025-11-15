@@ -1,0 +1,27 @@
+{
+    "date": "2025/03/15",
+    "name": "慶応大学本館前",
+    "position": "-",
+    "system": "辻35",
+    "destinations": [
+        "慶応中高降車場"
+    ],
+    "weekday": [
+        "8:54",
+        "9:06",
+        "9:17",
+        "9:24",
+        "10:26",
+        "16:49",
+        "17:09",
+        "17:24",
+        "17:39",
+        "18:33",
+        "18:56",
+        "19:31",
+        "20:24"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802714-13/node:00129986/kt:0/lname:/"
+}

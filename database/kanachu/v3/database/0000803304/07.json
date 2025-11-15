@@ -1,0 +1,18 @@
+{
+    "date": "2025/07/12",
+    "name": "汲田",
+    "position": "-",
+    "system": "辻31",
+    "destinations": [
+        "明治中学校前",
+        "羽鳥郵便局前",
+        "神台公園前",
+        "辻堂駅北口"
+    ],
+    "weekday": [
+        "15:32"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803304-7/node:00127084/kt:0/lname:/"
+}

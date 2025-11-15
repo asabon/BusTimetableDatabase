@@ -1,0 +1,22 @@
+{
+    "date": "2025/07/12",
+    "name": "藤ヶ岡中学校前",
+    "position": "-",
+    "system": "船31",
+    "destinations": [
+        "隆昌院前",
+        "柄沢",
+        "柄沢十字路",
+        "並木台",
+        "慈眼寺"
+    ],
+    "weekday": [
+        "17:54",
+        "18:44",
+        "19:39",
+        "20:44"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802101-10/node:00126985/kt:0/lname:/"
+}

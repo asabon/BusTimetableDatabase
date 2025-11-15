@@ -1,0 +1,18 @@
+{
+    "date": "2025/04/19",
+    "name": "弥栄(相模原市中央区)",
+    "position": "-",
+    "system": "淵52",
+    "destinations": [
+        "淵野辺十字路",
+        "淵野辺駅入口",
+        "淵野辺駅南口"
+    ],
+    "weekday": [
+        "6:00",
+        "7:44"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802415-6/node:00129280/kt:0/lname:/"
+}

@@ -1,0 +1,20 @@
+{
+    "date": "2024/09/02",
+    "name": "金子山",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "泉警察署前",
+        "いずみ野駅"
+    ],
+    "weekday": [
+        "6:23"
+    ],
+    "saturday": [
+        "7:20"
+    ],
+    "holiday": [
+        "7:20"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802832-12/node:00130504/kt:0/lname:/"
+}

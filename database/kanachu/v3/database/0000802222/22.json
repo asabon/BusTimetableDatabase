@@ -1,0 +1,22 @@
+{
+    "date": "2023/02/20",
+    "name": "萱場公園入口",
+    "position": "-",
+    "system": "境21",
+    "destinations": [
+        "遊水池前(横浜市緑区)",
+        "中山谷(横浜市緑区)",
+        "十日市場",
+        "十日市場駅"
+    ],
+    "weekday": [
+        "7:59",
+        "9:49",
+        "16:54"
+    ],
+    "saturday": [
+        "8:04"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802222-22/node:00019301/kt:0/lname:/"
+}

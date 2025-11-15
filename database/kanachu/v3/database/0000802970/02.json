@@ -1,0 +1,28 @@
+{
+    "date": "2024/12/16",
+    "name": "消防署前(多摩市)",
+    "position": "-",
+    "system": "永66",
+    "destinations": [
+        "大橋(多摩市)",
+        "釜沼橋",
+        "貝取神社前",
+        "貝取北センター",
+        "とちのき公園入口",
+        "貝取二丁目",
+        "豊ヶ丘四丁目"
+    ],
+    "weekday": [
+        "22:33",
+        "22:57"
+    ],
+    "saturday": [
+        "21:36",
+        "22:16"
+    ],
+    "holiday": [
+        "21:36",
+        "22:16"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802970-2/node:00021488/kt:0/lname:/"
+}

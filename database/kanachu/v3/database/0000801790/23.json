@@ -1,0 +1,23 @@
+{
+    "date": "2023/11/01",
+    "name": "統監道",
+    "position": "-",
+    "system": "磯13",
+    "destinations": [
+        "大磯小学校前",
+        "大磯駅"
+    ],
+    "weekday": [
+        "6:40",
+        "7:01",
+        "7:46",
+        "8:21"
+    ],
+    "saturday": [
+        "7:25"
+    ],
+    "holiday": [
+        "7:25"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801790-23/node:00127478/kt:0/lname:/"
+}

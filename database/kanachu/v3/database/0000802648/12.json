@@ -1,0 +1,20 @@
+{
+    "date": "2022/05/16",
+    "name": "西谷戸橋",
+    "position": "-",
+    "system": "秦70",
+    "destinations": [
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "6:39",
+        "7:24",
+        "7:59",
+        "8:24",
+        "17:29",
+        "18:29"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802648-12/node:00127996/kt:0/lname:/"
+}

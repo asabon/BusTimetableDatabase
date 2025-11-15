@@ -1,0 +1,21 @@
+{
+    "date": "2022/03/12",
+    "name": "大山ケーブル",
+    "position": "-",
+    "system": "伊11",
+    "destinations": [
+        "伊勢原駅北口"
+    ],
+    "weekday": [],
+    "saturday": [
+        "13:13",
+        "14:34",
+        "15:32"
+    ],
+    "holiday": [
+        "13:13",
+        "14:34",
+        "15:32"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802266-1/node:00128162/kt:0/lname:/"
+}

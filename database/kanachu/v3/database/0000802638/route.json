@@ -1,0 +1,20 @@
+{
+    "system": "林05",
+    "busstops": [
+        {
+            "index": "1",
+            "id": "00128603",
+            "name": "イオンモール座間",
+            "lat": "35.501902",
+            "lng": "139.425317"
+        },
+        {
+            "index": "2",
+            "id": "00129666",
+            "name": "南林間駅",
+            "lat": "35.495738",
+            "lng": "139.44749"
+        }
+    ],
+    "route_url": "https://www.kanachu.co.jp/dia/route/index/cid:0000802638/"
+}

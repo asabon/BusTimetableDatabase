@@ -1,0 +1,29 @@
+{
+    "date": "2025/10/20",
+    "name": "南長津田団地前",
+    "position": "-",
+    "system": "津01",
+    "destinations": [
+        "小学校前(横浜市緑区)",
+        "御幸通り",
+        "長津田駅"
+    ],
+    "weekday": [
+        "7:58",
+        "9:03",
+        "12:03",
+        "13:03",
+        "14:33",
+        "15:33",
+        "16:38"
+    ],
+    "saturday": [
+        "9:13",
+        "14:13"
+    ],
+    "holiday": [
+        "9:13",
+        "14:13"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802506-12/node:00129739/kt:0/lname:/"
+}

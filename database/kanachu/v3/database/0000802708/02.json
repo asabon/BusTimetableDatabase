@@ -1,0 +1,27 @@
+{
+    "date": "2025/03/15",
+    "name": "一色上",
+    "position": "-",
+    "system": "湘15",
+    "destinations": [
+        "公園北(藤沢市)",
+        "石川六丁目",
+        "工業団地入口(藤沢市)",
+        "北警察署前(藤沢市)",
+        "湘南台駅東口"
+    ],
+    "weekday": [
+        "9:26",
+        "13:21",
+        "16:21"
+    ],
+    "saturday": [
+        "13:21",
+        "14:21"
+    ],
+    "holiday": [
+        "8:21",
+        "13:21"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802708-2/node:00129928/kt:0/lname:/"
+}

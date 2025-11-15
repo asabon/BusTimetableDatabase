@@ -1,0 +1,26 @@
+{
+    "date": "2022/05/16",
+    "name": "大磯局前",
+    "position": "-",
+    "system": "平46",
+    "destinations": [
+        "山王町(中郡大磯町)",
+        "長者町(中郡大磯町)",
+        "化粧坂",
+        "花水",
+        "古花水",
+        "柳町(平塚市)",
+        "豊田道",
+        "八間通り",
+        "平塚文化芸術ホール前",
+        "銀座通り(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "12:09",
+        "15:10"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802257-16/node:00127475/kt:0/lname:/"
+}

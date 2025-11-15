@@ -1,0 +1,29 @@
+{
+    "date": "2021/02/01",
+    "name": "松林二丁目",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "松林三丁目",
+        "室田二丁目",
+        "高田三丁目",
+        "市立病院(茅ケ崎市)"
+    ],
+    "weekday": [
+        "7:50",
+        "9:03",
+        "12:48",
+        "17:18"
+    ],
+    "saturday": [
+        "9:03",
+        "12:48",
+        "17:18"
+    ],
+    "holiday": [
+        "9:03",
+        "12:48",
+        "17:18"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802649-46/node:00127281/kt:0/lname:/"
+}

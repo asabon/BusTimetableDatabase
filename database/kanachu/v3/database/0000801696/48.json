@@ -1,0 +1,26 @@
+{
+    "date": "2025/01/14",
+    "name": "細野橋",
+    "position": "-",
+    "system": "厚03",
+    "destinations": [
+        "清雲寺入口"
+    ],
+    "weekday": [
+        "20:48",
+        "21:28",
+        "21:58",
+        "22:58"
+    ],
+    "saturday": [
+        "20:34",
+        "21:34",
+        "22:42"
+    ],
+    "holiday": [
+        "20:34",
+        "21:34",
+        "22:42"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801696-48/node:00128297/kt:0/lname:/"
+}

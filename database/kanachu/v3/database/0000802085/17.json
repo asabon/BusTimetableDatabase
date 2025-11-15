@@ -1,0 +1,16 @@
+{
+    "date": "2025/08/30",
+    "name": "保土ヶ谷橋",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "保土ヶ谷駅東口"
+    ],
+    "weekday": [
+        "6:28",
+        "6:42"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802085-17/node:00103042/kt:0/lname:/"
+}

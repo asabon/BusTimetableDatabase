@@ -1,0 +1,22 @@
+{
+    "date": "2022/10/16",
+    "name": "久保ヶ谷戸",
+    "position": "-",
+    "system": "町60",
+    "destinations": [
+        "寿橋",
+        "寿町(相模原市緑区)",
+        "旭農協前",
+        "橋本駅北口"
+    ],
+    "weekday": [
+        "8:26",
+        "9:46"
+    ],
+    "saturday": [
+        "8:28",
+        "9:29"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802031-33/node:00128992/kt:0/lname:/"
+}

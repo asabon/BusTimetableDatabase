@@ -1,0 +1,26 @@
+{
+    "date": "2024/09/02",
+    "name": "台村",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "飯田神社前",
+        "団地入口(横浜市泉区)",
+        "児童公園前(横浜市泉区)",
+        "小学校前(横浜市泉区)",
+        "上飯田団地",
+        "金子山",
+        "泉警察署前",
+        "いずみ野駅"
+    ],
+    "weekday": [
+        "6:17"
+    ],
+    "saturday": [
+        "7:14"
+    ],
+    "holiday": [
+        "7:14"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802832-6/node:00126796/kt:0/lname:/"
+}

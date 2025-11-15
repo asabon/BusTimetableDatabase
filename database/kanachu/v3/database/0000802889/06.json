@@ -1,0 +1,19 @@
+{
+    "date": "2025/04/19",
+    "name": "団地東(相模原市南区)",
+    "position": "-",
+    "system": "台01",
+    "destinations": [
+        "保育園前(相模原市南区)"
+    ],
+    "weekday": [
+        "21:27"
+    ],
+    "saturday": [
+        "21:08"
+    ],
+    "holiday": [
+        "20:08"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802889-6/node:00128599/kt:0/lname:/"
+}

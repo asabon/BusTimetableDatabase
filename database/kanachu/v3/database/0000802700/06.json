@@ -1,0 +1,28 @@
+{
+    "date": "2025/03/15",
+    "name": "ライフタウン中央(藤沢市)",
+    "position": "-",
+    "system": "辻23",
+    "destinations": [
+        "小糸",
+        "辻堂駅北口"
+    ],
+    "weekday": [
+        "6:32",
+        "6:43",
+        "6:56",
+        "7:05",
+        "7:20",
+        "7:29",
+        "7:40",
+        "7:49",
+        "8:07",
+        "8:20",
+        "8:32",
+        "8:42",
+        "18:42"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802700-6/node:00129943/kt:0/lname:/"
+}

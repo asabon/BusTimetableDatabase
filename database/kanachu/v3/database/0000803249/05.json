@@ -1,0 +1,24 @@
+{
+    "date": "2025/03/15",
+    "name": "東海岸南三丁目",
+    "position": "-",
+    "system": "茅09",
+    "destinations": [
+        "茅ヶ崎駅入口",
+        "ヘッドランド入口",
+        "第一中学校前(茅ケ崎市)",
+        "駐在所前(茅ケ崎市)",
+        "石神下(茅ケ崎市)",
+        "東海岸北三丁目"
+    ],
+    "weekday": [
+        "21:28"
+    ],
+    "saturday": [
+        "20:18"
+    ],
+    "holiday": [
+        "20:18"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803249-5/node:00127244/kt:0/lname:/"
+}

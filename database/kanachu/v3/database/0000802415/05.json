@@ -1,0 +1,19 @@
+{
+    "date": "2025/04/19",
+    "name": "栄公園前",
+    "position": "-",
+    "system": "淵52",
+    "destinations": [
+        "弥栄(相模原市中央区)",
+        "淵野辺十字路",
+        "淵野辺駅入口",
+        "淵野辺駅南口"
+    ],
+    "weekday": [
+        "5:58",
+        "7:42"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802415-5/node:00129143/kt:0/lname:/"
+}

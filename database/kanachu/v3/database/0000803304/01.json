@@ -1,0 +1,24 @@
+{
+    "date": "2025/07/12",
+    "name": "老人センター(藤沢市)",
+    "position": "-",
+    "system": "辻31",
+    "destinations": [
+        "観音坂下",
+        "引地橋",
+        "湘南台",
+        "梅ヶ枝通り",
+        "住宅前(藤沢市明治)",
+        "汲田",
+        "明治中学校前",
+        "羽鳥郵便局前",
+        "神台公園前",
+        "辻堂駅北口"
+    ],
+    "weekday": [
+        "15:25"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803304-1/node:00127100/kt:0/lname:/"
+}

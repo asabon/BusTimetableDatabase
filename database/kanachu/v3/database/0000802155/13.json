@@ -1,0 +1,25 @@
+{
+    "date": "2016/03/26",
+    "name": "水無窪",
+    "position": "-",
+    "system": "秦15",
+    "destinations": [
+        "後窪",
+        "小原(足柄上郡中井町)",
+        "震生湖",
+        "平沢(秦野市平沢)",
+        "畑中(秦野市)",
+        "白笹稲荷神社入口",
+        "南公民館前(秦野市)",
+        "諏訪町(秦野市)",
+        "今川町",
+        "今泉(秦野市)",
+        "秦野駅"
+    ],
+    "weekday": [
+        "16:15"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802155-13/node:00127938/kt:0/lname:/"
+}

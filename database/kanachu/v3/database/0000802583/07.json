@@ -1,0 +1,24 @@
+{
+    "date": "2021/08/16",
+    "name": "藤が岡10号",
+    "position": "-",
+    "system": "藤10",
+    "destinations": [
+        "藤が岡11号",
+        "藤が岡12号",
+        "藤が岡13号",
+        "藤が岡14号",
+        "藤が岡15号",
+        "御所ヶ谷橋",
+        "藤沢駅北口"
+    ],
+    "weekday": [
+        "6:38",
+        "7:04",
+        "7:34",
+        "8:04"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802583-7/node:00127030/kt:0/lname:/"
+}

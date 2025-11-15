@@ -1,0 +1,19 @@
+{
+    "date": "2024/09/02",
+    "name": "泉警察署前",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "いずみ野駅"
+    ],
+    "weekday": [
+        "6:25"
+    ],
+    "saturday": [
+        "7:22"
+    ],
+    "holiday": [
+        "7:22"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802832-13/node:00126904/kt:0/lname:/"
+}

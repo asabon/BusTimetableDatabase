@@ -1,0 +1,17 @@
+{
+    "date": "2025/04/19",
+    "name": "麻溝台",
+    "position": "-",
+    "system": "大58",
+    "destinations": [
+        "麻溝台中学校入口",
+        "さがみ緑風園前"
+    ],
+    "weekday": [],
+    "saturday": [
+        "21:31",
+        "21:56"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802991-11/node:00129696/kt:0/lname:/"
+}

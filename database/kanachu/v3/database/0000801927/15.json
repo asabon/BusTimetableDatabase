@@ -1,0 +1,25 @@
+{
+    "date": "2025/07/27",
+    "name": "戸川台",
+    "position": "-",
+    "system": "秦54",
+    "destinations": [
+        "桜土手古墳公園",
+        "テクノパーク",
+        "桜土手(秦野市)",
+        "堀川小学校前(秦野市)",
+        "渋沢駅北口"
+    ],
+    "weekday": [
+        "6:20",
+        "7:05",
+        "7:38",
+        "8:03",
+        "8:25",
+        "13:10",
+        "17:16"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000801927-15/node:00130350/kt:0/lname:/"
+}

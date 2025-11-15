@@ -1,0 +1,24 @@
+{
+    "date": "2022/03/12",
+    "name": "押切(中郡二宮町)",
+    "position": "-",
+    "system": "国05",
+    "destinations": [
+        "押切・塔台橋",
+        "橘インター入口",
+        "町屋(小田原市)",
+        "小学校前(小田原市)",
+        "近戸神社",
+        "前川(小田原市)",
+        "西前川",
+        "国府津駅"
+    ],
+    "weekday": [
+        "12:19",
+        "13:24",
+        "16:49"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803132-13/node:00127495/kt:0/lname:/"
+}

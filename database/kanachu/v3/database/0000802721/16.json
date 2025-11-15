@@ -1,0 +1,19 @@
+{
+    "date": "2025/08/30",
+    "name": "品濃口",
+    "position": "-",
+    "system": "上96",
+    "destinations": [
+        "赤関橋",
+        "柏尾(横浜市戸塚区)",
+        "ポーラ前(横浜市戸塚区)",
+        "不動坂(横浜市戸塚区)"
+    ],
+    "weekday": [
+        "23:48",
+        "24:21"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802721-16/node:00126617/kt:0/lname:/"
+}

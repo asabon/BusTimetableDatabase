@@ -1,0 +1,18 @@
+{
+    "date": "2024/03/16",
+    "name": "森野六丁目",
+    "position": "-",
+    "system": "町35",
+    "destinations": [
+        "森野五丁目",
+        "妙延寺(町田市)",
+        "町田市役所市民ホール前",
+        "町田バスセンター"
+    ],
+    "weekday": [],
+    "saturday": [
+        "5:42"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803241-19/node:00129377/kt:0/lname:/"
+}

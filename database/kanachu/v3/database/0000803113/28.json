@@ -1,0 +1,22 @@
+{
+    "date": "2023/02/18",
+    "name": "相川中学校前",
+    "position": "-",
+    "system": "平50",
+    "destinations": [
+        "愛坪",
+        "下酒井",
+        "酒井(厚木市)",
+        "リバーサイド前(厚木市)"
+    ],
+    "weekday": [
+        "23:40"
+    ],
+    "saturday": [
+        "22:52"
+    ],
+    "holiday": [
+        "22:52"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803113-28/node:00128627/kt:0/lname:/"
+}

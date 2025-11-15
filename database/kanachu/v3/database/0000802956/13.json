@@ -1,0 +1,20 @@
+{
+    "date": "2025/01/14",
+    "name": "緑ヶ丘(厚木市)",
+    "position": "-",
+    "system": "厚25",
+    "destinations": [
+        "緑ヶ丘三丁目(厚木市)"
+    ],
+    "weekday": [
+        "8:55",
+        "20:05",
+        "20:35",
+        "23:12"
+    ],
+    "saturday": [],
+    "holiday": [
+        "22:47"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802956-13/node:00128473/kt:0/lname:/"
+}
