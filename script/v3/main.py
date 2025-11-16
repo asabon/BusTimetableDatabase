@@ -81,7 +81,7 @@ def process_route(route_id: str, busstop_db: BusStopDatabase):
     route_db.save()
 
 def load_route_ids() -> list[str]:
-    route_ids_path = os.path.join(os.path.dirname(__file__), "route_ids.json")
+    route_ids_path = os.path.join("database/kanachu/v3/database", "route_ids.json")
     if not os.path.exists(route_ids_path):
         logger.error(f"Required file not found: {route_ids_path}")
         raise FileNotFoundError(f"Required file not found: {route_ids_path}")
@@ -172,6 +172,7 @@ def update_route_ids_list():
     all_route_ids = set()
     queue_idx = 0
     while queue:
+        # queue から1つ取り出して処理
         base_location = queue.popleft()
         sdid = base_location["sdid"]
         name = base_location["name"]
@@ -186,9 +187,10 @@ def update_route_ids_list():
                 new_name = busstop["name"]
                 if new_sdid not in processed_sdid:
                     processed_sdid.add(new_sdid)
+                    # queue に追加
                     queue.append({"sdid": new_sdid, "name": new_name})
                     print(f"    append sdid={new_sdid}, name={new_name}")
-    route_ids_path = os.path.join(os.path.dirname(__file__), "route_ids.json")
+    route_ids_path = os.path.join("database/kanachu/v3/database", "route_ids.json")
     with open(route_ids_path, 'w', encoding='utf-8') as f:
         json.dump(sorted(all_route_ids), f, indent=4, ensure_ascii=False)
 
@@ -213,7 +215,7 @@ def cleanup_obsolete_route_dirs():
 
 if __name__ == "__main__":
     # 路線IDリストを更新
-    # update_route_ids_list()
+    #update_route_ids_list()
     # 使われなくなった路線ディレクトリを削除
     #cleanup_obsolete_route_dirs()
     # 路線ごとにメイン処理を実施
