@@ -1,0 +1,47 @@
+name: Release-v3
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'database/kanachu/v3/**'
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5.4.0
+        with:
+          python-version: '3.13'
+
+      - name: Release for v3
+        run: |
+          mkdir -p release/kanachu/v3
+          HASH_V3=$(python -c "from script.common.hash import hash_directory; print(hash_directory('database/kanachu/v3/database'))")
+          python script/common/edit_json.py update release/kanachu/v3/info.json "hash" $HASH_V3
+          pushd database/kanachu/v3/database
+          zip -r ../../../../release/kanachu/v3/database.zip .
+          popd
+
+      - name: Inspect ZIP contents
+        run: unzip -l release/kanachu/v3/database.zip
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "Automated changes"
+          title: "Release v3"
+          body: "Release v3"
+          branch: "release/v3"
+          add-paths: "release"
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: timetable-database-v3
+          path: release/kanachu/v3
