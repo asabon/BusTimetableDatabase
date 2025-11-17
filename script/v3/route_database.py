@@ -124,8 +124,8 @@ class RouteDatabase:
         target_h2 = soup.find("div", class_="hGroup201").find("h2")
         text = target_h2.get_text(strip=True) if target_h2 else ""
 
-        # 正規表現で「漢字1文字＋数字1〜2桁」を抽出
-        match = re.search(r"[一-龯]{1}\d{1,2}", text)
+        # 正規表現で「全角1文字＋数字1〜2桁」を抽出
+        match = re.search(r"[\u3000-\u9FFF]{1}\d{1,2}", text)
         if match:
             # print(f"見つかった系統 : {match.group()}")
             self.system = match.group()
