@@ -1,0 +1,14 @@
+[project]
+requires-python = ">= 3.13"
+name = 'bus_timetable_database'
+version = '0.0.0'
+description = 'Bus Timetable Database for App'
+authors = [ { name = "Takafumi Asahara", email = "asabon.t@gmail.com" } ]
+readme = { file = "README.md", content-type = "text/markdown" }
+license = { file = 'LICENSE' }
+dependencies = [
+    "pytest == 8.4.2",
+    "pytest-cov",
+    "beautifulsoup4 == 4.14.2",
+    "ruff == 0.14.5"
+]
