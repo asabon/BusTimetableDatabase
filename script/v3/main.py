@@ -81,34 +81,23 @@ def process_route(route_id: str, busstop_db: BusStopDatabase):
     route_db.save()
 
 def load_route_ids() -> list[str]:
-    route_ids_path = os.path.join("database/kanachu/v3/database", "routes.json")
+    route_ids_path = os.path.join("database/kanachu/v3/database", "route_ids.json")
     if not os.path.exists(route_ids_path):
         logger.error(f"Required file not found: {route_ids_path}")
         raise FileNotFoundError(f"Required file not found: {route_ids_path}")
 
     try:
         with open(route_ids_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
+            route_id_list = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError, OSError) as e:
         logger.error(f"Error loading route IDs from {route_ids_path}: {e}")
         raise RuntimeError(f"Failed to load route IDs from {route_ids_path}: {e}")
 
-    # data が [{"route_id": "..."}, ...] の形式を想定
-    if not isinstance(data, list):
-        logger.error(f"Invalid format in {route_ids_path}: must be a JSON array")
-        raise ValueError(f"{route_ids_path} must contain a JSON array")
-
-    try:
-        route_ids = [item["route_id"] for item in data if isinstance(item, dict) and "route_id" in item]
-    except Exception as e:
-        logger.error(f"Invalid format in {route_ids_path}: {e}")
-        raise ValueError(f"{route_ids_path} must contain objects with 'route_id'")
-
-    if not all(isinstance(x, str) for x in route_ids):
-        logger.error(f"Invalid route_id types in {route_ids_path}")
-        raise ValueError(f"{route_ids_path} must contain string route_id values")
-
-    return route_ids
+    if not (isinstance(route_id_list, list) and all(isinstance(x, str) for x in route_id_list)):
+        logger.error(f"Invalid format in {route_ids_path}: must be a JSON array of strings")
+        raise ValueError(f"{route_ids_path} must contain a JSON array of strings")
+    
+    return route_id_list
 
 # sdid とバス停名から路線IDリストを取得する関数
 def get_route_ids_list(sdid: str, name: str) -> list[str]:
@@ -201,12 +190,9 @@ def update_route_ids_list():
                     # queue に追加
                     queue.append({"sdid": new_sdid, "name": new_name})
                     print(f"    append sdid={new_sdid}, name={new_name}")
-
-    route_ids_list = [{"route_id": rid} for rid in sorted(all_route_ids)]
-
-    route_ids_path = os.path.join("database/kanachu/v3/database", "routes.json")
+    route_ids_path = os.path.join("database/kanachu/v3/database", "route_ids.json")
     with open(route_ids_path, 'w', encoding='utf-8') as f:
-        json.dump(route_ids_list, f, indent=4, ensure_ascii=False)
+        json.dump(sorted(all_route_ids), f, indent=4, ensure_ascii=False)
 
 def cleanup_obsolete_route_dirs():
     route_ids = load_route_ids()
