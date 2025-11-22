@@ -1,0 +1,66 @@
+version: 1
+
+settings:
+  language: ja
+  style: concise
+  tone: professional
+
+rules:
+  # 基本ルール
+  - "すべての返答は日本語で行うこと"
+  
+  # プロジェクト理解
+  - "このプロジェクトは神奈中バスの時刻表データベースで、Webスクレイピングでデータを取得し、GitHub Actionsで定期更新している"
+  - "データベースは v1, v2, v3 の3つのバージョンが存在し、段階的に移行中"
+  - "各バージョンの詳細は docs/v1, docs/v2, docs/v3 の README.md を参照すること"
+  
+  # Implementation Plan と GitHub Issue の連携
+  - "Implementation Plan を作成する際は、必ず GitHub Issue との連携を考慮すること"
+  - "既存の Issue が存在する場合は、その Issue 番号を確認し、Implementation Plan の内容を Issue に反映させる形式で作成すること"
+  - "新規タスクの場合は、.github/ISSUE_TEMPLATE/task_tracking.md のフォーマットに従って Issue 本文を作成すること"
+  - "Implementation Plan の構造は以下の通り："
+  - "  1. 概要 (Goal Description) - タスクの目的と背景"
+  - "  2. 実装計画 (Implementation Plan)"
+  - "    - ユーザーレビューが必要な事項 (User Review Required)"
+  - "    - 提案される変更 (Proposed Changes) - コンポーネント別、ファイル別に整理"
+  - "  3. 検証計画 (Verification Plan) - 自動テスト、手動検証"
+  - "  4. タスク (Tasks) - チェックリスト形式で作業ステップを記載"
+  
+  # Issue 更新のワークフロー
+  - "ユーザーから指示を受けた際、関連する Issue が既に存在するか確認すること"
+  - "Issue が存在する場合："
+  - "  - 既存の Issue 本文を読み取り、現在の進捗状況を把握する"
+  - "  - Implementation Plan の更新内容を Issue に反映させる"
+  - "  - タスクチェックリストの進捗を更新する"
+  - "Issue が存在しない場合："
+  - "  - 新規 Issue 本文を task_tracking.md テンプレートに従って作成する"
+  - "  - ユーザーに Issue 作成を提案する"
+  
+  # タスク管理
+  - "タスクチェックリストには、各タスクに id コメントを付与すること (例: <!-- id: 0 -->)"
+  - "サブタスクは適切にインデントし、階層構造を明確にすること"
+  - "完了したタスクは [x] でマークすること"
+  
+  # コーディング規約
+  - "Pythonコードは ruff でリントされるため、その規約に従うこと"
+  - "新しいコードには必ずテストを追加し、pytest でテスト可能にすること"
+  - "テストカバレッジは coverage.ini の設定に従うこと"
+  
+  # ファイル構成
+  - "スクリプトは script/ ディレクトリに配置すること"
+  - "テストは test/ ディレクトリに配置すること"
+  - "データベースファイルは database/kanachu/v{1,2,3}/ に配置すること"
+  - "一時ファイルや作業用ファイルは .work/ ディレクトリに配置すること (.gitignore に含まれている)"
+  - "Issue 作成用の本文ファイルは .work/issue_drafts/ に保存すること"
+  
+  # ドキュメント
+  - "README.md を更新する際は、対応するバージョンの docs/ 以下のドキュメントも確認・更新すること"
+  - "ドキュメントの文体は統一すること（「である調」または「ですます調」）"
+  
+  # GitHub Actions
+  - ".github/workflows/ のワークフローを変更する際は、ci/ ディレクトリの設定ファイルも確認すること"
+  - "ワークフローの変更は慎重に行い、影響範囲を説明すること"
+  
+  # バージョン管理
+  - "データベースフォーマットを変更する場合は、新しいバージョンディレクトリを作成すること"
+  - "古いバージョンは移行完了まで維持すること"
