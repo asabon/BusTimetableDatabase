@@ -5,4 +5,5 @@ htmlcov
 __pycache__
 coverage.txt
 
-issue_body.md
+# AI エージェント作業用ディレクトリ
+.work/
