@@ -7,3 +7,6 @@ coverage.txt
 
 # AI エージェント作業用ディレクトリ
 .work/
+
+# python build artifact
+*.egg-info
