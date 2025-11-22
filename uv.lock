@@ -18,7 +18,7 @@ wheels = [
 [[package]]
 name = "bus-timetable-database"
 version = "0.0.0"
-source = { virtual = "." }
+source = { editable = "." }
 dependencies = [
     { name = "beautifulsoup4" },
     { name = "pytest" },
