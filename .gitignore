@@ -4,3 +4,5 @@
 htmlcov
 __pycache__
 coverage.txt
+
+issue_body.md
