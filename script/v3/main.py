@@ -213,10 +213,18 @@ def cleanup_obsolete_route_dirs():
         except Exception as e:
             logger.warning(f"Failed to remove {dir_path}: {e}")
 
+import argparse
+
 if __name__ == "__main__":
-    # 路線IDリストを更新
-    #update_route_ids_list()
-    # 使われなくなった路線ディレクトリを削除
-    #cleanup_obsolete_route_dirs()
-    # 路線ごとにメイン処理を実施
-    main()
+    parser = argparse.ArgumentParser(description='Update Kanachu Bus Timetable Database v3')
+    parser.add_argument('--update-list', action='store_true', help='Update route ID list and cleanup obsolete directories')
+    args = parser.parse_args()
+
+    if args.update_list:
+        # 路線IDリストを更新
+        update_route_ids_list()
+        # 使われなくなった路線ディレクトリを削除
+        cleanup_obsolete_route_dirs()
+    else:
+        # 路線ごとにメイン処理を実施
+        main()
