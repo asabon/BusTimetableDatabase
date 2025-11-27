@@ -1,8 +1,9 @@
 name: Generate-v2
 
 on:
-  schedule:
-    - cron: '0 0 1 * *' # 毎月1日の00:00に実行
+  # 自動実行は停止
+  #schedule:
+  #  - cron: '0 0 1 * *' # 毎月1日の00:00に実行
   workflow_dispatch:
     inputs:
       generate:
