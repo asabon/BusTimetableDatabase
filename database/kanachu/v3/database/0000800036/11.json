@@ -1,5 +1,5 @@
 {
-    "date": "2023/02/18",
+    "date": "2025/11/16",
     "name": "白岩大門",
     "position": "-",
     "system": "磯13",
@@ -9,17 +9,14 @@
         "大磯駅"
     ],
     "weekday": [
-        "6:02",
-        "6:22",
-        "7:10"
+        "6:12",
+        "7:05"
     ],
     "saturday": [
-        "6:26",
-        "7:06"
+        "6:47"
     ],
     "holiday": [
-        "6:26",
-        "7:06"
+        "6:47"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800036-11/node:00127479/kt:0/lname:/"
 }

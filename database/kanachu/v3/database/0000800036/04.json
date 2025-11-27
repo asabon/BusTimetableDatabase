@@ -1,5 +1,5 @@
 {
-    "date": "2023/02/18",
+    "date": "2025/11/16",
     "name": "湘南大磯住宅入口",
     "position": "-",
     "system": "磯13",
@@ -16,17 +16,14 @@
         "大磯駅"
     ],
     "weekday": [
-        "5:54",
-        "6:14",
-        "7:02"
+        "6:04",
+        "6:57"
     ],
     "saturday": [
-        "6:18",
-        "6:58"
+        "6:39"
     ],
     "holiday": [
-        "6:18",
-        "6:58"
+        "6:39"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800036-4/node:00127511/kt:0/lname:/"
 }

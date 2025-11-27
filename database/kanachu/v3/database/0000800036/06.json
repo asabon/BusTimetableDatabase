@@ -1,5 +1,5 @@
 {
-    "date": "2023/02/18",
+    "date": "2025/11/16",
     "name": "天の杜",
     "position": "-",
     "system": "磯13",
@@ -14,17 +14,14 @@
         "大磯駅"
     ],
     "weekday": [
-        "5:56",
-        "6:16",
-        "7:04"
+        "6:06",
+        "6:59"
     ],
     "saturday": [
-        "6:20",
-        "7:00"
+        "6:41"
     ],
     "holiday": [
-        "6:20",
-        "7:00"
+        "6:41"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800036-6/node:00127505/kt:0/lname:/"
 }
