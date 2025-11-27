@@ -1,11 +1,12 @@
 name: Release-v3
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'database/kanachu/v3/**'
+  # リリースの仕方は見直すので、いったん止める
+  #push:
+  #  branches:
+  #    - main
+  #  paths:
+  #    - 'database/kanachu/v3/**'
   workflow_dispatch:
 
 jobs:
