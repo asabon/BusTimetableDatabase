@@ -1,5 +1,5 @@
 {
-    "date": "2025/10/20",
+    "date": "",
     "name": "筑池",
     "position": "-",
     "system": "横04",
@@ -34,9 +34,7 @@
         "鶴屋町三丁目",
         "横浜駅西口"
     ],
-    "weekday": [
-        "5:33"
-    ],
+    "weekday": [],
     "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803912-22/node:00129715/kt:0/lname:/"

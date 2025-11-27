@@ -1,5 +1,5 @@
 {
-    "date": "2024/04/01",
+    "date": "2025/11/16",
     "name": "二宮駅南口",
     "position": "-",
     "system": "二05",
@@ -24,14 +24,14 @@
         "松岩寺"
     ],
     "weekday": [
-        "19:15"
+        "19:15",
+        "20:30"
     ],
     "saturday": [
-        "6:50",
-        "20:15"
+        "19:15"
     ],
     "holiday": [
-        "20:15"
+        "19:15"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802258-1/node:00127489/kt:0/lname:/"
 }

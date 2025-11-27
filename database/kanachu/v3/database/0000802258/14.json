@@ -1,5 +1,5 @@
 {
-    "date": "2024/04/01",
+    "date": "2025/11/16",
     "name": "寺坂宮前",
     "position": "-",
     "system": "二05",
@@ -11,14 +11,14 @@
         "松岩寺"
     ],
     "weekday": [
-        "19:25"
+        "19:25",
+        "20:40"
     ],
     "saturday": [
-        "7:00",
-        "20:25"
+        "19:25"
     ],
     "holiday": [
-        "20:25"
+        "19:25"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802258-14/node:00127544/kt:0/lname:/"
 }

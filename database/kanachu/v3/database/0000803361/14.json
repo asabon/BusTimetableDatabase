@@ -1,5 +1,5 @@
 {
-    "date": "2021/02/22",
+    "date": "2025/11/16",
     "name": "峰岸",
     "position": "-",
     "system": "伊12",
@@ -11,12 +11,9 @@
         "伊勢原駅北口"
     ],
     "weekday": [
-        "6:06",
-        "6:40"
+        "6:41"
     ],
-    "saturday": [
-        "6:31"
-    ],
+    "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803361-14/node:00128145/kt:0/lname:/"
 }

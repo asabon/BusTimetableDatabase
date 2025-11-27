@@ -1,5 +1,5 @@
 {
-    "date": "2023/02/20",
+    "date": "2025/11/16",
     "name": "霧が丘センター前",
     "position": "-",
     "system": "境21",
@@ -28,8 +28,6 @@
         "8:15"
     ],
     "saturday": [],
-    "holiday": [
-        "7:23"
-    ],
+    "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802233-7/node:00019299/kt:0/lname:/"
 }

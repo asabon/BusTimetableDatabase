@@ -1,5 +1,5 @@
 {
-    "date": "2025/10/20",
+    "date": "",
     "name": "桜山(横浜市旭区)",
     "position": "-",
     "system": "横04",
@@ -45,9 +45,7 @@
         "鶴屋町三丁目",
         "横浜駅西口"
     ],
-    "weekday": [
-        "5:21"
-    ],
+    "weekday": [],
     "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803912-11/node:00129704/kt:0/lname:/"

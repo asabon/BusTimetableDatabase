@@ -1,0 +1,24 @@
+{
+    "date": "2025/11/16",
+    "name": "川井宿",
+    "position": "-",
+    "system": "峰01",
+    "destinations": [
+        "下宿(横浜市旭区)",
+        "都岡町",
+        "農協前(横浜市旭区)",
+        "筑池",
+        "今宿(横浜市旭区)",
+        "今宿小学校入口",
+        "鶴ヶ峰中学校前",
+        "薬王寺入口",
+        "鶴ヶ峰本町",
+        "鶴ヶ峰駅"
+    ],
+    "weekday": [
+        "5:21"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803932-17/node:00129711/kt:0/lname:/"
+}

@@ -1,0 +1,20 @@
+{
+    "date": "2025/11/16",
+    "name": "市光前",
+    "position": "-",
+    "system": "伊14",
+    "destinations": [
+        "峰岸",
+        "片町(伊勢原市)",
+        "片町十字路",
+        "大神宮前",
+        "本町(伊勢原市)",
+        "伊勢原駅北口"
+    ],
+    "weekday": [
+        "6:05"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803929-5/node:00128146/kt:0/lname:/"
+}

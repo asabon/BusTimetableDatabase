@@ -1,5 +1,5 @@
 {
-    "date": "2025/10/20",
+    "date": "",
     "name": "浅間町車庫前",
     "position": "-",
     "system": "横04",
@@ -50,9 +50,7 @@
         "鶴間二丁目",
         "鶴間駅東口"
     ],
-    "weekday": [
-        "6:35"
-    ],
+    "weekday": [],
     "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803918-6/node:00102672/kt:0/lname:/"

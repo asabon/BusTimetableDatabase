@@ -1,5 +1,5 @@
 {
-    "date": "2025/10/20",
+    "date": "",
     "name": "上川井町",
     "position": "-",
     "system": "横04",
@@ -42,9 +42,7 @@
         "鶴屋町三丁目",
         "横浜駅西口"
     ],
-    "weekday": [
-        "5:24"
-    ],
+    "weekday": [],
     "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803912-14/node:00129707/kt:0/lname:/"

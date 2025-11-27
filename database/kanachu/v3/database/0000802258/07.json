@@ -1,5 +1,5 @@
 {
-    "date": "2024/04/01",
+    "date": "2025/11/16",
     "name": "国府新宿",
     "position": "-",
     "system": "二05",
@@ -18,14 +18,14 @@
         "松岩寺"
     ],
     "weekday": [
-        "19:19"
+        "19:19",
+        "20:34"
     ],
     "saturday": [
-        "6:54",
-        "20:19"
+        "19:19"
     ],
     "holiday": [
-        "20:19"
+        "19:19"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802258-7/node:00127483/kt:0/lname:/"
 }

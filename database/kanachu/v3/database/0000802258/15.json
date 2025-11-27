@@ -1,5 +1,5 @@
 {
-    "date": "2024/04/01",
+    "date": "2025/11/16",
     "name": "王福寺",
     "position": "-",
     "system": "二05",
@@ -10,14 +10,14 @@
         "松岩寺"
     ],
     "weekday": [
-        "19:26"
+        "19:26",
+        "20:41"
     ],
     "saturday": [
-        "7:01",
-        "20:26"
+        "19:26"
     ],
     "holiday": [
-        "20:26"
+        "19:26"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802258-15/node:00127543/kt:0/lname:/"
 }

@@ -1,5 +1,5 @@
 {
-    "date": "2024/04/01",
+    "date": "2025/11/16",
     "name": "西生沢",
     "position": "-",
     "system": "二05",
@@ -14,14 +14,14 @@
         "松岩寺"
     ],
     "weekday": [
-        "19:23"
+        "19:23",
+        "20:38"
     ],
     "saturday": [
-        "6:58",
-        "20:23"
+        "19:23"
     ],
     "holiday": [
-        "20:23"
+        "19:23"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802258-11/node:00127547/kt:0/lname:/"
 }

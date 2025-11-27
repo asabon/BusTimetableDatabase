@@ -1,5 +1,5 @@
 {
-    "date": "2025/10/20",
+    "date": "",
     "name": "浅間町車庫前",
     "position": "-",
     "system": "横04",
@@ -10,9 +10,7 @@
         "鶴屋町三丁目",
         "横浜駅西口"
     ],
-    "weekday": [
-        "6:04"
-    ],
+    "weekday": [],
     "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803912-46/node:00102672/kt:0/lname:/"

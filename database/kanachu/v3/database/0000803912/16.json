@@ -1,5 +1,5 @@
 {
-    "date": "2025/10/20",
+    "date": "",
     "name": "宮の下(横浜市旭区)",
     "position": "-",
     "system": "横04",
@@ -40,9 +40,7 @@
         "鶴屋町三丁目",
         "横浜駅西口"
     ],
-    "weekday": [
-        "5:26"
-    ],
+    "weekday": [],
     "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803912-16/node:00129709/kt:0/lname:/"

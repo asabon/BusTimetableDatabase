@@ -1,5 +1,5 @@
 {
-    "date": "2025/10/20",
+    "date": "",
     "name": "亀甲山",
     "position": "-",
     "system": "横04",
@@ -16,9 +16,7 @@
         "鶴間二丁目",
         "鶴間駅東口"
     ],
-    "weekday": [
-        "7:18"
-    ],
+    "weekday": [],
     "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803918-40/node:00129705/kt:0/lname:/"

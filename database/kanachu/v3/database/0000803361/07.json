@@ -1,5 +1,5 @@
 {
-    "date": "2021/02/22",
+    "date": "2025/11/16",
     "name": "明神前(伊勢原市)",
     "position": "-",
     "system": "伊12",
@@ -18,12 +18,9 @@
         "伊勢原駅北口"
     ],
     "weekday": [
-        "6:00",
-        "6:34"
+        "6:35"
     ],
-    "saturday": [
-        "6:25"
-    ],
+    "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803361-7/node:00128152/kt:0/lname:/"
 }

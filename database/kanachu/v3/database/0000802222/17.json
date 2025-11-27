@@ -1,5 +1,5 @@
 {
-    "date": "2023/02/20",
+    "date": "2025/11/16",
     "name": "若葉台中央(横浜市旭区)",
     "position": "-",
     "system": "境21",
@@ -15,13 +15,9 @@
         "十日市場駅"
     ],
     "weekday": [
-        "7:53",
-        "9:43",
-        "16:48"
+        "8:09"
     ],
-    "saturday": [
-        "7:59"
-    ],
+    "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802222-17/node:00019296/kt:0/lname:/"
 }

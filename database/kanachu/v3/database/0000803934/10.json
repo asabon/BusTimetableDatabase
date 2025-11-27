@@ -1,0 +1,24 @@
+{
+    "date": "2025/11/16",
+    "name": "三枚町",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "生花市場前",
+        "羽沢横浜国大駅前",
+        "高山(横浜市神奈川区)",
+        "羽沢南",
+        "池の谷戸(横浜市保土ケ谷区)",
+        "川島住宅"
+    ],
+    "weekday": [
+        "19:44"
+    ],
+    "saturday": [
+        "19:17"
+    ],
+    "holiday": [
+        "19:17"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803934-10/node:00102558/kt:0/lname:/"
+}

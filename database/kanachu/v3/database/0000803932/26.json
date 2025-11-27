@@ -1,0 +1,15 @@
+{
+    "date": "2025/11/16",
+    "name": "鶴ヶ峰本町",
+    "position": "-",
+    "system": "峰01",
+    "destinations": [
+        "鶴ヶ峰駅"
+    ],
+    "weekday": [
+        "5:31"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803932-26/node:00129720/kt:0/lname:/"
+}

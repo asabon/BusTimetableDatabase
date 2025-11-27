@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "中原上宿",
     "position": "-",
     "system": "平96",
@@ -10,11 +10,21 @@
         "矢崎(平塚市)"
     ],
     "weekday": [
+        "8:56",
+        "9:19",
+        "19:41",
+        "20:05",
+        "20:32",
         "21:02",
         "21:32",
+        "22:47",
         "23:42"
     ],
-    "saturday": [],
-    "holiday": [],
+    "saturday": [
+        "22:37"
+    ],
+    "holiday": [
+        "22:37"
+    ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803554-10/node:00128067/kt:0/lname:/"
 }

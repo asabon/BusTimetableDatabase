@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "つきみの団地",
     "position": "-",
     "system": "伊82",
@@ -20,10 +20,14 @@
         "坂口(平塚市)"
     ],
     "weekday": [
-        "21:26",
-        "22:01"
+        "20:30",
+        "21:45"
     ],
-    "saturday": [],
-    "holiday": [],
+    "saturday": [
+        "20:55"
+    ],
+    "holiday": [
+        "20:55"
+    ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800926-6/node:00128098/kt:0/lname:/"
 }

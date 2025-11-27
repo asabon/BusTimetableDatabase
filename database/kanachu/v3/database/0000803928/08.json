@@ -1,0 +1,21 @@
+{
+    "date": "2025/11/16",
+    "name": "〆引",
+    "position": "-",
+    "system": "伊14",
+    "destinations": [
+        "道灌塚前",
+        "山王原(伊勢原市)",
+        "石倉橋"
+    ],
+    "weekday": [
+        "22:11"
+    ],
+    "saturday": [
+        "21:01"
+    ],
+    "holiday": [
+        "21:01"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803928-8/node:00128147/kt:0/lname:/"
+}

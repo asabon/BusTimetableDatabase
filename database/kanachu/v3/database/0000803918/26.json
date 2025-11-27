@@ -1,5 +1,5 @@
 {
-    "date": "2025/10/20",
+    "date": "",
     "name": "薬王寺入口",
     "position": "-",
     "system": "横04",
@@ -30,9 +30,7 @@
         "鶴間二丁目",
         "鶴間駅東口"
     ],
-    "weekday": [
-        "7:02"
-    ],
+    "weekday": [],
     "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803918-26/node:00129719/kt:0/lname:/"

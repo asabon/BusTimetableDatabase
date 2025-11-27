@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "共済会館入口",
     "position": "-",
     "system": "伊37",
@@ -17,13 +17,13 @@
         "神奈川リハビリ"
     ],
     "weekday": [
-        "19:54"
+        "19:24"
     ],
     "saturday": [
-        "19:19"
+        "18:34"
     ],
     "holiday": [
-        "19:19"
+        "18:34"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803020-6/node:00128223/kt:0/lname:/"
 }

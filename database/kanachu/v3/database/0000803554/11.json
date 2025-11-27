@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "大縄橋",
     "position": "-",
     "system": "平96",
@@ -9,11 +9,21 @@
         "矢崎(平塚市)"
     ],
     "weekday": [
+        "8:57",
+        "9:20",
+        "19:42",
+        "20:06",
+        "20:33",
         "21:03",
         "21:33",
+        "22:48",
         "23:43"
     ],
-    "saturday": [],
-    "holiday": [],
+    "saturday": [
+        "22:38"
+    ],
+    "holiday": [
+        "22:38"
+    ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803554-11/node:00128066/kt:0/lname:/"
 }

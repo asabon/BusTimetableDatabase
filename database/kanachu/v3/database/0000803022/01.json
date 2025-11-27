@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "愛甲石田駅",
     "position": "-",
     "system": "愛12",
@@ -24,13 +24,13 @@
         "神奈川リハビリ"
     ],
     "weekday": [
-        "19:45"
+        "18:25"
     ],
     "saturday": [
-        "18:05"
+        "16:45"
     ],
     "holiday": [
-        "18:05"
+        "16:45"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803022-1/node:00128496/kt:0/lname:/"
 }

@@ -1,9 +1,10 @@
 name: test
 
 on:
-  pull_request:
-    branches:
-      - main
+  # いったんやめる
+  #pull_request:
+  #  branches:
+  #    - main
   workflow_dispatch:
 
 jobs:

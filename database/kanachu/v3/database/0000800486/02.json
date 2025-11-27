@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "本町(伊勢原市)",
     "position": "-",
     "system": "伊43",
@@ -13,8 +13,7 @@
     ],
     "weekday": [
         "19:06",
-        "20:14",
-        "20:56"
+        "20:26"
     ],
     "saturday": [
         "19:31",
@@ -22,7 +21,7 @@
     ],
     "holiday": [
         "19:31",
-        "20:31"
+        "20:14"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800486-2/node:00128128/kt:0/lname:/"
 }

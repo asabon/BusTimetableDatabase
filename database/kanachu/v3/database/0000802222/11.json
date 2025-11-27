@@ -1,5 +1,5 @@
 {
-    "date": "2023/02/20",
+    "date": "2025/11/16",
     "name": "大貫橋",
     "position": "-",
     "system": "境21",
@@ -21,13 +21,9 @@
         "十日市場駅"
     ],
     "weekday": [
-        "7:40",
-        "9:30",
-        "16:35"
+        "7:56"
     ],
-    "saturday": [
-        "7:46"
-    ],
+    "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802222-11/node:00129706/kt:0/lname:/"
 }

@@ -1,5 +1,5 @@
 {
-    "date": "2021/02/22",
+    "date": "2025/11/16",
     "name": "大山駅",
     "position": "-",
     "system": "伊12",
@@ -24,12 +24,9 @@
         "伊勢原駅北口"
     ],
     "weekday": [
-        "5:55",
         "6:29"
     ],
-    "saturday": [
-        "6:20"
-    ],
+    "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803361-1/node:00128158/kt:0/lname:/"
 }

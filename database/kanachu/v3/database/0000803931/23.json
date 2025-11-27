@@ -1,0 +1,15 @@
+{
+    "date": "2025/11/16",
+    "name": "鶴屋町三丁目",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "横浜駅西口"
+    ],
+    "weekday": [
+        "6:12"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803931-23/node:00019685/kt:0/lname:/"
+}

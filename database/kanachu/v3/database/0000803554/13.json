@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "東橋(平塚市)",
     "position": "-",
     "system": "平96",
@@ -7,11 +7,21 @@
         "矢崎(平塚市)"
     ],
     "weekday": [
+        "9:01",
+        "9:24",
+        "19:45",
+        "20:09",
+        "20:36",
         "21:06",
         "21:36",
+        "22:51",
         "23:47"
     ],
-    "saturday": [],
-    "holiday": [],
+    "saturday": [
+        "22:42"
+    ],
+    "holiday": [
+        "22:42"
+    ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803554-13/node:00128064/kt:0/lname:/"
 }

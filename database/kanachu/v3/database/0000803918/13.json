@@ -1,5 +1,5 @@
 {
-    "date": "2025/10/20",
+    "date": "",
     "name": "保土ヶ谷中学校前",
     "position": "-",
     "system": "横04",
@@ -43,9 +43,7 @@
         "鶴間二丁目",
         "鶴間駅東口"
     ],
-    "weekday": [
-        "6:44"
-    ],
+    "weekday": [],
     "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803918-13/node:00103040/kt:0/lname:/"

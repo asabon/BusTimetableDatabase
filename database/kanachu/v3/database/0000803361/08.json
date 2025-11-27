@@ -1,5 +1,5 @@
 {
-    "date": "2021/02/22",
+    "date": "2025/11/16",
     "name": "石倉(伊勢原市)",
     "position": "-",
     "system": "伊12",
@@ -17,12 +17,9 @@
         "伊勢原駅北口"
     ],
     "weekday": [
-        "6:01",
-        "6:35"
+        "6:36"
     ],
-    "saturday": [
-        "6:26"
-    ],
+    "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803361-8/node:00128151/kt:0/lname:/"
 }

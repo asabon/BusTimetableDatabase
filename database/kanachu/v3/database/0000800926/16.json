@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "横内公民館入口",
     "position": "-",
     "system": "伊82",
@@ -10,10 +10,14 @@
         "坂口(平塚市)"
     ],
     "weekday": [
-        "21:37",
-        "22:12"
+        "20:41",
+        "21:56"
     ],
-    "saturday": [],
-    "holiday": [],
+    "saturday": [
+        "21:06"
+    ],
+    "holiday": [
+        "21:06"
+    ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800926-16/node:00127615/kt:0/lname:/"
 }

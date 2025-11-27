@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "下谷(伊勢原市)",
     "position": "-",
     "system": "伊82",
@@ -17,10 +17,14 @@
         "坂口(平塚市)"
     ],
     "weekday": [
-        "21:29",
-        "22:04"
+        "20:33",
+        "21:48"
     ],
-    "saturday": [],
-    "holiday": [],
+    "saturday": [
+        "20:58"
+    ],
+    "holiday": [
+        "20:58"
+    ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800926-9/node:00128118/kt:0/lname:/"
 }

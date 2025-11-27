@@ -1,5 +1,5 @@
 {
-    "date": "2023/02/18",
+    "date": "2025/11/16",
     "name": "大磯小学校前",
     "position": "-",
     "system": "磯13",
@@ -7,17 +7,14 @@
         "大磯駅"
     ],
     "weekday": [
-        "6:04",
-        "6:24",
-        "7:12"
+        "6:14",
+        "7:07"
     ],
     "saturday": [
-        "6:28",
-        "7:08"
+        "6:49"
     ],
     "holiday": [
-        "6:28",
-        "7:08"
+        "6:49"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800036-13/node:00127456/kt:0/lname:/"
 }

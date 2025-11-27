@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "共済病院前総合公園西",
     "position": "-",
     "system": "平96",
@@ -13,11 +13,21 @@
         "矢崎(平塚市)"
     ],
     "weekday": [
+        "8:52",
+        "9:15",
+        "19:38",
+        "20:02",
+        "20:29",
         "20:59",
         "21:29",
+        "22:44",
         "23:39"
     ],
-    "saturday": [],
-    "holiday": [],
+    "saturday": [
+        "22:34"
+    ],
+    "holiday": [
+        "22:34"
+    ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803554-7/node:00128222/kt:0/lname:/"
 }

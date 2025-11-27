@@ -1,5 +1,5 @@
 {
-    "date": "2024/09/09",
+    "date": "2025/11/16",
     "name": "鶴ヶ峰本町",
     "position": "-",
     "system": "",
@@ -13,16 +13,16 @@
         "グリーンヒル上白根"
     ],
     "weekday": [
-        "21:04"
+        "21:34",
+        "22:01"
     ],
     "saturday": [
         "20:36",
-        "21:21"
+        "21:06"
     ],
     "holiday": [
         "20:01",
-        "20:41",
-        "21:21"
+        "21:06"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802482-2/node:00129720/kt:0/lname:/"
 }

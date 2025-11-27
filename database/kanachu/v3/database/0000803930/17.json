@@ -1,0 +1,21 @@
+{
+    "date": "2025/11/16",
+    "name": "西谷妙福寺前",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "梅の木(横浜市保土ケ谷区)",
+        "西谷駅前",
+        "西谷(横浜市旭区)",
+        "下白根橋",
+        "白根不動入口",
+        "白根町",
+        "鶴ヶ峰駅"
+    ],
+    "weekday": [
+        "6:49"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803930-17/node:00102885/kt:0/lname:/"
+}

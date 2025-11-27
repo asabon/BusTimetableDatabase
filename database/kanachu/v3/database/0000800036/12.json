@@ -1,5 +1,5 @@
 {
-    "date": "2023/02/18",
+    "date": "2025/11/16",
     "name": "統監道",
     "position": "-",
     "system": "磯13",
@@ -8,17 +8,14 @@
         "大磯駅"
     ],
     "weekday": [
-        "6:03",
-        "6:23",
-        "7:11"
+        "6:13",
+        "7:06"
     ],
     "saturday": [
-        "6:27",
-        "7:07"
+        "6:48"
     ],
     "holiday": [
-        "6:27",
-        "7:07"
+        "6:48"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800036-12/node:00127478/kt:0/lname:/"
 }
