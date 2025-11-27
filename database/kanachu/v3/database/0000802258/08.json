@@ -1,5 +1,5 @@
 {
-    "date": "2024/04/01",
+    "date": "2025/11/16",
     "name": "天の杜",
     "position": "-",
     "system": "二05",
@@ -17,14 +17,14 @@
         "松岩寺"
     ],
     "weekday": [
-        "19:20"
+        "19:20",
+        "20:35"
     ],
     "saturday": [
-        "6:55",
-        "20:20"
+        "19:20"
     ],
     "holiday": [
-        "20:20"
+        "19:20"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802258-8/node:00127505/kt:0/lname:/"
 }

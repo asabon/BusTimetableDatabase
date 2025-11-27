@@ -1,5 +1,5 @@
 {
-    "date": "2024/04/01",
+    "date": "2025/11/16",
     "name": "槇の木",
     "position": "-",
     "system": "二05",
@@ -19,14 +19,14 @@
         "松岩寺"
     ],
     "weekday": [
-        "19:18"
+        "19:18",
+        "20:33"
     ],
     "saturday": [
-        "6:53",
-        "20:18"
+        "19:18"
     ],
     "holiday": [
-        "20:18"
+        "19:18"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802258-6/node:00127484/kt:0/lname:/"
 }

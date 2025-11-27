@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "横内下",
     "position": "-",
     "system": "伊82",
@@ -9,10 +9,14 @@
         "坂口(平塚市)"
     ],
     "weekday": [
-        "21:38",
-        "22:13"
+        "20:42",
+        "21:57"
     ],
-    "saturday": [],
-    "holiday": [],
+    "saturday": [
+        "21:07"
+    ],
+    "holiday": [
+        "21:07"
+    ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800926-17/node:00127614/kt:0/lname:/"
 }

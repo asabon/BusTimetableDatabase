@@ -1,5 +1,5 @@
 {
-    "date": "2024/09/09",
+    "date": "2025/11/16",
     "name": "今宿小学校入口",
     "position": "-",
     "system": "",
@@ -10,16 +10,16 @@
         "グリーンヒル上白根"
     ],
     "weekday": [
-        "21:07"
+        "21:37",
+        "22:04"
     ],
     "saturday": [
         "20:39",
-        "21:24"
+        "21:09"
     ],
     "holiday": [
         "20:04",
-        "20:44",
-        "21:24"
+        "21:09"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802482-5/node:00129717/kt:0/lname:/"
 }

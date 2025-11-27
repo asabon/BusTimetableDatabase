@@ -1,0 +1,23 @@
+{
+    "date": "2025/11/16",
+    "name": "峰岸",
+    "position": "-",
+    "system": "伊14",
+    "destinations": [
+        "市光前",
+        "〆引",
+        "道灌塚前",
+        "山王原(伊勢原市)",
+        "石倉橋"
+    ],
+    "weekday": [
+        "22:09"
+    ],
+    "saturday": [
+        "20:59"
+    ],
+    "holiday": [
+        "20:59"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803928-6/node:00128145/kt:0/lname:/"
+}

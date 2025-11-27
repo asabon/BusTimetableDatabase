@@ -1,5 +1,5 @@
 {
-    "date": "2025/10/20",
+    "date": "",
     "name": "浅間下(横浜市西区)",
     "position": "-",
     "system": "横04",
@@ -52,9 +52,7 @@
         "鶴間二丁目",
         "鶴間駅東口"
     ],
-    "weekday": [
-        "6:33"
-    ],
+    "weekday": [],
     "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803918-4/node:00102673/kt:0/lname:/"

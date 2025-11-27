@@ -1,5 +1,5 @@
 {
-    "date": "2024/09/09",
+    "date": "2025/11/16",
     "name": "今宿ハイツ",
     "position": "-",
     "system": "",
@@ -8,16 +8,16 @@
         "グリーンヒル上白根"
     ],
     "weekday": [
-        "21:09"
+        "21:39",
+        "22:06"
     ],
     "saturday": [
         "20:41",
-        "21:26"
+        "21:11"
     ],
     "holiday": [
         "20:06",
-        "20:46",
-        "21:26"
+        "21:11"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802482-7/node:00129738/kt:0/lname:/"
 }

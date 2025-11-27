@@ -1,5 +1,5 @@
 {
-    "date": "2024/04/01",
+    "date": "2025/11/16",
     "name": "下町(中郡二宮町)",
     "position": "-",
     "system": "二05",
@@ -21,14 +21,14 @@
         "松岩寺"
     ],
     "weekday": [
-        "19:16"
+        "19:16",
+        "20:31"
     ],
     "saturday": [
-        "6:51",
-        "20:16"
+        "19:16"
     ],
     "holiday": [
-        "20:16"
+        "19:16"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802258-4/node:00127486/kt:0/lname:/"
 }

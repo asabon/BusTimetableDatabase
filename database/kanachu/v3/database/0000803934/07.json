@@ -1,0 +1,27 @@
+{
+    "date": "2025/11/16",
+    "name": "羽沢町",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "東泉寺前",
+        "羽沢団地前",
+        "三枚町",
+        "生花市場前",
+        "羽沢横浜国大駅前",
+        "高山(横浜市神奈川区)",
+        "羽沢南",
+        "池の谷戸(横浜市保土ケ谷区)",
+        "川島住宅"
+    ],
+    "weekday": [
+        "19:39"
+    ],
+    "saturday": [
+        "19:13"
+    ],
+    "holiday": [
+        "19:13"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803934-7/node:00102913/kt:0/lname:/"
+}

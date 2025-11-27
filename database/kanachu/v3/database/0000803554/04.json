@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "横浜ゴム前",
     "position": "-",
     "system": "平96",
@@ -16,11 +16,21 @@
         "矢崎(平塚市)"
     ],
     "weekday": [
+        "8:47",
+        "9:10",
+        "19:33",
+        "19:57",
+        "20:24",
         "20:54",
         "21:24",
+        "22:39",
         "23:34"
     ],
-    "saturday": [],
-    "holiday": [],
+    "saturday": [
+        "22:29"
+    ],
+    "holiday": [
+        "22:29"
+    ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803554-4/node:00127554/kt:0/lname:/"
 }

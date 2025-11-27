@@ -1,5 +1,5 @@
 {
-    "date": "2024/04/01",
+    "date": "2025/11/16",
     "name": "おおいそ学園入口",
     "position": "-",
     "system": "二05",
@@ -15,14 +15,14 @@
         "松岩寺"
     ],
     "weekday": [
-        "19:22"
+        "19:22",
+        "20:37"
     ],
     "saturday": [
-        "6:57",
-        "20:22"
+        "19:22"
     ],
     "holiday": [
-        "20:22"
+        "19:22"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802258-10/node:00127548/kt:0/lname:/"
 }

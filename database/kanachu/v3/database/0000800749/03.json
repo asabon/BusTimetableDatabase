@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "三福寺前",
     "position": "-",
     "system": "伊84",
@@ -12,12 +12,10 @@
         "下谷上(伊勢原市)",
         "下谷中央"
     ],
-    "weekday": [],
-    "saturday": [
-        "21:12"
+    "weekday": [
+        "20:52"
     ],
-    "holiday": [
-        "21:12"
-    ],
+    "saturday": [],
+    "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800749-3/node:00128095/kt:0/lname:/"
 }

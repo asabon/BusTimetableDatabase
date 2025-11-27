@@ -1,5 +1,5 @@
 {
-    "date": "2023/02/20",
+    "date": "2025/11/16",
     "name": "中山谷(横浜市緑区)",
     "position": "-",
     "system": "境21",
@@ -8,13 +8,9 @@
         "十日市場駅"
     ],
     "weekday": [
-        "8:03",
-        "9:52",
-        "16:57"
+        "8:19"
     ],
-    "saturday": [
-        "8:07"
-    ],
+    "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802222-24/node:00019303/kt:0/lname:/"
 }

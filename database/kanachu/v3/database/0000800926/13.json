@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "枝大島入口",
     "position": "-",
     "system": "伊82",
@@ -13,10 +13,14 @@
         "坂口(平塚市)"
     ],
     "weekday": [
-        "21:33",
-        "22:08"
+        "20:37",
+        "21:52"
     ],
-    "saturday": [],
-    "holiday": [],
+    "saturday": [
+        "21:02"
+    ],
+    "holiday": [
+        "21:02"
+    ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800926-13/node:00127618/kt:0/lname:/"
 }

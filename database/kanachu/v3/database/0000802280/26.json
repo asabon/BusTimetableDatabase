@@ -1,5 +1,5 @@
 {
-    "date": "2024/04/01",
+    "date": "",
     "name": "高麗清水",
     "position": "-",
     "system": "平36",
@@ -13,9 +13,7 @@
         "銀座通り(平塚市)",
         "平塚駅北口"
     ],
-    "weekday": [
-        "8:19"
-    ],
+    "weekday": [],
     "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802280-26/node:00127530/kt:0/lname:/"

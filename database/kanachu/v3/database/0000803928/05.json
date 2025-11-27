@@ -1,0 +1,24 @@
+{
+    "date": "2025/11/16",
+    "name": "片町(伊勢原市)",
+    "position": "-",
+    "system": "伊14",
+    "destinations": [
+        "峰岸",
+        "市光前",
+        "〆引",
+        "道灌塚前",
+        "山王原(伊勢原市)",
+        "石倉橋"
+    ],
+    "weekday": [
+        "22:08"
+    ],
+    "saturday": [
+        "20:58"
+    ],
+    "holiday": [
+        "20:58"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803928-5/node:00128144/kt:0/lname:/"
+}

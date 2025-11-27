@@ -1,0 +1,21 @@
+{
+    "date": "2025/11/16",
+    "name": "農協前(横浜市旭区)",
+    "position": "-",
+    "system": "峰01",
+    "destinations": [
+        "筑池",
+        "今宿(横浜市旭区)",
+        "今宿小学校入口",
+        "鶴ヶ峰中学校前",
+        "薬王寺入口",
+        "鶴ヶ峰本町",
+        "鶴ヶ峰駅"
+    ],
+    "weekday": [
+        "5:24"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803932-20/node:00129714/kt:0/lname:/"
+}

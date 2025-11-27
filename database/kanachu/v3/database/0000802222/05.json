@@ -1,5 +1,5 @@
 {
-    "date": "2023/02/20",
+    "date": "2025/11/16",
     "name": "矢指町入口",
     "position": "-",
     "system": "境21",
@@ -27,13 +27,9 @@
         "十日市場駅"
     ],
     "weekday": [
-        "7:34",
-        "9:24",
-        "16:29"
+        "7:50"
     ],
-    "saturday": [
-        "7:40"
-    ],
+    "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802222-5/node:00129725/kt:0/lname:/"
 }

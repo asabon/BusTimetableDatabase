@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "西沼目",
     "position": "-",
     "system": "伊82",
@@ -21,10 +21,14 @@
         "坂口(平塚市)"
     ],
     "weekday": [
-        "21:25",
-        "22:00"
+        "20:29",
+        "21:44"
     ],
-    "saturday": [],
-    "holiday": [],
+    "saturday": [
+        "20:54"
+    ],
+    "holiday": [
+        "20:54"
+    ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800926-5/node:00128097/kt:0/lname:/"
 }

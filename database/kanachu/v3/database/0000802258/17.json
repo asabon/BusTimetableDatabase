@@ -1,5 +1,5 @@
 {
-    "date": "2024/04/01",
+    "date": "2025/11/16",
     "name": "境橋(中郡大磯町)",
     "position": "-",
     "system": "二05",
@@ -8,14 +8,14 @@
         "松岩寺"
     ],
     "weekday": [
-        "19:28"
+        "19:28",
+        "20:43"
     ],
     "saturday": [
-        "7:03",
-        "20:28"
+        "19:28"
     ],
     "holiday": [
-        "20:28"
+        "19:28"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802258-17/node:00127550/kt:0/lname:/"
 }

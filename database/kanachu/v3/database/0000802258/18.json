@@ -1,5 +1,5 @@
 {
-    "date": "2024/04/01",
+    "date": "2025/11/16",
     "name": "弁天通り(平塚市)",
     "position": "-",
     "system": "二05",
@@ -7,14 +7,14 @@
         "松岩寺"
     ],
     "weekday": [
-        "19:29"
+        "19:29",
+        "20:44"
     ],
     "saturday": [
-        "7:04",
-        "20:29"
+        "19:29"
     ],
     "holiday": [
-        "20:29"
+        "19:29"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802258-18/node:00127551/kt:0/lname:/"
 }

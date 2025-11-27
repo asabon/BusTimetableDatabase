@@ -1,5 +1,5 @@
 {
-    "date": "2024/04/01",
+    "date": "",
     "name": "王福寺",
     "position": "-",
     "system": "平36",
@@ -24,9 +24,7 @@
         "銀座通り(平塚市)",
         "平塚駅北口"
     ],
-    "weekday": [
-        "8:06"
-    ],
+    "weekday": [],
     "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802280-15/node:00127543/kt:0/lname:/"

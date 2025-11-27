@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "団地南(伊勢原市)",
     "position": "-",
     "system": "伊43",
@@ -10,8 +10,7 @@
     ],
     "weekday": [
         "19:09",
-        "20:17",
-        "20:59"
+        "20:29"
     ],
     "saturday": [
         "19:34",
@@ -19,7 +18,7 @@
     ],
     "holiday": [
         "19:34",
-        "20:34"
+        "20:17"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800486-5/node:00128138/kt:0/lname:/"
 }

@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "追分(平塚市)",
     "position": "-",
     "system": "平96",
@@ -14,11 +14,21 @@
         "矢崎(平塚市)"
     ],
     "weekday": [
+        "8:49",
+        "9:12",
+        "19:35",
+        "19:59",
+        "20:26",
         "20:56",
         "21:26",
+        "22:41",
         "23:36"
     ],
-    "saturday": [],
-    "holiday": [],
+    "saturday": [
+        "22:31"
+    ],
+    "holiday": [
+        "22:31"
+    ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803554-6/node:00127556/kt:0/lname:/"
 }

@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "大田小学校前",
     "position": "-",
     "system": "伊82",
@@ -18,10 +18,14 @@
         "坂口(平塚市)"
     ],
     "weekday": [
-        "21:28",
-        "22:03"
+        "20:32",
+        "21:47"
     ],
-    "saturday": [],
-    "holiday": [],
+    "saturday": [
+        "20:57"
+    ],
+    "holiday": [
+        "20:57"
+    ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800926-8/node:00128100/kt:0/lname:/"
 }

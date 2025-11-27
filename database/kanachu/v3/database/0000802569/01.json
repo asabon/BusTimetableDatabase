@@ -1,5 +1,5 @@
 {
-    "date": "2024/09/09",
+    "date": "2025/11/16",
     "name": "新横浜駅前",
     "position": "-",
     "system": "",
@@ -17,13 +17,13 @@
         "川島住宅"
     ],
     "weekday": [
-        "20:42"
+        "20:24"
     ],
     "saturday": [
-        "20:42"
+        "20:05"
     ],
     "holiday": [
-        "20:42"
+        "20:05"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802569-1/node:00019632/kt:0/lname:/"
 }

@@ -1,5 +1,5 @@
 {
-    "date": "2024/04/01",
+    "date": "2025/11/16",
     "name": "月京",
     "position": "-",
     "system": "二05",
@@ -16,14 +16,14 @@
         "松岩寺"
     ],
     "weekday": [
-        "19:21"
+        "19:21",
+        "20:36"
     ],
     "saturday": [
-        "6:56",
-        "20:21"
+        "19:21"
     ],
     "holiday": [
-        "20:21"
+        "19:21"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802258-9/node:00127549/kt:0/lname:/"
 }

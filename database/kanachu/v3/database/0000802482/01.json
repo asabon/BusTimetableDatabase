@@ -1,5 +1,5 @@
 {
-    "date": "2024/09/09",
+    "date": "2025/11/16",
     "name": "鶴ヶ峰駅",
     "position": "-",
     "system": "",
@@ -14,16 +14,16 @@
         "グリーンヒル上白根"
     ],
     "weekday": [
-        "21:03"
+        "21:33",
+        "22:00"
     ],
     "saturday": [
         "20:35",
-        "21:20"
+        "21:05"
     ],
     "holiday": [
         "20:00",
-        "20:40",
-        "21:20"
+        "21:05"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802482-1/node:00102756/kt:0/lname:/"
 }

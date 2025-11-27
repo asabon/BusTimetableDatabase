@@ -1,5 +1,5 @@
 {
-    "date": "2023/02/20",
+    "date": "2025/11/16",
     "name": "萱場公園入口",
     "position": "-",
     "system": "境21",
@@ -30,8 +30,6 @@
         "8:12"
     ],
     "saturday": [],
-    "holiday": [
-        "7:21"
-    ],
+    "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802233-5/node:00019301/kt:0/lname:/"
 }

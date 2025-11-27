@@ -1,5 +1,5 @@
 {
-    "date": "2024/09/09",
+    "date": "2025/11/16",
     "name": "薬王寺入口",
     "position": "-",
     "system": "",
@@ -12,16 +12,16 @@
         "グリーンヒル上白根"
     ],
     "weekday": [
-        "21:05"
+        "21:35",
+        "22:02"
     ],
     "saturday": [
         "20:37",
-        "21:22"
+        "21:07"
     ],
     "holiday": [
         "20:02",
-        "20:42",
-        "21:22"
+        "21:07"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802482-3/node:00129719/kt:0/lname:/"
 }

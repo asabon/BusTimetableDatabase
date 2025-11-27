@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "下小稲葉",
     "position": "-",
     "system": "伊82",
@@ -14,10 +14,14 @@
         "坂口(平塚市)"
     ],
     "weekday": [
-        "21:32",
-        "22:07"
+        "20:36",
+        "21:51"
     ],
-    "saturday": [],
-    "holiday": [],
+    "saturday": [
+        "21:01"
+    ],
+    "holiday": [
+        "21:01"
+    ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800926-12/node:00127619/kt:0/lname:/"
 }

@@ -1,5 +1,5 @@
 {
-    "date": "2024/04/01",
+    "date": "2025/11/16",
     "name": "上寺坂",
     "position": "-",
     "system": "二05",
@@ -9,14 +9,14 @@
         "松岩寺"
     ],
     "weekday": [
-        "19:27"
+        "19:27",
+        "20:42"
     ],
     "saturday": [
-        "7:02",
-        "20:27"
+        "19:27"
     ],
     "holiday": [
-        "20:27"
+        "19:27"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802258-16/node:00127542/kt:0/lname:/"
 }

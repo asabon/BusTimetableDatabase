@@ -1,5 +1,5 @@
 {
-    "date": "2024/04/01",
+    "date": "",
     "name": "生沢",
     "position": "-",
     "system": "平36",
@@ -27,9 +27,7 @@
         "銀座通り(平塚市)",
         "平塚駅北口"
     ],
-    "weekday": [
-        "8:04"
-    ],
+    "weekday": [],
     "saturday": [],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000802280-12/node:00127546/kt:0/lname:/"

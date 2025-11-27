@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "豊田本郷駅",
     "position": "-",
     "system": "平96",
@@ -8,11 +8,21 @@
         "矢崎(平塚市)"
     ],
     "weekday": [
+        "9:00",
+        "9:23",
+        "19:44",
+        "20:08",
+        "20:35",
         "21:05",
         "21:35",
+        "22:50",
         "23:46"
     ],
-    "saturday": [],
-    "holiday": [],
+    "saturday": [
+        "22:41"
+    ],
+    "holiday": [
+        "22:41"
+    ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803554-12/node:00128065/kt:0/lname:/"
 }

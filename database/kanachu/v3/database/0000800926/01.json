@@ -1,5 +1,5 @@
 {
-    "date": "2024/05/20",
+    "date": "2025/11/16",
     "name": "伊勢原駅南口",
     "position": "-",
     "system": "伊82",
@@ -25,10 +25,14 @@
         "坂口(平塚市)"
     ],
     "weekday": [
-        "21:21",
-        "21:56"
+        "20:25",
+        "21:40"
     ],
-    "saturday": [],
-    "holiday": [],
+    "saturday": [
+        "20:50"
+    ],
+    "holiday": [
+        "20:50"
+    ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000800926-1/node:00128056/kt:0/lname:/"
 }
