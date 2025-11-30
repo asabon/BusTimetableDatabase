@@ -20,10 +20,11 @@ rules:
   - "PRJ-003: 各バージョンの詳細は docs/v1, docs/v2, docs/v3 の README.md を参照すること"
   
   # Implementation Plan と GitHub Issue の連携
-  - "PLN-001: Implementation Plan を作成する際は、必ず GitHub Issue との連携を考慮すること"
-  - "PLN-002: 既存の Issue が存在する場合は、その Issue 番号を確認し、Implementation Plan の内容を Issue に反映させる形式で作成すること"
-  - "PLN-003: 新規タスクの場合は、.github/ISSUE_TEMPLATE/task_tracking.md のフォーマットに従って Issue 本文を作成すること"
-  - "PLN-004: Implementation Plan の構造は以下の通り："
+  - "PLN-001: Implementation Planは必ず日本語で記載すること"
+  - "PLN-002: Implementation Plan を作成する際は、必ず GitHub Issue との連携を考慮すること"
+  - "PLN-003: 既存の Issue が存在する場合は、その Issue 番号を確認し、Implementation Plan の内容を Issue に反映させる形式で作成すること"
+  - "PLN-004: 新規タスクの場合は、.github/ISSUE_TEMPLATE/task_tracking.md のフォーマットに従って Issue 本文を作成すること"
+  - "PLN-005: Implementation Plan の構造は以下の通り："
   - "  1. 概要 (Goal Description) - タスクの目的と背景"
   - "  2. 実装計画 (Implementation Plan)"
   - "    - ユーザーレビューが必要な事項 (User Review Required)"
