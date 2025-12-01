@@ -28,15 +28,10 @@ jobs:
 
       - name: Release for v3
         run: |
-          mkdir -p release/kanachu/v3
-          HASH_V3=$(python -c "from script.common.hash import hash_directory; print(hash_directory('database/kanachu/v3/database'))")
-          python script/common/edit_json.py update release/kanachu/v3/info.json "hash" $HASH_V3
-          pushd database/kanachu/v3/database
-          zip -r ../../../../release/kanachu/v3/database.zip .
-          popd
+          python script/v3/release.py
 
-      - name: Inspect ZIP contents
-        run: unzip -l release/kanachu/v3/database.zip
+      - name: Inspect release contents
+        run: ls -R release/kanachu/v3
       - name: Create pull request
         uses: peter-evans/create-pull-request@v7
         with:
