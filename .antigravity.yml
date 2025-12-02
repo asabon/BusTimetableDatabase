@@ -7,10 +7,9 @@ settings:
 
 rules:
   # 基本ルール
-  - "GEN-001: 必ず .antigravity.yml を参考にすること"
-  - "GEN-002: .antigravity.yml を読み込んだら「.antigravity.yml を読み込みました」と返答すること"
+  - "GEN-001: すべての返答は必ず日本語で行うこと"
+  - "GEN-002: 会話の際は、毎ターン必ず .antigravity.yml を読み込み、冒頭で「.antigravity.yml を読み込みました」と返答すること"
   - "GEN-003: 他にも読み込んだルールがあったら、そのファイル名を返答すること"
-  - "GEN-004: すべての返答は必ず日本語で行うこと"
 
   # コマンド実行
   - "CMD-001: 以下の読み取り専用のコマンドは SafeToAutoRun=true で自動実行してよい"
