@@ -7,10 +7,19 @@ settings:
 
 rules:
   # 基本ルール
-  - "GEN-001: すべての返答は必ず日本語で行うこと"
-  
+  - "GEN-001: 必ず .antigravity.yml を参考にすること"
+  - "GEN-002: .antigravity.yml を読み込んだら「.antigravity.yml を読み込みました」と返答すること"
+  - "GEN-003: 他にも読み込んだルールがあったら、そのファイル名を返答すること"
+  - "GEN-004: すべての返答は必ず日本語で行うこと"
+
   # コマンド実行
-  - "CMD-001: 読み取り専用のコマンド（ls, dir, cat, git status, git log, git diff, gh issue view など）は SafeToAutoRun=true で自動実行してよい"
+  - "CMD-001: 以下の読み取り専用のコマンドは SafeToAutoRun=true で自動実行してよい"
+  - "  - ls, dir (ファイル一覧)"
+  - "  - cat, type (ファイル内容表示)"
+  - "  - pwd (カレントディレクトリ確認)"
+  - "  - echo (変数確認)"
+  - "  - git status, git log, git diff, git show (Git情報の参照)"
+  - "  - gh issue view, gh issue list, gh pr view, gh pr list (GitHub情報の参照)"
   - "CMD-002: ファイルやデータを変更するコマンドは、ユーザーの許可を得てから実行すること"
   - "CMD-003: 削除、移動、上書きなどの破壊的操作は必ずユーザーに確認すること"
 
