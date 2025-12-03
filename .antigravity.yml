@@ -8,8 +8,8 @@ settings:
 rules:
   # 基本ルール
   - "GEN-001: すべての返答は必ず日本語で行うこと"
-  - "GEN-002: 会話の際は、毎ターン必ず .antigravity.yml を読み込み、冒頭で「.antigravity.yml を読み込みました」と返答すること"
-  - "GEN-003: 他にも読み込んだルールがあったら、そのファイル名を返答すること"
+  - "GEN-002: 毎ターン必ず .antigravity.yml を読み込み、冒頭で「.antigravity.yml を読み込みました」と返答すること"
+  - "GEN-003: 他にも読み込んだルールがあった場合は、同様にそのファイル名を返答すること"
 
   # コマンド実行
   - "CMD-001: 以下の読み取り専用のコマンドは SafeToAutoRun=true で自動実行してよい"
@@ -77,6 +77,10 @@ rules:
   # ドキュメント
   - "DOC-001: README.md を更新する際は、対応するバージョンの docs/ 以下のドキュメントも確認・更新すること"
   - "DOC-002: ドキュメントの文体は統一すること（「である調」または「ですます調」）"
+  - "DOC-003: 各サブプロジェクト（client/android 等）には README.md を配置し、利用者向けの情報を記載すること"
+  - "DOC-004: API_SPEC.md はライブラリ利用者向けの API 仕様書として配置すること"
+  - "DOC-005: 開発用の進捗管理ファイル（progress.md, next_steps.md 等）は .work/issues/{issue_id}/ に配置し、Git 管理対象外とすること"
+  
   
   # GitHub Actions
   - "ACT-001: .github/workflows/ のワークフローを変更する際は、ci/ ディレクトリの設定ファイルも確認すること"

@@ -10,3 +10,22 @@ coverage.txt
 
 # python build artifact
 *.egg-info
+
+# Gradle
+.gradle
+build/
+
+# Android
+local.properties
+
+# Python Tools
+.ruff_cache/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store
