@@ -13,7 +13,7 @@ import java.io.File
 import java.io.IOException
 
 class RemoteDataSource(
-    private val baseUrl: String = "https://raw.githubusercontent.com/asabon/BusTimeTableDatabase/release/kanachu/v3"
+    private val baseUrl: String = "https://raw.githubusercontent.com/asabon/BusTimeTableDatabase/main/release/kanachu/v3"
 ) {
     private val client = OkHttpClient()
 

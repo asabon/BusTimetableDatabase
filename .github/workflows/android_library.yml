@@ -32,6 +32,17 @@ jobs:
     - name: Run Unit Tests
       run: ./gradlew :client:android:testDebugUnitTest
 
+    - name: Verify URLs are accessible
+      run: |
+        echo "Extracting baseUrl from RemoteDataSource.kt..."
+        BASE_URL=$(grep -oP 'baseUrl: String = "\K[^"]+' client/android/src/main/kotlin/com/example/bustimetable/datasource/RemoteDataSource.kt)
+        echo "Base URL: $BASE_URL"
+        
+        echo "Verifying that data URLs are accessible..."
+        curl -f "$BASE_URL/info.json"
+        curl -f "$BASE_URL/busstops.json"
+        echo "All URLs are accessible!"
+
   build:
     needs: test
     runs-on: ubuntu-latest
