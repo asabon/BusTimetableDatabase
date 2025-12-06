@@ -10,10 +10,11 @@ import kotlinx.coroutines.flow.flow
 import kotlinx.coroutines.flow.last
 import java.io.File
 
-class BusTimetableRepository(context: Context) {
-    
-    private val localDataSource = LocalDataSource(context)
-    private val remoteDataSource = RemoteDataSource()
+class BusTimetableRepository(
+    context: Context,
+    private val localDataSource: LocalDataSource = LocalDataSource(context),
+    private val remoteDataSource: RemoteDataSource = RemoteDataSource()
+) {
     private val context = context.applicationContext
 
     // --- Sync APIs ---

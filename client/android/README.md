@@ -99,6 +99,36 @@ repository.syncIfNeeded().collect { state ->
 
 このライブラリが扱うデータ構造の詳細については、プロジェクトルートの [`docs/v3/README.md`](../../docs/v3/README.md) を参照してください。
 
-## ライセンス
-
-このプロジェクトのライセンスについては、リポジトリルートの LICENSE ファイルを参照してください。
+## 開発者向け情報
+ 
+ ### 必要環境
+ 
+ - JDK 17
+ 
+ ### ビルドとテスト
+ 
+ プロジェクトルート (`c:\work\BusTimeTableDatabase`) からコマンドを実行してください。
+ 
+ #### ユニットテストの実行
+ 
+ ```bash
+ ./gradlew :client:android:testDebugUnitTest
+ ```
+ 
+ #### AAR (Android Archive) のビルド
+ 
+ ```bash
+ ./gradlew :client:android:assembleRelease
+ ```
+ 
+ ### 成果物の出力先
+ 
+ ビルドが成功すると、成果物は以下のディレクトリに出力されます。
+ 
+ - **AAR ファイル**: `client/android/build/outputs/aar/`
+   - `client-android-release.aar`
+ - **テストレポート**: `client/android/build/reports/tests/testDebugUnitTest/index.html`
+ 
+ ## ライセンス
+ 
+ このプロジェクトのライセンスについては、リポジトリルートの LICENSE ファイルを参照してください。
