@@ -34,9 +34,13 @@ jobs:
 
     - name: Verify URLs are accessible
       run: |
+        echo "Extracting baseUrl from RemoteDataSource.kt..."
+        BASE_URL=$(grep -oP 'baseUrl: String = "\K[^"]+' client/android/src/main/kotlin/com/example/bustimetable/datasource/RemoteDataSource.kt)
+        echo "Base URL: $BASE_URL"
+        
         echo "Verifying that data URLs are accessible..."
-        curl -f https://raw.githubusercontent.com/asabon/BusTimeTableDatabase/main/release/kanachu/v3/info.json
-        curl -f https://raw.githubusercontent.com/asabon/BusTimeTableDatabase/main/release/kanachu/v3/busstops.json
+        curl -f "$BASE_URL/info.json"
+        curl -f "$BASE_URL/busstops.json"
         echo "All URLs are accessible!"
 
   build:
