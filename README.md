@@ -41,7 +41,6 @@
 + test/                     : テストスクリプトディレクトリ
 + LICENSE                   : ライセンスファイル(MIT)
 + README.md                 : このファイル
-+ requirements.txt          : pip 設定ファイル
 ```
 
 ### database
