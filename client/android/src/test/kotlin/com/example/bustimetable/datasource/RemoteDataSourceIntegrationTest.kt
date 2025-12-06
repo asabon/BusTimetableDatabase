@@ -73,9 +73,14 @@ class RemoteDataSourceIntegrationTest {
         // info.json から最初の route_id を抽出（簡易的なパース）
         val infoContent = infoFile.readText()
         val routeIdRegex = """"id"\s*:\s*"(\d+)"""".toRegex()
-        val routeId = routeIdRegex.find(infoContent)?.groupValues?.get(1)
-            ?: fail("info.json から route_id を取得できませんでした")
-
+        val matchResult = routeIdRegex.find(infoContent)
+        
+        if (matchResult == null) {
+            fail("info.json から route_id を取得できませんでした")
+            return@runTest
+        }
+        
+        val routeId = matchResult.groupValues[1]
         val zipFile = File.createTempFile("route_$routeId", ".zip")
         zipFile.deleteOnExit()
 
@@ -102,7 +107,7 @@ class RemoteDataSourceIntegrationTest {
         tempFile.deleteOnExit()
 
         // Act
-        val states = invalidDataSource.downloadFile("${invalidDataSource.javaClass.getDeclaredField("baseUrl").apply { isAccessible = true }.get(invalidDataSource)}/nonexistent.json", tempFile).toList()
+        val states = invalidDataSource.downloadInfo(tempFile).toList()
 
         // Assert
         val lastState = states.last()
