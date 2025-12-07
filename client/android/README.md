@@ -91,6 +91,20 @@ repository.syncIfNeeded().collect { state ->
 }
 ```
 
+## バージョン確認
+
+ライブラリのバージョンを確認するには、`BusTimetableLibrary` オブジェクトを使用します：
+
+```kotlin
+import com.example.bustimetable.BusTimetableLibrary
+
+// バージョン情報を取得
+val versionInfo = BusTimetableLibrary.getVersionInfo()
+println(versionInfo)  // 例: "BusTimetableLibrary v1.0.0 (1)"
+```
+
+詳細な使用方法については、[INTEGRATION_GUIDE.md](INTEGRATION_GUIDE.md) を参照してください。
+
 ## API 仕様
 
 詳細な API 仕様については、[API_SPEC.md](API_SPEC.md) を参照してください。
@@ -126,7 +140,7 @@ repository.syncIfNeeded().collect { state ->
  ビルドが成功すると、成果物は以下のディレクトリに出力されます。
  
  - **AAR ファイル**: `client/android/build/outputs/aar/`
-   - `bustimetable-library-release.aar`
+   - `bustimetable-library-1.0.0-release.aar`
  - **テストレポート**: `client/android/build/reports/tests/testDebugUnitTest/index.html`
  
  ## ライセンス

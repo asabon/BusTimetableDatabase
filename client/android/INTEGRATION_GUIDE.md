@@ -49,16 +49,18 @@ cd c:\work\BusTimeTableDatabase
 ビルドが成功すると、以下の場所にAARファイルが生成されます：
 
 ```
-client/android/build/outputs/aar/bustimetable-library-release.aar
+client/android/build/outputs/aar/bustimetable-library-1.0.0-release.aar
 ```
+
+> **注**: ファイル名にはバージョン番号（例: `1.0.0`）が含まれます。バージョンは `client/android/build.gradle.kts` で管理されています。
 
 ### ステップ2: AARファイルをプロジェクトにコピー
 
-生成された `bustimetable-library-release.aar` を、あなたのAndroidプロジェクトの `app/libs/` ディレクトリにコピーします。
+生成された `bustimetable-library-1.0.0-release.aar` を、あなたのAndroidプロジェクトの `app/libs/` ディレクトリにコピーします。
 
 ```bash
 # 例: あなたのプロジェクトが D:\MyApp にある場合
-copy client\android\build\outputs\aar\bustimetable-library-release.aar D:\MyApp\app\libs\bustimetable-library.aar
+copy client\android\build\outputs\aar\bustimetable-library-1.0.0-release.aar D:\MyApp\app\libs\bustimetable-library.aar
 ```
 
 `app/libs/` ディレクトリが存在しない場合は作成してください。
@@ -293,6 +295,56 @@ class MainActivity : AppCompatActivity() {
 ---
 
 ## 基本的な使い方
+
+### 0. ライブラリのバージョン確認
+
+ライブラリのバージョンを確認するには、`BusTimetableLibrary` オブジェクトを使用します：
+
+```kotlin
+import com.example.bustimetable.BusTimetableLibrary
+
+// バージョン文字列を取得
+val version = BusTimetableLibrary.VERSION  // 例: "1.0.0"
+
+// バージョンコードを取得
+val versionCode = BusTimetableLibrary.VERSION_CODE  // 例: 1
+
+// 完全なバージョン情報を取得
+val versionInfo = BusTimetableLibrary.getVersionInfo()  // 例: "BusTimetableLibrary v1.0.0 (1)"
+
+// ログに出力
+Log.d("Library", "Using $versionInfo")
+```
+
+**使用例: アプリ起動時にバージョンをログ出力**
+
+```kotlin
+class MyApplication : Application() {
+    override fun onCreate() {
+        super.onCreate()
+        
+        // ライブラリバージョンをログに出力
+        Log.i("BusTimetable", BusTimetableLibrary.getVersionInfo())
+    }
+}
+```
+
+**使用例: バグ報告時にバージョンを含める**
+
+```kotlin
+fun reportBug(errorMessage: String) {
+    val report = """
+        Error: $errorMessage
+        Library Version: ${BusTimetableLibrary.VERSION}
+        Library Version Code: ${BusTimetableLibrary.VERSION_CODE}
+        Device: ${Build.MODEL}
+        Android: ${Build.VERSION.RELEASE}
+    """.trimIndent()
+    
+    // バグ報告システムに送信
+    sendBugReport(report)
+}
+```
 
 ### 1. 時刻表の検索
 
