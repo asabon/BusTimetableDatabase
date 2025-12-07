@@ -1,3 +1,7 @@
+// ライブラリバージョン
+val libraryVersion = "1.0.0"
+val libraryVersionCode = 1
+
 plugins {
     id("com.android.library") version "8.2.0"
     id("org.jetbrains.kotlin.android") version "1.9.22"
@@ -14,6 +18,14 @@ android {
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles("consumer-rules.pro")
+
+        // BuildConfig でバージョン情報を公開
+        buildConfigField("String", "LIBRARY_VERSION", "\"${libraryVersion}\"")
+        buildConfigField("int", "LIBRARY_VERSION_CODE", "${libraryVersionCode}")
+    }
+
+    buildFeatures {
+        buildConfig = true
     }
 
     buildTypes {
@@ -33,11 +45,11 @@ android {
         jvmTarget = "17"
     }
 
-    // AARファイル名のカスタマイズ
+    // AARファイル名のカスタマイズ（バージョン番号を含める）
     libraryVariants.all {
         outputs.all {
             val outputImpl = this as com.android.build.gradle.internal.api.BaseVariantOutputImpl
-            outputImpl.outputFileName = "bustimetable-library-${name}.aar"
+            outputImpl.outputFileName = "bustimetable-library-${libraryVersion}-${name}.aar"
         }
     }
 }
