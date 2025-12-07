@@ -32,6 +32,14 @@ android {
     kotlinOptions {
         jvmTarget = "17"
     }
+
+    // AARファイル名のカスタマイズ
+    libraryVariants.all {
+        outputs.all {
+            val outputImpl = this as com.android.build.gradle.internal.api.BaseVariantOutputImpl
+            outputImpl.outputFileName = "bustimetable-library-${name}.aar"
+        }
+    }
 }
 
 dependencies {

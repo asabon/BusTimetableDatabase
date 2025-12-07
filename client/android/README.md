@@ -126,7 +126,7 @@ repository.syncIfNeeded().collect { state ->
  ビルドが成功すると、成果物は以下のディレクトリに出力されます。
  
  - **AAR ファイル**: `client/android/build/outputs/aar/`
-   - `client-android-release.aar`
+   - `bustimetable-library-release.aar`
  - **テストレポート**: `client/android/build/reports/tests/testDebugUnitTest/index.html`
  
  ## ライセンス

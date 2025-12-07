@@ -3,13 +3,12 @@ name: Android Library CI
 on:
   push:
     branches: [ "main" ]
-    # 動作確認用に、一時的に動作しやすくしておく
-    #paths:
-    #  - 'client/android/**'
+    paths:
+      - 'client/android/**'
   pull_request:
-    # 動作確認用に、一時的に動作しやすくしておく
-    #paths:
-    #  - 'client/android/**'
+    branches: [ "main" ]
+    paths:
+      - 'client/android/**'
 
 jobs:
   test:
