@@ -95,7 +95,7 @@ class RemoteDataSource(
     fun downloadRoute(routeId: String, outputFile: File): Flow<DownloadState> = flow {
         android.util.Log.d("RemoteDataSource", "Downloading route $routeId to ${outputFile.absolutePath}")
         
-        val url = "$baseUrl/routes/$routeId.zip"
+        val url = "$baseUrl/$routeId.zip"
         android.util.Log.d("RemoteDataSource", "Download URL: $url")
         
         val request = Request.Builder().url(url).build()
