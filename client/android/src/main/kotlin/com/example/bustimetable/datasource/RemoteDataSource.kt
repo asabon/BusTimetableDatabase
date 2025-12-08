@@ -91,7 +91,19 @@ class RemoteDataSource(
     /**
      * 路線データ (ZIP) をダウンロード
      */
-    fun downloadRoute(routeId: String, destination: File): Flow<DownloadState> {
-        return downloadFile("$baseUrl/routes/$routeId.zip", destination)
+    fun downloadRoute(routeId: String, destination: File): Flow<DownloadState> = flow {
+        android.util.Log.d("RemoteDataSource", "Downloading route $routeId to ${destination.absolutePath}")
+        val url = "$baseUrl/routes/$routeId.zip"
+        android.util.Log.d("RemoteDataSource", "Download URL: $url")
+
+        downloadFile(url, destination).collect {
+            emit(it)
+        }
+
+        if (destination.exists()) {
+            android.util.Log.d("RemoteDataSource", "Download completed. File size: ${destination.length()} bytes")
+        } else {
+            android.util.Log.w("RemoteDataSource", "Download flow finished but file not found: ${destination.absolutePath}")
+        }
     }
 }
