@@ -103,11 +103,11 @@ val versionInfo = BusTimetableLibrary.getVersionInfo()
 println(versionInfo)  // 例: "BusTimetableLibrary v1.0.0 (1)"
 ```
 
-詳細な使用方法については、[INTEGRATION_GUIDE.md](INTEGRATION_GUIDE.md) を参照してください。
+詳細な使用方法については、[INTEGRATION_GUIDE.md](docs/INTEGRATION_GUIDE.md) を参照してください。
 
 ## API 仕様
 
-詳細な API 仕様については、[API_SPEC.md](API_SPEC.md) を参照してください。
+詳細な API 仕様については、[API_SPEC.md](docs/API_SPEC.md) を参照してください。
 
 ## データ構造
 

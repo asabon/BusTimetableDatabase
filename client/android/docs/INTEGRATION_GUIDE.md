@@ -581,8 +581,8 @@ lifecycleScope.launch {
 ## 参考資料
 
 - [API 仕様書](API_SPEC.md)
-- [README](README.md)
-- [データ構造ドキュメント](../../docs/v3/README.md)
+- [README](../README.md)
+- [データ構造ドキュメント](../../../docs/v3/README.md)
 
 ---
 
