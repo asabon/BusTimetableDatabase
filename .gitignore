@@ -11,13 +11,6 @@ coverage.txt
 # python build artifact
 *.egg-info
 
-# Gradle
-.gradle
-build/
-
-# Android
-local.properties
-
 # Python Tools
 .ruff_cache/
 
