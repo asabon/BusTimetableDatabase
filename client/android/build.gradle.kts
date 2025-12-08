@@ -1,6 +1,6 @@
 // ライブラリバージョン
-val libraryVersion = "1.0.0"
-val libraryVersionCode = 1
+val libraryVersion = "1.0.1"
+val libraryVersionCode = 2
 
 plugins {
     id("com.android.library") version "8.2.0"
