@@ -104,12 +104,13 @@ class LocalDataSource(private val context: Context) {
             ZipInputStream(FileInputStream(zipFile)).use { zis ->
                 var entry = zis.nextEntry
                 while (entry != null) {
-                    val file = File(routeDir, entry.name)
-                    android.util.Log.d("LocalDataSource", "Extracting: ${entry.name} -> ${file.absolutePath}, isDirectory: ${entry.isDirectory}")
-                    if (entry.isDirectory) {
-                        file.mkdirs()
-                    } else {
-                        file.parentFile?.mkdirs()
+                    if (!entry.isDirectory) {
+                        // Flatten data: ignore nested directories in zip
+                        val fileName = File(entry.name).name
+                        val file = File(routeDir, fileName)
+                        
+                        android.util.Log.d("LocalDataSource", "Extracting: ${entry.name} -> ${file.absolutePath}")
+                        
                         FileOutputStream(file).use { fos ->
                             val buffer = ByteArray(8192)
                             var len: Int

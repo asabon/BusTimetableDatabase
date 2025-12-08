@@ -66,7 +66,7 @@ def main():
             for root, _, files in os.walk(route_dir):
                 for file in files:
                     file_path = os.path.join(root, file)
-                    arcname = os.path.join(route_id, file)
+                    arcname = file
                     zipf.write(file_path, arcname)
         
         # Calculate hash of the zip file
