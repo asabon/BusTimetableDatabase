@@ -67,7 +67,18 @@ class LocalDataSource(private val context: Context) {
 
     fun getRoute(routeId: String): RouteDetail? {
         val file = File(cacheDir, "routes/$routeId/route.json")
-        if (!file.exists()) return null
+        android.util.Log.d("LocalDataSource", "getRoute($routeId): Looking for ${file.absolutePath}")
+        android.util.Log.d("LocalDataSource", "File exists: ${file.exists()}")
+        if (!file.exists()) {
+            val routeDir = File(cacheDir, "routes/$routeId")
+            if (routeDir.exists()) {
+                val filesInDir = routeDir.listFiles()?.joinToString(", ") { it.name } ?: "no files"
+                android.util.Log.d("LocalDataSource", "Route dir exists but route.json not found. Files: $filesInDir")
+            } else {
+                android.util.Log.d("LocalDataSource", "Route directory does not exist: ${routeDir.absolutePath}")
+            }
+            return null
+        }
         return try {
             json.decodeFromString(RouteDetail.serializer(), file.readText())
         } catch (e: Exception) {
@@ -85,15 +96,21 @@ class LocalDataSource(private val context: Context) {
         routeDir.deleteRecursively()
         routeDir.mkdirs()
 
+        android.util.Log.d("LocalDataSource", "Unzipping route $routeId from ${zipFile.absolutePath} to ${routeDir.absolutePath}")
+        android.util.Log.d("LocalDataSource", "ZIP file exists: ${zipFile.exists()}, size: ${zipFile.length()} bytes")
+
         try {
+            var fileCount = 0
             ZipInputStream(FileInputStream(zipFile)).use { zis ->
                 var entry = zis.nextEntry
                 while (entry != null) {
-                    val file = File(routeDir, entry.name)
-                    if (entry.isDirectory) {
-                        file.mkdirs()
-                    } else {
-                        file.parentFile?.mkdirs()
+                    if (!entry.isDirectory) {
+                        // Flatten data: ignore nested directories in zip
+                        val fileName = File(entry.name).name
+                        val file = File(routeDir, fileName)
+                        
+                        android.util.Log.d("LocalDataSource", "Extracting: ${entry.name} -> ${file.absolutePath}")
+                        
                         FileOutputStream(file).use { fos ->
                             val buffer = ByteArray(8192)
                             var len: Int
@@ -101,12 +118,24 @@ class LocalDataSource(private val context: Context) {
                                 fos.write(buffer, 0, len)
                             }
                         }
+                        android.util.Log.d("LocalDataSource", "Extracted file: ${file.name}, size: ${file.length()} bytes")
+                        fileCount++
                     }
                     entry = zis.nextEntry
                 }
             }
+            android.util.Log.d("LocalDataSource", "Unzip completed. Extracted $fileCount files")
+            val routeJsonFile = File(routeDir, "route.json")
+            if (routeJsonFile.exists()) {
+                android.util.Log.d("LocalDataSource", "route.json verified at ${routeJsonFile.absolutePath}, size: ${routeJsonFile.length()} bytes")
+            } else {
+                val filesInDir = routeDir.listFiles()?.joinToString(", ") { it.name } ?: "no files"
+                android.util.Log.e("LocalDataSource", "route.json not found after unzip for route $routeId. Files in dir: $filesInDir")
+                throw BusTimetableDataException("route.json not found after unzip for route $routeId. Files in dir: $filesInDir")
+            }
         } catch (e: Exception) {
-            throw BusTimetableDataException("Failed to unzip route $routeId", e)
+            android.util.Log.e("LocalDataSource", "Failed to unzip route $routeId", e)
+            throw BusTimetableDataException("Failed to unzip route $routeId: ${e.message}", e)
         }
     }
 
