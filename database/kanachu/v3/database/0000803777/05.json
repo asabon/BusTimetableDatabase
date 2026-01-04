@@ -1,5 +1,5 @@
 {
-    "date": "2025/10/20",
+    "date": "2025/12/20",
     "name": "郵便局前(大和市)",
     "position": "-",
     "system": "間13",
@@ -12,16 +12,13 @@
     ],
     "weekday": [
         "18:41",
-        "19:30",
-        "20:20"
+        "19:30"
     ],
     "saturday": [
-        "8:05",
-        "19:30"
+        "8:05"
     ],
     "holiday": [
-        "8:05",
-        "19:30"
+        "8:05"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803777-5/node:00129612/kt:0/lname:/"
 }

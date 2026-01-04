@@ -1,5 +1,5 @@
 {
-    "date": "2025/10/20",
+    "date": "2025/12/20",
     "name": "オークシティ前",
     "position": "-",
     "system": "間13",
@@ -9,16 +9,13 @@
     ],
     "weekday": [
         "18:46",
-        "19:34",
-        "20:24"
+        "19:34"
     ],
     "saturday": [
-        "8:10",
-        "19:36"
+        "8:10"
     ],
     "holiday": [
-        "8:10",
-        "19:35"
+        "8:10"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803777-8/node:00129610/kt:0/lname:/"
 }
