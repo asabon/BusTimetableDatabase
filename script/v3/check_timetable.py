@@ -39,32 +39,55 @@ def check_timetable_by_file(file_path):
     return len(errors)
 
 # json 形式の timetable のフォーマットチェック
-# 戻り値: 検出したエラーの個数
-# エラーの内容は print で出力
+# 戻り値: 検出したエラー内容のリスト
 def validate_timetable(data: dict) -> List[str]:
     errors = []
 
     # 1. date の形式チェック（YYYY/MM/DD）
+    date = data.get("date", "")
     date_pattern = r'^\d{4}/\d{2}/\d{2}$'
-    if not re.match(date_pattern, data.get("date", "")):
-        errors.append("date が 'YYYY/MM/DD' 形式ではありません。")
+    if not re.match(date_pattern, str(date)):
+        errors.append(f"date の形式が不正です (値: '{date}', 期待値: 'YYYY/MM/DD')")
 
     # 2. name が空文字列でないか
     name = data.get("name", "")
     if not isinstance(name, str) or name.strip() == "":
-        errors.append("name が空です。")
+        errors.append(f"name が空、または文字列ではありません (値: '{name}')")
 
     # 3. system が空文字列でないか
     system = data.get("system", "")
     if not isinstance(system, str) or system.strip() == "":
-        errors.append("system が空です。")
+        errors.append(f"system が空、または文字列ではありません (値: '{system}')")
 
     # 4. destinations が1つ以上の文字列で構成された配列か
     destinations = data.get("destinations", [])
     if not isinstance(destinations, list) or len(destinations) < 1:
-        errors.append("destinations が1つ以上の要素を持つ配列ではありません。")
+        errors.append(f"destinations が1つ以上の要素を持つ配列ではありません (要素数: {len(destinations) if isinstance(destinations, list) else 'N/A'})")
     elif not all(isinstance(d, str) and d.strip() != "" for d in destinations):
-        errors.append("destinations に空の文字列または非文字列の要素があります。")
+        invalid_items = [d for d in destinations if not (isinstance(d, str) and d.strip() != "")]
+        errors.append(f"destinations に不正な要素が含まれています (不正な要素: {invalid_items})")
+
+    return errors
+
+# route.json のフォーマットチェック
+# 戻り値: 検出したエラー内容のリスト
+def validate_route(data: dict) -> List[str]:
+    errors = []
+
+    # 1. system が空文字列でないか
+    system = data.get("system", "")
+    if not isinstance(system, str) or system.strip() == "":
+        errors.append(f"system が空、または文字列ではありません (値: '{system}')")
+
+    # 2. busstops が1つ以上の要素を持つ配列か
+    busstops = data.get("busstops", [])
+    if not isinstance(busstops, list) or len(busstops) < 1:
+        errors.append(f"busstops が1つ以上の要素を持つ配列ではありません (要素数: {len(busstops) if isinstance(busstops, list) else 'N/A'})")
+    
+    # 3. route_url が正しい形式か
+    route_url = data.get("route_url", "")
+    if not isinstance(route_url, str) or not route_url.startswith("https://"):
+        errors.append(f"route_url が不正です (値: '{route_url}')")
 
     return errors
 

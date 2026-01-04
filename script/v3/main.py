@@ -20,6 +20,7 @@ from script.common.web_access import get_data
 from script.v3.busstop_database import BusStopDatabase
 from script.v3.route_database import RouteDatabase
 from script.v3.timetable import Timetable
+from script.v3.check_timetable import validate_timetable, validate_route
 
 def main():
     route_id_list = load_route_ids()
@@ -32,6 +33,15 @@ def load_busstop_db() -> BusStopDatabase:
     db = BusStopDatabase(f"database/kanachu/v3/database/busstops.json")
     db.load()
     return db
+
+def check_and_exit(errors: list[str], file_path: str, data: dict):
+    if errors:
+        logger.error(f"Validation failed for {file_path}:")
+        for err in errors:
+            logger.error(f"  - {err}")
+        logger.error("Dumping data for analysis:")
+        logger.error(json.dumps(data, indent=4, ensure_ascii=False))
+        sys.exit(1)
 
 def process_route(route_id: str, busstop_db: BusStopDatabase, force_update_system: bool = False):
     route_json_path = f"database/kanachu/v3/database/{route_id}/route.json"
@@ -76,11 +86,19 @@ def process_route(route_id: str, busstop_db: BusStopDatabase, force_update_syste
         is_updated = timetable.is_updated()
         if is_updated or force_update_system:
             timetable.save()
+            # 保存直後にバリデーション
+            with open(timetable.file_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            check_and_exit(validate_timetable(data), timetable.file_path, data)
 
         if not is_updated and not force_update_system:
             # 更新されていなかった場合はその路線の他の時刻表も更新する必要がないとみなしてループ終了
             break
     route_db.save()
+    # 保存直後にバリデーション
+    with open(route_json_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    check_and_exit(validate_route(data), route_json_path, data)
 
 def load_route_ids() -> list[str]:
     route_ids_path = os.path.join("database/kanachu/v3/database", "route_ids.json")
