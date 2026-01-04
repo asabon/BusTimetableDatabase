@@ -1,0 +1,39 @@
+name: Pre-Cache-v3
+
+on:
+  schedule:
+    - cron: '0 15 * * *' # 毎日JST 00:00 (UTC 15:00) に実行
+  workflow_dispatch:
+
+jobs:
+  pre-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Cache HTTP data
+        uses: actions/cache@v4
+        with:
+          path: script/common/cache
+          key: ${{ runner.os }}-http-cache-${{ github.run_id }}
+          restore-keys: |
+            ${{ runner.os }}-http-cache-
+
+      - name: Set up Python
+        uses: actions/setup-python@v5.4.0
+        with:
+          python-version: '3.13'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install .
+
+      - name: Run Pre-Cache
+        run: |
+          # 曜日 (1-7) を取得し、0-based のインデックス (0-6) に変換
+          # 7分割して日替わりで事前取得
+          INDEX=$(( $(date +%u) - 1 ))
+          echo "Processing part index: $INDEX (Total parts: 7)"
+          python script/v3/main.py --total-parts 7 --part-index $INDEX

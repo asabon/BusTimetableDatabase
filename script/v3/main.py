@@ -3,6 +3,7 @@ import os
 import re
 import json
 import logging
+import math
 from bs4 import BeautifulSoup
 from urllib.parse import quote
 from collections import deque
@@ -22,8 +23,35 @@ from script.v3.route_database import RouteDatabase
 from script.v3.timetable import Timetable
 from script.v3.check_timetable import validate_timetable, validate_route
 
-def main():
+def main(offset: int = 0, limit: int = None, total_parts: int = None, part_index: int = None):
+    """
+    路線データを取得し保存するメイン処理。
+
+    処理対象の範囲を以下の2通りのいずれかで指定できます。
+    1. 直接指定: `offset` と `limit` を使用
+    2. 分割指定: `total_parts` と `part_index` を使用（内部で offset/limit に変換される）
+
+    Args:
+        offset (int): 直接指定用。開始インデックス。
+        limit (int): 直接指定用。最大処理件数。
+        total_parts (int): 分割指定用。全路線を何分割するか。
+        part_index (int): 分割指定用。分割されたうちの何番目(0-based)を処理するか。
+    """
     route_id_list = load_route_ids()
+    total_routes = len(route_id_list)
+
+    if total_parts is not None and part_index is not None:
+        # 動的分割の計算
+        part_size = math.ceil(total_routes / total_parts)
+        offset = part_index * part_size
+        limit = part_size
+        logger.info(f"Dynamic partitioning: Part {part_index+1}/{total_parts} (Size: {part_size})")
+
+    if offset > 0 or limit is not None:
+        end = min(offset + limit, total_routes) if limit is not None else total_routes
+        route_id_list = route_id_list[offset:end]
+        logger.info(f"Processing range: offset={offset}, limit={limit} (Actual count: {len(route_id_list)})")
+    
     busstop_db = load_busstop_db()
     for route_id in route_id_list:
         process_route(route_id, busstop_db, False)
@@ -244,6 +272,10 @@ if __name__ == "__main__":
     parser.add_argument('--update-list', action='store_true', help='Update route ID list and cleanup obsolete directories')
     parser.add_argument('--route-id', type=str, help='Process only the specified route ID')
     parser.add_argument('--force-update-system', action='store_true', help='Force update system field in timetable files')
+    parser.add_argument('--offset', type=int, default=0, help='Offset for route processing list')
+    parser.add_argument('--limit', type=int, default=None, help='Limit for route processing count')
+    parser.add_argument('--total-parts', type=int, default=None, help='Total number of parts to divide the work into')
+    parser.add_argument('--part-index', type=int, default=None, help='Index of the part to process (0-based)')
     args = parser.parse_args()
 
     if args.update_list:
@@ -258,4 +290,4 @@ if __name__ == "__main__":
         busstop_db.save()
     else:
         # 路線ごとにメイン処理を実施
-        main()
+        main(args.offset, args.limit, args.total_parts, args.part_index)
