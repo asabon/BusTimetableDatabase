@@ -1,5 +1,5 @@
 {
-    "date": "2025/10/20",
+    "date": "2025/12/20",
     "name": "豊川稲荷前(大和市)",
     "position": "-",
     "system": "間13",
@@ -13,11 +13,9 @@
         "8:32"
     ],
     "saturday": [
-        "7:50",
         "19:09"
     ],
     "holiday": [
-        "7:50",
         "19:07"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803741-8/node:00129614/kt:0/lname:/"
