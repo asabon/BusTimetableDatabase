@@ -1,0 +1,17 @@
+{
+    "date": "2025/12/01",
+    "name": "平塚球場",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "北新町",
+        "保健センター"
+    ],
+    "weekday": [
+        "9:08",
+        "10:53"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803940-19/node:00127601/kt:0/lname:/"
+}

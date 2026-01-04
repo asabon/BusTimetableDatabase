@@ -1,0 +1,16 @@
+{
+    "date": "2025/12/01",
+    "name": "田村十字路",
+    "position": "-",
+    "system": "ー",
+    "destinations": [
+        "神田小学校前(平塚市)",
+        "田村車庫"
+    ],
+    "weekday": [
+        "14:25"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803936-22/node:00127662/kt:0/lname:/"
+}

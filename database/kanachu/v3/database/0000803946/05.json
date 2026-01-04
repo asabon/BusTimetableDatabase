@@ -1,0 +1,22 @@
+{
+    "date": "2025/12/20",
+    "name": "郵便局前(大和市)",
+    "position": "-",
+    "system": "間23",
+    "destinations": [
+        "職業安定所前(大和市)",
+        "市役所市立病院前",
+        "オークシティ前",
+        "鶴間車庫"
+    ],
+    "weekday": [
+        "20:20"
+    ],
+    "saturday": [
+        "19:30"
+    ],
+    "holiday": [
+        "19:30"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803946-5/node:00129612/kt:0/lname:/"
+}

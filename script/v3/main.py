@@ -25,7 +25,7 @@ def main():
     route_id_list = load_route_ids()
     busstop_db = load_busstop_db()
     for route_id in route_id_list:
-        process_route(route_id, busstop_db)
+        process_route(route_id, busstop_db, False)
     busstop_db.save()
 
 def load_busstop_db() -> BusStopDatabase:
@@ -33,7 +33,7 @@ def load_busstop_db() -> BusStopDatabase:
     db.load()
     return db
 
-def process_route(route_id: str, busstop_db: BusStopDatabase):
+def process_route(route_id: str, busstop_db: BusStopDatabase, force_update_system: bool = False):
     route_json_path = f"database/kanachu/v3/database/{route_id}/route.json"
     route_url = f"https://www.kanachu.co.jp/dia/route/index/cid:{route_id}/"
     route_db = RouteDatabase(route_json_path, route_url)
@@ -73,11 +73,13 @@ def process_route(route_id: str, busstop_db: BusStopDatabase):
             busstop_names = busstops,
             busstop_position = position)
 
-        if not timetable.is_updated():
+        is_updated = timetable.is_updated()
+        if is_updated or force_update_system:
+            timetable.save()
+
+        if not is_updated and not force_update_system:
             # 更新されていなかった場合はその路線の他の時刻表も更新する必要がないとみなしてループ終了
             break
-
-        timetable.save()
     route_db.save()
 
 def load_route_ids() -> list[str]:
@@ -156,10 +158,14 @@ def get_system_from_route_html(html: str) -> str:
     target_h2 = soup.find("div", class_="hGroup201").find("h2")
     text = target_h2.get_text(strip=True) if target_h2 else ""
 
-    # 正規表現で「漢字1文字＋数字1〜2桁」を抽出
-    match = re.search(r"[一-龯]{1}\d{1,2}", text)
+    # 正規表現で「】」の後の最初の単語を抽出
+    match = re.search(r"】\s*([^\s]+)", text)
     if match:
-        return match.group()
+        system_candidate = match.group(1)
+        if system_candidate.endswith("行"):
+            return "ー"
+        else:
+            return system_candidate
     else:
         return None
 
@@ -218,6 +224,8 @@ import argparse
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Update Kanachu Bus Timetable Database v3')
     parser.add_argument('--update-list', action='store_true', help='Update route ID list and cleanup obsolete directories')
+    parser.add_argument('--route-id', type=str, help='Process only the specified route ID')
+    parser.add_argument('--force-update-system', action='store_true', help='Force update system field in timetable files')
     args = parser.parse_args()
 
     if args.update_list:
@@ -225,6 +233,11 @@ if __name__ == "__main__":
         update_route_ids_list()
         # 使われなくなった路線ディレクトリを削除
         cleanup_obsolete_route_dirs()
+    elif args.route_id:
+        # 指定された路線のみを処理
+        busstop_db = load_busstop_db()
+        process_route(args.route_id, busstop_db, args.force_update_system)
+        busstop_db.save()
     else:
         # 路線ごとにメイン処理を実施
         main()

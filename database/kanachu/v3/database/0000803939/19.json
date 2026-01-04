@@ -1,0 +1,22 @@
+{
+    "date": "2025/12/01",
+    "name": "纒入口",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "纒公民館前",
+        "西部福祉会館",
+        "北河内(平塚市)",
+        "勝原小学校前(平塚市)",
+        "高村団地",
+        "下万田",
+        "上山下(平塚市)",
+        "山下(平塚市)"
+    ],
+    "weekday": [
+        "13:17"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803939-19/node:00127741/kt:0/lname:/"
+}

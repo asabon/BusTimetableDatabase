@@ -1,0 +1,25 @@
+{
+    "date": "2025/12/01",
+    "name": "南原土手",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "江南高校前",
+        "共済病院前総合公園西",
+        "総合公園南",
+        "江陽中学校前(平塚市)",
+        "平塚市役所",
+        "コンフォール平塚前",
+        "文化公園入口",
+        "平塚球場",
+        "北新町",
+        "保健センター"
+    ],
+    "weekday": [
+        "8:52",
+        "10:37"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803940-11/node:00127560/kt:0/lname:/"
+}

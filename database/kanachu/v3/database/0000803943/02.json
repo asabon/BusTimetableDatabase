@@ -1,0 +1,23 @@
+{
+    "date": "2025/12/20",
+    "name": "オークシティ前",
+    "position": "-",
+    "system": "間23",
+    "destinations": [
+        "市役所市立病院前",
+        "職業安定所前(大和市)",
+        "郵便局前(大和市)",
+        "市民活動拠点ベテルギウス前",
+        "豊川稲荷前(大和市)",
+        "新橋通り(大和市)",
+        "大和駅西口"
+    ],
+    "weekday": [],
+    "saturday": [
+        "7:42"
+    ],
+    "holiday": [
+        "7:42"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803943-2/node:00129610/kt:0/lname:/"
+}

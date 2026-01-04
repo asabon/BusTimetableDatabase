@@ -1,0 +1,29 @@
+{
+    "date": "2025/11/25",
+    "name": "清川村役場前",
+    "position": "-",
+    "system": "厚19",
+    "destinations": [
+        "煤ヶ谷",
+        "古在家",
+        "坂尻(愛甲郡清川村)",
+        "柿ノ木平",
+        "上煤ヶ谷"
+    ],
+    "weekday": [
+        "7:19",
+        "17:49",
+        "18:44",
+        "19:45",
+        "20:50"
+    ],
+    "saturday": [
+        "21:09",
+        "22:09"
+    ],
+    "holiday": [
+        "21:09",
+        "22:09"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803950-32/node:00128423/kt:0/lname:/"
+}

@@ -1,0 +1,20 @@
+{
+    "date": "2025/12/01",
+    "name": "大江工業前",
+    "position": "-",
+    "system": "ー",
+    "destinations": [
+        "平塚市リサイクルプラザ",
+        "鹿見堂橋",
+        "駒返橋",
+        "田村十字路",
+        "神田小学校前(平塚市)",
+        "田村車庫"
+    ],
+    "weekday": [
+        "14:22"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803936-18/node:00127659/kt:0/lname:/"
+}

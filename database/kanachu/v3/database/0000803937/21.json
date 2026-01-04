@@ -1,0 +1,17 @@
+{
+    "date": "2025/12/01",
+    "name": "共済病院前総合公園西",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "江南高校前",
+        "南原土手",
+        "市民病院前(平塚市)"
+    ],
+    "weekday": [
+        "7:41"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803937-21/node:00128222/kt:0/lname:/"
+}

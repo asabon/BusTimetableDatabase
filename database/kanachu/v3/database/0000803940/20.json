@@ -1,0 +1,16 @@
+{
+    "date": "2025/12/01",
+    "name": "北新町",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "保健センター"
+    ],
+    "weekday": [
+        "9:09",
+        "10:54"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803940-20/node:00127630/kt:0/lname:/"
+}
