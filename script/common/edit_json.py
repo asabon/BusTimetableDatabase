@@ -19,8 +19,8 @@ def write_json_file(file_path, json_data):
 
 def get_value_from_json_file(file_path, key):
     json_data = read_json_file(file_path)
-    if (json_data != None):
-        value = get_value_from_json(key)
+    if json_data is not None:
+        value = get_value_from_json(json_data, key)
         return value
     else:
         return None

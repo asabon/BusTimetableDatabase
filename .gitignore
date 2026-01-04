@@ -5,9 +5,6 @@ htmlcov
 __pycache__
 coverage.txt
 
-# AI エージェント作業用ディレクトリ
-.work/
-
 # python build artifact
 *.egg-info
 
