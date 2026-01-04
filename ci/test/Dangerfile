@@ -1,2 +1,0 @@
-coverage_text = File.read("coverage.txt")
-markdown("### Test Coverage Report\n\n```\n#{coverage_text}\n```")
