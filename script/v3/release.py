@@ -17,6 +17,26 @@ sys.path.insert(0, PROJECT_ROOT)
 
 from script.common.hash import hash_file
 
+def create_deterministic_zip(source_dir, zip_path):
+    """Create a zip file with sorted files and fixed timestamps for reproducibility."""
+    # Use a fixed date for all files inside the zip: 2025-01-01 00:00:00
+    fixed_time = (2025, 1, 1, 0, 0, 0)
+    
+    with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zipf:
+        # Walk through the route directory and add files to zip in sorted order
+        for root, dirs, files in os.walk(source_dir):
+            dirs.sort()  # Sort directories for consistent walking
+            for file in sorted(files):
+                file_path = os.path.join(root, file)
+                
+                # Create ZipInfo with fixed timestamp
+                zinfo = zipfile.ZipInfo(file)
+                zinfo.date_time = fixed_time
+                zinfo.compress_type = zipfile.ZIP_DEFLATED
+                
+                with open(file_path, 'rb') as f:
+                    zipf.writestr(zinfo, f.read())
+
 def main():
     logger.info("Starting V3 release artifact generation...")
 
@@ -56,18 +76,11 @@ def main():
             logger.warning(f"Route directory not found for ID: {route_id}, skipping.")
             continue
 
-        # Create zip file for the route
+        # Create zip file for the route (deterministic)
         zip_filename = f"{route_id}.zip"
         zip_path = os.path.join(release_dir, zip_filename)
         
-        with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zipf:
-            # Walk through the route directory and add files to zip
-            # Structure inside zip: {route_id}/filename.json
-            for root, _, files in os.walk(route_dir):
-                for file in files:
-                    file_path = os.path.join(root, file)
-                    arcname = file
-                    zipf.write(file_path, arcname)
+        create_deterministic_zip(route_dir, zip_path)
         
         # Calculate hash of the zip file
         zip_hash = hash_file(zip_path)
@@ -97,8 +110,24 @@ def main():
     combined_hash_input = busstops_hash + "".join([r["hash"] for r in routes_metadata])
     dataset_hash = hashlib.sha256(combined_hash_input.encode()).hexdigest()
     
+    # Check existing info.json to see if anything changed
+    info_path = os.path.join(release_dir, "info.json")
+    existing_info = {}
+    if os.path.exists(info_path):
+        try:
+            with open(info_path, 'r', encoding='utf-8') as f:
+                existing_info = json.load(f)
+        except Exception:
+            pass
+
+    updated_at = datetime.date.today().isoformat()
+    # If the hash is the same as before, keep the old updated_at to avoid unnecessary changes
+    if existing_info.get("hash") == dataset_hash:
+        logger.info("No changes detected in dataset hash. Preserving old updated_at.")
+        updated_at = existing_info.get("updated_at", updated_at)
+
     info_data = {
-        "updated_at": datetime.date.today().isoformat(),
+        "updated_at": updated_at,
         "hash": dataset_hash,
         "busstops": {
             "hash": busstops_hash
@@ -106,12 +135,12 @@ def main():
         "routes": routes_metadata
     }
 
-    info_path = os.path.join(release_dir, "info.json")
     with open(info_path, 'w', encoding='utf-8') as f:
         json.dump(info_data, f, indent=2, ensure_ascii=False)
     
     logger.info(f"Created info.json. Dataset Hash: {dataset_hash}")
     logger.info("Release artifact generation completed.")
+
 
 if __name__ == "__main__":
     main()
