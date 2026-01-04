@@ -1,0 +1,22 @@
+{
+    "date": "2025/12/01",
+    "name": "東中原住宅",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "伊勢山(平塚市)",
+        "中原中宿",
+        "中原東(平塚市)",
+        "総合公園前(平塚市)",
+        "共済病院前総合公園西",
+        "江南高校前",
+        "南原土手",
+        "市民病院前(平塚市)"
+    ],
+    "weekday": [
+        "7:34"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803937-16/node:00130491/kt:0/lname:/"
+}

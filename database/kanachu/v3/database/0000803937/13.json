@@ -1,0 +1,25 @@
+{
+    "date": "2025/12/01",
+    "name": "大野農協前",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "西真土",
+        "大野中学校前",
+        "東中原住宅",
+        "伊勢山(平塚市)",
+        "中原中宿",
+        "中原東(平塚市)",
+        "総合公園前(平塚市)",
+        "共済病院前総合公園西",
+        "江南高校前",
+        "南原土手",
+        "市民病院前(平塚市)"
+    ],
+    "weekday": [
+        "7:29"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803937-13/node:00127609/kt:0/lname:/"
+}

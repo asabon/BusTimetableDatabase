@@ -1,0 +1,17 @@
+{
+    "date": "2025/12/01",
+    "name": "高村団地",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "下万田",
+        "上山下(平塚市)",
+        "山下(平塚市)"
+    ],
+    "weekday": [
+        "13:27"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803939-24/node:00127578/kt:0/lname:/"
+}

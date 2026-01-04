@@ -1,0 +1,21 @@
+{
+    "date": "2025/12/20",
+    "name": "引地台公園入口",
+    "position": "-",
+    "system": "間27",
+    "destinations": [
+        "山王橋(大和市)",
+        "富士見橋(大和市)",
+        "桜ヶ丘駅西口"
+    ],
+    "weekday": [
+        "6:28"
+    ],
+    "saturday": [
+        "9:44"
+    ],
+    "holiday": [
+        "9:44"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803944-14/node:00129621/kt:0/lname:/"
+}

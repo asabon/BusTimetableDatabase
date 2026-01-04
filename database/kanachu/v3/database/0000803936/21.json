@@ -1,0 +1,17 @@
+{
+    "date": "2025/12/01",
+    "name": "駒返橋",
+    "position": "-",
+    "system": "ー",
+    "destinations": [
+        "田村十字路",
+        "神田小学校前(平塚市)",
+        "田村車庫"
+    ],
+    "weekday": [
+        "14:24"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803936-21/node:00127661/kt:0/lname:/"
+}

@@ -1,0 +1,18 @@
+{
+    "date": "2025/12/01",
+    "name": "文化公園入口",
+    "position": "-",
+    "system": "",
+    "destinations": [
+        "平塚球場",
+        "北新町",
+        "保健センター"
+    ],
+    "weekday": [
+        "9:04",
+        "10:49"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803940-18/node:00130539/kt:0/lname:/"
+}

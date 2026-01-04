@@ -1,0 +1,19 @@
+{
+    "date": "2025/12/20",
+    "name": "オークシティ前",
+    "position": "-",
+    "system": "間23",
+    "destinations": [
+        "鶴間車庫"
+    ],
+    "weekday": [
+        "20:24"
+    ],
+    "saturday": [
+        "19:36"
+    ],
+    "holiday": [
+        "19:35"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803946-8/node:00129610/kt:0/lname:/"
+}

@@ -1,0 +1,25 @@
+{
+    "date": "2025/12/20",
+    "name": "中央四丁目(大和市)",
+    "position": "-",
+    "system": "間27",
+    "destinations": [
+        "草柳一丁目",
+        "草柳二丁目",
+        "草柳三丁目",
+        "引地台公園入口",
+        "山王橋(大和市)",
+        "富士見橋(大和市)",
+        "桜ヶ丘駅西口"
+    ],
+    "weekday": [
+        "6:21"
+    ],
+    "saturday": [
+        "9:37"
+    ],
+    "holiday": [
+        "9:37"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803944-10/node:00129617/kt:0/lname:/"
+}

@@ -124,10 +124,14 @@ class RouteDatabase:
         target_h2 = soup.find("div", class_="hGroup201").find("h2")
         text = target_h2.get_text(strip=True) if target_h2 else ""
 
-        # 正規表現で「全角1文字＋数字1〜2桁」を抽出
-        match = re.search(r"[\u3000-\u9FFF]{1}\d{1,2}", text)
+        # 正規表現で「】」の後の最初の単語を抽出
+        match = re.search(r"】\s*([^\s]+)", text)
         if match:
-            # print(f"見つかった系統 : {match.group()}")
-            self.system = match.group()
+            system_candidate = match.group(1)
+            # もし「行」で終わる場合は系統番号ではない（行き先である）と判断し「ー」にする
+            if system_candidate.endswith("行"):
+                self.system = "ー"
+            else:
+                self.system = system_candidate
         else:
             print("[Error] 該当する系統名が見つかりませんでした。")

@@ -1,0 +1,25 @@
+{
+    "date": "2025/11/25",
+    "name": "柿ノ木平",
+    "position": "-",
+    "system": "厚19",
+    "destinations": [
+        "上煤ヶ谷"
+    ],
+    "weekday": [
+        "7:23",
+        "17:53",
+        "18:48",
+        "19:49",
+        "20:54"
+    ],
+    "saturday": [
+        "21:13",
+        "22:13"
+    ],
+    "holiday": [
+        "21:13",
+        "22:13"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803950-36/node:00128427/kt:0/lname:/"
+}
