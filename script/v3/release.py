@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../'))
 sys.path.insert(0, PROJECT_ROOT)
 
-from script.common.hash import hash_file
+from script.common.hash import hash_file  # noqa: E402
 
 def create_deterministic_zip(source_dir, zip_path):
     """Create a zip file with sorted files and fixed timestamps for reproducibility."""

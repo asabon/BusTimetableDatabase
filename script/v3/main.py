@@ -4,6 +4,7 @@ import re
 import json
 import logging
 import math
+import argparse
 from bs4 import BeautifulSoup
 from urllib.parse import quote
 from collections import deque
@@ -17,11 +18,11 @@ logger = logging.getLogger(__name__)
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../'))
 sys.path.insert(0, PROJECT_ROOT)
 
-from script.common.web_access import get_data
-from script.v3.busstop_database import BusStopDatabase
-from script.v3.route_database import RouteDatabase
-from script.v3.timetable import Timetable
-from script.v3.check_timetable import validate_timetable, validate_route
+from script.common.web_access import get_data  # noqa: E402
+from script.v3.busstop_database import BusStopDatabase  # noqa: E402
+from script.v3.route_database import RouteDatabase  # noqa: E402
+from script.v3.timetable import Timetable  # noqa: E402
+from script.v3.check_timetable import validate_timetable, validate_route  # noqa: E402
 
 def main(offset: int = 0, limit: int = None, total_parts: int = None, part_index: int = None):
     """
@@ -58,7 +59,7 @@ def main(offset: int = 0, limit: int = None, total_parts: int = None, part_index
     busstop_db.save()
 
 def load_busstop_db() -> BusStopDatabase:
-    db = BusStopDatabase(f"database/kanachu/v3/database/busstops.json")
+    db = BusStopDatabase("database/kanachu/v3/database/busstops.json")
     db.load()
     return db
 
@@ -164,7 +165,7 @@ def get_busstops_list(route_id: str) -> list[str]:
     url = f"https://www.kanachu.co.jp/dia/route/index/cid:{route_id}/"
     html = get_data(url)
     soup = BeautifulSoup(html, "html.parser")
-    system = get_system_from_route_html(html)
+    # system = get_system_from_route_html(html) # Assigned but unused
     busstops = []
     for li in soup.find_all("li", id=re.compile(r"\d+-\d+")):
         li_id = li.get("id")
@@ -265,7 +266,6 @@ def cleanup_obsolete_route_dirs():
         except Exception as e:
             logger.warning(f"Failed to remove {dir_path}: {e}")
 
-import argparse
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Update Kanachu Bus Timetable Database v3')

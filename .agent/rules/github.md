@@ -1,4 +1,4 @@
-# GitHub 連携 (GH)
+# GitHub 連携
 
 ## 基本方針
 - **GitHub Issue を Source of Truth とする。** すべてのタスクや決定事項は Issue に集約すること。

@@ -1,8 +1,4 @@
-from script.common.edit_json import read_json_file
-from script.common.edit_json import write_json_file
-from script.common.edit_json import set_value_in_json
-from script.common.edit_json import get_value_from_json
-from script.v2.json_editor import JsonEditor
+from script.v3.json_editor import JsonEditor
 
 class BusStopDatabase:
     def __init__(self, file_path):
