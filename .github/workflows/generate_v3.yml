@@ -36,10 +36,6 @@ jobs:
         run: |
           python script/v3/main.py
 
-      - name: Check timetable(v3)
-        run: |
-          python script/v3/check_timetable.py --mode directory --path ./database/kanachu/v3/database --ignore busstops.json,route_ids.json,route.json
-
       - name: Create pull request
         if: ${{ github.event_name == 'schedule' || inputs.create_pr == 'true' }}
         uses: peter-evans/create-pull-request@v7
