@@ -1,5 +1,5 @@
 from script.common.web_access import get_data
-import script.v2.json_editor
+from script.v3.json_editor import JsonEditor
 import sys
 import re
 
@@ -18,7 +18,7 @@ class Timetable:
         self.timetable = {}
         self.url = f"https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:{self.route_id}-{self.busstop_index}/node:{self.busstop_id}/kt:0/lname:/"
         print(f"filename = {file_path}")
-        self.json_editor = script.v2.json_editor.JsonEditor(file_path)
+        self.json_editor = JsonEditor(file_path)
 
     def is_updated(self):
         before_date = self.json_editor.get_value("date")

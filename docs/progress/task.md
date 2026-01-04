@@ -16,7 +16,10 @@
 - [x] .work フォルダ運用の廃止とルール修正 <!-- id: 24 -->
 - [x] README.md の更新（バージョニング戦略の明文化） <!-- id: 19 -->
 - [x] 全体の動作確認と最終チェック <!-- id: 20 -->
+- [x] v3 スクリプトのインポートミス修正 (Issue #307) <!-- id: 307 -->
+- [x] 設定ファイルの整理 (AGENT.md と copilot-instructions.md の重複確認・統合) <!-- id: 33 -->
+- [x] GitHub 連携ルールの強化 (文字化け・エスケープシーケンス対策) <!-- id: 34 -->
+- [x] 開発ワークフローの洗練 (create/update-issue.md への反映) <!-- id: 35 -->
 
 ## 次回へのメモ (Tasks for Next Session)
-- [ ] 設定ファイルの整理 (AGENT.md と copilot-instructions.md の重複確認・統合)
-- [ ] 開発ワークフローの洗練 (GitHub Issue, PR 連携の自動化と確実性の向上)
+- [ ] `.agent/rules/prj.md` へのプロジェクト詳細（データ形式、想定利用者）の追記を再試行する（環境起因のエラーにより一部未達）

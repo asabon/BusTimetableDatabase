@@ -3,7 +3,7 @@ import re
 
 from script.common.web_access import get_data
 from script.common.convert import to_half_width
-import script.v2.json_editor
+from script.v3.json_editor import JsonEditor
 
 # バスの路線ごとの経路を管理するクラス
 class RouteDatabase:
@@ -13,7 +13,7 @@ class RouteDatabase:
         # このリストの順番がバスの経路の順番になる
         self.busstops = []
         self.json_path = json_path
-        self.json_editor = script.v2.json_editor.JsonEditor(json_path)
+        self.json_editor = JsonEditor(json_path)
         self.system = self.json_editor.get_value("system")
         self.busstops = self.json_editor.get_value("busstops")
         if not isinstance(self.busstops, list):
