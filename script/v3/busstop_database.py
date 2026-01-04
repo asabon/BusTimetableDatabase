@@ -76,7 +76,7 @@ class BusStopDatabase:
             # 一致した場合、名前が変わっていたら更新
             if busstops[index]["name"] != name:
                 busstops[index]["name"] = name
-                busstops[index]["position"] = "-" # 新規追加時は position は "-" を設定する
+                busstops[index]["position"] = "-" # 既存データの名前が変わった場合も position は "-" を設定する
         else:
             # 一致しなかった場合は新規追加
             busstops.append(
