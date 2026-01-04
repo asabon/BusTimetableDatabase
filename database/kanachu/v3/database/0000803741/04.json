@@ -1,5 +1,5 @@
 {
-    "date": "2025/10/20",
+    "date": "2025/12/20",
     "name": "市役所市立病院前",
     "position": "-",
     "system": "間13",
@@ -17,11 +17,9 @@
         "8:25"
     ],
     "saturday": [
-        "7:44",
         "19:01"
     ],
     "holiday": [
-        "7:44",
         "19:01"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803741-4/node:00129611/kt:0/lname:/"

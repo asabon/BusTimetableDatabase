@@ -1,5 +1,5 @@
 {
-    "date": "2025/10/20",
+    "date": "2025/12/20",
     "name": "鶴間二丁目",
     "position": "-",
     "system": "間13",
@@ -8,16 +8,13 @@
     ],
     "weekday": [
         "18:48",
-        "19:36",
-        "20:26"
+        "19:36"
     ],
     "saturday": [
-        "8:11",
-        "19:38"
+        "8:11"
     ],
     "holiday": [
-        "8:11",
-        "19:36"
+        "8:11"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803777-9/node:00129524/kt:0/lname:/"
 }

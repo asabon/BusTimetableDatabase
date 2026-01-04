@@ -1,5 +1,5 @@
 {
-    "date": "2025/10/20",
+    "date": "2025/12/20",
     "name": "鶴間駅東口",
     "position": "-",
     "system": "間13",
@@ -20,11 +20,9 @@
         "8:20"
     ],
     "saturday": [
-        "7:40",
         "18:55"
     ],
     "holiday": [
-        "7:40",
         "18:55"
     ],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803741-1/node:00129523/kt:0/lname:/"
