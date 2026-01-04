@@ -57,12 +57,17 @@ Issue #XXX の更新内容：
 この内容で Issue を更新してよろしいですか？
 ```
 
-### 5. 更新方法を案内
-ユーザーに以下のいずれかの方法で Issue を更新するよう案内：
-- GitHub Web UI から手動編集
-- `gh issue edit XXX --body-file issue_body.md` を使用（ファイルを作成して提供）
+### 5. Issue を更新する
+必ず `gh issue edit` に `--body-file` を組み合わせて使用すること。
 
-### 6. 進捗状況を記録
+```bash
+gh issue edit <Issue番号> --body-file issue_body.md
+```
+
+### 6. 一時ファイルの削除
+更新完了後、作成した一時ファイルを削除する。
+
+### 7. 進捗状況を記録
 更新した内容を記録し、次回の作業時に参照できるようにする
 
 ## 注意事項

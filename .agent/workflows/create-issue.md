@@ -56,12 +56,20 @@ description: GitHub Issue を新規作成する手順
 - Issue を作成してよいか
 - タイトルは適切か
 
-### 4. Issue 作成方法を案内
-ユーザーに以下のいずれかの方法で Issue を作成するよう案内：
-- GitHub Web UI から手動作成
-- `gh` CLI を使用（コマンド例を提示）
+### 4. Issue 本文をファイルに保存する
+本文を一時ファイル（例: `issue_body.md`）に保存する。
 
-### 5. Issue 番号を記録
+### 5. Issue を作成する
+`gh` CLI を使用して Issue を作成する。エスケープシーケンスや文字化けを防ぐため、必ず `--body-file` を使用すること。
+
+```bash
+gh issue create --title "タイトル" --body-file issue_body.md
+```
+
+### 6. 一時ファイルの削除
+Issue 作成完了後、作成した一時ファイルを削除する。
+
+### 7. Issue 番号を記録
 作成された Issue 番号を記録し、今後の作業で参照できるようにする
 
 ### 6. PR 作成後の対応
