@@ -21,6 +21,14 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: Cache HTTP data
+        uses: actions/cache@v4
+        with:
+          path: script/common/cache
+          key: ${{ runner.os }}-http-cache-${{ github.run_id }}
+          restore-keys: |
+            ${{ runner.os }}-http-cache-
+
       - name: Set up Python
         uses: actions/setup-python@v5.4.0
         with:
