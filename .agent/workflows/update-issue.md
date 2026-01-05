@@ -13,9 +13,8 @@ description: 既存の GitHub Issue を更新する手順
 ## 手順
 
 ### 1. 既存 Issue の内容を確認する
-ユーザーに Issue の現在の内容を確認：
-- 「Issue #XXX の現在の内容を教えていただけますか？」
-- または、`gh issue view XXX` コマンドの実行を提案
+進捗更新や計画変更が必要な Issue の現在の内容を確認する。
+- 必要に応じて `gh issue view XXX` コマンドを実行し、最新の状態を把握する。
 
 ### 2. 更新内容を決定する
 以下のいずれかまたは複数：
@@ -58,14 +57,14 @@ Issue #XXX の更新内容：
 ```
 
 ### 5. Issue を更新する
-必ず `gh issue edit` に `--body-file` を組み合わせて使用すること。
+ユーザーの許可を得た後、Antigravity が `gh issue edit` に `--body-file` を組み合わせて更新を実行する。
 
 ```bash
 gh issue edit <Issue番号> --body-file issue_body.md
 ```
 
 ### 6. 一時ファイルの削除
-更新完了後、作成した一時ファイルを削除する。
+更新完了後、作成した一時ファイルを削除し、ユーザーに完了を報告する。
 
 ### 7. 進捗状況を記録
 更新した内容を記録し、次回の作業時に参照できるようにする
@@ -93,7 +92,7 @@ gh issue edit <Issue番号> --body-file issue_body.md
 ## 出力例
 
 ```markdown
-Issue #42 を以下のように更新します：
+Issue #42 を以下のように更新することを提案します：
 
 ## 変更点
 - タスク 0「プロジェクト構造の調査」を完了としてマーク
@@ -101,14 +100,7 @@ Issue #42 を以下のように更新します：
 - 検証計画に「pytest でのカバレッジ確認」を追加
 
 ## 更新後の Issue 本文
-[更新後の全文]
+[更新後の全文を表示]
 
-更新内容を `issue_body.md` に保存しました。
-以下のコマンドで Issue を更新できます：
-
-```bash
-gh issue edit 42 --body-file issue_body.md
-```
-
-または、GitHub Web UI から手動で編集してください。
+この内容で Issue を更新してもよろしいですか？
 ```

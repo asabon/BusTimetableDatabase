@@ -60,14 +60,14 @@ description: GitHub Issue を新規作成する手順
 本文を一時ファイル（例: `issue_body.md`）に保存する。
 
 ### 5. Issue を作成する
-`gh` CLI を使用して Issue を作成する。エスケープシーケンスや文字化けを防ぐため、必ず `--body-file` を使用すること。
+ユーザーの許可を得た後、Antigravity が `gh` CLI を使用して Issue を作成する。エスケープシーケンスや文字化けを防ぐため、必ず `--body-file` を使用すること。
 
 ```bash
 gh issue create --title "タイトル" --body-file issue_body.md
 ```
 
 ### 6. 一時ファイルの削除
-Issue 作成完了後、作成した一時ファイルを削除する。
+Issue 作成完了後、作成した一時ファイルを削除し、ユーザーに作成された Issue 番号を報告する。
 
 ### 7. Issue 番号を記録
 作成された Issue 番号を記録し、今後の作業で参照できるようにする
@@ -89,5 +89,4 @@ Issue 作成完了後、作成した一時ファイルを削除する。
 [作成した Issue 本文を表示]
 
 この内容で Issue を作成してよろしいですか？
-作成後、Issue 番号を教えていただければ、その Issue に紐づけて作業を進めます。
 ```
