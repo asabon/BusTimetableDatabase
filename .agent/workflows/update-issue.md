@@ -2,7 +2,7 @@
 description: 既存の GitHub Issue を更新する手順
 ---
 
-# GitHub Issue 更新ワークフロー
+# /update-issue ワークフロー
 
 このワークフローは、既存の GitHub Issue を更新する際の手順を定義します。
 

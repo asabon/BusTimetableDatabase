@@ -1,10 +1,10 @@
 ---
-description: Initialize session by loading .agent/AGENT.md
+description: .agent/AGENT.md を読み込んでエージェントを初期化する手順
 ---
 
-# Session Initialization
+# /init ワークフロー
 
-このワークフローは、会話開始時に `.agent/AGENT.md` を読み込む。
+このワークフローは、会話開始時に `.agent/AGENT.md` を読み込み、基本ルールを適用します。
 
 ## 実行手順
 

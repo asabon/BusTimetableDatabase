@@ -1,10 +1,10 @@
 ---
-description: Resume work from docs/progress/task.md
+description: docs/progress/task.md から前回の作業状態を復元する手順
 ---
 
-# Resume Session
+# /resume ワークフロー
 
-このワークフローは、`docs/progress/task.md` から前回の作業状態を読み込み、現在のコンテキストに復元する。
+このワークフローは、`docs/progress/task.md` から前回の作業状態を読み込み、現在のコンテキストに復元します。
 
 ## 実行手順
 

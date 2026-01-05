@@ -2,7 +2,7 @@
 description: GitHub Issue を新規作成する手順
 ---
 
-# GitHub Issue 新規作成ワークフロー
+# /create-issue ワークフロー
 
 このワークフローは、新しいタスクに対して GitHub Issue を作成する際の手順を定義します。
 

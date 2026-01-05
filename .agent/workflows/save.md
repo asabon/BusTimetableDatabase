@@ -1,10 +1,10 @@
 ---
-description: Save current progress to docs/progress/task.md and provide a checkpoint
+description: 現在の進捗を docs/progress/task.md に保存し、記録を残す手順
 ---
 
-# Save Session Progress
+# /save ワークフロー
 
-このワークフローは、現在の作業進捗を `docs/progress/task.md` に保存し、次回の再開に備えたチェックポイントを作成する。
+このワークフローは、現在の作業進捗を `docs/progress/task.md` に保存し、次回の再開に備えたチェックポイントを作成します。
 
 ## 実行手順
 
