@@ -1,0 +1,21 @@
+{
+    "date": "2026/01/16",
+    "name": "瀬谷駅前通り",
+    "position": "-",
+    "system": "間15",
+    "destinations": [
+        "瀬谷駅",
+        "相沢",
+        "相沢原",
+        "上橋(横浜市瀬谷区)",
+        "中丸(横浜市瀬谷区)",
+        "瀬谷警察入口",
+        "三ツ境駅北口"
+    ],
+    "weekday": [
+        "14:24"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803992-12/node:00129659/kt:0/lname:/"
+}

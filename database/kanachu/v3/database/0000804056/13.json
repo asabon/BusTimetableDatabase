@@ -1,0 +1,24 @@
+{
+    "date": "2026/01/16",
+    "name": "団地南(伊勢原市)",
+    "position": "-",
+    "system": "伊01",
+    "destinations": [
+        "団地東(伊勢原市)",
+        "市ノ坪",
+        "伊勢原車庫"
+    ],
+    "weekday": [
+        "11:49",
+        "12:49",
+        "13:49",
+        "14:49",
+        "15:50",
+        "16:50",
+        "17:50",
+        "18:50"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804056-13/node:00128138/kt:0/lname:/"
+}

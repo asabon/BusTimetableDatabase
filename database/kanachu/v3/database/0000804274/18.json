@@ -1,0 +1,15 @@
+{
+    "date": "2026/01/16",
+    "name": "西鶴間",
+    "position": "-",
+    "system": "海08",
+    "destinations": [
+        "鶴間駅"
+    ],
+    "weekday": [
+        "18:51"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804274-18/node:00128607/kt:0/lname:/"
+}

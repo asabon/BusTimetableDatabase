@@ -1,0 +1,29 @@
+{
+    "date": "2026/01/16",
+    "name": "宿矢名",
+    "position": "-",
+    "system": "秦44",
+    "destinations": [
+        "矢名",
+        "学校入口(秦野市)",
+        "東海大学北門",
+        "東海大学前駅入口",
+        "東海大学前駅南口",
+        "鶴美ヶ丘",
+        "落幡",
+        "鶴巻温泉駅南口"
+    ],
+    "weekday": [
+        "5:50",
+        "6:49",
+        "7:30",
+        "11:10"
+    ],
+    "saturday": [
+        "16:11"
+    ],
+    "holiday": [
+        "16:11"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804246-14/node:00127756/kt:0/lname:/"
+}

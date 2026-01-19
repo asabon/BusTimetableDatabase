@@ -1,0 +1,18 @@
+{
+    "date": "2026/01/16",
+    "name": "水道路(相模原市南区)",
+    "position": "-",
+    "system": "大58",
+    "destinations": [
+        "麻溝台",
+        "麻溝台中学校入口",
+        "さがみ緑風園前"
+    ],
+    "weekday": [],
+    "saturday": [
+        "21:30",
+        "21:55"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804023-10/node:00129695/kt:0/lname:/"
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2026/01/16",
+    "name": "霧が丘高校前",
+    "position": "-",
+    "system": "境21",
+    "destinations": [
+        "霧が丘センター前",
+        "郵便局前(横浜市緑区)",
+        "萱場公園入口",
+        "遊水池前(横浜市緑区)",
+        "中山谷(横浜市緑区)",
+        "十日市場",
+        "十日市場駅"
+    ],
+    "weekday": [
+        "8:11"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804208-19/node:00019298/kt:0/lname:/"
+}

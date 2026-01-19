@@ -1,0 +1,21 @@
+{
+    "date": "2026/01/16",
+    "name": "細谷戸第3",
+    "position": "-",
+    "system": "境30",
+    "destinations": [
+        "細谷戸第4",
+        "細谷戸第5"
+    ],
+    "weekday": [
+        "11:40",
+        "12:40",
+        "13:45",
+        "14:37",
+        "15:35",
+        "16:20"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804109-11/node:00129789/kt:0/lname:/"
+}

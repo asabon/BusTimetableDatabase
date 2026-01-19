@@ -1,0 +1,18 @@
+{
+    "date": "2026/01/16",
+    "name": "関台",
+    "position": "-",
+    "system": "伊03",
+    "destinations": [
+        "団地南(伊勢原市)",
+        "団地西(伊勢原市)",
+        "鈴川会館前",
+        "伊勢原車庫"
+    ],
+    "weekday": [
+        "22:38"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804293-16/node:00128094/kt:0/lname:/"
+}

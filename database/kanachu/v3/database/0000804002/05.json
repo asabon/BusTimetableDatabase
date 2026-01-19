@@ -1,0 +1,20 @@
+{
+    "date": "2026/01/16",
+    "name": "仲宿(秦野市)",
+    "position": "-",
+    "system": "秦22",
+    "destinations": [
+        "上宿通り",
+        "大川橋(秦野市)",
+        "まほろば大橋",
+        "秦野駅"
+    ],
+    "weekday": [
+        "8:42",
+        "9:07",
+        "15:35"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804002-5/node:00127835/kt:0/lname:/"
+}

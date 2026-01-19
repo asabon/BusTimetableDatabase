@@ -1,0 +1,24 @@
+{
+    "date": "2026/01/16",
+    "name": "円林寺前",
+    "position": "-",
+    "system": "橋62",
+    "destinations": [
+        "水の口(町田市)",
+        "法政大学入口",
+        "法政大学(町田市)"
+    ],
+    "weekday": [
+        "21:32",
+        "22:12"
+    ],
+    "saturday": [
+        "20:52",
+        "21:27"
+    ],
+    "holiday": [
+        "20:02",
+        "20:52"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804135-19/node:00128892/kt:0/lname:/"
+}

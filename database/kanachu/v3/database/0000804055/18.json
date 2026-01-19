@@ -1,0 +1,19 @@
+{
+    "date": "2026/01/16",
+    "name": "磯子センター前",
+    "position": "-",
+    "system": "60",
+    "destinations": [
+        "磯子駅前"
+    ],
+    "weekday": [
+        "6:54"
+    ],
+    "saturday": [
+        "6:59"
+    ],
+    "holiday": [
+        "6:59"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804055-18/node:00126761/kt:0/lname:/"
+}

@@ -1,0 +1,24 @@
+{
+    "date": "2026/01/16",
+    "name": "鎌倉女子大前",
+    "position": "-",
+    "system": "船07",
+    "destinations": [
+        "平島(鎌倉市)",
+        "笠間十字路",
+        "笠間町",
+        "岩井口",
+        "大船駅(横浜市栄区)"
+    ],
+    "weekday": [
+        "11:41",
+        "17:03"
+    ],
+    "saturday": [
+        "16:18"
+    ],
+    "holiday": [
+        "16:18"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803966-18/node:00126505/kt:0/lname:/"
+}

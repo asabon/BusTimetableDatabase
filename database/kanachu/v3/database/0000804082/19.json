@@ -1,0 +1,20 @@
+{
+    "date": "2026/01/16",
+    "name": "虫窪",
+    "position": "-",
+    "system": "二02",
+    "destinations": [
+        "ぼったり",
+        "下田(中郡大磯町)",
+        "素心学院前",
+        "国府中学西口",
+        "湘南大磯住宅入口",
+        "湘南大磯病院"
+    ],
+    "weekday": [
+        "19:39"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804082-19/node:00127518/kt:0/lname:/"
+}

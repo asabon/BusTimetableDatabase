@@ -1,0 +1,20 @@
+{
+    "date": "2026/01/16",
+    "name": "梅の木(横浜市保土ケ谷区)",
+    "position": "-",
+    "system": "05",
+    "destinations": [
+        "西谷駅前",
+        "西谷(横浜市旭区)",
+        "下白根橋",
+        "白根不動入口",
+        "白根町",
+        "鶴ヶ峰駅"
+    ],
+    "weekday": [
+        "6:50"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804283-18/node:00102279/kt:0/lname:/"
+}

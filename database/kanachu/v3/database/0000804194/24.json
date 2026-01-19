@@ -1,0 +1,19 @@
+{
+    "date": "2026/01/16",
+    "name": "八幡(平塚市)",
+    "position": "-",
+    "system": "平07",
+    "destinations": [
+        "八幡入口",
+        "コンフォール平塚前",
+        "市役所前(平塚市)",
+        "四ツ角(平塚市)",
+        "平塚駅北口"
+    ],
+    "weekday": [
+        "17:29"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804194-24/node:00127646/kt:0/lname:/"
+}

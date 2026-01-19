@@ -1,0 +1,26 @@
+{
+    "date": "2026/01/16",
+    "name": "谷戸大竹",
+    "position": "-",
+    "system": "伊01",
+    "destinations": [
+        "関台",
+        "団地南(伊勢原市)",
+        "団地東(伊勢原市)",
+        "市ノ坪",
+        "伊勢原車庫"
+    ],
+    "weekday": [
+        "11:47",
+        "12:47",
+        "13:47",
+        "14:47",
+        "15:48",
+        "16:48",
+        "17:48",
+        "18:48"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804056-11/node:00128093/kt:0/lname:/"
+}

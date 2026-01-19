@@ -1,0 +1,23 @@
+{
+    "date": "2026/01/16",
+    "name": "羽根入口",
+    "position": "-",
+    "system": "秦50",
+    "destinations": [
+        "三屋入口",
+        "戸川入口",
+        "菩提原",
+        "菩提(秦野市)",
+        "横野入口"
+    ],
+    "weekday": [
+        "7:21",
+        "8:06",
+        "8:25",
+        "8:40",
+        "22:44"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804085-11/node:00127883/kt:0/lname:/"
+}

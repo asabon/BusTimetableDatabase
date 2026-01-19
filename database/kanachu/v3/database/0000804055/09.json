@@ -1,0 +1,28 @@
+{
+    "date": "2026/01/16",
+    "name": "仲久保",
+    "position": "-",
+    "system": "60",
+    "destinations": [
+        "横浜岡村郵便局前",
+        "笹堀",
+        "広町(横浜市磯子区)",
+        "浜小学校前",
+        "磯子台",
+        "山王谷",
+        "宮の下(横浜市磯子区)",
+        "芦名橋",
+        "磯子センター前",
+        "磯子駅前"
+    ],
+    "weekday": [
+        "6:41"
+    ],
+    "saturday": [
+        "6:46"
+    ],
+    "holiday": [
+        "6:46"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804055-9/node:00102830/kt:0/lname:/"
+}

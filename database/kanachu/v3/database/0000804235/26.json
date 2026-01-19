@@ -1,0 +1,16 @@
+{
+    "date": "2026/01/16",
+    "name": "大戸橋",
+    "position": "-",
+    "system": "橋26",
+    "destinations": [
+        "法政大学入口",
+        "法政大学(町田市)"
+    ],
+    "weekday": [],
+    "saturday": [],
+    "holiday": [
+        "14:49"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804235-26/node:00128895/kt:0/lname:/"
+}

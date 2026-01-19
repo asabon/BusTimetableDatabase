@@ -1,0 +1,18 @@
+{
+    "date": "2026/01/16",
+    "name": "花水",
+    "position": "-",
+    "system": "二01",
+    "destinations": [
+        "桜ヶ丘公園(平塚市)",
+        "桜ヶ丘",
+        "上平塚",
+        "市民病院前(平塚市)"
+    ],
+    "weekday": [
+        "8:28"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804160-42/node:00127471/kt:0/lname:/"
+}

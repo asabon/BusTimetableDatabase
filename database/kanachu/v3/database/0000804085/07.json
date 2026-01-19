@@ -1,0 +1,27 @@
+{
+    "date": "2026/01/16",
+    "name": "宮上(秦野市)",
+    "position": "-",
+    "system": "秦50",
+    "destinations": [
+        "榎木堂",
+        "六反地",
+        "田原入口",
+        "羽根入口",
+        "三屋入口",
+        "戸川入口",
+        "菩提原",
+        "菩提(秦野市)",
+        "横野入口"
+    ],
+    "weekday": [
+        "7:16",
+        "8:01",
+        "8:20",
+        "8:36",
+        "22:40"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804085-7/node:00127879/kt:0/lname:/"
+}

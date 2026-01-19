@@ -1,0 +1,22 @@
+{
+    "date": "2026/01/16",
+    "name": "吉原(横浜市港南区)",
+    "position": "-",
+    "system": "上06",
+    "destinations": [
+        "港南区総合庁舎前",
+        "笹下港南中央通り",
+        "関の下",
+        "上大岡駅"
+    ],
+    "weekday": [
+        "5:52"
+    ],
+    "saturday": [
+        "6:12"
+    ],
+    "holiday": [
+        "6:12"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804175-15/node:00103230/kt:0/lname:/"
+}

@@ -1,0 +1,28 @@
+{
+    "date": "2026/01/16",
+    "name": "全農前",
+    "position": "-",
+    "system": "平07",
+    "destinations": [
+        "小松前",
+        "小松電子前",
+        "東八幡工業団地",
+        "東八幡五丁目",
+        "不動ケミカル前"
+    ],
+    "weekday": [
+        "8:12",
+        "8:22",
+        "8:32",
+        "8:42",
+        "8:52"
+    ],
+    "saturday": [
+        "8:10",
+        "8:30"
+    ],
+    "holiday": [
+        "8:10"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804226-13/node:00127674/kt:0/lname:/"
+}

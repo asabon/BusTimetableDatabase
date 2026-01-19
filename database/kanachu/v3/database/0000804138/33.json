@@ -1,0 +1,22 @@
+{
+    "date": "2026/01/16",
+    "name": "白山ハイテクパーク",
+    "position": "-",
+    "system": "横51",
+    "destinations": [
+        "石神(横浜市緑区)",
+        "上山町(横浜市緑区)",
+        "中山小学校南",
+        "中山町",
+        "西村橋",
+        "中山駅"
+    ],
+    "weekday": [
+        "7:47"
+    ],
+    "saturday": [
+        "7:26"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804138-33/node:00102939/kt:0/lname:/"
+}

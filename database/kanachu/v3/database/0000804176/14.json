@@ -1,0 +1,25 @@
+{
+    "date": "2026/01/16",
+    "name": "上宿通り",
+    "position": "-",
+    "system": "秦50",
+    "destinations": [
+        "大川橋(秦野市)",
+        "まほろば大橋",
+        "秦野駅"
+    ],
+    "weekday": [
+        "6:38",
+        "7:49",
+        "8:36",
+        "17:35",
+        "17:48"
+    ],
+    "saturday": [
+        "7:23"
+    ],
+    "holiday": [
+        "7:23"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804176-14/node:00127717/kt:0/lname:/"
+}

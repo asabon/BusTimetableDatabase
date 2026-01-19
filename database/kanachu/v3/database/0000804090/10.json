@@ -1,0 +1,24 @@
+{
+    "date": "2026/01/16",
+    "name": "打越(鎌倉市)",
+    "position": "-",
+    "system": "船37",
+    "destinations": [
+        "清泉女学院"
+    ],
+    "weekday": [
+        "9:55",
+        "11:11",
+        "16:20",
+        "17:20"
+    ],
+    "saturday": [
+        "9:25",
+        "10:22"
+    ],
+    "holiday": [
+        "9:25",
+        "10:22"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804090-10/node:00127000/kt:0/lname:/"
+}

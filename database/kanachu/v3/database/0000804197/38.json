@@ -1,0 +1,21 @@
+{
+    "date": "2026/01/16",
+    "name": "引地台公園",
+    "position": "-",
+    "system": "ー",
+    "destinations": [
+        "中央6丁目",
+        "大和警察署前",
+        "大和駅"
+    ],
+    "weekday": [
+        "9:07"
+    ],
+    "saturday": [
+        "9:07"
+    ],
+    "holiday": [
+        "9:07"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804197-38/node:00130418/kt:0/lname:/"
+}

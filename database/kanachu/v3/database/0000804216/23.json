@@ -1,0 +1,23 @@
+{
+    "date": "2026/01/16",
+    "name": "山西(中郡二宮町)",
+    "position": "-",
+    "system": "二32",
+    "destinations": [
+        "吾妻神社前(中郡二宮町)",
+        "梅沢(中郡二宮町)",
+        "藤田電機前(中郡二宮町)",
+        "二宮駅南口"
+    ],
+    "weekday": [
+        "17:35",
+        "17:53",
+        "18:23",
+        "18:53",
+        "19:23",
+        "19:53"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804216-23/node:00127493/kt:0/lname:/"
+}

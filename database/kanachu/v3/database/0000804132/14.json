@@ -1,0 +1,22 @@
+{
+    "date": "2026/01/16",
+    "name": "ふれあい科学館前",
+    "position": "-",
+    "system": "橋59",
+    "destinations": [
+        "水郷田名"
+    ],
+    "weekday": [
+        "22:16",
+        "22:57"
+    ],
+    "saturday": [
+        "22:11",
+        "23:01"
+    ],
+    "holiday": [
+        "22:11",
+        "23:01"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804132-14/node:00130345/kt:0/lname:/"
+}

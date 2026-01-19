@@ -1,0 +1,27 @@
+{
+    "date": "2026/01/16",
+    "name": "笹下港南中央通り",
+    "position": "-",
+    "system": "上31",
+    "destinations": [
+        "関の下",
+        "上大岡駅"
+    ],
+    "weekday": [
+        "6:17",
+        "6:45",
+        "7:20",
+        "10:14",
+        "12:49"
+    ],
+    "saturday": [
+        "6:51",
+        "9:57",
+        "19:07"
+    ],
+    "holiday": [
+        "6:51",
+        "9:57"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803989-13/node:00126558/kt:0/lname:/"
+}

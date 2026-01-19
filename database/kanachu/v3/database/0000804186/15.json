@@ -1,0 +1,27 @@
+{
+    "date": "2026/01/16",
+    "name": "南町田北",
+    "position": "-",
+    "system": "町89",
+    "destinations": [
+        "南町田グランベリーパーク駅"
+    ],
+    "weekday": [
+        "7:15",
+        "7:41",
+        "8:03",
+        "8:34",
+        "8:53"
+    ],
+    "saturday": [
+        "7:39",
+        "8:18",
+        "8:53"
+    ],
+    "holiday": [
+        "7:39",
+        "8:18",
+        "8:53"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804186-15/node:00129799/kt:0/lname:/"
+}

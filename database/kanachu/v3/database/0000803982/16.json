@@ -1,0 +1,25 @@
+{
+    "date": "2026/01/16",
+    "name": "西方(茅ケ崎市)",
+    "position": "-",
+    "system": "茅82",
+    "destinations": [
+        "北陵高校入口",
+        "せせらぎ公園入口(茅ケ崎市)",
+        "湘南みずき"
+    ],
+    "weekday": [
+        "20:06",
+        "21:01",
+        "22:16"
+    ],
+    "saturday": [
+        "20:36",
+        "22:11"
+    ],
+    "holiday": [
+        "20:36",
+        "22:11"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803982-16/node:00127330/kt:0/lname:/"
+}

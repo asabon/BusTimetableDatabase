@@ -1,0 +1,16 @@
+{
+    "date": "2026/01/16",
+    "name": "小田急通り",
+    "position": "-",
+    "system": "厚74",
+    "destinations": [
+        "厚木バスセンター"
+    ],
+    "weekday": [
+        "7:07",
+        "7:29"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803998-19/node:00128340/kt:0/lname:/"
+}

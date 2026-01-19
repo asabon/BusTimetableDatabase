@@ -1,0 +1,26 @@
+{
+    "date": "2026/01/16",
+    "name": "桜丘学習センター前",
+    "position": "-",
+    "system": "ー",
+    "destinations": [
+        "桜ヶ丘駅西口",
+        "まごころ地域福祉センター",
+        "柳橋小入口",
+        "日飛入口",
+        "引地台公園",
+        "中央6丁目",
+        "大和警察署前",
+        "大和駅"
+    ],
+    "weekday": [
+        "8:54"
+    ],
+    "saturday": [
+        "8:54"
+    ],
+    "holiday": [
+        "8:54"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804197-33/node:00130420/kt:0/lname:/"
+}

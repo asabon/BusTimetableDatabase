@@ -1,0 +1,25 @@
+{
+    "date": "2026/01/16",
+    "name": "瀬谷駅前通り",
+    "position": "-",
+    "system": "間15",
+    "destinations": [
+        "本郷(横浜市瀬谷区)",
+        "本郷原",
+        "中屋敷(横浜市瀬谷区)",
+        "竹村町",
+        "上瀬谷小学校入口",
+        "八幡神社前(横浜市瀬谷区)",
+        "馬場屋敷",
+        "目黒",
+        "長堀公園前",
+        "鶴間二丁目",
+        "鶴間駅東口"
+    ],
+    "weekday": [
+        "15:07"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804251-7/node:00129659/kt:0/lname:/"
+}

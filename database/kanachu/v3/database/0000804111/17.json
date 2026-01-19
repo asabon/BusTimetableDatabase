@@ -1,0 +1,16 @@
+{
+    "date": "2026/01/16",
+    "name": "国分(海老名市)",
+    "position": "-",
+    "system": "海08",
+    "destinations": [
+        "中央一丁目(海老名市)",
+        "海老名駅東口"
+    ],
+    "weekday": [
+        "7:09"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804111-17/node:00128558/kt:0/lname:/"
+}

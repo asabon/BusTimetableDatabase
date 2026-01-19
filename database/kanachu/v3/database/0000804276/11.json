@@ -1,0 +1,25 @@
+{
+    "date": "2026/01/16",
+    "name": "鶴嶺八幡宮",
+    "position": "-",
+    "system": "コ16",
+    "destinations": [
+        "浜之郷西",
+        "TBS",
+        "浜之郷",
+        "浜之郷入口",
+        "ジャスコ前(茅ケ崎市)",
+        "市民文化会館前(茅ケ崎市)",
+        "茅ヶ崎駅北",
+        "中央公園前(茅ケ崎市)",
+        "前の田",
+        "北茅ヶ崎駅入口",
+        "市立病院(茅ケ崎市)"
+    ],
+    "weekday": [
+        "7:24"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804276-11/node:00127377/kt:0/lname:/"
+}

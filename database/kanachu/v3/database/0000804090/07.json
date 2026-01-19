@@ -1,0 +1,27 @@
+{
+    "date": "2026/01/16",
+    "name": "面谷戸",
+    "position": "-",
+    "system": "船37",
+    "destinations": [
+        "関谷(鎌倉市)",
+        "中村(鎌倉市)",
+        "打越(鎌倉市)",
+        "清泉女学院"
+    ],
+    "weekday": [
+        "9:51",
+        "11:07",
+        "16:16",
+        "17:16"
+    ],
+    "saturday": [
+        "9:21",
+        "10:18"
+    ],
+    "holiday": [
+        "9:21",
+        "10:18"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804090-7/node:00127006/kt:0/lname:/"
+}

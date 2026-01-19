@@ -1,0 +1,25 @@
+{
+    "date": "2026/01/16",
+    "name": "小沢坂上",
+    "position": "-",
+    "system": "ー",
+    "destinations": [
+        "大塚(愛甲郡愛川町)",
+        "春日台団地北",
+        "コピオ愛川",
+        "郵便局前(愛甲郡愛川町)",
+        "箕輪(愛甲郡愛川町)",
+        "愛川町役場",
+        "愛川北部病院前",
+        "愛川バスセンター"
+    ],
+    "weekday": [
+        "10:33",
+        "13:58",
+        "16:03",
+        "19:28"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804152-24/node:00128723/kt:0/lname:/"
+}

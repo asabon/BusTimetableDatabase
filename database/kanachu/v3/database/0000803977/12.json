@@ -1,0 +1,26 @@
+{
+    "date": "2026/01/16",
+    "name": "早稲田(横浜市泉区)",
+    "position": "-",
+    "system": "い12",
+    "destinations": [
+        "ひなた山第一",
+        "ひなた山バザール前",
+        "ひなた山第二",
+        "下瀬谷坂上",
+        "下瀬谷"
+    ],
+    "weekday": [
+        "22:00",
+        "23:13"
+    ],
+    "saturday": [
+        "21:35",
+        "22:35"
+    ],
+    "holiday": [
+        "21:35",
+        "22:35"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803977-12/node:00126942/kt:0/lname:/"
+}

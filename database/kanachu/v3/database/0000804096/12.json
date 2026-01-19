@@ -1,0 +1,23 @@
+{
+    "date": "2026/01/16",
+    "name": "来迎寺(横浜市戸塚区)",
+    "position": "-",
+    "system": "戸97",
+    "destinations": [
+        "柳作東",
+        "蔵坪",
+        "戸塚駅"
+    ],
+    "weekday": [
+        "6:07",
+        "6:31",
+        "6:54",
+        "7:06",
+        "7:19",
+        "7:42",
+        "8:08"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804096-12/node:00126900/kt:0/lname:/"
+}

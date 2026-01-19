@@ -1,0 +1,22 @@
+{
+    "date": "2026/01/16",
+    "name": "千津",
+    "position": "-",
+    "system": "伊01",
+    "destinations": [
+        "伊勢原駅南口"
+    ],
+    "weekday": [
+        "10:20",
+        "11:20",
+        "12:20",
+        "14:20",
+        "15:20",
+        "16:20",
+        "17:15",
+        "18:15"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804107-15/node:00128071/kt:0/lname:/"
+}

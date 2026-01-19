@@ -1,0 +1,15 @@
+{
+    "date": "2026/01/16",
+    "name": "鈴川会館前",
+    "position": "-",
+    "system": "伊03",
+    "destinations": [
+        "伊勢原車庫"
+    ],
+    "weekday": [
+        "22:41"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804293-19/node:00128140/kt:0/lname:/"
+}

@@ -1,0 +1,29 @@
+{
+    "date": "2026/01/16",
+    "name": "工業団地(平塚市)",
+    "position": "-",
+    "system": "平07",
+    "destinations": [
+        "全農前",
+        "小松前",
+        "小松電子前",
+        "東八幡工業団地",
+        "東八幡五丁目",
+        "不動ケミカル前"
+    ],
+    "weekday": [
+        "8:11",
+        "8:21",
+        "8:31",
+        "8:41",
+        "8:51"
+    ],
+    "saturday": [
+        "8:09",
+        "8:29"
+    ],
+    "holiday": [
+        "8:09"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804226-12/node:00127673/kt:0/lname:/"
+}

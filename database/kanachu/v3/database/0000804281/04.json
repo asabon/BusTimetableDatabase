@@ -1,0 +1,18 @@
+{
+    "date": "2026/01/16",
+    "name": "谷口台小学校前",
+    "position": "-",
+    "system": "大54",
+    "destinations": [
+        "相模女子大前",
+        "相模大野駅北口"
+    ],
+    "weekday": [
+        "7:01",
+        "7:08",
+        "7:36"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804281-4/node:00129279/kt:0/lname:/"
+}

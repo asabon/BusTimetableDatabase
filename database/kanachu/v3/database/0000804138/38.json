@@ -1,0 +1,17 @@
+{
+    "date": "2026/01/16",
+    "name": "西村橋",
+    "position": "-",
+    "system": "横51",
+    "destinations": [
+        "中山駅"
+    ],
+    "weekday": [
+        "7:55"
+    ],
+    "saturday": [
+        "7:33"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804138-38/node:00102860/kt:0/lname:/"
+}

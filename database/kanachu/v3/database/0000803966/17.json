@@ -1,0 +1,25 @@
+{
+    "date": "2026/01/16",
+    "name": "公田",
+    "position": "-",
+    "system": "船07",
+    "destinations": [
+        "鎌倉女子大前",
+        "平島(鎌倉市)",
+        "笠間十字路",
+        "笠間町",
+        "岩井口",
+        "大船駅(横浜市栄区)"
+    ],
+    "weekday": [
+        "11:39",
+        "17:01"
+    ],
+    "saturday": [
+        "16:16"
+    ],
+    "holiday": [
+        "16:16"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803966-17/node:00126506/kt:0/lname:/"
+}

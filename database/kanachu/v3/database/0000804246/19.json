@@ -1,0 +1,24 @@
+{
+    "date": "2026/01/16",
+    "name": "東海大学前駅南口",
+    "position": "-",
+    "system": "秦44",
+    "destinations": [
+        "鶴美ヶ丘",
+        "落幡",
+        "鶴巻温泉駅南口"
+    ],
+    "weekday": [
+        "5:57",
+        "6:56",
+        "7:37",
+        "11:17"
+    ],
+    "saturday": [
+        "16:18"
+    ],
+    "holiday": [
+        "16:18"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804246-19/node:00128055/kt:0/lname:/"
+}

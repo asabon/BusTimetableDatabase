@@ -1,0 +1,24 @@
+{
+    "date": "2026/01/16",
+    "name": "浜小学校前",
+    "position": "-",
+    "system": "60",
+    "destinations": [
+        "磯子台",
+        "山王谷",
+        "宮の下(横浜市磯子区)",
+        "芦名橋",
+        "磯子センター前",
+        "磯子駅前"
+    ],
+    "weekday": [
+        "6:47"
+    ],
+    "saturday": [
+        "6:52"
+    ],
+    "holiday": [
+        "6:52"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804055-13/node:00102919/kt:0/lname:/"
+}

@@ -1,0 +1,22 @@
+{
+    "date": "2026/01/16",
+    "name": "橘インター入口",
+    "position": "-",
+    "system": "国05",
+    "destinations": [
+        "町屋(小田原市)",
+        "小学校前(小田原市)",
+        "近戸神社",
+        "前川(小田原市)",
+        "西前川",
+        "国府津駅"
+    ],
+    "weekday": [
+        "12:20",
+        "13:25",
+        "16:50"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804145-15/node:00127496/kt:0/lname:/"
+}

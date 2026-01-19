@@ -1,0 +1,19 @@
+{
+    "date": "2026/01/16",
+    "name": "自治会館前(横浜市緑区)",
+    "position": "-",
+    "system": "中57",
+    "destinations": [
+        "武蔵中山台西"
+    ],
+    "weekday": [
+        "12:09",
+        "16:39"
+    ],
+    "saturday": [
+        "12:09",
+        "16:39"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804168-7/node:00130390/kt:0/lname:/"
+}

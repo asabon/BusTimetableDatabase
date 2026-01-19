@@ -1,0 +1,23 @@
+{
+    "date": "2026/01/16",
+    "name": "黒岩公民館前",
+    "position": "-",
+    "system": "二02",
+    "destinations": [
+        "西久保福祉館前",
+        "西久保(中郡大磯町)",
+        "富士見平",
+        "桜美園前",
+        "栗谷前",
+        "堂面(中郡二宮町)",
+        "元町(中郡二宮町)",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "7:20",
+        "15:25"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804173-17/node:00130207/kt:0/lname:/"
+}

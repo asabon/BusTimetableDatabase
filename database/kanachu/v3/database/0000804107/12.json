@@ -1,0 +1,25 @@
+{
+    "date": "2026/01/16",
+    "name": "団地下大竹",
+    "position": "-",
+    "system": "伊01",
+    "destinations": [
+        "団地南口(伊勢原市)",
+        "ひかり幼稚園前",
+        "千津",
+        "伊勢原駅南口"
+    ],
+    "weekday": [
+        "10:16",
+        "11:16",
+        "12:16",
+        "14:16",
+        "15:16",
+        "16:16",
+        "17:11",
+        "18:11"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804107-12/node:00128074/kt:0/lname:/"
+}

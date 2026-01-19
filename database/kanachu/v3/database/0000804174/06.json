@@ -1,0 +1,19 @@
+{
+    "date": "2026/01/16",
+    "name": "滝の沢(藤沢市)",
+    "position": "-",
+    "system": "辻35",
+    "destinations": [
+        "駒寄",
+        "二番構保健医療センター",
+        "ライフタウン中央(藤沢市)",
+        "小糸",
+        "辻堂駅北口"
+    ],
+    "weekday": [
+        "9:27"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804174-6/node:00129946/kt:0/lname:/"
+}

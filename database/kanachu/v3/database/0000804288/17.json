@@ -1,0 +1,23 @@
+{
+    "date": "2026/01/16",
+    "name": "刈込(藤沢市)",
+    "position": "-",
+    "system": "辻34",
+    "destinations": [
+        "諸之木",
+        "慶応大学"
+    ],
+    "weekday": [],
+    "saturday": [],
+    "holiday": [
+        "9:32",
+        "10:52",
+        "12:12",
+        "13:32",
+        "14:52",
+        "16:12",
+        "17:32",
+        "18:52"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804288-17/node:00129972/kt:0/lname:/"
+}

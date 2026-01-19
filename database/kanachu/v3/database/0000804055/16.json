@@ -1,0 +1,21 @@
+{
+    "date": "2026/01/16",
+    "name": "宮の下(横浜市磯子区)",
+    "position": "-",
+    "system": "60",
+    "destinations": [
+        "芦名橋",
+        "磯子センター前",
+        "磯子駅前"
+    ],
+    "weekday": [
+        "6:51"
+    ],
+    "saturday": [
+        "6:56"
+    ],
+    "holiday": [
+        "6:56"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804055-16/node:00126762/kt:0/lname:/"
+}

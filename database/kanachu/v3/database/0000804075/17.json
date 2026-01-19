@@ -1,0 +1,21 @@
+{
+    "date": "2026/01/16",
+    "name": "根岸(根岸町/町田市)",
+    "position": "-",
+    "system": "鶴37",
+    "destinations": [
+        "根岸橋(相模原市中央区)",
+        "山王平",
+        "東町(相模原市中央区)",
+        "小学校入口(相模原市中央区)",
+        "淵野辺郵便局前",
+        "幸町(相模原市中央区)",
+        "淵野辺駅北口"
+    ],
+    "weekday": [
+        "8:27"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804075-17/node:00129367/kt:0/lname:/"
+}

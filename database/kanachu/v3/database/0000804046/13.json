@@ -1,0 +1,27 @@
+{
+    "date": "2026/01/16",
+    "name": "中村(町田市成瀬)",
+    "position": "-",
+    "system": "つ03",
+    "destinations": [
+        "観性寺前",
+        "昭和薬科大学入口",
+        "昭和薬科大学",
+        "児童公園前(町田市)",
+        "東玉川学園四丁目"
+    ],
+    "weekday": [
+        "10:53",
+        "12:53",
+        "14:53"
+    ],
+    "saturday": [
+        "12:53",
+        "14:53"
+    ],
+    "holiday": [
+        "12:53",
+        "14:53"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804046-13/node:00129560/kt:0/lname:/"
+}

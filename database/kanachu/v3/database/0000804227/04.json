@@ -1,0 +1,26 @@
+{
+    "date": "2026/01/16",
+    "name": "欠ノ上",
+    "position": "-",
+    "system": "秦40",
+    "destinations": [
+        "南平橋",
+        "下大槻",
+        "秦才橋",
+        "なでしこ広場前",
+        "室川橋",
+        "河原町(秦野市)",
+        "台町(秦野市)",
+        "片町通り",
+        "上宿通り",
+        "大川橋(秦野市)",
+        "まほろば大橋",
+        "秦野駅"
+    ],
+    "weekday": [
+        "6:22"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804227-4/node:00127726/kt:0/lname:/"
+}

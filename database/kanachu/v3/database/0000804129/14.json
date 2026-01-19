@@ -1,0 +1,13 @@
+{
+    "date": "2026/01/16",
+    "name": "町田ターミナル前",
+    "position": "-",
+    "system": "町89",
+    "destinations": [
+        "町田バスセンター"
+    ],
+    "weekday": [],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804129-14/node:00129545/kt:0/lname:/"
+}

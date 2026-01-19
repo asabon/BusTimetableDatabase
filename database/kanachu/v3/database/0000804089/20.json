@@ -1,0 +1,23 @@
+{
+    "date": "2026/01/16",
+    "name": "柳町(秦野市)",
+    "position": "-",
+    "system": "秦53",
+    "destinations": [
+        "渋沢駅北口"
+    ],
+    "weekday": [
+        "5:49",
+        "6:15",
+        "6:37"
+    ],
+    "saturday": [
+        "6:29",
+        "6:47"
+    ],
+    "holiday": [
+        "6:29",
+        "6:47"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804089-20/node:00127898/kt:0/lname:/"
+}

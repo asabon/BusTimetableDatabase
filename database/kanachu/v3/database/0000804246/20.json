@@ -1,0 +1,23 @@
+{
+    "date": "2026/01/16",
+    "name": "鶴美ヶ丘",
+    "position": "-",
+    "system": "秦44",
+    "destinations": [
+        "落幡",
+        "鶴巻温泉駅南口"
+    ],
+    "weekday": [
+        "5:59",
+        "6:58",
+        "7:39",
+        "11:19"
+    ],
+    "saturday": [
+        "16:20"
+    ],
+    "holiday": [
+        "16:20"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804246-20/node:00127761/kt:0/lname:/"
+}

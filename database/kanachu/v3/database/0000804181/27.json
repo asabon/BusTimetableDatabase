@@ -1,0 +1,17 @@
+{
+    "date": "2026/01/16",
+    "name": "栗谷前",
+    "position": "-",
+    "system": "二03",
+    "destinations": [
+        "堂面(中郡二宮町)",
+        "元町(中郡二宮町)",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "12:31"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804181-27/node:00127528/kt:0/lname:/"
+}
