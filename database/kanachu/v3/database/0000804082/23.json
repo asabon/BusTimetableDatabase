@@ -1,0 +1,16 @@
+{
+    "date": "2026/01/16",
+    "name": "国府中学西口",
+    "position": "-",
+    "system": "二02",
+    "destinations": [
+        "湘南大磯住宅入口",
+        "湘南大磯病院"
+    ],
+    "weekday": [
+        "19:43"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804082-23/node:00127514/kt:0/lname:/"
+}

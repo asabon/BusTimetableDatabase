@@ -1,0 +1,15 @@
+{
+    "date": "2026/01/16",
+    "name": "田中入口",
+    "position": "-",
+    "system": "町61",
+    "destinations": [
+        "野津田車庫"
+    ],
+    "weekday": [
+        "24:42"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804224-27/node:00129431/kt:0/lname:/"
+}

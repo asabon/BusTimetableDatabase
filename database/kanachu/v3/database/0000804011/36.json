@@ -1,0 +1,24 @@
+{
+    "date": "2026/01/16",
+    "name": "相生町(藤沢市)",
+    "position": "-",
+    "system": "藤39",
+    "destinations": [
+        "三富士町",
+        "藤沢駅北口"
+    ],
+    "weekday": [
+        "7:32",
+        "8:00",
+        "8:52",
+        "9:28",
+        "10:16",
+        "12:11",
+        "14:11",
+        "16:12",
+        "18:16"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804011-36/node:00126972/kt:0/lname:/"
+}

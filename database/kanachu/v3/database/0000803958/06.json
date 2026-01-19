@@ -1,0 +1,18 @@
+{
+    "date": "2026/01/16",
+    "name": "末広小学校前",
+    "position": "-",
+    "system": "秦22",
+    "destinations": [
+        "落合(秦野市)",
+        "神奈川病院"
+    ],
+    "weekday": [
+        "8:20",
+        "8:37",
+        "8:45"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803958-6/node:00127837/kt:0/lname:/"
+}

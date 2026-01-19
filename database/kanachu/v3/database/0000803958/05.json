@@ -1,0 +1,19 @@
+{
+    "date": "2026/01/16",
+    "name": "下宿(秦野市)",
+    "position": "-",
+    "system": "秦22",
+    "destinations": [
+        "末広小学校前",
+        "落合(秦野市)",
+        "神奈川病院"
+    ],
+    "weekday": [
+        "8:19",
+        "8:36",
+        "8:44"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803958-5/node:00127836/kt:0/lname:/"
+}

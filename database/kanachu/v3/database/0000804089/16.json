@@ -1,0 +1,27 @@
+{
+    "date": "2026/01/16",
+    "name": "堀西駐在所前",
+    "position": "-",
+    "system": "秦53",
+    "destinations": [
+        "中道(秦野市)",
+        "西小学校前(秦野市)",
+        "西中学校前(秦野市)",
+        "柳町(秦野市)",
+        "渋沢駅北口"
+    ],
+    "weekday": [
+        "5:45",
+        "6:11",
+        "6:33"
+    ],
+    "saturday": [
+        "6:25",
+        "6:43"
+    ],
+    "holiday": [
+        "6:25",
+        "6:43"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804089-16/node:00128052/kt:0/lname:/"
+}

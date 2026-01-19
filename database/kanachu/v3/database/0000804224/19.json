@@ -1,0 +1,23 @@
+{
+    "date": "2026/01/16",
+    "name": "遊歩公園",
+    "position": "-",
+    "system": "町61",
+    "destinations": [
+        "入谷戸(やくし台/町田市)",
+        "やくし台二丁目",
+        "やくし台三丁目",
+        "やくし台センター",
+        "薬師ヶ丘",
+        "野津田神社入口",
+        "袋橋",
+        "田中入口",
+        "野津田車庫"
+    ],
+    "weekday": [
+        "24:35"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804224-19/node:00129499/kt:0/lname:/"
+}

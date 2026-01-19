@@ -1,0 +1,18 @@
+{
+    "date": "2026/01/16",
+    "name": "白岩神社西",
+    "position": "-",
+    "system": "磯01",
+    "destinations": [
+        "白岩神社東",
+        "統監道",
+        "大磯小学校前",
+        "大磯駅"
+    ],
+    "weekday": [
+        "13:33"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804020-32/node:00130203/kt:0/lname:/"
+}

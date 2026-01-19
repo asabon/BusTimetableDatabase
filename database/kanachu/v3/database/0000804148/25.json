@@ -1,0 +1,20 @@
+{
+    "date": "2026/01/16",
+    "name": "古沢(厚木市)",
+    "position": "-",
+    "system": "厚32",
+    "destinations": [
+        "上古沢",
+        "ネポン入口",
+        "上分",
+        "旗谷下"
+    ],
+    "weekday": [
+        "13:49",
+        "17:50",
+        "19:20"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804148-25/node:00128484/kt:0/lname:/"
+}

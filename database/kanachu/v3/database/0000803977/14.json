@@ -1,0 +1,24 @@
+{
+    "date": "2026/01/16",
+    "name": "ひなた山バザール前",
+    "position": "-",
+    "system": "い12",
+    "destinations": [
+        "ひなた山第二",
+        "下瀬谷坂上",
+        "下瀬谷"
+    ],
+    "weekday": [
+        "22:03",
+        "23:16"
+    ],
+    "saturday": [
+        "21:38",
+        "22:38"
+    ],
+    "holiday": [
+        "21:38",
+        "22:38"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803977-14/node:00126801/kt:0/lname:/"
+}

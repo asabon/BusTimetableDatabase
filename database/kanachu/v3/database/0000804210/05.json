@@ -1,0 +1,27 @@
+{
+    "date": "2026/01/16",
+    "name": "千本桜商店街",
+    "position": "-",
+    "system": "丘01",
+    "destinations": [
+        "代官二丁目",
+        "代官三丁目",
+        "本蓼川",
+        "廻り坂",
+        "深谷原",
+        "鶴ヶ岡",
+        "大法寺(綾瀬市)",
+        "綾瀬車庫(綾瀬市)"
+    ],
+    "weekday": [
+        "19:20",
+        "20:10"
+    ],
+    "saturday": [
+        "18:37"
+    ],
+    "holiday": [
+        "18:37"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804210-5/node:00129995/kt:0/lname:/"
+}

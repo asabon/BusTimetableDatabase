@@ -1,0 +1,26 @@
+{
+    "date": "2026/01/16",
+    "name": "栄警察署前",
+    "position": "-",
+    "system": "船07",
+    "destinations": [
+        "公田",
+        "鎌倉女子大前",
+        "平島(鎌倉市)",
+        "笠間十字路",
+        "笠間町",
+        "岩井口",
+        "大船駅(横浜市栄区)"
+    ],
+    "weekday": [
+        "11:38",
+        "17:00"
+    ],
+    "saturday": [
+        "16:14"
+    ],
+    "holiday": [
+        "16:14"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803966-16/node:00126609/kt:0/lname:/"
+}

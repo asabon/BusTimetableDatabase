@@ -1,0 +1,21 @@
+{
+    "date": "2026/01/16",
+    "name": "陽光台六丁目",
+    "position": "-",
+    "system": "相28",
+    "destinations": [
+        "相模原浄水場",
+        "麻溝車庫"
+    ],
+    "weekday": [
+        "20:19",
+        "20:49"
+    ],
+    "saturday": [
+        "22:16"
+    ],
+    "holiday": [
+        "22:16"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804043-17/node:00129290/kt:0/lname:/"
+}

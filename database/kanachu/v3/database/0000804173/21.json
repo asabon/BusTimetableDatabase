@@ -1,0 +1,19 @@
+{
+    "date": "2026/01/16",
+    "name": "桜美園前",
+    "position": "-",
+    "system": "二02",
+    "destinations": [
+        "栗谷前",
+        "堂面(中郡二宮町)",
+        "元町(中郡二宮町)",
+        "二宮駅北口"
+    ],
+    "weekday": [
+        "7:25",
+        "15:30"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804173-21/node:00127527/kt:0/lname:/"
+}

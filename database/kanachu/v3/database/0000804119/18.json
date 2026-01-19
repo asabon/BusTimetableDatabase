@@ -1,0 +1,27 @@
+{
+    "date": "2026/01/16",
+    "name": "河原町(秦野市)",
+    "position": "-",
+    "system": "秦44",
+    "destinations": [
+        "台町(秦野市)",
+        "片町通り",
+        "上宿通り",
+        "大川橋(秦野市)",
+        "まほろば大橋",
+        "秦野駅"
+    ],
+    "weekday": [
+        "7:36",
+        "8:58",
+        "13:52",
+        "14:52"
+    ],
+    "saturday": [
+        "15:52"
+    ],
+    "holiday": [
+        "15:52"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804119-18/node:00127720/kt:0/lname:/"
+}

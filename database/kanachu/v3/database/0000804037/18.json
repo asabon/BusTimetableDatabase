@@ -1,0 +1,23 @@
+{
+    "date": "2026/01/16",
+    "name": "三福寺前",
+    "position": "-",
+    "system": "伊82",
+    "destinations": [
+        "下宿(伊勢原市)",
+        "伊勢原駅南口"
+    ],
+    "weekday": [
+        "6:04",
+        "6:34",
+        "7:19"
+    ],
+    "saturday": [
+        "6:42",
+        "7:22"
+    ],
+    "holiday": [
+        "7:22"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804037-18/node:00128095/kt:0/lname:/"
+}

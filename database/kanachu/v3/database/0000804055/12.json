@@ -1,0 +1,25 @@
+{
+    "date": "2026/01/16",
+    "name": "広町(横浜市磯子区)",
+    "position": "-",
+    "system": "60",
+    "destinations": [
+        "浜小学校前",
+        "磯子台",
+        "山王谷",
+        "宮の下(横浜市磯子区)",
+        "芦名橋",
+        "磯子センター前",
+        "磯子駅前"
+    ],
+    "weekday": [
+        "6:46"
+    ],
+    "saturday": [
+        "6:51"
+    ],
+    "holiday": [
+        "6:51"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804055-12/node:00102979/kt:0/lname:/"
+}

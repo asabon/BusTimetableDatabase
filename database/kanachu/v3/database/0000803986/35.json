@@ -1,0 +1,28 @@
+{
+    "date": "2026/01/16",
+    "name": "女坂",
+    "position": "-",
+    "system": "辻33",
+    "destinations": [
+        "山根(綾瀬市)",
+        "吉岡芝原",
+        "綾瀬車庫(綾瀬市)"
+    ],
+    "weekday": [
+        "8:50",
+        "10:50",
+        "16:50",
+        "18:50"
+    ],
+    "saturday": [
+        "10:53",
+        "16:55",
+        "18:53"
+    ],
+    "holiday": [
+        "10:53",
+        "16:55",
+        "18:53"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803986-35/node:00129842/kt:0/lname:/"
+}

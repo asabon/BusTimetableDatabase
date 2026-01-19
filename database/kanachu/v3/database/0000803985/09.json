@@ -1,0 +1,19 @@
+{
+    "date": "2026/01/16",
+    "name": "千本桜商店街",
+    "position": "-",
+    "system": "丘01",
+    "destinations": [
+        "札の辻(大和市)",
+        "福田四丁目",
+        "福田三丁目",
+        "桜ヶ丘駅西口"
+    ],
+    "weekday": [
+        "6:10",
+        "6:59"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803985-9/node:00129995/kt:0/lname:/"
+}

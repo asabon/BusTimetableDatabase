@@ -1,0 +1,19 @@
+{
+    "date": "2026/01/16",
+    "name": "台町(秦野市)",
+    "position": "-",
+    "system": "秦40",
+    "destinations": [
+        "片町通り",
+        "上宿通り",
+        "大川橋(秦野市)",
+        "まほろば大橋",
+        "秦野駅"
+    ],
+    "weekday": [
+        "6:31"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804227-11/node:00127719/kt:0/lname:/"
+}

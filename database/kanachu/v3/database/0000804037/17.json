@@ -1,0 +1,24 @@
+{
+    "date": "2026/01/16",
+    "name": "藤田電機前(伊勢原市)",
+    "position": "-",
+    "system": "伊82",
+    "destinations": [
+        "三福寺前",
+        "下宿(伊勢原市)",
+        "伊勢原駅南口"
+    ],
+    "weekday": [
+        "6:03",
+        "6:33",
+        "7:18"
+    ],
+    "saturday": [
+        "6:41",
+        "7:21"
+    ],
+    "holiday": [
+        "7:21"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804037-17/node:00128096/kt:0/lname:/"
+}

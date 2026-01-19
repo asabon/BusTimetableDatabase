@@ -1,0 +1,18 @@
+{
+    "date": "2026/01/16",
+    "name": "薬王寺入口",
+    "position": "-",
+    "system": "115",
+    "destinations": [
+        "鶴ヶ峰本町",
+        "鶴ヶ峰駅"
+    ],
+    "weekday": [
+        "6:27"
+    ],
+    "saturday": [],
+    "holiday": [
+        "6:44"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804243-8/node:00129719/kt:0/lname:/"
+}

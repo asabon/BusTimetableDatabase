@@ -1,0 +1,28 @@
+{
+    "date": "2026/01/16",
+    "name": "椎木地蔵尊入口",
+    "position": "-",
+    "system": "津03",
+    "destinations": [
+        "榎が丘小学校前",
+        "榎が丘",
+        "青葉台駅"
+    ],
+    "weekday": [
+        "6:05",
+        "6:55",
+        "7:49",
+        "8:35",
+        "9:37",
+        "15:57",
+        "16:47",
+        "17:37"
+    ],
+    "saturday": [
+        "9:04"
+    ],
+    "holiday": [
+        "9:04"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804022-9/node:00019248/kt:0/lname:/"
+}

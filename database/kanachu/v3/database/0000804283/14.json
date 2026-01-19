@@ -1,0 +1,24 @@
+{
+    "date": "2026/01/16",
+    "name": "上星川",
+    "position": "-",
+    "system": "05",
+    "destinations": [
+        "杉山神社前(横浜市保土ケ谷区)",
+        "川島町(横浜市保土ケ谷区)",
+        "西谷妙福寺前",
+        "梅の木(横浜市保土ケ谷区)",
+        "西谷駅前",
+        "西谷(横浜市旭区)",
+        "下白根橋",
+        "白根不動入口",
+        "白根町",
+        "鶴ヶ峰駅"
+    ],
+    "weekday": [
+        "6:45"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804283-14/node:00102369/kt:0/lname:/"
+}

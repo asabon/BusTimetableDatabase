@@ -1,0 +1,25 @@
+{
+    "date": "2026/01/16",
+    "name": "富士見町(茅ケ崎市)",
+    "position": "-",
+    "system": "辻15",
+    "destinations": [
+        "平和学園前(茅ケ崎市)",
+        "浜須賀入口",
+        "平和町",
+        "松が丘二丁目(茅ケ崎市)",
+        "東海岸北五丁目"
+    ],
+    "weekday": [
+        "22:08",
+        "22:43",
+        "23:17"
+    ],
+    "saturday": [
+        "22:37"
+    ],
+    "holiday": [
+        "22:37"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804217-7/node:00127228/kt:0/lname:/"
+}

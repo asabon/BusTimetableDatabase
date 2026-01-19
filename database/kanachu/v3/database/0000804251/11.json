@@ -1,0 +1,21 @@
+{
+    "date": "2026/01/16",
+    "name": "竹村町",
+    "position": "-",
+    "system": "間15",
+    "destinations": [
+        "上瀬谷小学校入口",
+        "八幡神社前(横浜市瀬谷区)",
+        "馬場屋敷",
+        "目黒",
+        "長堀公園前",
+        "鶴間二丁目",
+        "鶴間駅東口"
+    ],
+    "weekday": [
+        "15:13"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804251-11/node:00129655/kt:0/lname:/"
+}

@@ -1,0 +1,23 @@
+{
+    "date": "2026/01/16",
+    "name": "藤沢湘南台病院前",
+    "position": "-",
+    "system": "長55",
+    "destinations": [
+        "住宅前(藤沢市高倉)",
+        "長後駅"
+    ],
+    "weekday": [
+        "7:04",
+        "8:14"
+    ],
+    "saturday": [
+        "7:20",
+        "8:45"
+    ],
+    "holiday": [
+        "7:20",
+        "8:45"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804044-20/node:00126790/kt:0/lname:/"
+}

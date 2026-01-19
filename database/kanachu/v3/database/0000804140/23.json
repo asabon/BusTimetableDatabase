@@ -1,0 +1,26 @@
+{
+    "date": "2026/01/16",
+    "name": "中村通",
+    "position": "-",
+    "system": "01",
+    "destinations": [
+        "鴨居橋",
+        "白山一丁目(横浜市緑区)",
+        "緑車庫前",
+        "白山ハイテクパーク",
+        "石神(横浜市緑区)",
+        "上山町(横浜市緑区)",
+        "中山小学校南",
+        "中山町",
+        "西村橋",
+        "中山駅"
+    ],
+    "weekday": [
+        "6:53"
+    ],
+    "saturday": [
+        "6:53"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804140-23/node:00102852/kt:0/lname:/"
+}

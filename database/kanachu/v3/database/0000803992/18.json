@@ -1,0 +1,15 @@
+{
+    "date": "2026/01/16",
+    "name": "瀬谷警察入口",
+    "position": "-",
+    "system": "間15",
+    "destinations": [
+        "三ツ境駅北口"
+    ],
+    "weekday": [
+        "14:35"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803992-18/node:00129663/kt:0/lname:/"
+}

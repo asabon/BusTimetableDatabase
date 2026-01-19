@@ -1,0 +1,17 @@
+{
+    "date": "2026/01/16",
+    "name": "元町(厚木市)",
+    "position": "-",
+    "system": "厚74",
+    "destinations": [
+        "小田急通り",
+        "厚木バスセンター"
+    ],
+    "weekday": [
+        "7:05",
+        "7:27"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803998-18/node:00128343/kt:0/lname:/"
+}

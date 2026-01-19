@@ -1,0 +1,18 @@
+{
+    "date": "2026/01/16",
+    "name": "月京",
+    "position": "-",
+    "system": "二03",
+    "destinations": [
+        "馬場公園",
+        "馬場(中郡大磯町)",
+        "城の下",
+        "大磯運動公園前"
+    ],
+    "weekday": [
+        "11:42"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804284-26/node:00127549/kt:0/lname:/"
+}

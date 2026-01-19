@@ -1,0 +1,16 @@
+{
+    "date": "2026/01/16",
+    "name": "統監道",
+    "position": "-",
+    "system": "磯01",
+    "destinations": [
+        "大磯小学校前",
+        "大磯駅"
+    ],
+    "weekday": [
+        "13:36"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804020-34/node:00127478/kt:0/lname:/"
+}

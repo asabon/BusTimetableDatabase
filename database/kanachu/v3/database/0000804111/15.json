@@ -1,0 +1,18 @@
+{
+    "date": "2026/01/16",
+    "name": "望地(海老名市)",
+    "position": "-",
+    "system": "海08",
+    "destinations": [
+        "東国分",
+        "国分(海老名市)",
+        "中央一丁目(海老名市)",
+        "海老名駅東口"
+    ],
+    "weekday": [
+        "7:07"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804111-15/node:00128615/kt:0/lname:/"
+}

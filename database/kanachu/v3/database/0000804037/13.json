@@ -1,0 +1,28 @@
+{
+    "date": "2026/01/16",
+    "name": "大田小学校前",
+    "position": "-",
+    "system": "伊82",
+    "destinations": [
+        "沼目",
+        "つきみの団地",
+        "西沼目",
+        "藤田電機前(伊勢原市)",
+        "三福寺前",
+        "下宿(伊勢原市)",
+        "伊勢原駅南口"
+    ],
+    "weekday": [
+        "5:58",
+        "6:28",
+        "7:13"
+    ],
+    "saturday": [
+        "6:36",
+        "7:16"
+    ],
+    "holiday": [
+        "7:16"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804037-13/node:00128100/kt:0/lname:/"
+}

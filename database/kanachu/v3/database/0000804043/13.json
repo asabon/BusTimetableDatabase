@@ -1,0 +1,25 @@
+{
+    "date": "2026/01/16",
+    "name": "光が丘小学校前",
+    "position": "-",
+    "system": "相28",
+    "destinations": [
+        "光が丘大通り",
+        "光が丘三丁目(相模原市中央区)",
+        "緑が丘一丁目(相模原市中央区)",
+        "陽光台六丁目",
+        "相模原浄水場",
+        "麻溝車庫"
+    ],
+    "weekday": [
+        "20:15",
+        "20:45"
+    ],
+    "saturday": [
+        "22:12"
+    ],
+    "holiday": [
+        "22:12"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804043-13/node:00129122/kt:0/lname:/"
+}

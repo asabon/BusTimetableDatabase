@@ -1,0 +1,28 @@
+{
+    "date": "2026/01/16",
+    "name": "笠窪",
+    "position": "-",
+    "system": "巻11",
+    "destinations": [
+        "本村(伊勢原市)",
+        "串橋下",
+        "東橋(伊勢原市)",
+        "串橋改善センター",
+        "伊勢原車庫"
+    ],
+    "weekday": [
+        "8:50",
+        "13:26",
+        "16:25",
+        "18:29"
+    ],
+    "saturday": [
+        "11:02",
+        "15:57"
+    ],
+    "holiday": [
+        "11:02",
+        "15:57"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804228-2/node:00127861/kt:0/lname:/"
+}

@@ -1,0 +1,22 @@
+{
+    "date": "2026/01/16",
+    "name": "桜土手(秦野市)",
+    "position": "-",
+    "system": "秦54",
+    "destinations": [
+        "堀川小学校前(秦野市)",
+        "渋沢駅北口"
+    ],
+    "weekday": [
+        "6:25",
+        "7:11",
+        "7:44",
+        "8:09",
+        "8:31",
+        "13:15",
+        "17:21"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803984-18/node:00127990/kt:0/lname:/"
+}

@@ -1,0 +1,17 @@
+{
+    "date": "2026/01/16",
+    "name": "西部病院前",
+    "position": "-",
+    "system": "境21",
+    "destinations": [
+        "水道企業団前(横浜市旭区)",
+        "つゆきの森",
+        "三ツ境駅北口"
+    ],
+    "weekday": [
+        "8:34"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804054-23/node:00129724/kt:0/lname:/"
+}

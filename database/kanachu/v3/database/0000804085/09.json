@@ -1,0 +1,25 @@
+{
+    "date": "2026/01/16",
+    "name": "六反地",
+    "position": "-",
+    "system": "秦50",
+    "destinations": [
+        "田原入口",
+        "羽根入口",
+        "三屋入口",
+        "戸川入口",
+        "菩提原",
+        "菩提(秦野市)",
+        "横野入口"
+    ],
+    "weekday": [
+        "7:19",
+        "8:04",
+        "8:23",
+        "8:38",
+        "22:42"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804085-9/node:00127881/kt:0/lname:/"
+}

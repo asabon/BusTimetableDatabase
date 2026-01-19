@@ -1,0 +1,21 @@
+{
+    "date": "2026/01/16",
+    "name": "十間坂",
+    "position": "-",
+    "system": "茅41",
+    "destinations": [
+        "茅ヶ崎四ツ角",
+        "茅ヶ崎駅"
+    ],
+    "weekday": [
+        "6:32",
+        "7:04"
+    ],
+    "saturday": [
+        "6:56"
+    ],
+    "holiday": [
+        "6:56"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804236-20/node:00127181/kt:0/lname:/"
+}

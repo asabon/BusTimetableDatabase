@@ -1,0 +1,17 @@
+{
+    "date": "2026/01/16",
+    "name": "原町田四丁目",
+    "position": "-",
+    "system": "町28",
+    "destinations": [
+        "町田ターミナル"
+    ],
+    "weekday": [
+        "9:42",
+        "12:59",
+        "17:09"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804191-33/node:00129465/kt:0/lname:/"
+}

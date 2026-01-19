@@ -1,0 +1,27 @@
+{
+    "date": "2026/01/16",
+    "name": "宮上(秦野市)",
+    "position": "-",
+    "system": "秦54",
+    "destinations": [
+        "宮前(秦野市)",
+        "上大道",
+        "大道(秦野市)",
+        "上宿通り",
+        "大川橋(秦野市)",
+        "まほろば大橋",
+        "秦野駅"
+    ],
+    "weekday": [
+        "6:50",
+        "7:40",
+        "8:13",
+        "8:36",
+        "15:47",
+        "16:52",
+        "17:23"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804300-14/node:00127879/kt:0/lname:/"
+}

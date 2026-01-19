@@ -1,0 +1,18 @@
+{
+    "date": "2026/01/16",
+    "name": "西谷(横浜市旭区)",
+    "position": "-",
+    "system": "05",
+    "destinations": [
+        "下白根橋",
+        "白根不動入口",
+        "白根町",
+        "鶴ヶ峰駅"
+    ],
+    "weekday": [
+        "6:52"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804283-20/node:00102884/kt:0/lname:/"
+}

@@ -1,0 +1,20 @@
+{
+    "date": "2026/01/16",
+    "name": "天神下(中郡大磯町)",
+    "position": "-",
+    "system": "黒02",
+    "destinations": [
+        "虫窪",
+        "ぼったり",
+        "下田(中郡大磯町)",
+        "素心学院前",
+        "国府中学西口",
+        "湘南大磯住宅入口"
+    ],
+    "weekday": [
+        "16:29"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803954-9/node:00127519/kt:0/lname:/"
+}

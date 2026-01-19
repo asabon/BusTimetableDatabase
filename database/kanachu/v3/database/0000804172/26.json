@@ -1,0 +1,20 @@
+{
+    "date": "2026/01/16",
+    "name": "中井役場前",
+    "position": "-",
+    "system": "二32",
+    "destinations": [
+        "中井町役場入口"
+    ],
+    "weekday": [
+        "7:36",
+        "8:01",
+        "8:15",
+        "8:28",
+        "8:43",
+        "9:04"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804172-26/node:00127962/kt:0/lname:/"
+}

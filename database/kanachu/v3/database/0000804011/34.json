@@ -1,0 +1,26 @@
+{
+    "date": "2026/01/16",
+    "name": "南仲通り二丁目",
+    "position": "-",
+    "system": "藤39",
+    "destinations": [
+        "南仲通り",
+        "相生町(藤沢市)",
+        "三富士町",
+        "藤沢駅北口"
+    ],
+    "weekday": [
+        "7:30",
+        "7:58",
+        "8:50",
+        "9:26",
+        "10:14",
+        "12:09",
+        "14:09",
+        "16:10",
+        "18:14"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804011-34/node:00127110/kt:0/lname:/"
+}

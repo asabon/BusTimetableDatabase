@@ -1,0 +1,25 @@
+{
+    "date": "2026/01/16",
+    "name": "片町通り",
+    "position": "-",
+    "system": "秦44",
+    "destinations": [
+        "上宿通り",
+        "大川橋(秦野市)",
+        "まほろば大橋",
+        "秦野駅"
+    ],
+    "weekday": [
+        "7:38",
+        "9:00",
+        "13:54",
+        "14:54"
+    ],
+    "saturday": [
+        "15:54"
+    ],
+    "holiday": [
+        "15:54"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804119-20/node:00127718/kt:0/lname:/"
+}

@@ -1,0 +1,17 @@
+{
+    "date": "2026/01/16",
+    "name": "目黒",
+    "position": "-",
+    "system": "間15",
+    "destinations": [
+        "長堀公園前",
+        "鶴間二丁目",
+        "鶴間駅東口"
+    ],
+    "weekday": [
+        "15:18"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804251-15/node:00129652/kt:0/lname:/"
+}

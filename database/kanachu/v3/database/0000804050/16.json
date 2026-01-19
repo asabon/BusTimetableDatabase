@@ -1,0 +1,26 @@
+{
+    "date": "2026/01/16",
+    "name": "つくし野二丁目(町田市)",
+    "position": "-",
+    "system": "つ03",
+    "destinations": [
+        "つくし野小学校",
+        "つくし野駅"
+    ],
+    "weekday": [
+        "11:43",
+        "13:43",
+        "15:43"
+    ],
+    "saturday": [
+        "10:31",
+        "13:45",
+        "15:45"
+    ],
+    "holiday": [
+        "10:43",
+        "13:45",
+        "15:45"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804050-16/node:00129564/kt:0/lname:/"
+}

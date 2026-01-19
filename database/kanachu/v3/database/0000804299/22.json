@@ -1,0 +1,24 @@
+{
+    "date": "2026/01/16",
+    "name": "芹が谷団地前",
+    "position": "-",
+    "system": "港95",
+    "destinations": [
+        "せりぎんタウン",
+        "芹が谷",
+        "芹が谷山谷",
+        "水道橋下",
+        "普門院前",
+        "別所宮下",
+        "南が丘中学校前",
+        "最戸町",
+        "最戸橋",
+        "上大岡駅"
+    ],
+    "weekday": [
+        "8:29"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804299-22/node:00126569/kt:0/lname:/"
+}

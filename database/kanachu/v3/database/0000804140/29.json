@@ -1,0 +1,20 @@
+{
+    "date": "2026/01/16",
+    "name": "上山町(横浜市緑区)",
+    "position": "-",
+    "system": "01",
+    "destinations": [
+        "中山小学校南",
+        "中山町",
+        "西村橋",
+        "中山駅"
+    ],
+    "weekday": [
+        "6:59"
+    ],
+    "saturday": [
+        "6:59"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804140-29/node:00102371/kt:0/lname:/"
+}

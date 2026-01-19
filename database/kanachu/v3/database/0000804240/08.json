@@ -1,0 +1,22 @@
+{
+    "date": "2026/01/16",
+    "name": "上白根公園",
+    "position": "-",
+    "system": "115",
+    "destinations": [
+        "グリーンヒル上白根"
+    ],
+    "weekday": [
+        "21:40",
+        "22:07"
+    ],
+    "saturday": [
+        "20:42",
+        "21:12"
+    ],
+    "holiday": [
+        "20:07",
+        "21:12"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804240-8/node:00129751/kt:0/lname:/"
+}

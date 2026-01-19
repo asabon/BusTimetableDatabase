@@ -1,0 +1,27 @@
+{
+    "date": "2026/01/16",
+    "name": "山根(綾瀬市)",
+    "position": "-",
+    "system": "辻33",
+    "destinations": [
+        "吉岡芝原",
+        "綾瀬車庫(綾瀬市)"
+    ],
+    "weekday": [
+        "8:51",
+        "10:51",
+        "16:51",
+        "18:51"
+    ],
+    "saturday": [
+        "10:54",
+        "16:56",
+        "18:54"
+    ],
+    "holiday": [
+        "10:54",
+        "16:56",
+        "18:54"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803986-36/node:00129843/kt:0/lname:/"
+}

@@ -1,0 +1,27 @@
+{
+    "date": "2026/01/16",
+    "name": "湘南みずき",
+    "position": "-",
+    "system": "茅82",
+    "destinations": [
+        "みずき二丁目",
+        "西方(茅ケ崎市)",
+        "北陵高校入口",
+        "せせらぎ公園入口(茅ケ崎市)",
+        "湘南みずき"
+    ],
+    "weekday": [
+        "20:04",
+        "20:59",
+        "22:14"
+    ],
+    "saturday": [
+        "20:34",
+        "22:09"
+    ],
+    "holiday": [
+        "20:34",
+        "22:09"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803982-14/node:00127409/kt:0/lname:/"
+}

@@ -1,0 +1,26 @@
+{
+    "date": "2026/01/16",
+    "name": "素心学院前",
+    "position": "-",
+    "system": "黒01",
+    "destinations": [
+        "下田(中郡大磯町)",
+        "ぼったり",
+        "虫窪",
+        "天神下(中郡大磯町)",
+        "公民館前(中郡大磯町)",
+        "舟窪",
+        "上舟窪",
+        "黒岩入口",
+        "西久保(中郡大磯町)",
+        "西久保福祉館前",
+        "黒岩公民館前",
+        "黒岩台"
+    ],
+    "weekday": [
+        "16:03"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804101-4/node:00127515/kt:0/lname:/"
+}

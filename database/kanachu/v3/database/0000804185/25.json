@@ -1,0 +1,19 @@
+{
+    "date": "2026/01/16",
+    "name": "春日台団地北",
+    "position": "-",
+    "system": "ー",
+    "destinations": [
+        "郵便局前(愛甲郡愛川町)",
+        "箕輪(愛甲郡愛川町)",
+        "愛川町役場",
+        "愛川北部病院前",
+        "愛川バスセンター"
+    ],
+    "weekday": [
+        "8:32"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804185-25/node:00128749/kt:0/lname:/"
+}

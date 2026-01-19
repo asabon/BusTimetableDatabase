@@ -1,0 +1,18 @@
+{
+    "date": "2026/01/16",
+    "name": "馬場屋敷",
+    "position": "-",
+    "system": "間15",
+    "destinations": [
+        "目黒",
+        "長堀公園前",
+        "鶴間二丁目",
+        "鶴間駅東口"
+    ],
+    "weekday": [
+        "15:16"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804251-14/node:00129734/kt:0/lname:/"
+}

@@ -1,0 +1,26 @@
+{
+    "date": "2026/01/16",
+    "name": "団地入口(横浜市泉区)",
+    "position": "-",
+    "system": "長55",
+    "destinations": [
+        "飯田農協前",
+        "上高倉",
+        "藤沢湘南台病院前",
+        "住宅前(藤沢市高倉)",
+        "長後駅"
+    ],
+    "weekday": [
+        "7:00",
+        "8:10"
+    ],
+    "saturday": [
+        "7:16",
+        "8:41"
+    ],
+    "holiday": [
+        "7:16",
+        "8:41"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804044-17/node:00126794/kt:0/lname:/"
+}

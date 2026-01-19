@@ -1,0 +1,25 @@
+{
+    "date": "2026/01/16",
+    "name": "グリーンテク中央",
+    "position": "-",
+    "system": "秦96",
+    "destinations": [
+        "砂口入口",
+        "グリーンテク東",
+        "東名秦野",
+        "南が丘東",
+        "立野緑地入口",
+        "日赤病院前(秦野市)",
+        "小原台入口(秦野市)",
+        "上尾尻橋",
+        "秦野駅南口"
+    ],
+    "weekday": [
+        "17:20",
+        "18:35",
+        "20:25"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803990-6/node:00128036/kt:0/lname:/"
+}

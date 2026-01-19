@@ -1,0 +1,21 @@
+{
+    "date": "2026/01/16",
+    "name": "二本松(相模原市緑区)",
+    "position": "-",
+    "system": "橋05",
+    "destinations": [
+        "相原中央",
+        "相原台",
+        "大西(相模原市緑区)",
+        "上町(相模原市緑区)",
+        "緑区合同庁舎前(相模原市緑区)",
+        "橋本二丁目",
+        "橋本駅南口"
+    ],
+    "weekday": [
+        "8:04"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804066-19/node:00128964/kt:0/lname:/"
+}

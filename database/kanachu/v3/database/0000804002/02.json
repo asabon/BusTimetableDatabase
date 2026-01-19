@@ -1,0 +1,23 @@
+{
+    "date": "2026/01/16",
+    "name": "落合(秦野市)",
+    "position": "-",
+    "system": "秦22",
+    "destinations": [
+        "末広小学校前",
+        "下宿(秦野市)",
+        "仲宿(秦野市)",
+        "上宿通り",
+        "大川橋(秦野市)",
+        "まほろば大橋",
+        "秦野駅"
+    ],
+    "weekday": [
+        "8:38",
+        "9:03",
+        "15:31"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804002-2/node:00127874/kt:0/lname:/"
+}

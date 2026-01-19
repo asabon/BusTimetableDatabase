@@ -1,0 +1,18 @@
+{
+    "date": "2026/01/16",
+    "name": "薬師ヶ丘",
+    "position": "-",
+    "system": "町61",
+    "destinations": [
+        "野津田神社入口",
+        "袋橋",
+        "田中入口",
+        "野津田車庫"
+    ],
+    "weekday": [
+        "24:39"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804224-24/node:00129428/kt:0/lname:/"
+}

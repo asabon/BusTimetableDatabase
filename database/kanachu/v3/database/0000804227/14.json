@@ -1,0 +1,16 @@
+{
+    "date": "2026/01/16",
+    "name": "大川橋(秦野市)",
+    "position": "-",
+    "system": "秦40",
+    "destinations": [
+        "まほろば大橋",
+        "秦野駅"
+    ],
+    "weekday": [
+        "6:34"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804227-14/node:00127716/kt:0/lname:/"
+}

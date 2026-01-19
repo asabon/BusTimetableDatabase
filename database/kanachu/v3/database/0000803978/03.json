@@ -1,0 +1,21 @@
+{
+    "date": "2026/01/16",
+    "name": "丸山台中学校前",
+    "position": "-",
+    "system": "舞01",
+    "destinations": [
+        "日限山",
+        "スポーツ公園前",
+        "舞岡地区センター前",
+        "リサーチパーク入口",
+        "舞岡"
+    ],
+    "weekday": [
+        "20:32"
+    ],
+    "saturday": [
+        "19:59"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803978-3/node:00103094/kt:0/lname:/"
+}

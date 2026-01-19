@@ -1,0 +1,25 @@
+{
+    "date": "2026/01/16",
+    "name": "笹久保(藤沢市)",
+    "position": "-",
+    "system": "湘24",
+    "destinations": [
+        "慶応大学",
+        "慶応大学本館前",
+        "慶応中高等部前"
+    ],
+    "weekday": [
+        "13:26",
+        "14:26",
+        "15:21",
+        "16:26",
+        "17:26",
+        "18:26",
+        "19:26",
+        "20:21",
+        "21:21"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804081-9/node:00129915/kt:0/lname:/"
+}

@@ -1,0 +1,26 @@
+{
+    "date": "2026/01/16",
+    "name": "小鮎公民館前",
+    "position": "-",
+    "system": "厚32",
+    "destinations": [
+        "台ノ上",
+        "学校前(厚木市)",
+        "局前(厚木市)",
+        "打越(厚木市)",
+        "矢崎(厚木市)",
+        "古沢(厚木市)",
+        "上古沢",
+        "ネポン入口",
+        "上分",
+        "旗谷下"
+    ],
+    "weekday": [
+        "13:44",
+        "17:45",
+        "19:15"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804148-19/node:00128697/kt:0/lname:/"
+}

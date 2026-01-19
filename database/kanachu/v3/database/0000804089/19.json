@@ -1,0 +1,24 @@
+{
+    "date": "2026/01/16",
+    "name": "西中学校前(秦野市)",
+    "position": "-",
+    "system": "秦53",
+    "destinations": [
+        "柳町(秦野市)",
+        "渋沢駅北口"
+    ],
+    "weekday": [
+        "5:48",
+        "6:14",
+        "6:36"
+    ],
+    "saturday": [
+        "6:28",
+        "6:46"
+    ],
+    "holiday": [
+        "6:28",
+        "6:46"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804089-19/node:00127897/kt:0/lname:/"
+}

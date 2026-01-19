@@ -1,0 +1,19 @@
+{
+    "date": "2026/01/16",
+    "name": "集会所前(横浜市泉区)",
+    "position": "-",
+    "system": "い07",
+    "destinations": [
+        "中屋敷(横浜市泉区)"
+    ],
+    "weekday": [
+        "20:45"
+    ],
+    "saturday": [
+        "19:57"
+    ],
+    "holiday": [
+        "19:57"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804146-12/node:00126895/kt:0/lname:/"
+}

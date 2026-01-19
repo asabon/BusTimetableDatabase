@@ -1,0 +1,27 @@
+{
+    "date": "2026/01/16",
+    "name": "本村(伊勢原市)",
+    "position": "-",
+    "system": "巻11",
+    "destinations": [
+        "串橋下",
+        "東橋(伊勢原市)",
+        "串橋改善センター",
+        "伊勢原車庫"
+    ],
+    "weekday": [
+        "8:51",
+        "13:27",
+        "16:26",
+        "18:30"
+    ],
+    "saturday": [
+        "11:03",
+        "15:58"
+    ],
+    "holiday": [
+        "11:03",
+        "15:58"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804228-3/node:00128225/kt:0/lname:/"
+}

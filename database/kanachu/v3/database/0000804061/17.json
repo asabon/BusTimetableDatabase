@@ -1,0 +1,25 @@
+{
+    "date": "2026/01/16",
+    "name": "西前川",
+    "position": "-",
+    "system": "国04",
+    "destinations": [
+        "国府津駅"
+    ],
+    "weekday": [
+        "6:35"
+    ],
+    "saturday": [
+        "6:35",
+        "12:25",
+        "13:30",
+        "16:55"
+    ],
+    "holiday": [
+        "6:35",
+        "12:25",
+        "13:30",
+        "16:55"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804061-17/node:00127501/kt:0/lname:/"
+}

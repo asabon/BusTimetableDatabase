@@ -1,0 +1,17 @@
+{
+    "date": "2026/01/16",
+    "name": "今泉(海老名市)",
+    "position": "-",
+    "system": "海02",
+    "destinations": [
+        "鶴松",
+        "海老名駅西口"
+    ],
+    "weekday": [
+        "7:29",
+        "8:26"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804032-24/node:00128543/kt:0/lname:/"
+}

@@ -1,0 +1,17 @@
+{
+    "date": "2026/01/16",
+    "name": "台村町",
+    "position": "-",
+    "system": "中57",
+    "destinations": [
+        "中山駅"
+    ],
+    "weekday": [
+        "10:05"
+    ],
+    "saturday": [
+        "10:05"
+    ],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804039-7/node:00102701/kt:0/lname:/"
+}

@@ -1,0 +1,20 @@
+{
+    "system": "原19",
+    "busstops": [
+        {
+            "index": "1",
+            "id": "00130397",
+            "name": "相原駅西口",
+            "lat": "35.606264",
+            "lng": "139.331418"
+        },
+        {
+            "index": "2",
+            "id": "00021279",
+            "name": "法政大学(町田市)",
+            "lat": "35.613957",
+            "lng": "139.297153"
+        }
+    ],
+    "route_url": "https://www.kanachu.co.jp/dia/route/index/cid:0000803997/"
+}

@@ -1,0 +1,22 @@
+{
+    "date": "2026/01/16",
+    "name": "舟窪",
+    "position": "-",
+    "system": "黒02",
+    "destinations": [
+        "公民館前(中郡大磯町)",
+        "天神下(中郡大磯町)",
+        "虫窪",
+        "ぼったり",
+        "下田(中郡大磯町)",
+        "素心学院前",
+        "国府中学西口",
+        "湘南大磯住宅入口"
+    ],
+    "weekday": [
+        "16:27"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803954-7/node:00127521/kt:0/lname:/"
+}

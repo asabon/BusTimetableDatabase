@@ -1,0 +1,24 @@
+{
+    "date": "2026/01/16",
+    "name": "中屋敷(横浜市瀬谷区)",
+    "position": "-",
+    "system": "間15",
+    "destinations": [
+        "本郷原",
+        "本郷(横浜市瀬谷区)",
+        "瀬谷駅前通り",
+        "瀬谷駅",
+        "相沢",
+        "相沢原",
+        "上橋(横浜市瀬谷区)",
+        "中丸(横浜市瀬谷区)",
+        "瀬谷警察入口",
+        "三ツ境駅北口"
+    ],
+    "weekday": [
+        "14:19"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803992-9/node:00129656/kt:0/lname:/"
+}

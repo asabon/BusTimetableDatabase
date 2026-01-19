@@ -1,0 +1,24 @@
+{
+    "date": "2026/01/16",
+    "name": "東八幡五丁目",
+    "position": "-",
+    "system": "平07",
+    "destinations": [
+        "不動ケミカル前"
+    ],
+    "weekday": [
+        "8:15",
+        "8:25",
+        "8:35",
+        "8:45",
+        "8:55"
+    ],
+    "saturday": [
+        "8:13",
+        "8:33"
+    ],
+    "holiday": [
+        "8:13"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804226-17/node:00127691/kt:0/lname:/"
+}

@@ -1,0 +1,17 @@
+{
+    "date": "2026/01/16",
+    "name": "西久保(中郡大磯町)",
+    "position": "-",
+    "system": "黒01",
+    "destinations": [
+        "西久保福祉館前",
+        "黒岩公民館前",
+        "黒岩台"
+    ],
+    "weekday": [
+        "16:13"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804101-13/node:00127525/kt:0/lname:/"
+}

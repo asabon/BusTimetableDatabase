@@ -1,0 +1,26 @@
+{
+    "date": "2026/01/16",
+    "name": "滝の沢(藤沢市)",
+    "position": "-",
+    "system": "辻34",
+    "destinations": [
+        "滝の沢不動前",
+        "湘南ライフタウン",
+        "刈込(藤沢市)",
+        "諸之木",
+        "慶応大学"
+    ],
+    "weekday": [],
+    "saturday": [],
+    "holiday": [
+        "9:27",
+        "10:47",
+        "12:07",
+        "13:27",
+        "14:47",
+        "16:07",
+        "17:27",
+        "18:47"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804288-14/node:00129946/kt:0/lname:/"
+}

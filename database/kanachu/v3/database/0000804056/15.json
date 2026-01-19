@@ -1,0 +1,22 @@
+{
+    "date": "2026/01/16",
+    "name": "市ノ坪",
+    "position": "-",
+    "system": "伊01",
+    "destinations": [
+        "伊勢原車庫"
+    ],
+    "weekday": [
+        "11:51",
+        "12:51",
+        "13:51",
+        "14:51",
+        "15:52",
+        "16:52",
+        "17:52",
+        "18:52"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804056-15/node:00128136/kt:0/lname:/"
+}

@@ -1,0 +1,26 @@
+{
+    "date": "2026/01/16",
+    "name": "中央公民館前(伊勢原市)",
+    "position": "-",
+    "system": "伊43",
+    "destinations": [
+        "関台",
+        "団地南(伊勢原市)",
+        "団地西(伊勢原市)",
+        "鈴川会館前",
+        "伊勢原車庫"
+    ],
+    "weekday": [
+        "19:07",
+        "20:27"
+    ],
+    "saturday": [
+        "19:32",
+        "20:15"
+    ],
+    "holiday": [
+        "19:32",
+        "20:15"
+    ],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804048-3/node:00128224/kt:0/lname:/"
+}

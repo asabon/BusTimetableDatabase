@@ -1,0 +1,23 @@
+{
+    "date": "2026/01/16",
+    "name": "五所ノ宮",
+    "position": "-",
+    "system": "二32",
+    "destinations": [
+        "中井郵便局前",
+        "万年橋(足柄上郡中井町)",
+        "中井役場前",
+        "中井町役場入口"
+    ],
+    "weekday": [
+        "7:32",
+        "7:57",
+        "8:11",
+        "8:24",
+        "8:39",
+        "9:00"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804172-23/node:00127965/kt:0/lname:/"
+}

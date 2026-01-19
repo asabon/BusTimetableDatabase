@@ -1,0 +1,24 @@
+{
+    "date": "2026/01/16",
+    "name": "中野町",
+    "position": "-",
+    "system": "港39",
+    "destinations": [
+        "元大橋",
+        "若竹町(横浜市栄区)",
+        "元大橋公園前",
+        "港南台西公園",
+        "横浜女子短期大学前",
+        "港南台駅"
+    ],
+    "weekday": [
+        "6:06",
+        "6:56",
+        "7:09",
+        "7:47",
+        "8:10"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000804169-4/node:00126511/kt:0/lname:/"
+}

@@ -1,0 +1,17 @@
+{
+    "date": "2026/01/16",
+    "name": "上尾尻橋",
+    "position": "-",
+    "system": "秦96",
+    "destinations": [
+        "秦野駅南口"
+    ],
+    "weekday": [
+        "17:34",
+        "18:49",
+        "20:39"
+    ],
+    "saturday": [],
+    "holiday": [],
+    "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803990-14/node:00128038/kt:0/lname:/"
+}
