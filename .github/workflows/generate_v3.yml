@@ -2,7 +2,7 @@ name: Generate-v3
 
 on:
   schedule:
-    - cron: '0 0 1 * *' # 毎月1日の00:00に実行
+    - cron: '0 15 * * 6' # 毎週日曜日のJST 00:00 (UTC 土曜日の 15:00) に実行
   workflow_dispatch:
     inputs:
       generate:
@@ -44,6 +44,11 @@ jobs:
         run: |
           python script/v3/main.py
 
+      - name: Set branch name
+        if: ${{ github.event_name == 'schedule' || inputs.create_pr == 'true' }}
+        id: branch_name
+        run: echo "branch=feature/update-timetable-v3-$(TZ='Asia/Tokyo' date +'%Y%m%d')" >> $GITHUB_OUTPUT
+
       - name: Create pull request
         if: ${{ github.event_name == 'schedule' || inputs.create_pr == 'true' }}
         uses: peter-evans/create-pull-request@v7
@@ -51,5 +56,5 @@ jobs:
           commit-message: "Update timetable v3"
           title: "Update timetable v3"
           body: "Update timetable v3"
-          branch: "feature/update-timetable-v3"
+          branch: ${{ steps.branch_name.outputs.branch }}
           delete-branch: true
