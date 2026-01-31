@@ -1,5 +1,5 @@
 {
-    "date": "2024/09/02",
+    "date": "2026/01/25",
     "name": "ブリヂストン前",
     "position": "-",
     "system": "戸18",
@@ -9,11 +9,11 @@
         "戸塚バスセンター"
     ],
     "weekday": [
-        "7:17",
-        "7:36"
+        "7:16",
+        "7:35"
     ],
     "saturday": [
-        "7:01"
+        "7:02"
     ],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803567-7/node:00126612/kt:0/lname:/"
