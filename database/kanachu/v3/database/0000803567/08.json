@@ -1,5 +1,5 @@
 {
-    "date": "2024/09/02",
+    "date": "2026/01/25",
     "name": "元町(横浜市戸塚区)",
     "position": "-",
     "system": "戸18",
@@ -8,11 +8,11 @@
         "戸塚バスセンター"
     ],
     "weekday": [
-        "7:19",
-        "7:38"
+        "7:17",
+        "7:36"
     ],
     "saturday": [
-        "7:02"
+        "7:03"
     ],
     "holiday": [],
     "url": "https://www.kanachu.co.jp/dia/diagram/timetable01_js/course:0000803567-8/node:00126611/kt:0/lname:/"
