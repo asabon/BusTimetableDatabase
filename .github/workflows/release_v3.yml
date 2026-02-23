@@ -39,6 +39,8 @@ jobs:
           title: "Release v3"
           body: "Release v3"
           branch: "release/v3"
+          assignees: asabon
+          reviewers: asabon
           add-paths: "release"
 
       - name: Upload artifact
