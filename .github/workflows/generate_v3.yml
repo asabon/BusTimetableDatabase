@@ -61,5 +61,7 @@ jobs:
           commit-message: "Update timetable v3"
           title: "Update timetable v3"
           body: "Update timetable v3"
+          assignees: asabon
+          reviewers: asabon
           branch: ${{ steps.branch_name.outputs.branch }}
           delete-branch: true
