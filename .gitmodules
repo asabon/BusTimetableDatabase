@@ -1,3 +1,0 @@
-[submodule ".agent/skills/github-dev-flow"]
-	path = .agent/skills/github-dev-flow
-	url = https://github.com/asabon/antigravity-skill-github-dev-flow

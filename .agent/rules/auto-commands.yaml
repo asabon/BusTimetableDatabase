@@ -1,0 +1,21 @@
+rule: auto-commands
+description: "安全な読み取り系コマンドを許可する"
+allow:
+  - command: "gh issue list"
+  - command: "gh issue view"
+  - command: "gh pr list"
+  - command: "gh pr view"
+  - command: "gh repo view"
+  - command: "gh label list"
+  - command: "gh auth status"
+  - command: "git branch"
+  - command: "git branch --show-current"
+  - command: "git status"
+  - command: "git log"
+  - command: "git diff"
+  - command: "git show"
+  - command: "git remote -v"
+  - command: "git fetch origin"
+deny:
+  - command: "git push"
+  - command: "rm -rf *"

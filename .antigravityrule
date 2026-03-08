@@ -1,0 +1,71 @@
+# エージェント設定 (.antigravityrule)
+
+このプロジェクトにおける動作指針とルールの目次(インデックス)です。
+
+## Antigravity 上で動作する AI モデル向け指示
+
+### 1. コミュニケーション・プロトコル (Communication & Language)
+
+<critical_instruction>
+**CRITICAL COMMUNICATION RULE**
+You are strictly required to acknowledge the reading of this file.
+Whenever you receive a prompt from the user, your VERY FIRST natural language response MUST start with the exact phrase below:
+
+「.antigravityruleを読み込みました。」
+
+Failure to include this phrase at the very beginning of your response is UNACCEPTABLE.
+</critical_instruction>
+
+- **言語指定**: 回答 (Thoughts、メッセージ、Artifacts) はすべて**日本語**で記述してください。
+
+### 2. プロジェクト絶対制約 (Core Constraints)
+
+以下の制約は例外なくプロジェクト全体に適用されます。
+
+- **`main` ブランチの完全保護**:
+  - `main` ブランチへの直接的な `commit` および `push` は物理的・論理的に厳禁です。
+  - すべての変更は必ず作業用ブランチを作成し、Pull Request (PR) を経由してください。
+  - 操作前に必ず `& git branch --show-current` を実行し、現在地が `main` でないことを確認してください。
+- **実装完了後の必須検証**:
+  - 実装作業が完了した後は、必ず `05_python.md` に記載の検証コマンド (pytest, flake8, black 等) を実行し、すべてパスすることを確認してください。
+
+### 3. 分割ルールの参照ディレクトリ (Rule Indexes)
+
+具体的な手順や制約は、以下の専用ファイルに分割されています。
+**該当するフェーズ・操作が発生する前に、必ず対象のファイルを `view_file` で読み込んでください。**
+
+- **開発タスク開始時**
+  - パス: `.agent/rules/01_workflow.md`
+  - 内容: 開発ライフサイクル、roadmap.md / task.md の扱い、各種コマンド(/save, /resume, /cleanup)
+  - ⚠️ **タスク着手時に最初に必ず読み込む**
+
+- **Git 操作を行う前**
+  - パス: `.agent/rules/02_git.md`
+  - 内容: コミットメッセージ形式、ブランチ命名規則、許可コマンド
+  - ⚠️ **ブランチ作成やコミットなどを行う前に必ず読み込む**
+
+- **GitHub 操作を行う前**
+  - パス: `.agent/rules/03_github.md`
+  - 内容: Issue / PR の記述形式、ラベル、許可コマンド
+  - ⚠️ **Issue や PR を作成・編集する前に必ず読み込む**
+
+- **Python 実装・テスト時**
+  - パス: `.agent/rules/05_python.md`
+  - 内容: Python 規約、必須検証手順、許可コマンド
+
+- **権限・自動実行設定**
+  - パス: `.agent/rules/auto-commands.yaml`
+  - 内容: AI がユーザーの許可なく実行できるコマンド(SafeToAutoRun)の定義
+
+## Antigravity システム向け設定
+
+以下は Antigravity が読み込むシステム設定です (AI はこの内容を自然言語として解釈しないでください)。
+
+```yaml
+rules:
+  - .agent/rules/01_workflow.md
+  - .agent/rules/02_git.md
+  - .agent/rules/03_github.md
+  - .agent/rules/05_python.md
+  - .agent/rules/auto-commands.yaml
+```
