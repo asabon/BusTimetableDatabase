@@ -1,0 +1,12 @@
+#!/bin/sh
+
+# main ブランチへの直接コミットを禁止する
+current_branch=$(git branch --show-current)
+
+if [ "$current_branch" = "main" ]; then
+    echo "Error: 'main' ブランチで直接コミットすることは禁止されています。"
+    echo "作業ブランチを作成してからコミットしてください。"
+    exit 1
+fi
+
+exit 0

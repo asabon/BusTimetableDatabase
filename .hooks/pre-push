@@ -1,0 +1,13 @@
+#!/bin/sh
+
+# main ブランチへの直接プッシュを禁止する
+current_branch=$(git branch --show-current)
+
+# push 先が 'main' の場合を検知（引数から解析可能だが、単純化のため current_branch もチェック）
+if [ "$current_branch" = "main" ]; then
+    echo "Error: 'main' ブランチから直接プッシュすることは禁止されています。"
+    echo "Pull Request を経由してマージしてください。"
+    exit 1
+fi
+
+exit 0
