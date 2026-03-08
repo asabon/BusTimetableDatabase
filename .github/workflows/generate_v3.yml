@@ -42,6 +42,7 @@ jobs:
       - name: Generate timetable(v3)
         if: ${{ github.event_name == 'schedule' || inputs.generate == 'true' }}
         run: |
+          python script/v3/main.py --update-list
           python script/v3/main.py
 
       - name: Summarize changes
