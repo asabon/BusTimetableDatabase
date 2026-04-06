@@ -80,6 +80,12 @@ flowchart TD
       + info.json           : database/kanachu/v3/database のハッシュ値。
 ```
 
+## 関連スクリプト
+
+データベースの更新やリリース物の作成に使用するスクリプト群については、以下を参照してください。
+
+- [スクリプト詳細一覧 (scripts.md)](./scripts.md)
+
 ---
 ## 各ファイルについて
 
