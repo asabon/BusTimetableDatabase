@@ -1,8 +1,8 @@
 name: Generate-v3
 
 on:
-  schedule:
-    - cron: '0 15 * * 6' # 毎週日曜日のJST 00:00 (UTC 土曜日の 15:00) に実行
+  #schedule:
+  #  - cron: '0 15 * * 6' # 毎週日曜日のJST 00:00 (UTC 土曜日の 15:00) に実行
   workflow_dispatch:
     inputs:
       generate:
